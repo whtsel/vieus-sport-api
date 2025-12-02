@@ -421,6 +421,7 @@ def filter_fixtures_by_league(fixtures, target_leagues):
 @app.route('/', methods=['GET'])
 def serve_index():
     """Serves the main rtt.html file."""
+    # NOTE: Assuming rtt.html is the main file for the root / route
     return send_file('rtt.html')
 
 @app.route('/rtt.html', methods=['GET'])
@@ -598,8 +599,5 @@ def initialize_app():
     scraper_thread.start()
     
     app.logger.info("Background scraper thread started")
-
-# --- Run the App ---
-if __name__ == '__main__':
-    initialize_app()
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    
+initialize_app() 
