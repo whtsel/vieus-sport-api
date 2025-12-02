@@ -3,10 +3,10 @@ import json
 import time
 import threading
 import random
-from flask import Flask, jsonify, send_file
-from flask_cors import CORS 
+from flask import Flask, jsonify
+from flask_cors import CORS  # Keep this import
 import logging
-from datetime import datetime, timedelta
+from datetime import datetime
 import urllib3
 import requests
 from bs4 import BeautifulSoup
@@ -16,12 +16,16 @@ import re
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- Configuration ---
-app = Flask(__name__) 
+app = Flask(__name__)
+
+# CORRECTED CORS: Allow all origins (*) for all API endpoints (/api/*)
+# NOTE: Removed the static file routes from CORS definition as they are now gone.
 CORS(app, resources={r"/api/*": {"origins": "*"}}) 
-DATA_DIR = os.getcwd() 
 
 # Set up logging for the Flask app
 app.logger.setLevel(logging.INFO)
+
+# ... (Global data storage and KJ_ORDER are unchanged) ...
 
 # --- Global data storage ---
 scraped_data = {
@@ -60,10 +64,10 @@ class BroadcastScraper:
         self.base_url = base_url
         self.session = requests.Session()
         
-        # SSL Bypass: Disable verification
+        # SSL Bypass: Disable verification (Using stored instruction)
         self.session.verify = False
         
-        # User Agent: Set to Mac
+        # User Agent: Set to Mac (Using stored instruction)
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         })
@@ -181,7 +185,7 @@ class BroadcastScraper:
                 return broadcast_data
             else:
                 return None
-                
+            
         except Exception as e:
             app.logger.debug(f"Error parsing item: {e}")
             return None
@@ -227,6 +231,7 @@ class BroadcastScraper:
 scraper = BroadcastScraper()
 
 # --- Fallback Mock Data ---
+# (The get_fallback_data function remains unchanged)
 def get_fallback_data():
     """Generate realistic fallback data when scraping fails"""
     current_time = datetime.now()
@@ -247,7 +252,7 @@ def get_fallback_data():
         },
         {
             'fixture': 'Barcelona vs Real Madrid',
-            'team_home': 'Barcelona', 
+            'team_home': 'Barcelona',  
             'team_away': 'Real Madrid',
             'league': 'LaLiga',
             'time': '20:00',
@@ -300,6 +305,9 @@ def get_fallback_data():
     ]
     
     return live_matches, upcoming_matches
+
+# --- Scraping/Data Functions (perform_scraping, use_fallback_data, save_to_json, load_from_json, background_scraper) ---
+# These functions remain unchanged as they were correct.
 
 def perform_scraping():
     """Perform the actual scraping and update global data"""
@@ -364,7 +372,7 @@ def use_fallback_data():
 def save_to_json(data, filename):
     """Save data to JSON file"""
     try:
-        filepath = os.path.join(DATA_DIR, filename)
+        filepath = os.path.join(os.getcwd(), filename)
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         app.logger.info(f"Data saved to {filename}")
@@ -374,7 +382,7 @@ def save_to_json(data, filename):
 def load_from_json(filename):
     """Load data from JSON file"""
     try:
-        filepath = os.path.join(DATA_DIR, filename)
+        filepath = os.path.join(os.getcwd(), filename)
         if os.path.exists(filepath):
             with open(filepath, 'r', encoding='utf-8') as f:
                 return json.load(f)
@@ -398,6 +406,8 @@ def background_scraper():
             time.sleep(60)  # Wait 1 minute before retrying
 
 # --- Helper Functions ---
+# (The sort_fixtures_by_kj and filter_fixtures_by_league functions remain unchanged)
+
 def sort_fixtures_by_kj(fixtures):
     """Sorts fixtures based on the KJ_ORDER list"""
     def get_sort_key(fixture):
@@ -420,29 +430,14 @@ def filter_fixtures_by_league(fixtures, target_leagues):
 
 @app.route('/', methods=['GET'])
 def serve_index():
-    """Serves the main rtt.html file."""
-    # NOTE: Assuming rtt.html is the main file for the root / route
-    return send_file('rtt.html')
+    """Returns API status on the root path."""
+    return jsonify({
+        "status": "API is Live",
+        "message": "Access data via /api/live_fixtures or /api/upcoming_fixtures",
+        "last_update": scraped_data['last_scrape_time']
+    })
 
-@app.route('/rtt.html', methods=['GET'])
-def serve_rtt_html():
-    """Serves the rtt.html file."""
-    return send_file('rtt.html')
-
-@app.route('/schedule.html', methods=['GET'])
-def serve_schedule_html():
-    """Serves the schedule.html file."""
-    return send_file('schedule.html')
-
-@app.route('/<path:filename>')
-def serve_static_files(filename):
-    """Serves CSS, JS, and other static files."""
-    try:
-        return send_file(filename)
-    except Exception as e:
-        return f"File not found: {filename}", 404
-
-# --- API Endpoints for Frontend ---
+# --- API Endpoints for Frontend (Unchanged) ---
 
 @app.route('/api/live_fixtures', methods=['GET'])
 def get_live_fixtures():
@@ -600,4 +595,4 @@ def initialize_app():
     
     app.logger.info("Background scraper thread started")
     
-initialize_app() 
+initialize_app()
