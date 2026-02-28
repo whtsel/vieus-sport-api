@@ -5,14 +5,12 @@ from datetime import datetime
 import urllib3
 import re
 from urllib.parse import urljoin
-import time
-import sys
-from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 import os
 import tempfile
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# Suppress SSL warnings
+# Suppress SSL warnings for production stability
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class BroadcastScraper:
@@ -25,14 +23,10 @@ class BroadcastScraper:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         })
-        
         self.stats_lock = threading.Lock()
         self.successful_requests = 0
         self.failed_requests = 0
-        self.progress_lock = threading.Lock()
-        self.completed_tasks = 0
-        self.total_tasks = 0
-        
+
     def _parse_broadcast_item(self, table):
         fixture_data = {}
         try:
@@ -90,10 +84,10 @@ class BroadcastScraper:
                     
                     if is_today and not any(f.get('event_id') == fixture.get('event_id') for f in today_fixtures if f.get('event_id')):
                         today_fixtures.append(fixture)
-            return [], today_fixtures
+            return today_fixtures
         except:
             with self.stats_lock: self.failed_requests += 1
-            return [], []
+            return []
 
     def _extract_lineups(self, soup):
         lineups = {"home_team": [], "away_team": []}
@@ -196,43 +190,42 @@ class BroadcastScraper:
                 fixture.update(details)
         return fixture
 
-    def process_all_fixtures_concurrent(self, fixtures):
-        if not fixtures: return []
-        processed = []
-        with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
-            futures = [executor.submit(self.process_fixture_concurrent, f) for f in fixtures]
-            for future in as_completed(futures):
-                try: processed.append(future.result(timeout=30))
-                except: pass
-        return processed
-
 def run_scraper_and_get_data():
     scraper = BroadcastScraper(max_workers=10) 
     sport_url = "https://livetv.sx/enx/allupcomingsports/1/"
-    _, today_fixtures = scraper.get_fixtures_for_sport(sport_url)
-    if not today_fixtures: return {}
     
-    raw_results = scraper.process_all_fixtures_concurrent(today_fixtures)
+    today_fixtures = scraper.get_fixtures_for_sport(sport_url)
+    if not today_fixtures:
+        print("No fixtures found for today.")
+        return {}
+    
     final_data_map = {}
-    
-    for item in raw_results:
-        event_id = item.get('event_id')
-        if not event_id: continue
-        if 'datetime_obj' in item: del item['datetime_obj']
-        
-        final_data_map[event_id] = {
-            "matchup": item.get("matchup", "Unknown Match"),
-            "event_url": item.get("event_url", ""),
-            "competition": item.get("competition", "General"),
-            "date_time": item.get("date_time", ""),
-            "parsed_datetime": item.get("parsed_datetime", ""),
-            "is_live": item.get("is_live", False),
-            "team_logos": item.get("team_logos", []),
-            "streams": item.get("streams", []),
-            "starting_lineups": item.get("starting_lineups", {"home_team": [], "away_team": []}),
-            "league_table": item.get("league_table", []),
-            "last_updated": datetime.now().isoformat()
-        }
+    with ThreadPoolExecutor(max_workers=scraper.max_workers) as executor:
+        futures = [executor.submit(scraper.process_fixture_concurrent, f) for f in today_fixtures]
+        for future in as_completed(futures):
+            try:
+                item = future.result(timeout=30)
+                event_id = item.get('event_id')
+                if not event_id: continue
+                
+                # Cleanup internal objects before JSON serialization
+                if 'datetime_obj' in item: del item['datetime_obj']
+                
+                final_data_map[event_id] = {
+                    "matchup": item.get("matchup", "Unknown Match"),
+                    "event_url": item.get("event_url", ""),
+                    "competition": item.get("competition", "General"),
+                    "date_time": item.get("date_time", ""),
+                    "parsed_datetime": item.get("parsed_datetime", ""),
+                    "is_live": item.get("is_live", False),
+                    "team_logos": item.get("team_logos", []),
+                    "streams": item.get("streams", []),
+                    "starting_lineups": item.get("starting_lineups", {"home_team": [], "away_team": []}),
+                    "league_table": item.get("league_table", []),
+                    "last_updated": datetime.now().isoformat()
+                }
+            except Exception as e:
+                print(f"Error processing item: {e}")
 
     # Atomic Save to Day1.json
     try:
@@ -240,9 +233,9 @@ def run_scraper_and_get_data():
         with os.fdopen(tmp_fd, 'w', encoding='utf-8') as f:
             json.dump(final_data_map, f, indent=4, ensure_ascii=False)
         os.replace(tmp_path, "Day1.json")
-        print(f"✅ Day1.json updated at {datetime.now().strftime('%H:%M:%S')}")
+        print(f"✅ Day1.json updated: {len(final_data_map)} items at {datetime.now().strftime('%H:%M:%S')}")
     except Exception as e:
-        print(f"❌ File Error: {e}")
+        print(f"❌ File Save Error: {e}")
         
     return final_data_map
 
