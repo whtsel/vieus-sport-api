@@ -1,17 +1,21 @@
 name: Update Vieus Data
+
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch: # This lets you start it manually with a button
+    - cron: '*/30 * * * *'  # Runs every 30 mins automatically
+  workflow_dispatch:       # Allows manual "Play" button test
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Better for automated commits
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -22,12 +26,19 @@ jobs:
         run: pip install requests beautifulsoup4 flask flask-cors apscheduler
 
       - name: Run Scraper
-        run: python -c "import vet; vet.run_scraper_and_get_data()"
+        # FIX: We run the file directly as a script to avoid "Import Errors"
+        run: python vet.py 
 
-      - name: Commit Updated JSON
+      - name: Commit and Push Updated JSON
         run: |
           git config --global user.name "GitHub-Scraper-Bot"
           git config --global user.email "bot@github.com"
           git add Day1.json
-          git commit -m "Updated fixtures with lineups: $(date)" || exit 0
-          git push
+          # Only commit if the file actually changed to save resources
+          if git diff --staged --quiet; then
+            echo "No changes in data. Skipping commit."
+          else
+            git commit -m "Automated Data Refresh: $(date)"
+            git pull --rebase origin main # Prevents conflicts
+            git push
+          fi
