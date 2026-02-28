@@ -1,0 +1,33 @@
+name: Update Vieus Data
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # This lets you start it manually with a button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4 flask flask-cors apscheduler
+
+      - name: Run Scraper
+        run: python -c "import vet; vet.run_scraper_and_get_data()"
+
+      - name: Commit Updated JSON
+        run: |
+          git config --global user.name "GitHub-Scraper-Bot"
+          git config --global user.email "bot@github.com"
+          git add Day1.json
+          git commit -m "Updated fixtures with lineups: $(date)" || exit 0
+          git push
