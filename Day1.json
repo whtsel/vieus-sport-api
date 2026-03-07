@@ -5,7 +5,7 @@
         "competition": "USA. MLS",
         "date_time": "7 March at 22:30",
         "parsed_datetime": "2026-03-07T22:30:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "DC United",
@@ -16,126 +16,127 @@
                 "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26562.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2958111&lang=en&eid=345843328&lid=2958111&ci=64&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970181&lang=en&eid=345843328&lid=2970181&ci=64&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970180&lang=en&eid=345843328&lid=2970180&ci=64&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2969093&lang=en&eid=345843328&lid=2969093&ci=64&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2966353&lang=en&eid=345843328&lid=2966353&ci=64&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Serbian",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/17.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2966352&lang=en&eid=345843328&lid=2966352&ci=64&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [
                 "01.",
                 "Sean Johnson",
                 "(G)",
-                "25.",
-                "Jackson Hopkins",
-                "10.",
-                "Gabriel Pirani",
-                "07.",
-                "Peglow",
-                "15.",
-                "Kye Rowles",
-                "04.",
-                "Matti Peltola",
-                "05.",
-                "Silvan Hefti",
-                "06.",
-                "Keisuke Kurokawa",
-                "03.",
-                "Lucas Bartlett",
+                "09.",
+                "Tai Baribo",
                 "23.",
                 "Brandon Servania",
-                "09.",
-                "Tai Baribo"
+                "10.",
+                "Gabriel Pirani",
+                "25.",
+                "Jackson Hopkins",
+                "06.",
+                "Keisuke Kurokawa",
+                "15.",
+                "Kye Rowles",
+                "03.",
+                "Lucas Bartlett",
+                "04.",
+                "Matti Peltola",
+                "07.",
+                "Peglow",
+                "05.",
+                "Silvan Hefti"
             ],
             "away_team": [
                 "97.",
                 "Dayne St. Clair",
                 "(G)",
-                "37.",
-                "Maximiliano Falcon",
-                "07.",
-                "Rodrigo De Paul",
-                "08.",
-                "Telasco Segovia",
-                "10.",
-                "Lionel Messi",
-                "04.",
-                "Facundo Mura",
-                "16.",
-                "Micael",
                 "19.",
                 "German Berterame",
+                "04.",
+                "Facundo Mura",
+                "10.",
+                "Lionel Messi",
+                "08.",
+                "Telasco Segovia",
+                "07.",
+                "Rodrigo De Paul",
+                "32.",
+                "Noah Allen",
+                "16.",
+                "Micael",
+                "37.",
+                "Maximiliano Falcon",
                 "24.",
                 "Mateo Silvetti",
                 "42.",
-                "Yannick Bright",
-                "32.",
-                "Noah Allen"
+                "Yannick Bright"
             ]
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:44.414490"
+        "last_updated": "2026-03-07T23:50:40.091536"
     },
-    "345855323": {
-        "matchup": "KACM – HUSA",
-        "event_url": "https://livetv.sx/enx/eventinfo/345855323__/",
+    "345853797": {
+        "matchup": "Temperley – San Martin T",
+        "event_url": "https://livetv.sx/enx/eventinfo/345853797__/",
+        "competition": "Argentina. Primera Nacional",
+        "date_time": "7 March at 23:00",
+        "parsed_datetime": "2026-03-07T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Temperley",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1174.gif"
+            },
+            {
+                "team_name": "San Martin T",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10661.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-07T23:50:40.897259"
+    },
+    "351269220": {
+        "matchup": "Gremio Sao-Carlense U20 – Vocem",
+        "event_url": "https://livetv.sx/enx/eventinfo/351269220_gremio_sao_carlense_u20_vocem/",
+        "competition": "Brazil. Campeonato Paulista 4",
+        "date_time": "7 March at 23:00",
+        "parsed_datetime": "2026-03-07T23:00:00",
+        "is_live": true,
+        "team_logos": [],
+        "streams": [
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=CRS3MYPNoIA&lang=en&eid=351269220&lid=2969833&ci=7303&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-07T23:50:40.945938"
+    },
+    "345855322": {
+        "matchup": "Raja CA – Olympic Safi",
+        "event_url": "https://livetv.sx/enx/eventinfo/345855322__/",
         "competition": "Morocco. Botola Pro",
         "date_time": "7 March at 23:00",
         "parsed_datetime": "2026-03-07T23:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "KACM",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6969.gif"
+                "team_name": "Raja CA",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1012.gif"
             },
             {
-                "team_name": "HUSA",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/899.gif"
+                "team_name": "Olympic Safi",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/902.gif"
             }
         ],
         "streams": [
@@ -143,9 +144,9 @@
                 "language": "Arabic",
                 "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://surl.li/qphnfn",
+                "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=7VJ9811YyQI&lang=en&eid=345855322&lid=2970537&ci=551&si=1",
                 "stream_title": "",
-                "stream_type": "Web"
+                "stream_type": ""
             }
         ],
         "starting_lineups": {
@@ -153,48 +154,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.143595"
+        "last_updated": "2026-03-07T23:50:40.995652"
     },
-    "346273282": {
-        "matchup": "Olympique Dcheira – Maghreb de Fes",
-        "event_url": "https://livetv.sx/enx/eventinfo/346273282__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "7 March at 23:00",
-        "parsed_datetime": "2026-03-07T23:00:00",
-        "is_live": true,
+    "345844300": {
+        "matchup": "Independiente – Mushuc Runa",
+        "event_url": "https://livetv.sx/enx/eventinfo/345844300__/",
+        "competition": "Ecuador. Serie A",
+        "date_time": "7 March at 22:30",
+        "parsed_datetime": "2026-03-07T22:30:00",
+        "is_live": false,
         "team_logos": [
-            {
-                "team_name": "Olympique Dcheira",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35663.gif"
-            },
-            {
-                "team_name": "Maghreb de Fes",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8427.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.366948"
-    },
-    "345867425": {
-        "matchup": "San Lorenzo – Independiente",
-        "event_url": "https://livetv.sx/enx/eventinfo/345867425__/",
-        "competition": "Argentina. Liga Profesional",
-        "date_time": "7 March at 23:15",
-        "parsed_datetime": "2026-03-07T23:15:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "San Lorenzo",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/620.gif"
-            },
             {
                 "team_name": "Independiente",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/428.gif"
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/925.gif"
+            },
+            {
+                "team_name": "Mushuc Runa",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7059.gif"
             }
         ],
         "streams": [],
@@ -203,7 +179,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.609864"
+        "last_updated": "2026-03-07T23:50:41.112646"
     },
     "345826340": {
         "matchup": "Caracas – Deportivo Tachira",
@@ -245,32 +221,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.746563"
+        "last_updated": "2026-03-07T23:50:41.267390"
     },
-    "345844300": {
-        "matchup": "Independiente – Mushuc Runa",
-        "event_url": "https://livetv.sx/enx/eventinfo/345844300__/",
-        "competition": "Ecuador. Serie A",
-        "date_time": "7 March at 22:30",
-        "parsed_datetime": "2026-03-07T22:30:00",
+    "345855323": {
+        "matchup": "KACM – HUSA",
+        "event_url": "https://livetv.sx/enx/eventinfo/345855323__/",
+        "competition": "Morocco. Botola Pro",
+        "date_time": "7 March at 23:00",
+        "parsed_datetime": "2026-03-07T23:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Independiente",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/925.gif"
+                "team_name": "KACM",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6969.gif"
             },
             {
-                "team_name": "Mushuc Runa",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7059.gif"
+                "team_name": "HUSA",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/899.gif"
             }
         ],
         "streams": [
             {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970182&lang=en&eid=345844300&lid=2970182&ci=307&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_url": "https://surl.li/qphnfn",
+                "stream_title": "",
                 "stream_type": "Web"
             }
         ],
@@ -279,57 +255,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.746580"
+        "last_updated": "2026-03-07T23:50:41.337321"
     },
-    "345855322": {
-        "matchup": "Raja CA – Olympic Safi",
-        "event_url": "https://livetv.sx/enx/eventinfo/345855322__/",
+    "346273282": {
+        "matchup": "Olympique Dcheira – Maghreb de Fes",
+        "event_url": "https://livetv.sx/enx/eventinfo/346273282__/",
         "competition": "Morocco. Botola Pro",
         "date_time": "7 March at 23:00",
         "parsed_datetime": "2026-03-07T23:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Raja CA",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1012.gif"
+                "team_name": "Olympique Dcheira",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35663.gif"
             },
             {
-                "team_name": "Olympic Safi",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/902.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/5.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=7VJ9811YyQI&lang=en&eid=345855322&lid=2970537&ci=551&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.746586"
-    },
-    "346254507": {
-        "matchup": "Guarani As – Cerro Porteno",
-        "event_url": "https://livetv.sx/enx/eventinfo/346254507__/",
-        "competition": "Paraguay. Primera Division",
-        "date_time": "7 March at 22:30",
-        "parsed_datetime": "2026-03-07T22:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Guarani As",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/25771.gif"
-            },
-            {
-                "team_name": "Cerro Porteno",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/565.gif"
+                "team_name": "Maghreb de Fes",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8427.gif"
             }
         ],
         "streams": [],
@@ -338,23 +280,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.877062"
+        "last_updated": "2026-03-07T23:50:41.399655"
     },
-    "345839828": {
-        "matchup": "Chaco For Ever – Colon Santa Fe",
-        "event_url": "https://livetv.sx/enx/eventinfo/345839828__/",
-        "competition": "Argentina. Primera Nacional",
-        "date_time": "7 March at 22:30",
-        "parsed_datetime": "2026-03-07T22:30:00",
-        "is_live": false,
+    "345867425": {
+        "matchup": "San Lorenzo – Independiente",
+        "event_url": "https://livetv.sx/enx/eventinfo/345867425__/",
+        "competition": "Argentina. Liga Profesional",
+        "date_time": "7 March at 23:15",
+        "parsed_datetime": "2026-03-07T23:15:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Chaco For Ever",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34552.gif"
+                "team_name": "San Lorenzo",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/620.gif"
             },
             {
-                "team_name": "Colon Santa Fe",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/426.gif"
+                "team_name": "Independiente",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/428.gif"
             }
         ],
         "streams": [],
@@ -363,7 +305,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.898015"
+        "last_updated": "2026-03-07T23:50:41.423318"
     },
     "345855321": {
         "matchup": "RS Zemamra – ASFAR",
@@ -397,7 +339,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.925744"
+        "last_updated": "2026-03-07T23:50:41.511739"
     },
     "346276028": {
         "matchup": "Barcelona SC – Emelec",
@@ -405,7 +347,7 @@
         "competition": "Ecuador. Serie A",
         "date_time": "7 March at 22:30",
         "parsed_datetime": "2026-03-07T22:30:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Barcelona SC",
@@ -416,72 +358,13 @@
                 "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34466.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer.php?t=ifr&c=2970184&lang=en&eid=346276028&lid=2970184&ci=307&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-07T23:29:45.932988"
-    },
-    "351269220": {
-        "matchup": "Gremio Sao-Carlense U20 – Vocem",
-        "event_url": "https://livetv.sx/enx/eventinfo/351269220_gremio_sao_carlense_u20_vocem/",
-        "competition": "Brazil. Campeonato Paulista 4",
-        "date_time": "7 March at 23:00",
-        "parsed_datetime": "2026-03-07T23:00:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "Portuguese",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/9.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=CRS3MYPNoIA&lang=en&eid=351269220&lid=2969833&ci=7303&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-07T23:29:46.055592"
-    },
-    "345853797": {
-        "matchup": "Temperley – San Martin T",
-        "event_url": "https://livetv.sx/enx/eventinfo/345853797__/",
-        "competition": "Argentina. Primera Nacional",
-        "date_time": "7 March at 23:00",
-        "parsed_datetime": "2026-03-07T23:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Temperley",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1174.gif"
-            },
-            {
-                "team_name": "San Martin T",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10661.gif"
-            }
-        ],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:46.238202"
+        "last_updated": "2026-03-07T23:50:41.525148"
     },
     "351258614": {
         "matchup": "Ind. Medellin U20 – Bolivar U20",
@@ -506,7 +389,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:46.316905"
+        "last_updated": "2026-03-07T23:50:41.589843"
     },
     "350069426": {
         "matchup": "Paraguay (W) –  Chile (W)",
@@ -540,7 +423,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:46.394519"
+        "last_updated": "2026-03-07T23:50:41.669043"
     },
     "350927980": {
         "matchup": "Penapolense – Inter de Bebedouro",
@@ -574,6 +457,6 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-07T23:29:46.574623"
+        "last_updated": "2026-03-07T23:50:41.735076"
     }
 }
