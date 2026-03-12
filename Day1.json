@@ -239,7 +239,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:44.563833"
+        "last_updated": "2026-03-12T09:10:41.899230"
     },
     "352901171": {
         "matchup": "Spain U16 – Switzerland U16",
@@ -247,12 +247,12 @@
         "competition": "Friendly Match. National Teams",
         "date_time": "12 March at 10:00",
         "parsed_datetime": "2026-03-12T10:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [],
         "streams": [
             {
-                "language": "",
-                "flag_src": "https://cdn.livetv873.me/img/linkflag/0.png",
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv873.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=5hMixCGnVrs&lang=en&eid=352901171&lid=2971848&ci=5679&si=1",
                 "stream_title": "",
@@ -264,7 +264,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:45.015350"
+        "last_updated": "2026-03-12T09:10:42.404730"
     },
     "352636032": {
         "matchup": "Simulcast",
@@ -497,249 +497,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:45.357840"
-    },
-    "347649562": {
-        "matchup": "Celta – Lyon",
-        "event_url": "https://livetv.sx/enx/eventinfo/347649562__/",
-        "competition": "Europa League",
-        "date_time": "12 March at 21:00",
-        "parsed_datetime": "2026-03-12T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Celta",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/45.gif"
-            },
-            {
-                "team_name": "Lyon",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/116.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lyon",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "2",
-                "team": "Aston Villa",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "3",
-                "team": "Midtjylland",
-                "played": "8",
-                "pts": "19"
-            },
-            {
-                "pos": "4",
-                "team": "Real Betis",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "5",
-                "team": "Porto",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "6",
-                "team": "Braga",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "7",
-                "team": "Freiburg",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "8",
-                "team": "Roma",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "9",
-                "team": "Genk",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Bologna",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "11",
-                "team": "Stuttgart",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Ferencvaros",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "13",
-                "team": "Nottingham Forest",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Viktoria Plzen",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "15",
-                "team": "Crvena Zvezda",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "16",
-                "team": "Celta",
-                "played": "8",
-                "pts": "13"
-            },
-            {
-                "pos": "17",
-                "team": "PAOK",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "18",
-                "team": "Lille",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "19",
-                "team": "Fenerbahce",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "20",
-                "team": "Panathinaikos",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "21",
-                "team": "Celtic",
-                "played": "8",
-                "pts": "11"
-            },
-            {
-                "pos": "22",
-                "team": "Ludogorets",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "23",
-                "team": "Dinamo Zagreb",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "24",
-                "team": "Brann",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "25",
-                "team": "Young Boys",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "26",
-                "team": "Sturm",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "FCSB",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "28",
-                "team": "Go Ahead Eagles",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "29",
-                "team": "Feyenoord",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Basel",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "31",
-                "team": "RB Salzburg",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "32",
-                "team": "Rangers",
-                "played": "8",
-                "pts": "4"
-            },
-            {
-                "pos": "33",
-                "team": "Nice",
-                "played": "8",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Utrecht",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "35",
-                "team": "Malmoe",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "36",
-                "team": "Maccabi Tel Aviv",
-                "played": "8",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-03-12T08:02:45.497082"
+        "last_updated": "2026-03-12T09:10:42.766751"
     },
     "347649563": {
         "matchup": "Panathinaikos – Real Betis",
@@ -981,733 +739,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:45.576303"
-    },
-    "347649564": {
-        "matchup": "Bologna – Roma",
-        "event_url": "https://livetv.sx/enx/eventinfo/347649564__/",
-        "competition": "Europa League",
-        "date_time": "12 March at 18:45",
-        "parsed_datetime": "2026-03-12T18:45:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bologna",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3760.gif"
-            },
-            {
-                "team_name": "Roma",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/54.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lyon",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "2",
-                "team": "Aston Villa",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "3",
-                "team": "Midtjylland",
-                "played": "8",
-                "pts": "19"
-            },
-            {
-                "pos": "4",
-                "team": "Real Betis",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "5",
-                "team": "Porto",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "6",
-                "team": "Braga",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "7",
-                "team": "Freiburg",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "8",
-                "team": "Roma",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "9",
-                "team": "Genk",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Bologna",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "11",
-                "team": "Stuttgart",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Ferencvaros",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "13",
-                "team": "Nottingham Forest",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Viktoria Plzen",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "15",
-                "team": "Crvena Zvezda",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "16",
-                "team": "Celta",
-                "played": "8",
-                "pts": "13"
-            },
-            {
-                "pos": "17",
-                "team": "PAOK",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "18",
-                "team": "Lille",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "19",
-                "team": "Fenerbahce",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "20",
-                "team": "Panathinaikos",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "21",
-                "team": "Celtic",
-                "played": "8",
-                "pts": "11"
-            },
-            {
-                "pos": "22",
-                "team": "Ludogorets",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "23",
-                "team": "Dinamo Zagreb",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "24",
-                "team": "Brann",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "25",
-                "team": "Young Boys",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "26",
-                "team": "Sturm",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "FCSB",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "28",
-                "team": "Go Ahead Eagles",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "29",
-                "team": "Feyenoord",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Basel",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "31",
-                "team": "RB Salzburg",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "32",
-                "team": "Rangers",
-                "played": "8",
-                "pts": "4"
-            },
-            {
-                "pos": "33",
-                "team": "Nice",
-                "played": "8",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Utrecht",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "35",
-                "team": "Malmoe",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "36",
-                "team": "Maccabi Tel Aviv",
-                "played": "8",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-03-12T08:02:45.689289"
-    },
-    "347660500": {
-        "matchup": "Rijeka – Strasbourg",
-        "event_url": "https://livetv.sx/enx/eventinfo/347660500__/",
-        "competition": "Europa Conference League",
-        "date_time": "12 March at 18:45",
-        "parsed_datetime": "2026-03-12T18:45:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Rijeka",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/651.gif"
-            },
-            {
-                "team_name": "Strasbourg",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26648.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Strasbourg",
-                "played": "6",
-                "pts": "16"
-            },
-            {
-                "pos": "2",
-                "team": "Rakow",
-                "played": "6",
-                "pts": "14"
-            },
-            {
-                "pos": "3",
-                "team": "AEK",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "4",
-                "team": "Sparta Prague",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "5",
-                "team": "Rayo Vallecano",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "6",
-                "team": "Shakhtar Donetsk",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "7",
-                "team": "Mainz 05",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "8",
-                "team": "AEK Larnaca",
-                "played": "6",
-                "pts": "12"
-            },
-            {
-                "pos": "9",
-                "team": "Lausanne",
-                "played": "6",
-                "pts": "11"
-            },
-            {
-                "pos": "10",
-                "team": "Crystal Palace",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "11",
-                "team": "Lech Poznan",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "12",
-                "team": "Samsunspor",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "13",
-                "team": "Celje",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "14",
-                "team": "AZ",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "15",
-                "team": "Fiorentina",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "16",
-                "team": "Rijeka",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "17",
-                "team": "Jagiellonia",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "18",
-                "team": "Omonia",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "19",
-                "team": "Noah",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "Drita",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "21",
-                "team": "KuPS",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "22",
-                "team": "Shkendija",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "23",
-                "team": "Zrinjski",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "24",
-                "team": "Sigma",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "25",
-                "team": "U Craiova",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "26",
-                "team": "Lincoln Red Imps",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "Dynamo Kyiv",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "28",
-                "team": "Legia Warsaw",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "29",
-                "team": "Slovan Bratislava",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Breidablik",
-                "played": "6",
-                "pts": "5"
-            },
-            {
-                "pos": "31",
-                "team": "Shamrock Rovers",
-                "played": "6",
-                "pts": "4"
-            },
-            {
-                "pos": "32",
-                "team": "Haecken",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "33",
-                "team": "Hamrun Spartans",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Shelbourne",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "35",
-                "team": "Aberdeen",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "36",
-                "team": "Rapid Vienna",
-                "played": "6",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-03-12T08:02:45.857069"
-    },
-    "347649565": {
-        "matchup": "Stuttgart – Porto",
-        "event_url": "https://livetv.sx/enx/eventinfo/347649565__/",
-        "competition": "Europa League",
-        "date_time": "12 March at 18:45",
-        "parsed_datetime": "2026-03-12T18:45:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Stuttgart",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/707.gif"
-            },
-            {
-                "team_name": "Porto",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/338.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lyon",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "2",
-                "team": "Aston Villa",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "3",
-                "team": "Midtjylland",
-                "played": "8",
-                "pts": "19"
-            },
-            {
-                "pos": "4",
-                "team": "Real Betis",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "5",
-                "team": "Porto",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "6",
-                "team": "Braga",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "7",
-                "team": "Freiburg",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "8",
-                "team": "Roma",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "9",
-                "team": "Genk",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Bologna",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "11",
-                "team": "Stuttgart",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Ferencvaros",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "13",
-                "team": "Nottingham Forest",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Viktoria Plzen",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "15",
-                "team": "Crvena Zvezda",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "16",
-                "team": "Celta",
-                "played": "8",
-                "pts": "13"
-            },
-            {
-                "pos": "17",
-                "team": "PAOK",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "18",
-                "team": "Lille",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "19",
-                "team": "Fenerbahce",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "20",
-                "team": "Panathinaikos",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "21",
-                "team": "Celtic",
-                "played": "8",
-                "pts": "11"
-            },
-            {
-                "pos": "22",
-                "team": "Ludogorets",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "23",
-                "team": "Dinamo Zagreb",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "24",
-                "team": "Brann",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "25",
-                "team": "Young Boys",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "26",
-                "team": "Sturm",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "FCSB",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "28",
-                "team": "Go Ahead Eagles",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "29",
-                "team": "Feyenoord",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Basel",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "31",
-                "team": "RB Salzburg",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "32",
-                "team": "Rangers",
-                "played": "8",
-                "pts": "4"
-            },
-            {
-                "pos": "33",
-                "team": "Nice",
-                "played": "8",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Utrecht",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "35",
-                "team": "Malmoe",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "36",
-                "team": "Maccabi Tel Aviv",
-                "played": "8",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-03-12T08:02:45.901719"
+        "last_updated": "2026-03-12T09:10:42.901194"
     },
     "347649567": {
         "matchup": "Ferencvaros – Braga",
@@ -1949,7 +981,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:45.910817"
+        "last_updated": "2026-03-12T09:10:42.977144"
     },
     "347649566": {
         "matchup": "Genk – Freiburg",
@@ -2191,32 +1223,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:46.028767"
-    },
-    "354197443": {
-        "matchup": "Shan United – Sagaing United",
-        "event_url": "https://livetv.sx/enx/eventinfo/354197443__/",
-        "competition": "Myanmar. National League",
-        "date_time": "12 March at 10:00",
-        "parsed_datetime": "2026-03-12T10:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Shan United",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7307.gif"
-            },
-            {
-                "team_name": "Sagaing United",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7665.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.056508"
+        "last_updated": "2026-03-12T09:10:43.216333"
     },
     "347649561": {
         "matchup": "Nottingham Forest – Midtjylland",
@@ -2458,7 +1465,975 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:46.073297"
+        "last_updated": "2026-03-12T09:10:43.293899"
+    },
+    "347649564": {
+        "matchup": "Bologna – Roma",
+        "event_url": "https://livetv.sx/enx/eventinfo/347649564__/",
+        "competition": "Europa League",
+        "date_time": "12 March at 18:45",
+        "parsed_datetime": "2026-03-12T18:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Bologna",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3760.gif"
+            },
+            {
+                "team_name": "Roma",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/54.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Lyon",
+                "played": "8",
+                "pts": "21"
+            },
+            {
+                "pos": "2",
+                "team": "Aston Villa",
+                "played": "8",
+                "pts": "21"
+            },
+            {
+                "pos": "3",
+                "team": "Midtjylland",
+                "played": "8",
+                "pts": "19"
+            },
+            {
+                "pos": "4",
+                "team": "Real Betis",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "5",
+                "team": "Porto",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "6",
+                "team": "Braga",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "7",
+                "team": "Freiburg",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "8",
+                "team": "Roma",
+                "played": "8",
+                "pts": "16"
+            },
+            {
+                "pos": "9",
+                "team": "Genk",
+                "played": "8",
+                "pts": "16"
+            },
+            {
+                "pos": "10",
+                "team": "Bologna",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "11",
+                "team": "Stuttgart",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "12",
+                "team": "Ferencvaros",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "13",
+                "team": "Nottingham Forest",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "14",
+                "team": "Viktoria Plzen",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "15",
+                "team": "Crvena Zvezda",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "16",
+                "team": "Celta",
+                "played": "8",
+                "pts": "13"
+            },
+            {
+                "pos": "17",
+                "team": "PAOK",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "18",
+                "team": "Lille",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "19",
+                "team": "Fenerbahce",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "20",
+                "team": "Panathinaikos",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "21",
+                "team": "Celtic",
+                "played": "8",
+                "pts": "11"
+            },
+            {
+                "pos": "22",
+                "team": "Ludogorets",
+                "played": "8",
+                "pts": "10"
+            },
+            {
+                "pos": "23",
+                "team": "Dinamo Zagreb",
+                "played": "8",
+                "pts": "10"
+            },
+            {
+                "pos": "24",
+                "team": "Brann",
+                "played": "8",
+                "pts": "9"
+            },
+            {
+                "pos": "25",
+                "team": "Young Boys",
+                "played": "8",
+                "pts": "9"
+            },
+            {
+                "pos": "26",
+                "team": "Sturm",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "27",
+                "team": "FCSB",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "28",
+                "team": "Go Ahead Eagles",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "29",
+                "team": "Feyenoord",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "30",
+                "team": "Basel",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "31",
+                "team": "RB Salzburg",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "32",
+                "team": "Rangers",
+                "played": "8",
+                "pts": "4"
+            },
+            {
+                "pos": "33",
+                "team": "Nice",
+                "played": "8",
+                "pts": "3"
+            },
+            {
+                "pos": "34",
+                "team": "Utrecht",
+                "played": "8",
+                "pts": "1"
+            },
+            {
+                "pos": "35",
+                "team": "Malmoe",
+                "played": "8",
+                "pts": "1"
+            },
+            {
+                "pos": "36",
+                "team": "Maccabi Tel Aviv",
+                "played": "8",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-03-12T09:10:43.346918"
+    },
+    "347649565": {
+        "matchup": "Stuttgart – Porto",
+        "event_url": "https://livetv.sx/enx/eventinfo/347649565__/",
+        "competition": "Europa League",
+        "date_time": "12 March at 18:45",
+        "parsed_datetime": "2026-03-12T18:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Stuttgart",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/707.gif"
+            },
+            {
+                "team_name": "Porto",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/338.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Lyon",
+                "played": "8",
+                "pts": "21"
+            },
+            {
+                "pos": "2",
+                "team": "Aston Villa",
+                "played": "8",
+                "pts": "21"
+            },
+            {
+                "pos": "3",
+                "team": "Midtjylland",
+                "played": "8",
+                "pts": "19"
+            },
+            {
+                "pos": "4",
+                "team": "Real Betis",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "5",
+                "team": "Porto",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "6",
+                "team": "Braga",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "7",
+                "team": "Freiburg",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "8",
+                "team": "Roma",
+                "played": "8",
+                "pts": "16"
+            },
+            {
+                "pos": "9",
+                "team": "Genk",
+                "played": "8",
+                "pts": "16"
+            },
+            {
+                "pos": "10",
+                "team": "Bologna",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "11",
+                "team": "Stuttgart",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "12",
+                "team": "Ferencvaros",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "13",
+                "team": "Nottingham Forest",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "14",
+                "team": "Viktoria Plzen",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "15",
+                "team": "Crvena Zvezda",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "16",
+                "team": "Celta",
+                "played": "8",
+                "pts": "13"
+            },
+            {
+                "pos": "17",
+                "team": "PAOK",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "18",
+                "team": "Lille",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "19",
+                "team": "Fenerbahce",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "20",
+                "team": "Panathinaikos",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "21",
+                "team": "Celtic",
+                "played": "8",
+                "pts": "11"
+            },
+            {
+                "pos": "22",
+                "team": "Ludogorets",
+                "played": "8",
+                "pts": "10"
+            },
+            {
+                "pos": "23",
+                "team": "Dinamo Zagreb",
+                "played": "8",
+                "pts": "10"
+            },
+            {
+                "pos": "24",
+                "team": "Brann",
+                "played": "8",
+                "pts": "9"
+            },
+            {
+                "pos": "25",
+                "team": "Young Boys",
+                "played": "8",
+                "pts": "9"
+            },
+            {
+                "pos": "26",
+                "team": "Sturm",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "27",
+                "team": "FCSB",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "28",
+                "team": "Go Ahead Eagles",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "29",
+                "team": "Feyenoord",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "30",
+                "team": "Basel",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "31",
+                "team": "RB Salzburg",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "32",
+                "team": "Rangers",
+                "played": "8",
+                "pts": "4"
+            },
+            {
+                "pos": "33",
+                "team": "Nice",
+                "played": "8",
+                "pts": "3"
+            },
+            {
+                "pos": "34",
+                "team": "Utrecht",
+                "played": "8",
+                "pts": "1"
+            },
+            {
+                "pos": "35",
+                "team": "Malmoe",
+                "played": "8",
+                "pts": "1"
+            },
+            {
+                "pos": "36",
+                "team": "Maccabi Tel Aviv",
+                "played": "8",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-03-12T09:10:43.428751"
+    },
+    "347660500": {
+        "matchup": "Rijeka – Strasbourg",
+        "event_url": "https://livetv.sx/enx/eventinfo/347660500__/",
+        "competition": "Europa Conference League",
+        "date_time": "12 March at 18:45",
+        "parsed_datetime": "2026-03-12T18:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Rijeka",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/651.gif"
+            },
+            {
+                "team_name": "Strasbourg",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26648.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Strasbourg",
+                "played": "6",
+                "pts": "16"
+            },
+            {
+                "pos": "2",
+                "team": "Rakow",
+                "played": "6",
+                "pts": "14"
+            },
+            {
+                "pos": "3",
+                "team": "AEK",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "4",
+                "team": "Sparta Prague",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "5",
+                "team": "Rayo Vallecano",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "6",
+                "team": "Shakhtar Donetsk",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "7",
+                "team": "Mainz 05",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "8",
+                "team": "AEK Larnaca",
+                "played": "6",
+                "pts": "12"
+            },
+            {
+                "pos": "9",
+                "team": "Lausanne",
+                "played": "6",
+                "pts": "11"
+            },
+            {
+                "pos": "10",
+                "team": "Crystal Palace",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "11",
+                "team": "Lech Poznan",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "12",
+                "team": "Samsunspor",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "13",
+                "team": "Celje",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "14",
+                "team": "AZ",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "15",
+                "team": "Fiorentina",
+                "played": "6",
+                "pts": "9"
+            },
+            {
+                "pos": "16",
+                "team": "Rijeka",
+                "played": "6",
+                "pts": "9"
+            },
+            {
+                "pos": "17",
+                "team": "Jagiellonia",
+                "played": "6",
+                "pts": "9"
+            },
+            {
+                "pos": "18",
+                "team": "Omonia",
+                "played": "6",
+                "pts": "8"
+            },
+            {
+                "pos": "19",
+                "team": "Noah",
+                "played": "6",
+                "pts": "8"
+            },
+            {
+                "pos": "20",
+                "team": "Drita",
+                "played": "6",
+                "pts": "8"
+            },
+            {
+                "pos": "21",
+                "team": "KuPS",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "22",
+                "team": "Shkendija",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "23",
+                "team": "Zrinjski",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "24",
+                "team": "Sigma",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "25",
+                "team": "U Craiova",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "26",
+                "team": "Lincoln Red Imps",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "27",
+                "team": "Dynamo Kyiv",
+                "played": "6",
+                "pts": "6"
+            },
+            {
+                "pos": "28",
+                "team": "Legia Warsaw",
+                "played": "6",
+                "pts": "6"
+            },
+            {
+                "pos": "29",
+                "team": "Slovan Bratislava",
+                "played": "6",
+                "pts": "6"
+            },
+            {
+                "pos": "30",
+                "team": "Breidablik",
+                "played": "6",
+                "pts": "5"
+            },
+            {
+                "pos": "31",
+                "team": "Shamrock Rovers",
+                "played": "6",
+                "pts": "4"
+            },
+            {
+                "pos": "32",
+                "team": "Haecken",
+                "played": "6",
+                "pts": "3"
+            },
+            {
+                "pos": "33",
+                "team": "Hamrun Spartans",
+                "played": "6",
+                "pts": "3"
+            },
+            {
+                "pos": "34",
+                "team": "Shelbourne",
+                "played": "6",
+                "pts": "2"
+            },
+            {
+                "pos": "35",
+                "team": "Aberdeen",
+                "played": "6",
+                "pts": "2"
+            },
+            {
+                "pos": "36",
+                "team": "Rapid Vienna",
+                "played": "6",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-03-12T09:10:43.439952"
+    },
+    "347649562": {
+        "matchup": "Celta – Lyon",
+        "event_url": "https://livetv.sx/enx/eventinfo/347649562__/",
+        "competition": "Europa League",
+        "date_time": "12 March at 21:00",
+        "parsed_datetime": "2026-03-12T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Celta",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/45.gif"
+            },
+            {
+                "team_name": "Lyon",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/116.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Lyon",
+                "played": "8",
+                "pts": "21"
+            },
+            {
+                "pos": "2",
+                "team": "Aston Villa",
+                "played": "8",
+                "pts": "21"
+            },
+            {
+                "pos": "3",
+                "team": "Midtjylland",
+                "played": "8",
+                "pts": "19"
+            },
+            {
+                "pos": "4",
+                "team": "Real Betis",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "5",
+                "team": "Porto",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "6",
+                "team": "Braga",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "7",
+                "team": "Freiburg",
+                "played": "8",
+                "pts": "17"
+            },
+            {
+                "pos": "8",
+                "team": "Roma",
+                "played": "8",
+                "pts": "16"
+            },
+            {
+                "pos": "9",
+                "team": "Genk",
+                "played": "8",
+                "pts": "16"
+            },
+            {
+                "pos": "10",
+                "team": "Bologna",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "11",
+                "team": "Stuttgart",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "12",
+                "team": "Ferencvaros",
+                "played": "8",
+                "pts": "15"
+            },
+            {
+                "pos": "13",
+                "team": "Nottingham Forest",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "14",
+                "team": "Viktoria Plzen",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "15",
+                "team": "Crvena Zvezda",
+                "played": "8",
+                "pts": "14"
+            },
+            {
+                "pos": "16",
+                "team": "Celta",
+                "played": "8",
+                "pts": "13"
+            },
+            {
+                "pos": "17",
+                "team": "PAOK",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "18",
+                "team": "Lille",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "19",
+                "team": "Fenerbahce",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "20",
+                "team": "Panathinaikos",
+                "played": "8",
+                "pts": "12"
+            },
+            {
+                "pos": "21",
+                "team": "Celtic",
+                "played": "8",
+                "pts": "11"
+            },
+            {
+                "pos": "22",
+                "team": "Ludogorets",
+                "played": "8",
+                "pts": "10"
+            },
+            {
+                "pos": "23",
+                "team": "Dinamo Zagreb",
+                "played": "8",
+                "pts": "10"
+            },
+            {
+                "pos": "24",
+                "team": "Brann",
+                "played": "8",
+                "pts": "9"
+            },
+            {
+                "pos": "25",
+                "team": "Young Boys",
+                "played": "8",
+                "pts": "9"
+            },
+            {
+                "pos": "26",
+                "team": "Sturm",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "27",
+                "team": "FCSB",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "28",
+                "team": "Go Ahead Eagles",
+                "played": "8",
+                "pts": "7"
+            },
+            {
+                "pos": "29",
+                "team": "Feyenoord",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "30",
+                "team": "Basel",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "31",
+                "team": "RB Salzburg",
+                "played": "8",
+                "pts": "6"
+            },
+            {
+                "pos": "32",
+                "team": "Rangers",
+                "played": "8",
+                "pts": "4"
+            },
+            {
+                "pos": "33",
+                "team": "Nice",
+                "played": "8",
+                "pts": "3"
+            },
+            {
+                "pos": "34",
+                "team": "Utrecht",
+                "played": "8",
+                "pts": "1"
+            },
+            {
+                "pos": "35",
+                "team": "Malmoe",
+                "played": "8",
+                "pts": "1"
+            },
+            {
+                "pos": "36",
+                "team": "Maccabi Tel Aviv",
+                "played": "8",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-03-12T09:10:43.464315"
     },
     "353774119": {
         "matchup": "Poltava U19 – Karpaty U19",
@@ -2474,96 +2449,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.113295"
+        "last_updated": "2026-03-12T09:10:43.545407"
     },
-    "349563617": {
-        "matchup": "Metalist 1925 (W) – Shakhtar Dn (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/349563617_metalist_1925_w_shakhtar_dn_w/",
-        "competition": "Ukraine. Women. Vyshcha Liha",
-        "date_time": "12 March at 11:30",
-        "parsed_datetime": "2026-03-12T11:30:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.154331"
-    },
-    "353774120": {
-        "matchup": "Dynamo Kiev U19 – Obolon U19",
-        "event_url": "https://livetv.sx/enx/eventinfo/353774120_dynamo_kiev_u19_obolon_u19/",
-        "competition": "Ukraine. U-19 Premier League",
-        "date_time": "12 March at 12:00",
-        "parsed_datetime": "2026-03-12T12:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.300203"
-    },
-    "353794363": {
-        "matchup": "Belgium U17 (W) – Azerbaijan U17 (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353794363_belgium_u17_w_azerbaijan_u17_w/",
-        "competition": "European U-17 Championship",
-        "date_time": "12 March at 12:00",
-        "parsed_datetime": "2026-03-12T12:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.343289"
-    },
-    "347331755": {
-        "matchup": "Igdir – Bodrumspor",
-        "event_url": "https://livetv.sx/enx/eventinfo/347331755__/",
-        "competition": "Turkey. 1 Lig",
-        "date_time": "12 March at 11:30",
-        "parsed_datetime": "2026-03-12T11:30:00",
-        "is_live": false,
+    "354197443": {
+        "matchup": "Shan United – Sagaing United",
+        "event_url": "https://livetv.sx/enx/eventinfo/354197443__/",
+        "competition": "Myanmar. National League",
+        "date_time": "12 March at 10:00",
+        "parsed_datetime": "2026-03-12T10:00:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Igdir",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30515.gif"
+                "team_name": "Shan United",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7307.gif"
             },
             {
-                "team_name": "Bodrumspor",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9668.gif"
+                "team_name": "Sagaing United",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7665.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv873.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv873.me/webplayer2.php?t=youtube&c=kLcDObHai2U&lang=en&eid=354197443&lid=2973588&ci=2612&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.385300"
-    },
-    "353794364": {
-        "matchup": "Faroe Islands U17 (W) – Slovenia U17 (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353794364_faroe_islands_u17_w_slovenia_u17_w/",
-        "competition": "European U-17 Championship",
-        "date_time": "12 March at 12:00",
-        "parsed_datetime": "2026-03-12T12:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.425899"
+        "last_updated": "2026-03-12T09:10:43.558548"
     },
     "347324155": {
         "matchup": "Finland (W) U-17 –   Romania (W) U-17",
@@ -2588,7 +2508,80 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.512249"
+        "last_updated": "2026-03-12T09:10:43.603708"
+    },
+    "349563617": {
+        "matchup": "Metalist 1925 (W) – Shakhtar Dn (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/349563617_metalist_1925_w_shakhtar_dn_w/",
+        "competition": "Ukraine. Women. Vyshcha Liha",
+        "date_time": "12 March at 11:30",
+        "parsed_datetime": "2026-03-12T11:30:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:43.737187"
+    },
+    "347331755": {
+        "matchup": "Igdir – Bodrumspor",
+        "event_url": "https://livetv.sx/enx/eventinfo/347331755__/",
+        "competition": "Turkey. 1 Lig",
+        "date_time": "12 March at 11:30",
+        "parsed_datetime": "2026-03-12T11:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Igdir",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30515.gif"
+            },
+            {
+                "team_name": "Bodrumspor",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9668.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:43.868628"
+    },
+    "353774120": {
+        "matchup": "Dynamo Kiev U19 – Obolon U19",
+        "event_url": "https://livetv.sx/enx/eventinfo/353774120_dynamo_kiev_u19_obolon_u19/",
+        "competition": "Ukraine. U-19 Premier League",
+        "date_time": "12 March at 12:00",
+        "parsed_datetime": "2026-03-12T12:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:43.964165"
+    },
+    "353794363": {
+        "matchup": "Belgium U17 (W) – Azerbaijan U17 (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353794363_belgium_u17_w_azerbaijan_u17_w/",
+        "competition": "European U-17 Championship",
+        "date_time": "12 March at 12:00",
+        "parsed_datetime": "2026-03-12T12:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:43.964177"
     },
     "353764648": {
         "matchup": "Australia (W) – Japan (W)",
@@ -2613,32 +2606,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.569646"
-    },
-    "352718201": {
-        "matchup": "Difai Agsu – Baku Sporting",
-        "event_url": "https://livetv.sx/enx/eventinfo/352718201__/",
-        "competition": "Azerbaijan. 1 League",
-        "date_time": "12 March at 12:00",
-        "parsed_datetime": "2026-03-12T12:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Difai Agsu",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/28850.gif"
-            },
-            {
-                "team_name": "Baku Sporting",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35738.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.613442"
+        "last_updated": "2026-03-12T09:10:44.013730"
     },
     "353764649": {
         "matchup": "Belgium (W) – China (W)",
@@ -2663,123 +2631,39 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.653111"
+        "last_updated": "2026-03-12T09:10:44.063224"
     },
-    "353764650": {
-        "matchup": "South Korea (W) – Nigeria (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353764650_south_korea_w_nigeria_w/",
-        "competition": "Women. World Championship",
-        "date_time": "12 March at 14:00",
-        "parsed_datetime": "2026-03-12T14:00:00",
+    "353794364": {
+        "matchup": "Faroe Islands U17 (W) – Slovenia U17 (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353794364_faroe_islands_u17_w_slovenia_u17_w/",
+        "competition": "European U-17 Championship",
+        "date_time": "12 March at 12:00",
+        "parsed_datetime": "2026-03-12T12:00:00",
         "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "South Korea (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/36584.gif"
-            },
-            {
-                "team_name": "Nigeria (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/51172.gif"
-            }
-        ],
+        "team_logos": [],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.828871"
+        "last_updated": "2026-03-12T09:10:44.164827"
     },
-    "347339877": {
-        "matchup": "Tampines Rovers – Bangkok Utd",
-        "event_url": "https://livetv.sx/enx/eventinfo/347339877__/",
-        "competition": "AFC Champions League 2",
-        "date_time": "12 March at 13:15",
-        "parsed_datetime": "2026-03-12T13:15:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Tampines Rovers",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9605.gif"
-            },
-            {
-                "team_name": "Bangkok Utd",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8195.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:46.973642"
-    },
-    "347344250": {
-        "matchup": "Scotland (W) U-17 –   Norway (W) U-17",
-        "event_url": "https://livetv.sx/enx/eventinfo/347344250__/",
-        "competition": "Women. European U-17 Championship qualification",
-        "date_time": "12 March at 13:00",
-        "parsed_datetime": "2026-03-12T13:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Scotland (W) U-17",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag1003.gif"
-            },
-            {
-                "team_name": "Norway (W) U-17",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag147.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.016813"
-    },
-    "353764651": {
-        "matchup": "Hungary (W) – Canada (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353764651_hungary_w_canada_w/",
-        "competition": "Women. World Championship",
-        "date_time": "12 March at 15:30",
-        "parsed_datetime": "2026-03-12T15:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Hungary (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/34037.gif"
-            },
-            {
-                "team_name": "Canada (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/34020.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.099395"
-    },
-    "352718202": {
-        "matchup": "Asta Mingachevir – Sabail",
-        "event_url": "https://livetv.sx/enx/eventinfo/352718202__/",
+    "352718201": {
+        "matchup": "Difai Agsu – Baku Sporting",
+        "event_url": "https://livetv.sx/enx/eventinfo/352718201__/",
         "competition": "Azerbaijan. 1 League",
         "date_time": "12 March at 12:00",
         "parsed_datetime": "2026-03-12T12:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Asta Mingachevir",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36784.gif"
+                "team_name": "Difai Agsu",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/28850.gif"
             },
             {
-                "team_name": "Sabail",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1833.gif"
+                "team_name": "Baku Sporting",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35738.gif"
             }
         ],
         "streams": [],
@@ -2788,7 +2672,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.099409"
+        "last_updated": "2026-03-12T09:10:44.212250"
     },
     "352718204": {
         "matchup": "Sahdag – MOIK",
@@ -2813,23 +2697,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.139102"
+        "last_updated": "2026-03-12T09:10:44.364750"
     },
-    "347356742": {
-        "matchup": "Boluspor – Corum",
-        "event_url": "https://livetv.sx/enx/eventinfo/347356742__/",
-        "competition": "Turkey. 1 Lig",
-        "date_time": "12 March at 14:00",
-        "parsed_datetime": "2026-03-12T14:00:00",
+    "347344250": {
+        "matchup": "Scotland (W) U-17 –   Norway (W) U-17",
+        "event_url": "https://livetv.sx/enx/eventinfo/347344250__/",
+        "competition": "Women. European U-17 Championship qualification",
+        "date_time": "12 March at 13:00",
+        "parsed_datetime": "2026-03-12T13:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Boluspor",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5329.gif"
+                "team_name": "Scotland (W) U-17",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag1003.gif"
             },
             {
-                "team_name": "Corum",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9883.gif"
+                "team_name": "Norway (W) U-17",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag147.gif"
             }
         ],
         "streams": [],
@@ -2838,7 +2722,107 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.183129"
+        "last_updated": "2026-03-12T09:10:44.424116"
+    },
+    "352718202": {
+        "matchup": "Asta Mingachevir – Sabail",
+        "event_url": "https://livetv.sx/enx/eventinfo/352718202__/",
+        "competition": "Azerbaijan. 1 League",
+        "date_time": "12 March at 12:00",
+        "parsed_datetime": "2026-03-12T12:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Asta Mingachevir",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36784.gif"
+            },
+            {
+                "team_name": "Sabail",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1833.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:44.475352"
+    },
+    "353764651": {
+        "matchup": "Hungary (W) – Canada (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353764651_hungary_w_canada_w/",
+        "competition": "Women. World Championship",
+        "date_time": "12 March at 15:30",
+        "parsed_datetime": "2026-03-12T15:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Hungary (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/34037.gif"
+            },
+            {
+                "team_name": "Canada (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/34020.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:44.543065"
+    },
+    "353764650": {
+        "matchup": "South Korea (W) – Nigeria (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353764650_south_korea_w_nigeria_w/",
+        "competition": "Women. World Championship",
+        "date_time": "12 March at 14:00",
+        "parsed_datetime": "2026-03-12T14:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "South Korea (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/36584.gif"
+            },
+            {
+                "team_name": "Nigeria (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/51172.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:44.567846"
+    },
+    "347339877": {
+        "matchup": "Tampines Rovers – Bangkok Utd",
+        "event_url": "https://livetv.sx/enx/eventinfo/347339877__/",
+        "competition": "AFC Champions League 2",
+        "date_time": "12 March at 13:15",
+        "parsed_datetime": "2026-03-12T13:15:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Tampines Rovers",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9605.gif"
+            },
+            {
+                "team_name": "Bangkok Utd",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8195.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:44.646851"
     },
     "347354200": {
         "matchup": "Czech Republic (W) U-17 –   Latvia (W) U-17",
@@ -2863,7 +2847,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.226114"
+        "last_updated": "2026-03-12T09:10:44.696420"
+    },
+    "347356742": {
+        "matchup": "Boluspor – Corum",
+        "event_url": "https://livetv.sx/enx/eventinfo/347356742__/",
+        "competition": "Turkey. 1 Lig",
+        "date_time": "12 March at 14:00",
+        "parsed_datetime": "2026-03-12T14:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Boluspor",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5329.gif"
+            },
+            {
+                "team_name": "Corum",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9883.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:44.794220"
     },
     "347388022": {
         "matchup": "AGMK – Sogdiana",
@@ -2888,7 +2897,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.267030"
+        "last_updated": "2026-03-12T09:10:44.860750"
     },
     "347374703": {
         "matchup": "Samgurali – Dinamo Batumi",
@@ -2913,7 +2922,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.368301"
+        "last_updated": "2026-03-12T09:10:44.908562"
     },
     "353764652": {
         "matchup": "Philippines (W) – Germany (W)",
@@ -2938,7 +2947,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.408879"
+        "last_updated": "2026-03-12T09:10:45.031634"
     },
     "347388023": {
         "matchup": "Dinamo Samarkand – Nasaf",
@@ -2963,7 +2972,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.449888"
+        "last_updated": "2026-03-12T09:10:45.084935"
     },
     "353250996": {
         "matchup": "Noah – Ararat-Armenia",
@@ -2988,182 +2997,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.597538"
-    },
-    "347388665": {
-        "matchup": "Maardu – Elva",
-        "event_url": "https://livetv.sx/enx/eventinfo/347388665__/",
-        "competition": "Estonia. Esiliiga",
-        "date_time": "12 March at 17:00",
-        "parsed_datetime": "2026-03-12T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Maardu",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4244.gif"
-            },
-            {
-                "team_name": "Elva",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4630.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.736993"
-    },
-    "353764653": {
-        "matchup": "Turkey (W) – Argentina (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353764653_turkey_w_argentina_w/",
-        "competition": "Women. World Championship",
-        "date_time": "12 March at 18:30",
-        "parsed_datetime": "2026-03-12T18:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Turkey (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/43041.gif"
-            },
-            {
-                "team_name": "Argentina (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/36631.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.778517"
-    },
-    "347396440": {
-        "matchup": "Switzerland (W) U-17 –   Greece (W) U-17",
-        "event_url": "https://livetv.sx/enx/eventinfo/347396440__/",
-        "competition": "Women. European U-17 Championship qualification",
-        "date_time": "12 March at 18:00",
-        "parsed_datetime": "2026-03-12T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Switzerland (W) U-17",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag35.gif"
-            },
-            {
-                "team_name": "Greece (W) U-17",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag79.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.819594"
-    },
-    "346431231": {
-        "matchup": "Bravo – Nafta",
-        "event_url": "https://livetv.sx/enx/eventinfo/346431231__/",
-        "competition": "Slovenia. Cup",
-        "date_time": "12 March at 17:30",
-        "parsed_datetime": "2026-03-12T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bravo",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1823.gif"
-            },
-            {
-                "team_name": "Nafta",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4877.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.863647"
-    },
-    "347399010": {
-        "matchup": "Esenler Erokspor – Bandirmaspor",
-        "event_url": "https://livetv.sx/enx/eventinfo/347399010__/",
-        "competition": "Turkey. 1 Lig",
-        "date_time": "12 March at 18:00",
-        "parsed_datetime": "2026-03-12T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Esenler Erokspor",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10633.gif"
-            },
-            {
-                "team_name": "Bandirmaspor",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/19254.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.916098"
-    },
-    "353764767": {
-        "matchup": "Roma (W) –  Inter (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353764767__/",
-        "competition": "Italy. Women. Cup",
-        "date_time": "12 March at 18:00",
-        "parsed_datetime": "2026-03-12T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Roma (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9724.gif"
-            },
-            {
-                "team_name": "Inter (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30895.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:47.946729"
-    },
-    "353946189": {
-        "matchup": "Barcelona U-19 –  Deportivo U-19",
-        "event_url": "https://livetv.sx/enx/eventinfo/353946189__/",
-        "competition": "Spain. U19 Cup",
-        "date_time": "12 March at 18:30",
-        "parsed_datetime": "2026-03-12T18:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Barcelona U-19",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16880.gif"
-            },
-            {
-                "team_name": "Deportivo U-19",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/17525.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.047897"
+        "last_updated": "2026-03-12T09:10:45.141085"
     },
     "347396292": {
         "matchup": "Dila – Meshakhte",
@@ -3188,7 +3022,182 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.089136"
+        "last_updated": "2026-03-12T09:10:45.238398"
+    },
+    "347388665": {
+        "matchup": "Maardu – Elva",
+        "event_url": "https://livetv.sx/enx/eventinfo/347388665__/",
+        "competition": "Estonia. Esiliiga",
+        "date_time": "12 March at 17:00",
+        "parsed_datetime": "2026-03-12T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Maardu",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4244.gif"
+            },
+            {
+                "team_name": "Elva",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4630.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.294591"
+    },
+    "346431231": {
+        "matchup": "Bravo – Nafta",
+        "event_url": "https://livetv.sx/enx/eventinfo/346431231__/",
+        "competition": "Slovenia. Cup",
+        "date_time": "12 March at 17:30",
+        "parsed_datetime": "2026-03-12T17:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Bravo",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1823.gif"
+            },
+            {
+                "team_name": "Nafta",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4877.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.343453"
+    },
+    "353764653": {
+        "matchup": "Turkey (W) – Argentina (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353764653_turkey_w_argentina_w/",
+        "competition": "Women. World Championship",
+        "date_time": "12 March at 18:30",
+        "parsed_datetime": "2026-03-12T18:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Turkey (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/43041.gif"
+            },
+            {
+                "team_name": "Argentina (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/36631.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.389467"
+    },
+    "347396440": {
+        "matchup": "Switzerland (W) U-17 –   Greece (W) U-17",
+        "event_url": "https://livetv.sx/enx/eventinfo/347396440__/",
+        "competition": "Women. European U-17 Championship qualification",
+        "date_time": "12 March at 18:00",
+        "parsed_datetime": "2026-03-12T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Switzerland (W) U-17",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag35.gif"
+            },
+            {
+                "team_name": "Greece (W) U-17",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag79.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.467984"
+    },
+    "347399010": {
+        "matchup": "Esenler Erokspor – Bandirmaspor",
+        "event_url": "https://livetv.sx/enx/eventinfo/347399010__/",
+        "competition": "Turkey. 1 Lig",
+        "date_time": "12 March at 18:00",
+        "parsed_datetime": "2026-03-12T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Esenler Erokspor",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10633.gif"
+            },
+            {
+                "team_name": "Bandirmaspor",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/19254.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.517412"
+    },
+    "353764767": {
+        "matchup": "Roma (W) –  Inter (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353764767__/",
+        "competition": "Italy. Women. Cup",
+        "date_time": "12 March at 18:00",
+        "parsed_datetime": "2026-03-12T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Roma (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9724.gif"
+            },
+            {
+                "team_name": "Inter (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30895.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.562340"
+    },
+    "353946189": {
+        "matchup": "Barcelona U-19 –  Deportivo U-19",
+        "event_url": "https://livetv.sx/enx/eventinfo/353946189__/",
+        "competition": "Spain. U19 Cup",
+        "date_time": "12 March at 18:30",
+        "parsed_datetime": "2026-03-12T18:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Barcelona U-19",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16880.gif"
+            },
+            {
+                "team_name": "Deportivo U-19",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/17525.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.715634"
     },
     "345381722": {
         "matchup": "Bani Yas – Al Wahda",
@@ -3213,7 +3222,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.143043"
+        "last_updated": "2026-03-12T09:10:45.766586"
+    },
+    "353764654": {
+        "matchup": "Senegal (W) – Spain (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/353764654_senegal_w_spain_w/",
+        "competition": "Women. World Championship",
+        "date_time": "12 March at 19:00",
+        "parsed_datetime": "2026-03-12T19:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:45.814076"
     },
     "345381725": {
         "matchup": "Al Ain – Al Wasl",
@@ -3238,23 +3263,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.223036"
-    },
-    "353764654": {
-        "matchup": "Senegal (W) – Spain (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/353764654_senegal_w_spain_w/",
-        "competition": "Women. World Championship",
-        "date_time": "12 March at 19:00",
-        "parsed_datetime": "2026-03-12T19:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.383636"
+        "last_updated": "2026-03-12T09:10:45.862727"
     },
     "347660503": {
         "matchup": "AZ – Sparta Prague",
@@ -3496,7 +3505,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:48.452018"
+        "last_updated": "2026-03-12T09:10:46.009583"
     },
     "347660505": {
         "matchup": "Samsunspor – Rayo Vallecano",
@@ -3738,7 +3747,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:48.555824"
+        "last_updated": "2026-03-12T09:10:46.106602"
     },
     "347660507": {
         "matchup": "Lech Poznan – Shakhtar Donetsk",
@@ -3980,7 +3989,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:48.632974"
+        "last_updated": "2026-03-12T09:10:46.161401"
     },
     "349633176": {
         "matchup": "Amanat Baghdad – Newroz",
@@ -4005,7 +4014,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.639586"
+        "last_updated": "2026-03-12T09:10:46.241962"
     },
     "349633178": {
         "matchup": "Al-Kahrabaa – Al-Talaba",
@@ -4030,7 +4039,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.685085"
+        "last_updated": "2026-03-12T09:10:46.289534"
     },
     "347407281": {
         "matchup": "Al-Khaldiya – Al Riffa",
@@ -4055,32 +4064,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.728250"
-    },
-    "353283546": {
-        "matchup": "Sitra – Al-Budaiya",
-        "event_url": "https://livetv.sx/enx/eventinfo/353283546__/",
-        "competition": "Bahrain. Premier League",
-        "date_time": "12 March at 19:30",
-        "parsed_datetime": "2026-03-12T19:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Sitra",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7599.gif"
-            },
-            {
-                "team_name": "Al-Budaiya",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6747.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.833528"
+        "last_updated": "2026-03-12T09:10:46.339393"
     },
     "347407282": {
         "matchup": "A`Ali – Bahrain SC",
@@ -4105,7 +4089,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.898266"
+        "last_updated": "2026-03-12T09:10:46.442513"
+    },
+    "353283546": {
+        "matchup": "Sitra – Al-Budaiya",
+        "event_url": "https://livetv.sx/enx/eventinfo/353283546__/",
+        "competition": "Bahrain. Premier League",
+        "date_time": "12 March at 19:30",
+        "parsed_datetime": "2026-03-12T19:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sitra",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7599.gif"
+            },
+            {
+                "team_name": "Al-Budaiya",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6747.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:46.490870"
     },
     "353283548": {
         "matchup": "Al Riffa – Al-Muharraq",
@@ -4130,32 +4139,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:48.936825"
-    },
-    "347422535": {
-        "matchup": "Al-Hazem – Al-Kholood",
-        "event_url": "https://livetv.sx/enx/eventinfo/347422535__/",
-        "competition": "Saudi Arabia. Pro League",
-        "date_time": "12 March at 20:00",
-        "parsed_datetime": "2026-03-12T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Al-Hazem",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33055.gif"
-            },
-            {
-                "team_name": "Al-Kholood",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35361.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.079507"
+        "last_updated": "2026-03-12T09:10:46.542515"
     },
     "347422534": {
         "matchup": "Neom – Al-Taawoun",
@@ -4180,7 +4164,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.164391"
+        "last_updated": "2026-03-12T09:10:46.589665"
+    },
+    "347422535": {
+        "matchup": "Al-Hazem – Al-Kholood",
+        "event_url": "https://livetv.sx/enx/eventinfo/347422535__/",
+        "competition": "Saudi Arabia. Pro League",
+        "date_time": "12 March at 20:00",
+        "parsed_datetime": "2026-03-12T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Al-Hazem",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33055.gif"
+            },
+            {
+                "team_name": "Al-Kholood",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35361.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:46.721564"
     },
     "353764655": {
         "matchup": "Colombia (W) – France (W)",
@@ -4205,7 +4214,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.207631"
+        "last_updated": "2026-03-12T09:10:46.767594"
     },
     "347422536": {
         "matchup": "Al-Najma – Damac",
@@ -4230,7 +4239,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.268597"
+        "last_updated": "2026-03-12T09:10:46.817522"
     },
     "347419722": {
         "matchup": "Francs Borains – Lokeren-Temse",
@@ -4255,7 +4264,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.326820"
+        "last_updated": "2026-03-12T09:10:46.912593"
     },
     "347909586": {
         "matchup": "Al Ahli Amman – Al-Salt",
@@ -4280,7 +4289,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.341243"
+        "last_updated": "2026-03-12T09:10:47.003742"
     },
     "347909587": {
         "matchup": "Al-Faisaly Amman – Shabab Al-Ordon",
@@ -4305,7 +4314,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.385824"
+        "last_updated": "2026-03-12T09:10:47.053232"
     },
     "353764766": {
         "matchup": "Badalona (W) –  Barcelona (W)",
@@ -4330,249 +4339,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.511817"
-    },
-    "347660502": {
-        "matchup": "Fiorentina – Rakow",
-        "event_url": "https://livetv.sx/enx/eventinfo/347660502__/",
-        "competition": "Europa Conference League",
-        "date_time": "12 March at 21:00",
-        "parsed_datetime": "2026-03-12T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Fiorentina",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/21748.gif"
-            },
-            {
-                "team_name": "Rakow",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3720.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Strasbourg",
-                "played": "6",
-                "pts": "16"
-            },
-            {
-                "pos": "2",
-                "team": "Rakow",
-                "played": "6",
-                "pts": "14"
-            },
-            {
-                "pos": "3",
-                "team": "AEK",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "4",
-                "team": "Sparta Prague",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "5",
-                "team": "Rayo Vallecano",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "6",
-                "team": "Shakhtar Donetsk",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "7",
-                "team": "Mainz 05",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "8",
-                "team": "AEK Larnaca",
-                "played": "6",
-                "pts": "12"
-            },
-            {
-                "pos": "9",
-                "team": "Lausanne",
-                "played": "6",
-                "pts": "11"
-            },
-            {
-                "pos": "10",
-                "team": "Crystal Palace",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "11",
-                "team": "Lech Poznan",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "12",
-                "team": "Samsunspor",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "13",
-                "team": "Celje",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "14",
-                "team": "AZ",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "15",
-                "team": "Fiorentina",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "16",
-                "team": "Rijeka",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "17",
-                "team": "Jagiellonia",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "18",
-                "team": "Omonia",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "19",
-                "team": "Noah",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "Drita",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "21",
-                "team": "KuPS",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "22",
-                "team": "Shkendija",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "23",
-                "team": "Zrinjski",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "24",
-                "team": "Sigma",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "25",
-                "team": "U Craiova",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "26",
-                "team": "Lincoln Red Imps",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "Dynamo Kyiv",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "28",
-                "team": "Legia Warsaw",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "29",
-                "team": "Slovan Bratislava",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Breidablik",
-                "played": "6",
-                "pts": "5"
-            },
-            {
-                "pos": "31",
-                "team": "Shamrock Rovers",
-                "played": "6",
-                "pts": "4"
-            },
-            {
-                "pos": "32",
-                "team": "Haecken",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "33",
-                "team": "Hamrun Spartans",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Shelbourne",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "35",
-                "team": "Aberdeen",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "36",
-                "team": "Rapid Vienna",
-                "played": "6",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-03-12T08:02:49.616096"
+        "last_updated": "2026-03-12T09:10:47.110754"
     },
     "347660501": {
         "matchup": "Celje – AEK",
@@ -4814,7 +4581,249 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:49.736188"
+        "last_updated": "2026-03-12T09:10:47.212865"
+    },
+    "347660502": {
+        "matchup": "Fiorentina – Rakow",
+        "event_url": "https://livetv.sx/enx/eventinfo/347660502__/",
+        "competition": "Europa Conference League",
+        "date_time": "12 March at 21:00",
+        "parsed_datetime": "2026-03-12T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Fiorentina",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/21748.gif"
+            },
+            {
+                "team_name": "Rakow",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3720.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Strasbourg",
+                "played": "6",
+                "pts": "16"
+            },
+            {
+                "pos": "2",
+                "team": "Rakow",
+                "played": "6",
+                "pts": "14"
+            },
+            {
+                "pos": "3",
+                "team": "AEK",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "4",
+                "team": "Sparta Prague",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "5",
+                "team": "Rayo Vallecano",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "6",
+                "team": "Shakhtar Donetsk",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "7",
+                "team": "Mainz 05",
+                "played": "6",
+                "pts": "13"
+            },
+            {
+                "pos": "8",
+                "team": "AEK Larnaca",
+                "played": "6",
+                "pts": "12"
+            },
+            {
+                "pos": "9",
+                "team": "Lausanne",
+                "played": "6",
+                "pts": "11"
+            },
+            {
+                "pos": "10",
+                "team": "Crystal Palace",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "11",
+                "team": "Lech Poznan",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "12",
+                "team": "Samsunspor",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "13",
+                "team": "Celje",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "14",
+                "team": "AZ",
+                "played": "6",
+                "pts": "10"
+            },
+            {
+                "pos": "15",
+                "team": "Fiorentina",
+                "played": "6",
+                "pts": "9"
+            },
+            {
+                "pos": "16",
+                "team": "Rijeka",
+                "played": "6",
+                "pts": "9"
+            },
+            {
+                "pos": "17",
+                "team": "Jagiellonia",
+                "played": "6",
+                "pts": "9"
+            },
+            {
+                "pos": "18",
+                "team": "Omonia",
+                "played": "6",
+                "pts": "8"
+            },
+            {
+                "pos": "19",
+                "team": "Noah",
+                "played": "6",
+                "pts": "8"
+            },
+            {
+                "pos": "20",
+                "team": "Drita",
+                "played": "6",
+                "pts": "8"
+            },
+            {
+                "pos": "21",
+                "team": "KuPS",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "22",
+                "team": "Shkendija",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "23",
+                "team": "Zrinjski",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "24",
+                "team": "Sigma",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "25",
+                "team": "U Craiova",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "26",
+                "team": "Lincoln Red Imps",
+                "played": "6",
+                "pts": "7"
+            },
+            {
+                "pos": "27",
+                "team": "Dynamo Kyiv",
+                "played": "6",
+                "pts": "6"
+            },
+            {
+                "pos": "28",
+                "team": "Legia Warsaw",
+                "played": "6",
+                "pts": "6"
+            },
+            {
+                "pos": "29",
+                "team": "Slovan Bratislava",
+                "played": "6",
+                "pts": "6"
+            },
+            {
+                "pos": "30",
+                "team": "Breidablik",
+                "played": "6",
+                "pts": "5"
+            },
+            {
+                "pos": "31",
+                "team": "Shamrock Rovers",
+                "played": "6",
+                "pts": "4"
+            },
+            {
+                "pos": "32",
+                "team": "Haecken",
+                "played": "6",
+                "pts": "3"
+            },
+            {
+                "pos": "33",
+                "team": "Hamrun Spartans",
+                "played": "6",
+                "pts": "3"
+            },
+            {
+                "pos": "34",
+                "team": "Shelbourne",
+                "played": "6",
+                "pts": "2"
+            },
+            {
+                "pos": "35",
+                "team": "Aberdeen",
+                "played": "6",
+                "pts": "2"
+            },
+            {
+                "pos": "36",
+                "team": "Rapid Vienna",
+                "played": "6",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-03-12T09:10:47.284298"
     },
     "347660504": {
         "matchup": "Sigma – Mainz 05",
@@ -5056,32 +5065,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:49.804000"
-    },
-    "347432439": {
-        "matchup": "Deportivo Riestra – Gimnasia Mendoza",
-        "event_url": "https://livetv.sx/enx/eventinfo/347432439__/",
-        "competition": "Argentina. Liga Profesional",
-        "date_time": "12 March at 21:00",
-        "parsed_datetime": "2026-03-12T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Deportivo Riestra",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10224.gif"
-            },
-            {
-                "team_name": "Gimnasia Mendoza",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10598.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:49.844840"
+        "last_updated": "2026-03-12T09:10:47.358420"
     },
     "347660506": {
         "matchup": "Crystal Palace – AEK Larnaca",
@@ -5323,23 +5307,23 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-03-12T08:02:50.046746"
+        "last_updated": "2026-03-12T09:10:47.434013"
     },
-    "347432440": {
-        "matchup": "Defensa y Justicia – Central Cordoba",
-        "event_url": "https://livetv.sx/enx/eventinfo/347432440__/",
+    "347432439": {
+        "matchup": "Deportivo Riestra – Gimnasia Mendoza",
+        "event_url": "https://livetv.sx/enx/eventinfo/347432439__/",
         "competition": "Argentina. Liga Profesional",
         "date_time": "12 March at 21:00",
         "parsed_datetime": "2026-03-12T21:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Defensa y Justicia",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1115.gif"
+                "team_name": "Deportivo Riestra",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10224.gif"
             },
             {
-                "team_name": "Central Cordoba",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2983.gif"
+                "team_name": "Gimnasia Mendoza",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10598.gif"
             }
         ],
         "streams": [],
@@ -5348,7 +5332,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.046760"
+        "last_updated": "2026-03-12T09:10:47.482988"
     },
     "353764656": {
         "matchup": "New Zealand (W) – Italy (W)",
@@ -5373,7 +5357,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.050410"
+        "last_updated": "2026-03-12T09:10:47.530757"
+    },
+    "347432440": {
+        "matchup": "Defensa y Justicia – Central Cordoba",
+        "event_url": "https://livetv.sx/enx/eventinfo/347432440__/",
+        "competition": "Argentina. Liga Profesional",
+        "date_time": "12 March at 21:00",
+        "parsed_datetime": "2026-03-12T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Defensa y Justicia",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1115.gif"
+            },
+            {
+                "team_name": "Central Cordoba",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2983.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:47.578062"
     },
     "349633180": {
         "matchup": "Al-Mosul – Al-Shorta",
@@ -5398,7 +5407,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.094507"
+        "last_updated": "2026-03-12T09:10:47.660155"
+    },
+    "351258624": {
+        "matchup": "Nacional U20 – LDU Quito U20",
+        "event_url": "https://livetv.sx/enx/eventinfo/351258624_nacional_u20_ldu_quito_u20/",
+        "competition": "U-20 Copa Libertadores",
+        "date_time": "12 March at 23:00",
+        "parsed_datetime": "2026-03-12T23:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:47.717550"
     },
     "349633182": {
         "matchup": "Al-Karma – Al-Gharraf",
@@ -5423,32 +5448,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.136141"
-    },
-    "349631830": {
-        "matchup": "Madureira – Aguia de Maraba",
-        "event_url": "https://livetv.sx/enx/eventinfo/349631830__/",
-        "competition": "Brazil. Cup",
-        "date_time": "12 March at 22:00",
-        "parsed_datetime": "2026-03-12T22:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Madureira",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5342.gif"
-            },
-            {
-                "team_name": "Aguia de Maraba",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6709.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.196497"
+        "last_updated": "2026-03-12T09:10:47.767911"
     },
     "347460804": {
         "matchup": "Cruz Azul (W) –  Necaxa (W)",
@@ -5473,7 +5473,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.259854"
+        "last_updated": "2026-03-12T09:10:47.922520"
+    },
+    "349631830": {
+        "matchup": "Madureira – Aguia de Maraba",
+        "event_url": "https://livetv.sx/enx/eventinfo/349631830__/",
+        "competition": "Brazil. Cup",
+        "date_time": "12 March at 22:00",
+        "parsed_datetime": "2026-03-12T22:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Madureira",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5342.gif"
+            },
+            {
+                "team_name": "Aguia de Maraba",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6709.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:47.968459"
     },
     "347459604": {
         "matchup": "Remo – Fluminense",
@@ -5498,23 +5523,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.446293"
-    },
-    "351258624": {
-        "matchup": "Nacional U20 – LDU Quito U20",
-        "event_url": "https://livetv.sx/enx/eventinfo/351258624_nacional_u20_ldu_quito_u20/",
-        "competition": "U-20 Copa Libertadores",
-        "date_time": "12 March at 23:00",
-        "parsed_datetime": "2026-03-12T23:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.517790"
+        "last_updated": "2026-03-12T09:10:48.066536"
     },
     "351358908": {
         "matchup": "Vila Nova – Operario MS",
@@ -5539,32 +5548,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.527946"
-    },
-    "350068441": {
-        "matchup": "Jacuipense – Santa Catarina",
-        "event_url": "https://livetv.sx/enx/eventinfo/350068441__/",
-        "competition": "Brazil. Cup",
-        "date_time": "12 March at 23:00",
-        "parsed_datetime": "2026-03-12T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Jacuipense",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6342.gif"
-            },
-            {
-                "team_name": "Santa Catarina",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/37023.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.632622"
+        "last_updated": "2026-03-12T09:10:48.130597"
     },
     "350068419": {
         "matchup": "Operario MS – Vila Nova",
@@ -5589,48 +5573,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.709808"
+        "last_updated": "2026-03-12T09:10:48.204150"
     },
-    "347466190": {
-        "matchup": "Rio Cuarto – Belgrano",
-        "event_url": "https://livetv.sx/enx/eventinfo/347466190__/",
-        "competition": "Argentina. Liga Profesional",
-        "date_time": "12 March at 23:15",
-        "parsed_datetime": "2026-03-12T23:15:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Rio Cuarto",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10222.gif"
-            },
-            {
-                "team_name": "Belgrano",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1075.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.798924"
-    },
-    "350632016": {
-        "matchup": "Sousa – CRB",
-        "event_url": "https://livetv.sx/enx/eventinfo/350632016__/",
+    "350068441": {
+        "matchup": "Jacuipense – Santa Catarina",
+        "event_url": "https://livetv.sx/enx/eventinfo/350068441__/",
         "competition": "Brazil. Cup",
-        "date_time": "12 March at 23:30",
-        "parsed_datetime": "2026-03-12T23:30:00",
+        "date_time": "12 March at 23:00",
+        "parsed_datetime": "2026-03-12T23:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Sousa",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6515.gif"
+                "team_name": "Jacuipense",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6342.gif"
             },
             {
-                "team_name": "CRB",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1047.gif"
+                "team_name": "Santa Catarina",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/37023.gif"
             }
         ],
         "streams": [],
@@ -5639,7 +5598,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.872717"
+        "last_updated": "2026-03-12T09:10:48.251135"
     },
     "347466189": {
         "matchup": "Talleres de Cordoba – Instituto",
@@ -5664,7 +5623,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.879587"
+        "last_updated": "2026-03-12T09:10:48.299375"
+    },
+    "347466190": {
+        "matchup": "Rio Cuarto – Belgrano",
+        "event_url": "https://livetv.sx/enx/eventinfo/347466190__/",
+        "competition": "Argentina. Liga Profesional",
+        "date_time": "12 March at 23:15",
+        "parsed_datetime": "2026-03-12T23:15:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Rio Cuarto",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10222.gif"
+            },
+            {
+                "team_name": "Belgrano",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1075.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:48.384779"
+    },
+    "350632016": {
+        "matchup": "Sousa – CRB",
+        "event_url": "https://livetv.sx/enx/eventinfo/350632016__/",
+        "competition": "Brazil. Cup",
+        "date_time": "12 March at 23:30",
+        "parsed_datetime": "2026-03-12T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sousa",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6515.gif"
+            },
+            {
+                "team_name": "CRB",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1047.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:48.430353"
     },
     "349631828": {
         "matchup": "Maranhao – Ceara",
@@ -5689,7 +5698,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.919398"
+        "last_updated": "2026-03-12T09:10:48.635835"
     },
     "347466380": {
         "matchup": "Vasco de Gama – Palmeiras",
@@ -5714,32 +5723,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:50.959715"
-    },
-    "351358916": {
-        "matchup": "Operario FEC – Capital TO",
-        "event_url": "https://livetv.sx/enx/eventinfo/351358916__/",
-        "competition": "Brazil. Cup",
-        "date_time": "12 March at 23:30",
-        "parsed_datetime": "2026-03-12T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Operario FEC",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6281.gif"
-            },
-            {
-                "team_name": "Capital TO",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/37384.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-12T08:02:51.006946"
+        "last_updated": "2026-03-12T09:10:48.682411"
     },
     "350068423": {
         "matchup": "Capital TO – Operario FEC",
@@ -5764,6 +5748,31 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-12T08:02:51.270448"
+        "last_updated": "2026-03-12T09:10:48.740063"
+    },
+    "351358916": {
+        "matchup": "Operario FEC – Capital TO",
+        "event_url": "https://livetv.sx/enx/eventinfo/351358916__/",
+        "competition": "Brazil. Cup",
+        "date_time": "12 March at 23:30",
+        "parsed_datetime": "2026-03-12T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Operario FEC",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6281.gif"
+            },
+            {
+                "team_name": "Capital TO",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/37384.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-12T09:10:48.829173"
     }
 }
