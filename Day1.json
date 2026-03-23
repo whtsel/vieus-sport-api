@@ -5,7 +5,7 @@
         "competition": "Russia. First League",
         "date_time": "23 March at 15:30",
         "parsed_datetime": "2026-03-23T15:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Chelyabinsk",
@@ -16,13 +16,94 @@
                 "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30493.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=253113&lang=en&eid=359852578&lid=2980218&ci=65&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242346&lang=en&eid=359852578&lid=2980249&ci=65&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=251377&lang=en&eid=359852578&lid=2978113&ci=65&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=251378&lang=en&eid=359852578&lid=2978117&ci=65&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "34.",
+                "Daniil Golikov",
+                "(G)",
+                "66.",
+                "Yan Gudkov",
+                "11.",
+                "Georgy Gongadze",
+                "70.",
+                "Garrik Levin",
+                "77.",
+                "Denis Samoilov",
+                "02.",
+                "Aleksandr Zhirov",
+                "27.",
+                "Khetag Kochiev",
+                "88.",
+                "Wilfried Eza",
+                "91.",
+                "Ruslan Baytukov",
+                "10.",
+                "Ramazan Gadzhimuradov",
+                "46.",
+                "Nikita Pershin"
+            ],
+            "away_team": [
+                "25.",
+                "Rostislav Soldatenko",
+                "(G)",
+                "24.",
+                "Kirill Gotsuk",
+                "47.",
+                "Daniil Utkin",
+                "90.",
+                "Bojan Roganovic",
+                "07.",
+                "Aleksandr Yushin",
+                "27.",
+                "Aleksandr Orekhov",
+                "09.",
+                "Vladislav Shitov",
+                "33.",
+                "Mamadou Camara",
+                "66.",
+                "Sadyg Bagiev",
+                "77.",
+                "Konstantin Savichev",
+                "03.",
+                "Aleksandr Ivankov"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:22:59.840806"
+        "last_updated": "2026-03-23T14:39:08.554952"
     },
     "358217688": {
         "matchup": "East Bengal – Mohammedan",
@@ -30,7 +111,7 @@
         "competition": "India. Super League",
         "date_time": "23 March at 15:00",
         "parsed_datetime": "2026-03-23T15:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "East Bengal",
@@ -44,7 +125,7 @@
         "streams": [
             {
                 "language": "",
-                "flag_src": "/img/linkflag/0.png",
+                "flag_src": "/img/linkflag/18.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2981593&lang=en&eid=358217688&lid=2981593&ci=1258&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
@@ -104,232 +185,7 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:00.639141"
-    },
-    "359688350": {
-        "matchup": "Kyrgyzaltyn – Muras United",
-        "event_url": "https://livetv.sx/enx/eventinfo/359688350_kyrgyzaltyn_muras_united/",
-        "competition": "Kyrgyzstan. Premier League",
-        "date_time": "23 March at 15:00",
-        "parsed_datetime": "2026-03-23T15:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=okTklN2sBKE&lang=en&eid=359688350&lid=2981739&ci=3253&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:00.688212"
-    },
-    "352759508": {
-        "matchup": "Unirea Slobozia – Otelul Galati",
-        "event_url": "https://livetv.sx/enx/eventinfo/352759508__/",
-        "competition": "Romania. Liga 1",
-        "date_time": "23 March at 19:30",
-        "parsed_datetime": "2026-03-23T19:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Unirea Slobozia",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30241.gif"
-            },
-            {
-                "team_name": "Otelul Galati",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16594.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:00.949954"
-    },
-    "352940553": {
-        "matchup": "Estudiantes LP – Central Cordoba",
-        "event_url": "https://livetv.sx/enx/eventinfo/352940553__/",
-        "competition": "Argentina. Liga Profesional",
-        "date_time": "23 March at 23:00",
-        "parsed_datetime": "2026-03-23T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Estudiantes LP",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36876.gif"
-            },
-            {
-                "team_name": "Central Cordoba",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2983.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.003857"
-    },
-    "352940467": {
-        "matchup": "Nueva Chicago – Gimnasia y Tiro",
-        "event_url": "https://livetv.sx/enx/eventinfo/352940467__/",
-        "competition": "Argentina. Primera Nacional",
-        "date_time": "23 March at 20:00",
-        "parsed_datetime": "2026-03-23T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Nueva Chicago",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34549.gif"
-            },
-            {
-                "team_name": "Gimnasia y Tiro",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1182.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.067461"
-    },
-    "352892246": {
-        "matchup": "Castellon – Cultural Leonesa",
-        "event_url": "https://livetv.sx/enx/eventinfo/352892246__/",
-        "competition": "Spain. Segunda Division",
-        "date_time": "23 March at 20:30",
-        "parsed_datetime": "2026-03-23T20:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Castellon",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4480.gif"
-            },
-            {
-                "team_name": "Cultural Leonesa",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4461.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.192202"
-    },
-    "351309457": {
-        "matchup": "Mohammedan – East Bengal",
-        "event_url": "https://livetv.sx/enx/eventinfo/351309457__/",
-        "competition": "India. Super League",
-        "date_time": "23 March at 15:00",
-        "parsed_datetime": "2026-03-23T15:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Mohammedan",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/11185.gif"
-            },
-            {
-                "team_name": "East Bengal",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36443.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.284596"
-    },
-    "352823420": {
-        "matchup": "Maccabi Herzliya – Maccabi Jaffa",
-        "event_url": "https://livetv.sx/enx/eventinfo/352823420__/",
-        "competition": "Israel. Liga Leumit",
-        "date_time": "23 March at 18:00",
-        "parsed_datetime": "2026-03-23T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Maccabi Herzliya",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4981.gif"
-            },
-            {
-                "team_name": "Maccabi Jaffa",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35235.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.284608"
-    },
-    "351652709": {
-        "matchup": "Dock Sud – Villa San Carlos",
-        "event_url": "https://livetv.sx/enx/eventinfo/351652709__/",
-        "competition": "Argentina. Primera B Metropolitana",
-        "date_time": "23 March at 19:30",
-        "parsed_datetime": "2026-03-23T19:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Dock Sud",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10767.gif"
-            },
-            {
-                "team_name": "Villa San Carlos",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10523.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.319112"
-    },
-    "352823418": {
-        "matchup": "Nof HaGalil – Bnei Yehuda",
-        "event_url": "https://livetv.sx/enx/eventinfo/352823418__/",
-        "competition": "Israel. Liga Leumit",
-        "date_time": "23 March at 18:00",
-        "parsed_datetime": "2026-03-23T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Nof HaGalil",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2466.gif"
-            },
-            {
-                "team_name": "Bnei Yehuda",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/498.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.322407"
+        "last_updated": "2026-03-23T14:39:09.346149"
     },
     "359628606": {
         "matchup": "Portimonense U-23 –  Estoril Praia U-23",
@@ -348,13 +204,22 @@
                 "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9574.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2981750&lang=en&eid=359628606&lid=2981750&ci=2300&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.461809"
+        "last_updated": "2026-03-23T14:39:10.091191"
     },
     "359849795": {
         "matchup": "Yantra Gabrovo – Fratria",
@@ -379,57 +244,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.630342"
-    },
-    "352823422": {
-        "matchup": "Hapoel Raanana – Hapoel Afula",
-        "event_url": "https://livetv.sx/enx/eventinfo/352823422__/",
-        "competition": "Israel. Liga Leumit",
-        "date_time": "23 March at 18:00",
-        "parsed_datetime": "2026-03-23T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Hapoel Raanana",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/782.gif"
-            },
-            {
-                "team_name": "Hapoel Afula",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35233.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.777494"
-    },
-    "359535908": {
-        "matchup": "Santa Fe (W) –  Deportivo Cali (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/359535908__/",
-        "competition": "Colombia. Women. League Aguila",
-        "date_time": "23 March at 19:00",
-        "parsed_datetime": "2026-03-23T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Santa Fe (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16380.gif"
-            },
-            {
-                "team_name": "Deportivo Cali (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16385.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.844587"
+        "last_updated": "2026-03-23T14:39:10.800466"
     },
     "352822898": {
         "matchup": "Union Berlin (W) –  Werder Bremen (W)",
@@ -454,7 +269,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:01.898476"
+        "last_updated": "2026-03-23T14:39:11.545573"
+    },
+    "359535908": {
+        "matchup": "Santa Fe (W) –  Deportivo Cali (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/359535908__/",
+        "competition": "Colombia. Women. League Aguila",
+        "date_time": "23 March at 19:00",
+        "parsed_datetime": "2026-03-23T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Santa Fe (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16380.gif"
+            },
+            {
+                "team_name": "Deportivo Cali (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16385.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:12.314500"
     },
     "352856749": {
         "matchup": "Granada (W) –  Deportivo de La Coruna (W)",
@@ -479,7 +319,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.103218"
+        "last_updated": "2026-03-23T14:39:13.078547"
     },
     "352869009": {
         "matchup": "Boyaca Chico – Deportes Tolima",
@@ -504,7 +344,157 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.149259"
+        "last_updated": "2026-03-23T14:39:13.836498"
+    },
+    "359688350": {
+        "matchup": "Kyrgyzaltyn – Muras United",
+        "event_url": "https://livetv.sx/enx/eventinfo/359688350_kyrgyzaltyn_muras_united/",
+        "competition": "Kyrgyzstan. Premier League",
+        "date_time": "23 March at 15:00",
+        "parsed_datetime": "2026-03-23T15:00:00",
+        "is_live": true,
+        "team_logos": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=okTklN2sBKE&lang=en&eid=359688350&lid=2981739&ci=3253&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.336845"
+    },
+    "351652709": {
+        "matchup": "Dock Sud – Villa San Carlos",
+        "event_url": "https://livetv.sx/enx/eventinfo/351652709__/",
+        "competition": "Argentina. Primera B Metropolitana",
+        "date_time": "23 March at 19:30",
+        "parsed_datetime": "2026-03-23T19:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Dock Sud",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10767.gif"
+            },
+            {
+                "team_name": "Villa San Carlos",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10523.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.481947"
+    },
+    "352940467": {
+        "matchup": "Nueva Chicago – Gimnasia y Tiro",
+        "event_url": "https://livetv.sx/enx/eventinfo/352940467__/",
+        "competition": "Argentina. Primera Nacional",
+        "date_time": "23 March at 20:00",
+        "parsed_datetime": "2026-03-23T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Nueva Chicago",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34549.gif"
+            },
+            {
+                "team_name": "Gimnasia y Tiro",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1182.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.626901"
+    },
+    "352759508": {
+        "matchup": "Unirea Slobozia – Otelul Galati",
+        "event_url": "https://livetv.sx/enx/eventinfo/352759508__/",
+        "competition": "Romania. Liga 1",
+        "date_time": "23 March at 19:30",
+        "parsed_datetime": "2026-03-23T19:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Unirea Slobozia",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30241.gif"
+            },
+            {
+                "team_name": "Otelul Galati",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16594.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.787862"
+    },
+    "352940553": {
+        "matchup": "Estudiantes LP – Central Cordoba",
+        "event_url": "https://livetv.sx/enx/eventinfo/352940553__/",
+        "competition": "Argentina. Liga Profesional",
+        "date_time": "23 March at 23:00",
+        "parsed_datetime": "2026-03-23T23:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Estudiantes LP",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36876.gif"
+            },
+            {
+                "team_name": "Central Cordoba",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/2983.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.847708"
+    },
+    "352823422": {
+        "matchup": "Hapoel Raanana – Hapoel Afula",
+        "event_url": "https://livetv.sx/enx/eventinfo/352823422__/",
+        "competition": "Israel. Liga Leumit",
+        "date_time": "23 March at 18:00",
+        "parsed_datetime": "2026-03-23T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Hapoel Raanana",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/782.gif"
+            },
+            {
+                "team_name": "Hapoel Afula",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35233.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.847719"
     },
     "352880408": {
         "matchup": "Salernitana – Altamura",
@@ -529,48 +519,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.217760"
+        "last_updated": "2026-03-23T14:39:14.860839"
     },
-    "352930486": {
-        "matchup": "Santa Fe – Ind Medellin",
-        "event_url": "https://livetv.sx/enx/eventinfo/352930486__/",
-        "competition": "Colombia. Primera A",
-        "date_time": "23 March at 22:10",
-        "parsed_datetime": "2026-03-23T22:10:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Santa Fe",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1296.gif"
-            },
-            {
-                "team_name": "Ind Medellin",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34567.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.263338"
-    },
-    "352880412": {
-        "matchup": "Catania – Casarano",
-        "event_url": "https://livetv.sx/enx/eventinfo/352880412__/",
-        "competition": "Italy. Serie C. Group C",
+    "352892246": {
+        "matchup": "Castellon – Cultural Leonesa",
+        "event_url": "https://livetv.sx/enx/eventinfo/352892246__/",
+        "competition": "Spain. Segunda Division",
         "date_time": "23 March at 20:30",
         "parsed_datetime": "2026-03-23T20:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Catania",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30401.gif"
+                "team_name": "Castellon",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4480.gif"
             },
             {
-                "team_name": "Casarano",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8623.gif"
+                "team_name": "Cultural Leonesa",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4461.gif"
             }
         ],
         "streams": [],
@@ -579,7 +544,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.307343"
+        "last_updated": "2026-03-23T14:39:14.870135"
+    },
+    "351309457": {
+        "matchup": "Mohammedan – East Bengal",
+        "event_url": "https://livetv.sx/enx/eventinfo/351309457__/",
+        "competition": "India. Super League",
+        "date_time": "23 March at 15:00",
+        "parsed_datetime": "2026-03-23T15:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Mohammedan",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/11185.gif"
+            },
+            {
+                "team_name": "East Bengal",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36443.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.871703"
+    },
+    "352823420": {
+        "matchup": "Maccabi Herzliya – Maccabi Jaffa",
+        "event_url": "https://livetv.sx/enx/eventinfo/352823420__/",
+        "competition": "Israel. Liga Leumit",
+        "date_time": "23 March at 18:00",
+        "parsed_datetime": "2026-03-23T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Maccabi Herzliya",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4981.gif"
+            },
+            {
+                "team_name": "Maccabi Jaffa",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35235.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:14.898078"
     },
     "352880410": {
         "matchup": "Monopoli – Benevento",
@@ -604,7 +619,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.351173"
+        "last_updated": "2026-03-23T14:39:15.104188"
+    },
+    "352880412": {
+        "matchup": "Catania – Casarano",
+        "event_url": "https://livetv.sx/enx/eventinfo/352880412__/",
+        "competition": "Italy. Serie C. Group C",
+        "date_time": "23 March at 20:30",
+        "parsed_datetime": "2026-03-23T20:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Catania",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30401.gif"
+            },
+            {
+                "team_name": "Casarano",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8623.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:15.254954"
+    },
+    "352930486": {
+        "matchup": "Santa Fe – Ind Medellin",
+        "event_url": "https://livetv.sx/enx/eventinfo/352930486__/",
+        "competition": "Colombia. Primera A",
+        "date_time": "23 March at 22:10",
+        "parsed_datetime": "2026-03-23T22:10:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Santa Fe",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1296.gif"
+            },
+            {
+                "team_name": "Ind Medellin",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34567.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-23T14:39:15.387742"
     },
     "353247623": {
         "matchup": "Sportivo Trinidense – Recoleta",
@@ -629,7 +694,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.428043"
+        "last_updated": "2026-03-23T14:39:15.497954"
     },
     "352935075": {
         "matchup": "Guayaquil City – Leones Del Norte",
@@ -654,7 +719,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.529351"
+        "last_updated": "2026-03-23T14:39:15.576622"
     },
     "351653621": {
         "matchup": "Carabobo – Puerto Cabello",
@@ -679,6 +744,6 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-23T13:23:02.621935"
+        "last_updated": "2026-03-23T14:39:15.732046"
     }
 }
