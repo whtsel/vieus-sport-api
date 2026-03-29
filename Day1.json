@@ -1,36 +1,11 @@
 {
-    "355658507": {
-        "matchup": "Los Andes – Temperley",
-        "event_url": "https://livetv.sx/enx/eventinfo/355658507__/",
-        "competition": "Argentina. Primera Nacional",
-        "date_time": "29 March at 20:00",
-        "parsed_datetime": "2026-03-29T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Los Andes",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10576.gif"
-            },
-            {
-                "team_name": "Temperley",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1174.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:16.724530"
-    },
     "361510396": {
         "matchup": "Leiria – Pacos Ferreira",
         "event_url": "https://livetv.sx/enx/eventinfo/361510396_leiria_pacos_ferreira/",
         "competition": "Portugal. Segunda Liga",
         "date_time": "29 March at 16:30",
         "parsed_datetime": "2026-03-29T16:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Leiria",
@@ -64,107 +39,97 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:17.287812"
+        "last_updated": "2026-03-29T15:56:05.234452"
     },
-    "356954690": {
-        "matchup": "Juazeirense – Itabaiana",
-        "event_url": "https://livetv.sx/enx/eventinfo/356954690__/",
-        "competition": "Brazil. Copa do Nordeste",
-        "date_time": "29 March at 21:00",
-        "parsed_datetime": "2026-03-29T21:00:00",
+    "356253256": {
+        "matchup": "Leicester City (W) –  Brighton (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/356253256__/",
+        "competition": "England. Women. Super League",
+        "date_time": "29 March at 15:00",
+        "parsed_datetime": "2026-03-29T15:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Juazeirense",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36994.gif"
+                "team_name": "Leicester City (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9473.gif"
             },
             {
-                "team_name": "Itabaiana",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6876.gif"
+                "team_name": "Brighton (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7782.gif"
             }
         ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:17.738948"
-    },
-    "356461617": {
-        "matchup": "Confianca EC – Fluminense PI",
-        "event_url": "https://livetv.sx/enx/eventinfo/356461617__/",
-        "competition": "Brazil. Copa do Nordeste",
-        "date_time": "29 March at 22:00",
-        "parsed_datetime": "2026-03-29T22:00:00",
-        "is_live": false,
-        "team_logos": [
+        "streams": [
             {
-                "team_name": "Confianca EC",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6266.gif"
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=njqAFoREKLA&lang=en&eid=356253256&lid=2985758&ci=1451&si=1",
+                "stream_title": "",
+                "stream_type": ""
             },
             {
-                "team_name": "Fluminense PI",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/13086.gif"
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2670736&lang=en&eid=356253256&lid=2670736&ci=1451&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
             }
         ],
-        "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Janina Leitzig",
+                "(G)",
+                "11.",
+                "Alisha Lehmann",
+                "29.",
+                "Ashleigh Neville",
+                "31.",
+                "Chantelle Swaby",
+                "10.",
+                "Emma Jansson",
+                "21.",
+                "Hannah Cain",
+                "17.",
+                "Julie Thibaud",
+                "07.",
+                "Missy Goodwin",
+                "03.",
+                "Samantha Tierney",
+                "20.",
+                "Sarah Mayling",
+                "27.",
+                "Shannon O’Brien"
+            ],
+            "away_team": [
+                "01.",
+                "Chiamaka Nnadozie",
+                "(G)",
+                "21.",
+                "Madison Haley",
+                "11.",
+                "Kiko Seike",
+                "10.",
+                "Jelena Cankovic",
+                "14.",
+                "Fran Kirby",
+                "08.",
+                "Maisie Symonds",
+                "19.",
+                "Marisa Olislagers",
+                "03.",
+                "Moeka Minami",
+                "27.",
+                "Rachel McLauchlan",
+                "06.",
+                "Rosa Kafaji",
+                "18.",
+                "Caitlin Hayes"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:17.803347"
-    },
-    "356461166": {
-        "matchup": "Huracan – Olimpo",
-        "event_url": "https://livetv.sx/enx/eventinfo/356461166__/",
-        "competition": "Argentina. Cup",
-        "date_time": "29 March at 23:00",
-        "parsed_datetime": "2026-03-29T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Huracan",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/419.gif"
-            },
-            {
-                "team_name": "Olimpo",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/563.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:17.957680"
-    },
-    "361488156": {
-        "matchup": "Polanka – SFK Vrchovina",
-        "event_url": "https://livetv.sx/enx/eventinfo/361488156__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Polanka",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/22960.gif"
-            },
-            {
-                "team_name": "SFK Vrchovina",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6427.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.354782"
+        "last_updated": "2026-03-29T15:56:06.067835"
     },
     "356461615": {
         "matchup": "Piaui – Sousa",
@@ -189,7 +154,105 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.387153"
+        "last_updated": "2026-03-29T15:56:06.747823"
+    },
+    "356954690": {
+        "matchup": "Juazeirense – Itabaiana",
+        "event_url": "https://livetv.sx/enx/eventinfo/356954690__/",
+        "competition": "Brazil. Copa do Nordeste",
+        "date_time": "29 March at 21:00",
+        "parsed_datetime": "2026-03-29T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Juazeirense",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/36994.gif"
+            },
+            {
+                "team_name": "Itabaiana",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6876.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:06.994987"
+    },
+    "356259614": {
+        "matchup": "Hammarby (W) –  Rosengard (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/356259614__/",
+        "competition": "Sweden. Women. Damallsvenskan",
+        "date_time": "29 March at 15:00",
+        "parsed_datetime": "2026-03-29T15:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Hammarby (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5704.gif"
+            },
+            {
+                "team_name": "Rosengard (W)",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5718.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [
+                "28.",
+                "Melina Loeck",
+                "(G)",
+                "02.",
+                "Emilie Bragstad",
+                "06.",
+                "Elin Aahgren Soerum",
+                "16.",
+                "Svea Rehnberg",
+                "08.",
+                "Vilma Koivisto",
+                "07.",
+                "Emilie Marie Joramo",
+                "11.",
+                "Vivienne Lia",
+                "03.",
+                "Gudrun Arnardottir",
+                "15.",
+                "Sofia Reidy",
+                "18.",
+                "Alice Carlsson",
+                "25.",
+                "Fanny Peterson"
+            ],
+            "away_team": [
+                "01.",
+                "Moa Edrud",
+                "(G)",
+                "06.",
+                "Ria Oeling",
+                "50.",
+                "Filippa Sjoestroem",
+                "11.",
+                "Molly Johansson",
+                "44.",
+                "Jo-Anne Cronquist",
+                "23.",
+                "Anastasia Pobegailo",
+                "04.",
+                "Emma Pennsaeter",
+                "09.",
+                "Hanna Andersson",
+                "03.",
+                "Ran Iwai",
+                "10.",
+                "Remy Siemsen",
+                "15.",
+                "Cecily"
+            ]
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:07.103423"
     },
     "356510402": {
         "matchup": "Botafogo-PB – ASA",
@@ -214,39 +277,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.390915"
+        "last_updated": "2026-03-29T15:56:07.216150"
     },
-    "360967978": {
-        "matchup": "Niva Ternopol – Probiy",
-        "event_url": "https://livetv.sx/enx/eventinfo/360967978_niva_ternopol_probiy/",
-        "competition": "Ukraine. First League",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.415166"
-    },
-    "356461310": {
-        "matchup": "Deportivo Maipu – Godoy Cruz",
-        "event_url": "https://livetv.sx/enx/eventinfo/356461310__/",
-        "competition": "Argentina. Primera Nacional",
+    "356461617": {
+        "matchup": "Confianca EC – Fluminense PI",
+        "event_url": "https://livetv.sx/enx/eventinfo/356461617__/",
+        "competition": "Brazil. Copa do Nordeste",
         "date_time": "29 March at 22:00",
         "parsed_datetime": "2026-03-29T22:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Deportivo Maipu",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10446.gif"
+                "team_name": "Confianca EC",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6266.gif"
             },
             {
-                "team_name": "Godoy Cruz",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/424.gif"
+                "team_name": "Fluminense PI",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/13086.gif"
             }
         ],
         "streams": [],
@@ -255,7 +302,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.415183"
+        "last_updated": "2026-03-29T15:56:07.380113"
     },
     "356461613": {
         "matchup": "ABC – Sport Recife",
@@ -280,57 +327,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.583057"
+        "last_updated": "2026-03-29T15:56:07.380138"
     },
-    "361421643": {
-        "matchup": "Crystal Palace (W) –  Charlton Athletic (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/361421643__/",
-        "competition": "England. Women. Championship",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
+    "355658507": {
+        "matchup": "Los Andes – Temperley",
+        "event_url": "https://livetv.sx/enx/eventinfo/355658507__/",
+        "competition": "Argentina. Primera Nacional",
+        "date_time": "29 March at 20:00",
+        "parsed_datetime": "2026-03-29T20:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Crystal Palace (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9499.gif"
+                "team_name": "Los Andes",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10576.gif"
             },
             {
-                "team_name": "Charlton Athletic (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/11784.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=Pa2UXDoAfao&lang=en&eid=361421643&lid=2985008&ci=2481&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.664075"
-    },
-    "361509988": {
-        "matchup": "Macao MAC – Tanzania TZA",
-        "event_url": "https://livetv.sx/enx/eventinfo/361509988__/",
-        "competition": "Friendly Match. National Teams",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Macao MAC",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag121.gif"
-            },
-            {
-                "team_name": "Tanzania TZA",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag201.gif"
+                "team_name": "Temperley",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1174.gif"
             }
         ],
         "streams": [],
@@ -339,125 +352,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:18.981070"
+        "last_updated": "2026-03-29T15:56:07.385272"
     },
-    "361510767": {
-        "matchup": "Nottingham Forest (W) –  Durham (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510767__/",
-        "competition": "England. Women. Championship",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
+    "356461166": {
+        "matchup": "Huracan – Olimpo",
+        "event_url": "https://livetv.sx/enx/eventinfo/356461166__/",
+        "competition": "Argentina. Cup",
+        "date_time": "29 March at 23:00",
+        "parsed_datetime": "2026-03-29T23:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Nottingham Forest (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/20114.gif"
+                "team_name": "Huracan",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/419.gif"
             },
             {
-                "team_name": "Durham (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9931.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=KiCX56H2jpU&lang=en&eid=361510767&lid=2985551&ci=2481&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.035325"
-    },
-    "361510768": {
-        "matchup": "Bristol City (W) –  Birmingham City (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510768__/",
-        "competition": "England. Women. Championship",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bristol City (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7129.gif"
-            },
-            {
-                "team_name": "Birmingham City (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7781.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=yKkSrf4ulds&lang=en&eid=361510768&lid=2985552&ci=2481&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.163155"
-    },
-    "361510769": {
-        "matchup": "Sunderland (W) –  Newcastle United (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510769__/",
-        "competition": "England. Women. Championship",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Sunderland (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/17379.gif"
-            },
-            {
-                "team_name": "Newcastle United (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/28617.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=by7da1OTbvg&lang=en&eid=361510769&lid=2985553&ci=2481&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.357402"
-    },
-    "361510806": {
-        "matchup": "Frydlant Nad Ostravici – Novy Jicin",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510806__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Frydlant Nad Ostravici",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/21574.gif"
-            },
-            {
-                "team_name": "Novy Jicin",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16487.gif"
+                "team_name": "Olimpo",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/563.gif"
             }
         ],
         "streams": [],
@@ -466,57 +377,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.545493"
+        "last_updated": "2026-03-29T15:56:07.538818"
     },
-    "361510808": {
-        "matchup": "Bospor Bohumin – Sulko Zabreh",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510808__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
+    "356407693": {
+        "matchup": "Nueva Chicago – All Boys",
+        "event_url": "https://livetv.sx/enx/eventinfo/356407693__/",
+        "competition": "Argentina. Primera Nacional",
+        "date_time": "29 March at 20:30",
+        "parsed_datetime": "2026-03-29T20:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Bospor Bohumin",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16283.gif"
+                "team_name": "Nueva Chicago",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34549.gif"
             },
             {
-                "team_name": "Sulko Zabreh",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/35484.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985740&lang=en&eid=361510808&lid=2985740&ci=1829&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.862858"
-    },
-    "361510807": {
-        "matchup": "Zdirec – Zdar nad Sazavou",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510807__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Zdirec",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8478.gif"
-            },
-            {
-                "team_name": "Zdar nad Sazavou",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16285.gif"
+                "team_name": "All Boys",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10173.gif"
             }
         ],
         "streams": [],
@@ -525,697 +402,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.963513"
+        "last_updated": "2026-03-29T15:56:07.620893"
     },
-    "361510015": {
-        "matchup": "Tasovice – Spartak Velka Bites",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510015__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Tasovice",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8477.gif"
-            },
-            {
-                "team_name": "Spartak Velka Bites",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10022.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:19.963527"
-    },
-    "361510810": {
-        "matchup": "Trutnov – Hlinsko",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510810__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Trutnov",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/17314.gif"
-            },
-            {
-                "team_name": "Hlinsko",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/21857.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985741&lang=en&eid=361510810&lid=2985741&ci=1829&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:20.290110"
-    },
-    "361510809": {
-        "matchup": "Strani – Nove Sady",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510809__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Strani",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26750.gif"
-            },
-            {
-                "team_name": "Nove Sady",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/16490.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985725&lang=en&eid=361510809&lid=2985725&ci=1829&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:20.380904"
-    },
-    "361347779": {
-        "matchup": "Varnsdorf – Zapy",
-        "event_url": "https://livetv.sx/enx/eventinfo/361347779__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Varnsdorf",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3994.gif"
-            },
-            {
-                "team_name": "Zapy",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4282.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:20.517658"
-    },
-    "356230357": {
-        "matchup": "Lithuania LTU – Georgia GEO",
-        "event_url": "https://livetv.sx/enx/eventinfo/356230357__/",
-        "competition": "Friendly Match. National Teams",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Lithuania LTU",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag118.gif"
-            },
-            {
-                "team_name": "Georgia GEO",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag71.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Edvinas Gertmonas",
-                "(G)",
-                "14.",
-                "Armandas Kucys",
-                "03.",
-                "Edgaras Utkus",
-                "18.",
-                "Vilius Armalas",
-                "06.",
-                "Modestas Vorobjovas",
-                "07.",
-                "Motiejus Burba",
-                "11.",
-                "Gratas Sirgedas",
-                "17.",
-                "Pijus Sirvys",
-                "15.",
-                "Gvidas Gineitis",
-                "13.",
-                "Justas Lasickas",
-                "02.",
-                "Artemijus Tutyskinas"
-            ],
-            "away_team": [
-                "01.",
-                "Giorgi Mamardashvili",
-                "(G)",
-                "15.",
-                "Gizo Mamageishvili",
-                "16.",
-                "Irakli Azarovi",
-                "07.",
-                "Khvicha Kvaratskhelia",
-                "22.",
-                "Georges Mikautadze",
-                "02.",
-                "Luka Gadrani",
-                "03.",
-                "Lasha Dvali",
-                "14.",
-                "Ilia Beriashvili",
-                "06.",
-                "Anzor Mekvabishvili",
-                "09.",
-                "Zuriko Davitashvili",
-                "10.",
-                "Giorgi Chakvetadze"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:20.631132"
-    },
-    "361510811": {
-        "matchup": "Dalnice Sperice – Znojmo",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510811__/",
-        "competition": "Czech Republic. 4. Liga",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Dalnice Sperice",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/23003.gif"
-            },
-            {
-                "team_name": "Znojmo",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4276.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:20.636306"
-    },
-    "356231401": {
-        "matchup": "Malmoe (W) –  Uppsala (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/356231401__/",
-        "competition": "Sweden. Women. Damallsvenskan",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Malmoe (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/29695.gif"
-            },
-            {
-                "team_name": "Uppsala (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5723.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Zecira Musovic",
-                "(G)",
-                "09.",
-                "Miljana Ivanovic",
-                "10.",
-                "Izzy D’Aquila",
-                "06.",
-                "Nellie Lilja",
-                "13.",
-                "Emma Petrovic",
-                "05.",
-                "Wilma Carlsson",
-                "04.",
-                "Ellen Loefqvist",
-                "02.",
-                "Nathalie Hoff Persson",
-                "23.",
-                "Sara Kanutte Fornes",
-                "16.",
-                "Tuva Skoog",
-                "11.",
-                "Vesna Milivojevic"
-            ],
-            "away_team": [
-                "01.",
-                "Matilda Nurmi",
-                "(G)",
-                "09.",
-                "Nicole Robertson",
-                "19.",
-                "Aelvali Lindstroem",
-                "20.",
-                "Saga Fredgren",
-                "16.",
-                "Sabina Ravnell",
-                "12.",
-                "Amanda Sundstroem",
-                "08.",
-                "Tora Lindskog",
-                "05.",
-                "Cecilia Ek",
-                "24.",
-                "Thindra Mattsson",
-                "23.",
-                "Ebba Ronquist",
-                "18.",
-                "Julia Ragnarsson"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:20.987874"
-    },
-    "356226778": {
-        "matchup": "Vikingur Reykjavik – Vestri",
-        "event_url": "https://livetv.sx/enx/eventinfo/356226778__/",
-        "competition": "Iceland. Super Cup",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Vikingur Reykjavik",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/752.gif"
-            },
-            {
-                "team_name": "Vestri",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5259.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.043716"
-    },
-    "356231403": {
-        "matchup": "Haecken (W) –  Brommapojkarna (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/356231403__/",
-        "competition": "Sweden. Women. Damallsvenskan",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Haecken (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/13795.gif"
-            },
-            {
-                "team_name": "Brommapojkarna (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5702.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Fanney Birkisdottir",
-                "(G)",
-                "12.",
-                "Stine Sandbech",
-                "11.",
-                "Monica Jusu Bah",
-                "10.",
-                "Anna Anvegaard",
-                "07.",
-                "Pernille Sanvig",
-                "09.",
-                "Felicia Schroeder",
-                "27.",
-                "Thelma Palmadottir",
-                "28.",
-                "Halimatu Ayinde",
-                "04.",
-                "Emma Oestlund",
-                "15.",
-                "Alva Selerud",
-                "19.",
-                "Nesrin Akguen"
-            ],
-            "away_team": [
-                "01.",
-                "Clara Ekstrand",
-                "(G)",
-                "04.",
-                "Julia Laukstroem",
-                "03.",
-                "Ida Garmfors",
-                "18.",
-                "Ida Bengtsson",
-                "16.",
-                "Ellen Gibson",
-                "08.",
-                "Johanna Svedberg",
-                "14.",
-                "Frida Thoernqvist",
-                "02.",
-                "Amanda Wulff",
-                "10.",
-                "Louise Lillbaeck",
-                "07.",
-                "Vera Blom",
-                "21.",
-                "Adelina Engman"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.162308"
-    },
-    "356231402": {
-        "matchup": "Djurgarden (W) –  Vaexjoe (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/356231402__/",
-        "competition": "Sweden. Women. Damallsvenskan",
-        "date_time": "29 March at 14:00",
-        "parsed_datetime": "2026-03-29T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Djurgarden (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5724.gif"
-            },
-            {
-                "team_name": "Vaexjoe (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5726.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "35.",
-                "Anna Koivunen",
-                "(G)",
-                "09.",
-                "Johanna Renmark",
-                "18.",
-                "Elin Westlund",
-                "03.",
-                "Alexsandra Lobanova",
-                "24.",
-                "Selma Larsen Svendsen",
-                "32.",
-                "Fabienne Bartholdson",
-                "10.",
-                "Maria Olafsdottir",
-                "08.",
-                "Elsa Pelgander",
-                "23.",
-                "Urara Watanabe",
-                "11.",
-                "Therese Sessy Aasland",
-                "21.",
-                "Meja Staffansson"
-            ],
-            "away_team": [
-                "01.",
-                "Maja Bay Oestergaard",
-                "(G)",
-                "18.",
-                "Helmi Raijas",
-                "17.",
-                "Saga Swedman",
-                "15.",
-                "Mariann Hoegh Nielsen",
-                "26.",
-                "Suzu Amano",
-                "08.",
-                "Maja Bodin",
-                "33.",
-                "Elin Nilsson",
-                "29.",
-                "Tilda Sanden",
-                "04.",
-                "Alice Broman",
-                "07.",
-                "Nellie Karlsson",
-                "11.",
-                "Sophia Redenstrand"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.240742"
-    },
-    "361510799": {
-        "matchup": "Chile U-20 –  Peru U-20",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510799__/",
-        "competition": "Friendly Match U-20. National Teams",
-        "date_time": "29 March at 14:30",
-        "parsed_datetime": "2026-03-29T14:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Chile U-20",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag36.gif"
-            },
-            {
-                "team_name": "Peru U-20",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag154.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.408059"
-    },
-    "361509877": {
-        "matchup": "Chernomorets – Rotor",
-        "event_url": "https://livetv.sx/enx/eventinfo/361509877__/",
-        "competition": "Russia. First League",
-        "date_time": "29 March at 14:30",
-        "parsed_datetime": "2026-03-29T14:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Chernomorets",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6014.gif"
-            },
-            {
-                "team_name": "Rotor",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3945.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Russian",
-                "flag_src": "/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=237992&lang=en&eid=361509877&lid=2984047&ci=65&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Russian",
-                "flag_src": "/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=4b7c5f21b435d79c823e47572655a9c157a3ba12&lang=en&eid=361509877&lid=2844043&ci=65&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "73.",
-                "Mikhail Shtepa",
-                "(G)",
-                "10.",
-                "Ilya Zhigulev",
-                "44.",
-                "Ilya Kukharchuk",
-                "11.",
-                "Igor Konovalov",
-                "17.",
-                "Grigori Zhilkin",
-                "99.",
-                "Kirill Morozov",
-                "03.",
-                "Zaurbek Pliev",
-                "08.",
-                "Zaur Tarba",
-                "18.",
-                "Oleg Nikolaev",
-                "91.",
-                "Kirill Suslov",
-                "98.",
-                "Aleksandr Khubulov"
-            ],
-            "away_team": [
-                "13.",
-                "Nikita Chagrov",
-                "(G)",
-                "17.",
-                "Gleb Shilnikov",
-                "33.",
-                "Yaroslav Arbuzov",
-                "05.",
-                "Alexander Troshechkin",
-                "11.",
-                "Alexander Kleshenko",
-                "07.",
-                "Ilya Safronov",
-                "80.",
-                "Vyacheslav Bardybahin",
-                "06.",
-                "Sergey Makarov",
-                "97.",
-                "Nikolay Pokidyshev",
-                "18.",
-                "Maksim Kaynov",
-                "77.",
-                "Abu-Said Eldarushev"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.676929"
-    },
-    "361510398": {
-        "matchup": "Chernomorets – Dunav",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510398__/",
-        "competition": "Bulgaria. Second PFL",
-        "date_time": "29 March at 14:30",
-        "parsed_datetime": "2026-03-29T14:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Chernomorets",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26754.gif"
-            },
-            {
-                "team_name": "Dunav",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34834.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Bulgarian",
-                "flag_src": "/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2983716&lang=en&eid=361510398&lid=2983716&ci=2040&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Bulgarian",
-                "flag_src": "/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985619&lang=en&eid=361510398&lid=2985619&ci=2040&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.697904"
-    },
-    "356259614": {
-        "matchup": "Hammarby (W) –  Rosengard (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/356259614__/",
-        "competition": "Sweden. Women. Damallsvenskan",
+    "356227682": {
+        "matchup": "South Sudan – Djibouti DJI",
+        "event_url": "https://livetv.sx/enx/eventinfo/356227682__/",
+        "competition": "Africa Cup of Nations. Qualification",
         "date_time": "29 March at 15:00",
         "parsed_datetime": "2026-03-29T15:00:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
-                "team_name": "Hammarby (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5704.gif"
+                "team_name": "South Sudan",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag245.gif"
             },
             {
-                "team_name": "Rosengard (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5718.gif"
+                "team_name": "Djibouti DJI",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag51.gif"
             }
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [
-                "28.",
-                "Melina Loeck",
-                "(G)",
-                "06.",
-                "Elin Aahgren Soerum",
-                "16.",
-                "Svea Rehnberg",
-                "25.",
-                "Fanny Peterson",
-                "11.",
-                "Vivienne Lia",
-                "18.",
-                "Alice Carlsson",
-                "07.",
-                "Emilie Marie Joramo",
-                "02.",
-                "Emilie Bragstad",
-                "15.",
-                "Sofia Reidy",
-                "08.",
-                "Vilma Koivisto",
-                "03.",
-                "Gudrun Arnardottir"
-            ],
-            "away_team": [
-                "01.",
-                "Moa Edrud",
-                "(G)",
-                "03.",
-                "Ran Iwai",
-                "04.",
-                "Emma Pennsaeter",
-                "11.",
-                "Molly Johansson",
-                "15.",
-                "Cecily",
-                "06.",
-                "Ria Oeling",
-                "10.",
-                "Remy Siemsen",
-                "50.",
-                "Filippa Sjoestroem",
-                "44.",
-                "Jo-Anne Cronquist",
-                "23.",
-                "Anastasia Pobegailo",
-                "09.",
-                "Hanna Andersson"
-            ]
+            "home_team": [],
+            "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:21.840347"
+        "last_updated": "2026-03-29T15:56:07.685238"
     },
     "356254390": {
         "matchup": "Wolfsburg (W) –  Union Berlin (W)",
@@ -1305,170 +517,55 @@
                 "01.",
                 "Stina Johannes",
                 "(G)",
-                "15.",
-                "Janou Levels",
-                "06.",
-                "Janina Minge",
-                "02.",
-                "Thea Bjelde",
-                "05.",
-                "Ella Peddemors",
                 "38.",
                 "Anny Kerim",
-                "20.",
-                "Guro Bergsvand",
                 "28.",
                 "Cora Zicai",
-                "33.",
-                "Judit Pujols",
+                "05.",
+                "Ella Peddemors",
+                "20.",
+                "Guro Bergsvand",
+                "06.",
+                "Janina Minge",
+                "15.",
+                "Janou Levels",
                 "24.",
                 "Joelle Wedemeyer",
+                "33.",
+                "Judit Pujols",
                 "10.",
-                "Svenja Huth"
+                "Svenja Huth",
+                "02.",
+                "Thea Bjelde"
             ],
             "away_team": [
                 "28.",
                 "Nadine Boehi",
                 "(G)",
-                "26.",
-                "Amber Tysiak",
-                "07.",
-                "Lisa Heiseler",
-                "09.",
-                "Sophie Weidauer",
                 "14.",
                 "Hannah Eurlings",
-                "31.",
-                "Tanja Pawollek",
-                "41.",
-                "Lia Kamber",
                 "10.",
                 "Eileen Campbell",
-                "19.",
-                "Samantha Steuerwald",
                 "17.",
                 "Judith Steinert",
-                "21.",
-                "Anna Weiss"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.112467"
-    },
-    "356227682": {
-        "matchup": "South Sudan – Djibouti DJI",
-        "event_url": "https://livetv.sx/enx/eventinfo/356227682__/",
-        "competition": "Africa Cup of Nations. Qualification",
-        "date_time": "29 March at 15:00",
-        "parsed_datetime": "2026-03-29T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "South Sudan",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag245.gif"
-            },
-            {
-                "team_name": "Djibouti DJI",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag51.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.220603"
-    },
-    "356253256": {
-        "matchup": "Leicester City (W) –  Brighton (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/356253256__/",
-        "competition": "England. Women. Super League",
-        "date_time": "29 March at 15:00",
-        "parsed_datetime": "2026-03-29T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Leicester City (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/9473.gif"
-            },
-            {
-                "team_name": "Brighton (W)",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7782.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=njqAFoREKLA&lang=en&eid=356253256&lid=2985758&ci=1451&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "English",
-                "flag_src": "/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2670736&lang=en&eid=356253256&lid=2670736&ci=1451&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Janina Leitzig",
-                "(G)",
-                "17.",
-                "Julie Thibaud",
-                "31.",
-                "Chantelle Swaby",
-                "29.",
-                "Ashleigh Neville",
-                "20.",
-                "Sarah Mayling",
-                "27.",
-                "Shannon O’Brien",
-                "21.",
-                "Hannah Cain",
-                "11.",
-                "Alisha Lehmann",
-                "10.",
-                "Emma Jansson",
+                "41.",
+                "Lia Kamber",
                 "07.",
-                "Missy Goodwin",
-                "03.",
-                "Samantha Tierney"
-            ],
-            "away_team": [
-                "01.",
-                "Chiamaka Nnadozie",
-                "(G)",
-                "18.",
-                "Caitlin Hayes",
+                "Lisa Heiseler",
                 "19.",
-                "Marisa Olislagers",
-                "27.",
-                "Rachel McLauchlan",
-                "06.",
-                "Rosa Kafaji",
-                "08.",
-                "Maisie Symonds",
-                "10.",
-                "Jelena Cankovic",
-                "14.",
-                "Fran Kirby",
-                "11.",
-                "Kiko Seike",
-                "03.",
-                "Moeka Minami",
+                "Samantha Steuerwald",
+                "09.",
+                "Sophie Weidauer",
                 "21.",
-                "Madison Haley"
+                "Anna Weiss",
+                "26.",
+                "Amber Tysiak",
+                "31.",
+                "Tanja Pawollek"
             ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.237235"
+        "last_updated": "2026-03-29T15:56:07.812390"
     },
     "356230593": {
         "matchup": "Progreso – Liverpool M",
@@ -1476,7 +573,7 @@
         "competition": "Uruguay. Primera Division",
         "date_time": "29 March at 15:00",
         "parsed_datetime": "2026-03-29T15:00:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Progreso",
@@ -1493,7 +590,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.538729"
+        "last_updated": "2026-03-29T15:56:07.949795"
     },
     "356258556": {
         "matchup": "Armenia ARM – Belarus BLR",
@@ -1583,10 +680,6 @@
                 "16.",
                 "Henri Avagyan",
                 "(G)",
-                "13.",
-                "Kamo Hovhannisyan",
-                "20.",
-                "Junior Bueno",
                 "21.",
                 "Nair Tiknizyan",
                 "06.",
@@ -1595,12 +688,16 @@
                 "Narek Hovhannisyan",
                 "15.",
                 "Karen Nalbandyan",
-                "04.",
-                "Georgiy Arutiunian",
                 "23.",
                 "Vahan Bichakhchyan",
                 "17.",
                 "Grant-Leon Ranos",
+                "04.",
+                "Georgiy Arutiunian",
+                "13.",
+                "Kamo Hovhannisyan",
+                "20.",
+                "Junior Bueno",
                 "02.",
                 "Sergey Muradyan"
             ],
@@ -1608,18 +705,10 @@
                 "12.",
                 "Pavel Pavlyuchenko",
                 "(G)",
-                "19.",
-                "Yuri Kovalev",
-                "18.",
-                "Vladislav Morozov",
-                "07.",
-                "Artem Shumanskiy",
-                "14.",
-                "Evgeniy Yablonski",
                 "02.",
                 "Kiril Pechenin",
-                "05.",
-                "Egor Parkhomenko",
+                "03.",
+                "Pavel Zabelin",
                 "06.",
                 "Roman Begunov",
                 "20.",
@@ -1627,11 +716,19 @@
                 "09.",
                 "Max Ebong",
                 "10.",
-                "Valeri Gromyko"
+                "Valeri Gromyko",
+                "14.",
+                "Evgeniy Yablonski",
+                "07.",
+                "Artem Shumanskiy",
+                "18.",
+                "Vladislav Morozov",
+                "19.",
+                "Yuri Kovalev"
             ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.674235"
+        "last_updated": "2026-03-29T15:56:08.151110"
     },
     "356284931": {
         "matchup": "Athletic Bilbao (W) –  Atletico Madrid (W)",
@@ -1656,24 +753,24 @@
                 "13.",
                 "Adriana Nanclares",
                 "(G)",
-                "23.",
-                "Eider Arana",
-                "20.",
-                "Ane Elexpuru",
                 "18.",
                 "Sara Ortega",
-                "17.",
-                "Nerea Nevado",
-                "08.",
-                "Maite Zubieta",
-                "03.",
-                "Naia Landaluze",
+                "23.",
+                "Eider Arana",
+                "15.",
+                "Clara Pinedo",
+                "20.",
+                "Ane Elexpuru",
                 "11.",
                 "Ane Azkona",
                 "07.",
                 "Jone Amezaga",
-                "15.",
-                "Clara Pinedo",
+                "17.",
+                "Nerea Nevado",
+                "03.",
+                "Naia Landaluze",
+                "08.",
+                "Maite Zubieta",
                 "05.",
                 "Maite Valero"
             ],
@@ -1681,30 +778,30 @@
                 "01.",
                 "Lola Gallardo",
                 "(G)",
+                "04.",
+                "Lauren",
+                "21.",
+                "Fiamma Benitez",
+                "03.",
+                "Andrea Medina",
+                "20.",
+                "Amaiur Sarriegi",
+                "06.",
+                "Vilde Boee Risa",
                 "07.",
                 "Synne Jensen",
+                "14.",
+                "Rosa Otermin",
                 "27.",
                 "Natalia Penalvo",
                 "23.",
                 "Alexia Fernandez",
-                "20.",
-                "Amaiur Sarriegi",
-                "21.",
-                "Fiamma Benitez",
-                "14.",
-                "Rosa Otermin",
-                "06.",
-                "Vilde Boee Risa",
                 "05.",
-                "Xenia Perez",
-                "04.",
-                "Lauren",
-                "03.",
-                "Andrea Medina"
+                "Xenia Perez"
             ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.976351"
+        "last_updated": "2026-03-29T15:56:08.279591"
     },
     "356269113": {
         "matchup": "Cultural Leonesa – FC Andorra",
@@ -1746,24 +843,24 @@
                 "13.",
                 "Edgar Badia",
                 "(G)",
-                "07.",
-                "Diego Collado",
-                "12.",
-                "Homam Elamin",
-                "17.",
-                "Ivan Calero",
-                "22.",
-                "Nemanja Radoja",
-                "10.",
-                "Luis Chacon",
-                "24.",
-                "Victor Garcia",
                 "36.",
                 "Matia Barzic",
-                "02.",
-                "Peru Rodriguez",
+                "10.",
+                "Luis Chacon",
                 "15.",
                 "Lucas Ribeiro",
+                "17.",
+                "Ivan Calero",
+                "12.",
+                "Homam Elamin",
+                "07.",
+                "Diego Collado",
+                "22.",
+                "Nemanja Radoja",
+                "02.",
+                "Peru Rodriguez",
+                "24.",
+                "Victor Garcia",
                 "21.",
                 "Roger Hinojo"
             ],
@@ -1771,30 +868,55 @@
                 "13.",
                 "Jesus Owono",
                 "(G)",
-                "06.",
-                "Daniel Villahermosa",
-                "18.",
-                "Marc Domenech",
-                "24.",
-                "Theo Le Normand",
-                "11.",
-                "Lauti",
                 "16.",
                 "Jastin Garcia",
-                "21.",
-                "Josep Cerda",
-                "23.",
-                "Diego Alende",
-                "20.",
-                "Marti Vila",
                 "04.",
                 "Gael Alonso",
+                "23.",
+                "Diego Alende",
+                "06.",
+                "Daniel Villahermosa",
+                "21.",
+                "Josep Cerda",
+                "11.",
+                "Lauti",
                 "17.",
-                "Thomas Carrique"
+                "Thomas Carrique",
+                "24.",
+                "Theo Le Normand",
+                "20.",
+                "Marti Vila",
+                "18.",
+                "Marc Domenech"
             ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:22.993724"
+        "last_updated": "2026-03-29T15:56:08.392526"
+    },
+    "361510382": {
+        "matchup": "El Geish – Wadi Degla",
+        "event_url": "https://livetv.sx/enx/eventinfo/361510382__/",
+        "competition": "Egypt. League Cup",
+        "date_time": "29 March at 16:00",
+        "parsed_datetime": "2026-03-29T16:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "El Geish",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30215.gif"
+            },
+            {
+                "team_name": "Wadi Degla",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1546.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:08.500662"
     },
     "339763167": {
         "matchup": "Amarante – Academica",
@@ -1828,32 +950,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:23.430979"
+        "last_updated": "2026-03-29T15:56:08.612532"
     },
-    "361510382": {
-        "matchup": "El Geish – Wadi Degla",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510382__/",
-        "competition": "Egypt. League Cup",
-        "date_time": "29 March at 16:00",
-        "parsed_datetime": "2026-03-29T16:00:00",
+    "356301689": {
+        "matchup": "Vis Pesaro – Perugia",
+        "event_url": "https://livetv.sx/enx/eventinfo/356301689__/",
+        "competition": "Italy. Serie C. Group B",
+        "date_time": "29 March at 16:30",
+        "parsed_datetime": "2026-03-29T16:30:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "El Geish",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30215.gif"
+                "team_name": "Vis Pesaro",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7826.gif"
             },
             {
-                "team_name": "Wadi Degla",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1546.gif"
+                "team_name": "Perugia",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3916.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Italian",
+                "flag_src": "/img/linkflag/12.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2983715&lang=en&eid=356301689&lid=2983715&ci=2321&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:23.437896"
+        "last_updated": "2026-03-29T15:56:08.871553"
     },
     "361510401": {
         "matchup": "Orijent – Rudes",
@@ -1861,7 +992,7 @@
         "competition": "Croatia. Prva NL",
         "date_time": "29 March at 16:30",
         "parsed_datetime": "2026-03-29T16:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Orijent",
@@ -1895,7 +1026,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:23.445570"
+        "last_updated": "2026-03-29T15:56:08.974978"
     },
     "356301693": {
         "matchup": "Campobasso – Guidonia Montecelio",
@@ -1903,7 +1034,7 @@
         "competition": "Italy. Serie C. Group B",
         "date_time": "29 March at 16:30",
         "parsed_datetime": "2026-03-29T16:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Campobasso",
@@ -1929,75 +1060,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:23.911199"
-    },
-    "356301689": {
-        "matchup": "Vis Pesaro – Perugia",
-        "event_url": "https://livetv.sx/enx/eventinfo/356301689__/",
-        "competition": "Italy. Serie C. Group B",
-        "date_time": "29 March at 16:30",
-        "parsed_datetime": "2026-03-29T16:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Vis Pesaro",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/7826.gif"
-            },
-            {
-                "team_name": "Perugia",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3916.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Italian",
-                "flag_src": "/img/linkflag/12.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2983715&lang=en&eid=356301689&lid=2983715&ci=2321&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.014474"
-    },
-    "356301691": {
-        "matchup": "Forli – Pianese",
-        "event_url": "https://livetv.sx/enx/eventinfo/356301691__/",
-        "competition": "Italy. Serie C. Group B",
-        "date_time": "29 March at 16:30",
-        "parsed_datetime": "2026-03-29T16:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Forli",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10202.gif"
-            },
-            {
-                "team_name": "Pianese",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10192.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Italian",
-                "flag_src": "/img/linkflag/12.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985012&lang=en&eid=356301691&lid=2985012&ci=2321&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.014488"
+        "last_updated": "2026-03-29T15:56:09.111255"
     },
     "356301741": {
         "matchup": "Casarano – Giugliano",
@@ -2005,7 +1068,7 @@
         "competition": "Italy. Serie C. Group C",
         "date_time": "29 March at 16:30",
         "parsed_datetime": "2026-03-29T16:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Casarano",
@@ -2031,7 +1094,99 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.014495"
+        "last_updated": "2026-03-29T15:56:09.111269"
+    },
+    "356301691": {
+        "matchup": "Forli – Pianese",
+        "event_url": "https://livetv.sx/enx/eventinfo/356301691__/",
+        "competition": "Italy. Serie C. Group B",
+        "date_time": "29 March at 16:30",
+        "parsed_datetime": "2026-03-29T16:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Forli",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10202.gif"
+            },
+            {
+                "team_name": "Pianese",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10192.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Italian",
+                "flag_src": "/img/linkflag/12.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985012&lang=en&eid=356301691&lid=2985012&ci=2321&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:09.330798"
+    },
+    "356227684": {
+        "matchup": "Lesotho LSO – Seychelles SYC",
+        "event_url": "https://livetv.sx/enx/eventinfo/356227684__/",
+        "competition": "Africa Cup of Nations. Qualification",
+        "date_time": "29 March at 17:00",
+        "parsed_datetime": "2026-03-29T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Lesotho LSO",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag117.gif"
+            },
+            {
+                "team_name": "Seychelles SYC",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag185.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:09.541330"
+    },
+    "361510889": {
+        "matchup": "Wrexham (W) – Cardiff City (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/361510889_wrexham_w_cardiff_city_w/",
+        "competition": "Wales. Women. Adran Premier",
+        "date_time": "29 March at 17:10",
+        "parsed_datetime": "2026-03-29T17:10:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=4W2BxaaSsCM&lang=en&eid=361510889&lid=2985557&ci=7059&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=iqfqHJzgkbQ&lang=en&eid=361510889&lid=2985558&ci=7059&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:09.578701"
     },
     "361509989": {
         "matchup": "Aruba ABW – Liechtenstein LIE",
@@ -2052,11 +1207,59 @@
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Matthew Lentink",
+                "(G)",
+                "04.",
+                "Bradley Martis",
+                "05.",
+                "Kymani Nedd",
+                "20.",
+                "Gianni Vandepitte",
+                "16.",
+                "Gello Robertha",
+                "06.",
+                "Rovien Ostiana",
+                "08.",
+                "Walter Bennett",
+                "14.",
+                "Quinlan Poulina",
+                "15.",
+                "Gladwin Curiel",
+                "09.",
+                "Carlito Fermina",
+                "10.",
+                "Jaybrien Romano"
+            ],
+            "away_team": [
+                "01.",
+                "Benjamin Buechel",
+                "(G)",
+                "19.",
+                "Emanuel Zund",
+                "09.",
+                "Ferhat Saglam",
+                "07.",
+                "Fabio Luque Notaro",
+                "18.",
+                "Nicolas Hasler",
+                "03.",
+                "Maximilian Goppel",
+                "04.",
+                "Lars Traber",
+                "10.",
+                "Alessio Hasler",
+                "23.",
+                "Jens Hofer",
+                "08.",
+                "Aron Sele",
+                "14.",
+                "Livio Meier"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.222379"
+        "last_updated": "2026-03-29T15:56:09.597367"
     },
     "361509878": {
         "matchup": "Rodina – Ural",
@@ -2110,27 +1313,59 @@
             }
         ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "13.",
+                "Sergey Volkov",
+                "(G)",
+                "55.",
+                "Mitja Krizan",
+                "88.",
+                "Artem Sokol",
+                "99.",
+                "Ivan Timoshenko",
+                "49.",
+                "Ilya Dyatlov",
+                "18.",
+                "Magomedkhabib",
+                "26.",
+                "Artem Meshchaninov",
+                "05.",
+                "Andrey Egorychev",
+                "06.",
+                "Ruslan Fishchenko",
+                "09.",
+                "Artem Maksimenko",
+                "10.",
+                "Yordy Reyna"
+            ],
+            "away_team": [
+                "86.",
+                "Ivan Kuznetsov",
+                "(G)",
+                "06.",
+                "Fanil Sungatulin",
+                "59.",
+                "Evgeni Kharin",
+                "10.",
+                "Martin Sekulic",
+                "13.",
+                "Roman Akbashev",
+                "14.",
+                "Yuri Zheleznov",
+                "16.",
+                "Italo",
+                "19.",
+                "Egor Bogomolskiy",
+                "21.",
+                "Dmytro Ivanisenya",
+                "34.",
+                "Timofey Margasov",
+                "02.",
+                "Silvije Begic"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.276907"
-    },
-    "361510889": {
-        "matchup": "Wrexham (W) – Cardiff City (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510889_wrexham_w_cardiff_city_w/",
-        "competition": "Wales. Women. Adran Premier",
-        "date_time": "29 March at 17:10",
-        "parsed_datetime": "2026-03-29T17:10:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.395694"
+        "last_updated": "2026-03-29T15:56:09.779437"
     },
     "360767484": {
         "matchup": "KACM – ASFAR",
@@ -2155,7 +1390,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.692984"
+        "last_updated": "2026-03-29T15:56:09.818705"
     },
     "356335373": {
         "matchup": "Freiburg (W) –  Hoffenheim (W)",
@@ -2174,54 +1409,222 @@
                 "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/4832.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=250463&lang=en&eid=356335373&lid=2970355&ci=1423&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=250470&lang=en&eid=356335373&lid=2969283&ci=1423&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=250820&lang=en&eid=356335373&lid=2980776&ci=1423&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=253183&lang=en&eid=356335373&lid=2983302&ci=1423&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=253184&lang=en&eid=356335373&lid=2983301&ci=1423&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2661200&lang=en&eid=356335373&lid=2661200&ci=1423&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "German",
+                "flag_src": "/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985609&lang=en&eid=356335373&lid=2985609&ci=1423&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
+            "home_team": [
+                "33.",
+                "Rebecca Adamczyk",
+                "(G)",
+                "03.",
+                "Alina Axtmann",
+                "05.",
+                "Julia Stierli",
+                "02.",
+                "Lisa Karl",
+                "04.",
+                "Meret Felde",
+                "19.",
+                "Nia Szenk"
+            ],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:24.811490"
+        "last_updated": "2026-03-29T15:56:09.977022"
     },
-    "356227684": {
-        "matchup": "Lesotho LSO – Seychelles SYC",
-        "event_url": "https://livetv.sx/enx/eventinfo/356227684__/",
-        "competition": "Africa Cup of Nations. Qualification",
-        "date_time": "29 March at 17:00",
-        "parsed_datetime": "2026-03-29T17:00:00",
+    "356336151": {
+        "matchup": "Real Zaragoza – Racing",
+        "event_url": "https://livetv.sx/enx/eventinfo/356336151__/",
+        "competition": "Spain. Segunda Division",
+        "date_time": "29 March at 17:30",
+        "parsed_datetime": "2026-03-29T17:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Lesotho LSO",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag117.gif"
+                "team_name": "Real Zaragoza",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3889.gif"
             },
             {
-                "team_name": "Seychelles SYC",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag185.gif"
+                "team_name": "Racing",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3885.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=249650&lang=en&eid=356336151&lid=2969962&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=250361&lang=en&eid=356336151&lid=2969739&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=250468&lang=en&eid=356336151&lid=2969906&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=250494&lang=en&eid=356336151&lid=2969978&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2661157&lang=en&eid=356336151&lid=2661157&ci=10&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=251191&lang=en&eid=356336151&lid=2975986&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242312&lang=en&eid=356336151&lid=2956097&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242313&lang=en&eid=356336151&lid=2819130&ci=10&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Esteban Andrada",
+                "(G)",
+                "33.",
+                "Yussif Saidu",
+                "27.",
+                "Juan Larios",
+                "18.",
+                "Jawad El Yamiq",
+                "31.",
+                "Hugo Pinilla",
+                "14.",
+                "Francho Serrano",
+                "09.",
+                "Daniel Gomez",
+                "06.",
+                "Keidi Bare",
+                "11.",
+                "Rober Gonzalez",
+                "04.",
+                "Pablo Insua",
+                "20.",
+                "Martin Aguirregabiria"
+            ],
+            "away_team": [
+                "01.",
+                "Jokin Ezkieta",
+                "(G)",
+                "23.",
+                "Damian Rodriguez",
+                "08.",
+                "Aritz Aldasoro",
+                "16.",
+                "Facundo Gonzalez",
+                "06.",
+                "Inigo Sainz-Maza",
+                "10.",
+                "Inigo Vicente",
+                "05.",
+                "Javier Castro",
+                "43.",
+                "Santi Franco",
+                "03.",
+                "Mario Garcia",
+                "04.",
+                "Manu",
+                "11.",
+                "Andres Martin"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.081891"
-    },
-    "360978598": {
-        "matchup": "Uruguay U17 (W) – Argentina U17 (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/360978598_uruguay_u17_w_argentina_u17_w/",
-        "competition": "Women. Friendly Match. National Teams",
-        "date_time": "29 March at 18:30",
-        "parsed_datetime": "2026-03-29T18:30:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.091167"
+        "last_updated": "2026-03-29T15:56:10.103942"
     },
     "356321943": {
         "matchup": "Juventud Las Piedras – Boston River",
@@ -2246,32 +1649,49 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.443164"
+        "last_updated": "2026-03-29T15:56:10.237742"
     },
-    "356336151": {
-        "matchup": "Real Zaragoza – Racing",
-        "event_url": "https://livetv.sx/enx/eventinfo/356336151__/",
-        "competition": "Spain. Segunda Division",
+    "356301653": {
+        "matchup": "Cittadella – Lecco",
+        "event_url": "https://livetv.sx/enx/eventinfo/356301653__/",
+        "competition": "Italy. Serie C. Group A",
         "date_time": "29 March at 17:30",
         "parsed_datetime": "2026-03-29T17:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Real Zaragoza",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3889.gif"
+                "team_name": "Cittadella",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30395.gif"
             },
             {
-                "team_name": "Racing",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/3885.gif"
+                "team_name": "Lecco",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8696.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Italian",
+                "flag_src": "/img/linkflag/12.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2983677&lang=en&eid=356301653&lid=2983677&ci=1952&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Italian",
+                "flag_src": "/img/linkflag/12.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=2985631&lang=en&eid=356301653&lid=2985631&ci=1952&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.598796"
+        "last_updated": "2026-03-29T15:56:10.457542"
     },
     "356336483": {
         "matchup": "Rimini – Carpi",
@@ -2296,32 +1716,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.598810"
+        "last_updated": "2026-03-29T15:56:10.600325"
     },
-    "356301653": {
-        "matchup": "Cittadella – Lecco",
-        "event_url": "https://livetv.sx/enx/eventinfo/356301653__/",
-        "competition": "Italy. Serie C. Group A",
-        "date_time": "29 March at 17:30",
-        "parsed_datetime": "2026-03-29T17:30:00",
+    "360978598": {
+        "matchup": "Uruguay U17 (W) – Argentina U17 (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/360978598_uruguay_u17_w_argentina_u17_w/",
+        "competition": "Women. Friendly Match. National Teams",
+        "date_time": "29 March at 18:30",
+        "parsed_datetime": "2026-03-29T18:30:00",
         "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Cittadella",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30395.gif"
-            },
-            {
-                "team_name": "Lecco",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8696.gif"
-            }
-        ],
+        "team_logos": [],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.720367"
+        "last_updated": "2026-03-29T15:56:10.608436"
     },
     "360767488": {
         "matchup": "WAC – DHJ",
@@ -2346,57 +1757,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:25.794534"
-    },
-    "355772957": {
-        "matchup": "UAI Urquiza – Flandria",
-        "event_url": "https://livetv.sx/enx/eventinfo/355772957__/",
-        "competition": "Argentina. Primera B Metropolitana",
-        "date_time": "29 March at 19:00",
-        "parsed_datetime": "2026-03-29T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "UAI Urquiza",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33448.gif"
-            },
-            {
-                "team_name": "Flandria",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10662.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:26.181235"
-    },
-    "355772965": {
-        "matchup": "Deportivo Liniers – Defensores Unidos",
-        "event_url": "https://livetv.sx/enx/eventinfo/355772965__/",
-        "competition": "Argentina. Primera B Metropolitana",
-        "date_time": "29 March at 19:00",
-        "parsed_datetime": "2026-03-29T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Deportivo Liniers",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/11029.gif"
-            },
-            {
-                "team_name": "Defensores Unidos",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34553.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:26.185832"
+        "last_updated": "2026-03-29T15:56:10.715906"
     },
     "355772959": {
         "matchup": "Sportivo Italiano – Deportivo Merlo",
@@ -2421,7 +1782,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:26.254175"
+        "last_updated": "2026-03-29T15:56:10.913448"
+    },
+    "355772965": {
+        "matchup": "Deportivo Liniers – Defensores Unidos",
+        "event_url": "https://livetv.sx/enx/eventinfo/355772965__/",
+        "competition": "Argentina. Primera B Metropolitana",
+        "date_time": "29 March at 19:00",
+        "parsed_datetime": "2026-03-29T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Deportivo Liniers",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/11029.gif"
+            },
+            {
+                "team_name": "Defensores Unidos",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34553.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:10.933768"
+    },
+    "355772957": {
+        "matchup": "UAI Urquiza – Flandria",
+        "event_url": "https://livetv.sx/enx/eventinfo/355772957__/",
+        "competition": "Argentina. Primera B Metropolitana",
+        "date_time": "29 March at 19:00",
+        "parsed_datetime": "2026-03-29T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "UAI Urquiza",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/33448.gif"
+            },
+            {
+                "team_name": "Flandria",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10662.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:11.057801"
     },
     "360767486": {
         "matchup": "Yacoub El Mansour – Olympic Safi",
@@ -2446,7 +1857,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:26.457412"
+        "last_updated": "2026-03-29T15:56:11.296143"
     },
     "356353400": {
         "matchup": "Aurora – Deportivo Achuapa",
@@ -2471,7 +1882,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:26.514891"
+        "last_updated": "2026-03-29T15:56:11.306586"
     },
     "356409695": {
         "matchup": "Pineto – Sambenedettese",
@@ -2496,32 +1907,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:26.718803"
-    },
-    "361510779": {
-        "matchup": "Araucaria – Rio Branco",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510779__/",
-        "competition": "Brazil. Campeonato Paranaense",
-        "date_time": "29 March at 19:30",
-        "parsed_datetime": "2026-03-29T19:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Araucaria",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/29901.gif"
-            },
-            {
-                "team_name": "Rio Branco",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6280.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.065413"
+        "last_updated": "2026-03-29T15:56:11.413738"
     },
     "356409697": {
         "matchup": "Gubbio – Ravenna",
@@ -2546,23 +1932,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.084448"
+        "last_updated": "2026-03-29T15:56:11.518736"
     },
-    "361510780": {
-        "matchup": "Toledo EC – Laranja Mecanica",
-        "event_url": "https://livetv.sx/enx/eventinfo/361510780__/",
+    "361510779": {
+        "matchup": "Araucaria – Rio Branco",
+        "event_url": "https://livetv.sx/enx/eventinfo/361510779__/",
         "competition": "Brazil. Campeonato Paranaense",
         "date_time": "29 March at 19:30",
         "parsed_datetime": "2026-03-29T19:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Toledo EC",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6286.gif"
+                "team_name": "Araucaria",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/29901.gif"
             },
             {
-                "team_name": "Laranja Mecanica",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/0.gif"
+                "team_name": "Rio Branco",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6280.gif"
             }
         ],
         "streams": [],
@@ -2571,7 +1957,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.134789"
+        "last_updated": "2026-03-29T15:56:11.696213"
     },
     "356409747": {
         "matchup": "Picerno – Monopoli",
@@ -2596,7 +1982,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.234960"
+        "last_updated": "2026-03-29T15:56:11.731115"
+    },
+    "361510780": {
+        "matchup": "Toledo EC – Laranja Mecanica",
+        "event_url": "https://livetv.sx/enx/eventinfo/361510780__/",
+        "competition": "Brazil. Campeonato Paranaense",
+        "date_time": "29 March at 19:30",
+        "parsed_datetime": "2026-03-29T19:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Toledo EC",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/6286.gif"
+            },
+            {
+                "team_name": "Laranja Mecanica",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/0.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:11.889705"
     },
     "356430787": {
         "matchup": "Colombia COL – France FRA",
@@ -2621,7 +2032,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.515998"
+        "last_updated": "2026-03-29T15:56:12.063164"
     },
     "356427338": {
         "matchup": "Almeria – Real Sociedad B",
@@ -2646,7 +2057,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.578370"
+        "last_updated": "2026-03-29T15:56:12.104082"
     },
     "361452769": {
         "matchup": "Martinique MTQ – Sint Maarten",
@@ -2671,7 +2082,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.725983"
+        "last_updated": "2026-03-29T15:56:12.205290"
     },
     "356284921": {
         "matchup": "Real Madrid (W) –  Barcelona (W)",
@@ -2696,107 +2107,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:27.855786"
-    },
-    "356407693": {
-        "matchup": "Nueva Chicago – All Boys",
-        "event_url": "https://livetv.sx/enx/eventinfo/356407693__/",
-        "competition": "Argentina. Primera Nacional",
-        "date_time": "29 March at 20:30",
-        "parsed_datetime": "2026-03-29T20:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Nueva Chicago",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34549.gif"
-            },
-            {
-                "team_name": "All Boys",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10173.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.005793"
-    },
-    "360767490": {
-        "matchup": "RS Berkane – Maghreb de Fes",
-        "event_url": "https://livetv.sx/enx/eventinfo/360767490__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "29 March at 21:00",
-        "parsed_datetime": "2026-03-29T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "RS Berkane",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1321.gif"
-            },
-            {
-                "team_name": "Maghreb de Fes",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8427.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.136212"
-    },
-    "355772973": {
-        "matchup": "Argentino de Merlo – Talleres Remedios",
-        "event_url": "https://livetv.sx/enx/eventinfo/355772973__/",
-        "competition": "Argentina. Primera B Metropolitana",
-        "date_time": "29 March at 21:00",
-        "parsed_datetime": "2026-03-29T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Argentino de Merlo",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34639.gif"
-            },
-            {
-                "team_name": "Talleres Remedios",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10525.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.526336"
-    },
-    "355772963": {
-        "matchup": "Real Pilar – Argentino de Quilmes",
-        "event_url": "https://livetv.sx/enx/eventinfo/355772963__/",
-        "competition": "Argentina. Primera B Metropolitana",
-        "date_time": "29 March at 21:00",
-        "parsed_datetime": "2026-03-29T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Real Pilar",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10762.gif"
-            },
-            {
-                "team_name": "Argentino de Quilmes",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10575.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.535213"
+        "last_updated": "2026-03-29T15:56:12.352682"
     },
     "355772961": {
         "matchup": "San Martin Burzaco – Dock Sud",
@@ -2821,7 +2132,82 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.565548"
+        "last_updated": "2026-03-29T15:56:12.416780"
+    },
+    "355772963": {
+        "matchup": "Real Pilar – Argentino de Quilmes",
+        "event_url": "https://livetv.sx/enx/eventinfo/355772963__/",
+        "competition": "Argentina. Primera B Metropolitana",
+        "date_time": "29 March at 21:00",
+        "parsed_datetime": "2026-03-29T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Real Pilar",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10762.gif"
+            },
+            {
+                "team_name": "Argentino de Quilmes",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10575.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:12.568386"
+    },
+    "355772973": {
+        "matchup": "Argentino de Merlo – Talleres Remedios",
+        "event_url": "https://livetv.sx/enx/eventinfo/355772973__/",
+        "competition": "Argentina. Primera B Metropolitana",
+        "date_time": "29 March at 21:00",
+        "parsed_datetime": "2026-03-29T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Argentino de Merlo",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/34639.gif"
+            },
+            {
+                "team_name": "Talleres Remedios",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10525.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:12.759691"
+    },
+    "360767490": {
+        "matchup": "RS Berkane – Maghreb de Fes",
+        "event_url": "https://livetv.sx/enx/eventinfo/360767490__/",
+        "competition": "Morocco. Botola Pro",
+        "date_time": "29 March at 21:00",
+        "parsed_datetime": "2026-03-29T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "RS Berkane",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1321.gif"
+            },
+            {
+                "team_name": "Maghreb de Fes",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/8427.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:12.855279"
     },
     "361510791": {
         "matchup": "Orsomarso (W) –  Fortaleza CEIF (W)",
@@ -2846,32 +2232,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.646669"
-    },
-    "356431013": {
-        "matchup": "Defensor Sporting – Albion",
-        "event_url": "https://livetv.sx/enx/eventinfo/356431013__/",
-        "competition": "Uruguay. Primera Division",
-        "date_time": "29 March at 21:00",
-        "parsed_datetime": "2026-03-29T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Defensor Sporting",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/251.gif"
-            },
-            {
-                "team_name": "Albion",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30535.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:28.920624"
+        "last_updated": "2026-03-29T15:56:12.889189"
     },
     "356425695": {
         "matchup": "Chacarita Juniors – Estudiantes de Caseros",
@@ -2896,23 +2257,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.071263"
+        "last_updated": "2026-03-29T15:56:12.998554"
     },
-    "356425697": {
-        "matchup": "San Telmo – Quilmes",
-        "event_url": "https://livetv.sx/enx/eventinfo/356425697__/",
-        "competition": "Argentina. Primera Nacional",
+    "356431013": {
+        "matchup": "Defensor Sporting – Albion",
+        "event_url": "https://livetv.sx/enx/eventinfo/356431013__/",
+        "competition": "Uruguay. Primera Division",
         "date_time": "29 March at 21:00",
         "parsed_datetime": "2026-03-29T21:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "San Telmo",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10526.gif"
+                "team_name": "Defensor Sporting",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/251.gif"
             },
             {
-                "team_name": "Quilmes",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/19085.gif"
+                "team_name": "Albion",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30535.gif"
             }
         ],
         "streams": [],
@@ -2921,7 +2282,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.283270"
+        "last_updated": "2026-03-29T15:56:13.148935"
     },
     "361452771": {
         "matchup": "Barbados BRB – Saint Vincent & Grenadines VCT",
@@ -2946,7 +2307,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.295177"
+        "last_updated": "2026-03-29T15:56:13.254491"
     },
     "356425699": {
         "matchup": "Patronato – Colon Santa Fe",
@@ -2971,7 +2332,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.355579"
+        "last_updated": "2026-03-29T15:56:13.366694"
     },
     "356425701": {
         "matchup": "Deportivo Madryn – San Martin T",
@@ -2996,32 +2357,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.563577"
-    },
-    "356461312": {
-        "matchup": "Guemes – Atletico Mitre",
-        "event_url": "https://livetv.sx/enx/eventinfo/356461312__/",
-        "competition": "Argentina. Primera Nacional",
-        "date_time": "29 March at 22:00",
-        "parsed_datetime": "2026-03-29T22:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Guemes",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30267.gif"
-            },
-            {
-                "team_name": "Atletico Mitre",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1471.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.732129"
+        "last_updated": "2026-03-29T15:56:13.470572"
     },
     "361510792": {
         "matchup": "Deportivo Cali (W) –  Internacional Palmira (W)",
@@ -3046,23 +2382,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.829797"
+        "last_updated": "2026-03-29T15:56:13.623616"
     },
-    "356465892": {
-        "matchup": "San Antonio – Lexington",
-        "event_url": "https://livetv.sx/enx/eventinfo/356465892__/",
-        "competition": "USA. USL",
+    "356461312": {
+        "matchup": "Guemes – Atletico Mitre",
+        "event_url": "https://livetv.sx/enx/eventinfo/356461312__/",
+        "competition": "Argentina. Primera Nacional",
         "date_time": "29 March at 22:00",
         "parsed_datetime": "2026-03-29T22:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "San Antonio",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5979.gif"
+                "team_name": "Guemes",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/30267.gif"
             },
             {
-                "team_name": "Lexington",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26129.gif"
+                "team_name": "Atletico Mitre",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/1471.gif"
             }
         ],
         "streams": [],
@@ -3071,7 +2407,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:29.938276"
+        "last_updated": "2026-03-29T15:56:13.729475"
+    },
+    "356461310": {
+        "matchup": "Deportivo Maipu – Godoy Cruz",
+        "event_url": "https://livetv.sx/enx/eventinfo/356461310__/",
+        "competition": "Argentina. Primera Nacional",
+        "date_time": "29 March at 22:00",
+        "parsed_datetime": "2026-03-29T22:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Deportivo Maipu",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10446.gif"
+            },
+            {
+                "team_name": "Godoy Cruz",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/424.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:13.935464"
+    },
+    "356425697": {
+        "matchup": "San Telmo – Quilmes",
+        "event_url": "https://livetv.sx/enx/eventinfo/356425697__/",
+        "competition": "Argentina. Primera Nacional",
+        "date_time": "29 March at 21:00",
+        "parsed_datetime": "2026-03-29T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "San Telmo",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/10526.gif"
+            },
+            {
+                "team_name": "Quilmes",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/19085.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:13.937342"
     },
     "356478158": {
         "matchup": "Gimnasia y Tiro – Central Norte",
@@ -3096,32 +2482,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:30.160362"
-    },
-    "361452772": {
-        "matchup": "British Virgin Islands VGB – Anguilla AIA",
-        "event_url": "https://livetv.sx/enx/eventinfo/361452772__/",
-        "competition": "Friendly Match. National Teams",
-        "date_time": "29 March at 22:30",
-        "parsed_datetime": "2026-03-29T22:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "British Virgin Islands VGB",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag229.gif"
-            },
-            {
-                "team_name": "Anguilla AIA",
-                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag228.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-03-29T15:01:30.364632"
+        "last_updated": "2026-03-29T15:56:14.042887"
     },
     "356495138": {
         "matchup": "Ferroviaria – Sao Jose-PA",
@@ -3146,7 +2507,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:30.565727"
+        "last_updated": "2026-03-29T15:56:14.208558"
     },
     "356495478": {
         "matchup": "Deportivo Mictlan – Coban Imperial",
@@ -3171,7 +2532,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:30.648754"
+        "last_updated": "2026-03-29T15:56:14.508980"
+    },
+    "356465892": {
+        "matchup": "San Antonio – Lexington",
+        "event_url": "https://livetv.sx/enx/eventinfo/356465892__/",
+        "competition": "USA. USL",
+        "date_time": "29 March at 22:00",
+        "parsed_datetime": "2026-03-29T22:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "San Antonio",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/5979.gif"
+            },
+            {
+                "team_name": "Lexington",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/26129.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:14.556109"
+    },
+    "361452772": {
+        "matchup": "British Virgin Islands VGB – Anguilla AIA",
+        "event_url": "https://livetv.sx/enx/eventinfo/361452772__/",
+        "competition": "Friendly Match. National Teams",
+        "date_time": "29 March at 22:30",
+        "parsed_datetime": "2026-03-29T22:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "British Virgin Islands VGB",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag229.gif"
+            },
+            {
+                "team_name": "Anguilla AIA",
+                "logo_url": "https://cdn.livetv873.me/img/teams/fullsize/ods/flag228.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-03-29T15:56:14.561118"
     },
     "361452773": {
         "matchup": "Dominican Republic DOM – Cuba CUB",
@@ -3196,7 +2607,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:30.659688"
+        "last_updated": "2026-03-29T15:56:14.662997"
     },
     "356512321": {
         "matchup": "Inter de Bogota – Atletico Junior",
@@ -3221,6 +2632,6 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-03-29T15:01:30.868273"
+        "last_updated": "2026-03-29T15:56:14.764871"
     }
 }
