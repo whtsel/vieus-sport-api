@@ -5,7 +5,7 @@
         "competition": "Copa Sudamericana",
         "date_time": "14 April at 23:00",
         "parsed_datetime": "2026-04-14T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Gremio-RS",
@@ -17,6 +17,14 @@
             }
         ],
         "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=257951&lang=en&eid=361980540&lid=2997908&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
             {
                 "language": "Portuguese",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/9.png",
@@ -54,14 +62,6 @@
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/12.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997406&lang=en&eid=361980540&lid=2997406&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2900408&lang=en&eid=361980540&lid=2900408&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
@@ -127,7 +127,23 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-04-14T21:56:26.985882"
+        "last_updated": "2026-04-14T22:54:03.387269"
+    },
+    "365984078": {
+        "matchup": "Saint Vincent and the Grenadines Women – US Virgin Islands (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/365984078_saint_vincent_and_the_grenadines_women_us_virgin_islands_w/",
+        "competition": "Women. CONCACAF Championship",
+        "date_time": "14 April at 22:00",
+        "parsed_datetime": "2026-04-14T22:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-14T22:54:04.025404"
     },
     "365984077": {
         "matchup": "Grenada (W) – Cayman Islands (W)",
@@ -152,214 +168,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.482237"
-    },
-    "365984078": {
-        "matchup": "Saint Vincent and the Grenadines Women – US Virgin Islands (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/365984078_saint_vincent_and_the_grenadines_women_us_virgin_islands_w/",
-        "competition": "Women. CONCACAF Championship",
-        "date_time": "14 April at 22:00",
-        "parsed_datetime": "2026-04-14T22:00:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=youtube&c=wq6cdAAQ62w&lang=en&eid=365984078&lid=2993631&ci=2301&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.551405"
-    },
-    "368252423": {
-        "matchup": "Peru (W) –  Paraguay (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/368252423__/",
-        "competition": "Women. CONMEBOL Nations League",
-        "date_time": "14 April at 22:00",
-        "parsed_datetime": "2026-04-14T22:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Peru (W)",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag154.gif"
-            },
-            {
-                "team_name": "Paraguay (W)",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag161.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997313&lang=en&eid=368252423&lid=2997313&ci=8632&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997414&lang=en&eid=368252423&lid=2997414&ci=8632&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=acestream&c=cba8d369eac629b577750edb90370cd1c5fb03b7&lang=en&eid=368252423&lid=2846535&ci=8632&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.689783"
-    },
-    "361513608": {
-        "matchup": "Deportiva Tarma – Alianza Lima",
-        "event_url": "https://livetv.sx/enx/eventinfo/361513608__/",
-        "competition": "Peru. Liga 1",
-        "date_time": "14 April at 21:15",
-        "parsed_datetime": "2026-04-14T21:15:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Deportiva Tarma",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/30234.gif"
-            },
-            {
-                "team_name": "Alianza Lima",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/515.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=247383&lang=en&eid=361513608&lid=2996951&ci=110&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997798&lang=en&eid=361513608&lid=2997798&ci=110&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "30.",
-                "Juan Valencia",
-                "(G)",
-                "20.",
-                "Arthur Gutierrez",
-                "28.",
-                "Jhair Soto",
-                "07.",
-                "Joao Rojas",
-                "23.",
-                "John Narvaez",
-                "32.",
-                "Jonathan Jesus Bauman",
-                "15.",
-                "Josue Alvino",
-                "21.",
-                "Luis Benites",
-                "13.",
-                "Luis Gomez",
-                "16.",
-                "Luis Perez",
-                "10.",
-                "Victor Cedron"
-            ],
-            "away_team": [
-                "01.",
-                "Alejandro Duarte",
-                "(G)",
-                "13.",
-                "Marco Huaman",
-                "08.",
-                "Eryc Castillo",
-                "05.",
-                "Esteban Pavez",
-                "04.",
-                "Gianfranco Chavez",
-                "20.",
-                "Jairo Velez",
-                "03.",
-                "Mateo Antoni",
-                "15.",
-                "Jesus Castillo",
-                "17.",
-                "Luis Advincula",
-                "09.",
-                "Luis Ramos",
-                "06.",
-                "Renzo Garces"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.731828"
-    },
-    "368252421": {
-        "matchup": "Bolivia (W) –  Uruguay (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/368252421__/",
-        "competition": "Women. CONMEBOL Nations League",
-        "date_time": "14 April at 22:00",
-        "parsed_datetime": "2026-04-14T22:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Bolivia (W)",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag27.gif"
-            },
-            {
-                "team_name": "Uruguay (W)",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag204.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997415&lang=en&eid=368252421&lid=2997415&ci=8632&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997333&lang=en&eid=368252421&lid=2997333&ci=8632&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.789709"
+        "last_updated": "2026-04-14T22:54:04.066374"
     },
     "361976447": {
         "matchup": "Nacional M – Deportes Tolima",
@@ -367,7 +176,7 @@
         "competition": "Copa Libertadores",
         "date_time": "14 April at 23:00",
         "parsed_datetime": "2026-04-14T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Nacional M",
@@ -383,7 +192,7 @@
                 "language": "Russian",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=242315&lang=en&eid=361976447&lid=2956102&ci=12&si=1",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=242243&lang=en&eid=361976447&lid=2811653&ci=12&si=1",
                 "stream_title": "",
                 "stream_type": ""
             },
@@ -391,33 +200,57 @@
                 "language": "Russian",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=242325&lang=en&eid=361976447&lid=2812095&ci=12&si=1",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=250739&lang=en&eid=361976447&lid=2969752&ci=12&si=1",
                 "stream_title": "",
                 "stream_type": ""
             },
             {
-                "language": "",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997954&lang=en&eid=361976447&lid=2997954&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=251375&lang=en&eid=361976447&lid=2978067&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
             },
             {
-                "language": "",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997500&lang=en&eid=361976447&lid=2997500&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=253875&lang=en&eid=361976447&lid=2993086&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
             },
             {
-                "language": "Bulgarian",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/16.png",
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997404&lang=en&eid=361976447&lid=2997404&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=257905&lang=en&eid=361976447&lid=2997075&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=242312&lang=en&eid=361976447&lid=2956097&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=242313&lang=en&eid=361976447&lid=2819130&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=242315&lang=en&eid=361976447&lid=2956102&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
             }
         ],
         "starting_lineups": {
@@ -473,145 +306,7 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.813577"
-    },
-    "361976445": {
-        "matchup": "Cerro Porteno – Atletico Junior",
-        "event_url": "https://livetv.sx/enx/eventinfo/361976445__/",
-        "competition": "Copa Libertadores",
-        "date_time": "14 April at 23:00",
-        "parsed_datetime": "2026-04-14T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Cerro Porteno",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/565.gif"
-            },
-            {
-                "team_name": "Atletico Junior",
-                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/271.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2661242&lang=en&eid=361976445&lid=2661242&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2994462&lang=en&eid=361976445&lid=2994462&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2697203&lang=en&eid=361976445&lid=2697203&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997427&lang=en&eid=361976445&lid=2997427&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Serbian",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/17.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997403&lang=en&eid=361976445&lid=2997403&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "French",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/11.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997048&lang=en&eid=361976445&lid=2997048&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997955&lang=en&eid=361976445&lid=2997955&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997494&lang=en&eid=361976445&lid=2997494&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Alexis Arias",
-                "(G)",
-                "27.",
-                "Jonathan Torres",
-                "23.",
-                "Gustavo Velazquez",
-                "13.",
-                "Guillermo Benitez",
-                "24.",
-                "Edgar Paez",
-                "05.",
-                "Jorge Morel",
-                "26.",
-                "Robert Piris",
-                "19.",
-                "Pablo Vegetti",
-                "22.",
-                "Matias Perez",
-                "35.",
-                "Marcelo Chaparro",
-                "06.",
-                "Brian Abel Luciatti"
-            ],
-            "away_team": [
-                "01.",
-                "Mauro Silveira",
-                "(G)",
-                "05.",
-                "Daniel Rivera",
-                "98.",
-                "Jermein Pena",
-                "22.",
-                "Jesus Rivas",
-                "08.",
-                "Yimmi Chara",
-                "26.",
-                "Yeison Suarez",
-                "29.",
-                "Teofilo Gutierrez",
-                "33.",
-                "Lucas Monzon",
-                "18.",
-                "Kevin Perez",
-                "14.",
-                "Juan David Rios",
-                "34.",
-                "Jhomier Guerrero"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.854950"
+        "last_updated": "2026-04-14T22:54:04.220966"
     },
     "361980541": {
         "matchup": "Sao Paolo – O`Higgins",
@@ -619,7 +314,7 @@
         "competition": "Copa Sudamericana",
         "date_time": "14 April at 23:00",
         "parsed_datetime": "2026-04-14T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Sao Paolo",
@@ -643,6 +338,14 @@
                 "language": "German",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/13.png",
                 "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=254084&lang=en&eid=361980541&lid=2994125&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2661166&lang=en&eid=361980541&lid=2661166&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
@@ -651,31 +354,7 @@
                 "language": "",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997485&lang=en&eid=361980541&lid=2997485&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997309&lang=en&eid=361980541&lid=2997309&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997274&lang=en&eid=361980541&lid=2997274&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2900408&lang=en&eid=361980541&lid=2900408&ci=131&si=1",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997952&lang=en&eid=361980541&lid=2997952&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
@@ -683,7 +362,7 @@
                 "language": "",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997952&lang=en&eid=361980541&lid=2997952&ci=131&si=1",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997485&lang=en&eid=361980541&lid=2997485&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
@@ -749,7 +428,7 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.955823"
+        "last_updated": "2026-04-14T22:54:04.275882"
     },
     "361976449": {
         "matchup": "Estudiantes LP – Cusco",
@@ -757,7 +436,7 @@
         "competition": "Copa Libertadores",
         "date_time": "14 April at 23:00",
         "parsed_datetime": "2026-04-14T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Estudiantes LP",
@@ -769,6 +448,22 @@
             }
         ],
         "streams": [
+            {
+                "language": "Serbian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/17.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=253653&lang=en&eid=361976449&lid=2991556&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=253713&lang=en&eid=361976449&lid=2992539&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
             {
                 "language": "Spanish",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
@@ -802,26 +497,10 @@
                 "stream_type": "Web"
             },
             {
-                "language": "Polish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/8.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997405&lang=en&eid=361976449&lid=2997405&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
                 "language": "",
                 "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997953&lang=en&eid=361976449&lid=2997953&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2934984&lang=en&eid=361976449&lid=2934984&ci=12&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
@@ -887,6 +566,244 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-04-14T21:56:28.981400"
+        "last_updated": "2026-04-14T22:54:04.434595"
+    },
+    "368252423": {
+        "matchup": "Peru (W) –  Paraguay (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/368252423__/",
+        "competition": "Women. CONMEBOL Nations League",
+        "date_time": "14 April at 22:00",
+        "parsed_datetime": "2026-04-14T22:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Peru (W)",
+                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag154.gif"
+            },
+            {
+                "team_name": "Paraguay (W)",
+                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag161.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997414&lang=en&eid=368252423&lid=2997414&ci=8632&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997313&lang=en&eid=368252423&lid=2997313&ci=8632&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=youtube&c=aNoBRcEq_h8&lang=en&eid=368252423&lid=2997959&ci=8632&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=acestream&c=cba8d369eac629b577750edb90370cd1c5fb03b7&lang=en&eid=368252423&lid=2846535&ci=8632&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-14T22:54:04.459316"
+    },
+    "361976445": {
+        "matchup": "Cerro Porteno – Atletico Junior",
+        "event_url": "https://livetv.sx/enx/eventinfo/361976445__/",
+        "competition": "Copa Libertadores",
+        "date_time": "14 April at 23:00",
+        "parsed_datetime": "2026-04-14T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Cerro Porteno",
+                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/565.gif"
+            },
+            {
+                "team_name": "Atletico Junior",
+                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/271.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2661242&lang=en&eid=361976445&lid=2661242&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=alieztv&c=225259&lang=en&eid=361976445&lid=2997971&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2697203&lang=en&eid=361976445&lid=2697203&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Serbian",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/17.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997403&lang=en&eid=361976445&lid=2997403&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997427&lang=en&eid=361976445&lid=2997427&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997494&lang=en&eid=361976445&lid=2997494&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997955&lang=en&eid=361976445&lid=2997955&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [
+                "01.",
+                "Alexis Arias",
+                "(G)",
+                "27.",
+                "Jonathan Torres",
+                "23.",
+                "Gustavo Velazquez",
+                "13.",
+                "Guillermo Benitez",
+                "24.",
+                "Edgar Paez",
+                "05.",
+                "Jorge Morel",
+                "26.",
+                "Robert Piris",
+                "19.",
+                "Pablo Vegetti",
+                "22.",
+                "Matias Perez",
+                "35.",
+                "Marcelo Chaparro",
+                "06.",
+                "Brian Abel Luciatti"
+            ],
+            "away_team": [
+                "01.",
+                "Mauro Silveira",
+                "(G)",
+                "05.",
+                "Daniel Rivera",
+                "98.",
+                "Jermein Pena",
+                "22.",
+                "Jesus Rivas",
+                "08.",
+                "Yimmi Chara",
+                "26.",
+                "Yeison Suarez",
+                "29.",
+                "Teofilo Gutierrez",
+                "33.",
+                "Lucas Monzon",
+                "18.",
+                "Kevin Perez",
+                "14.",
+                "Juan David Rios",
+                "34.",
+                "Jhomier Guerrero"
+            ]
+        },
+        "league_table": [],
+        "last_updated": "2026-04-14T22:54:04.464588"
+    },
+    "368252421": {
+        "matchup": "Bolivia (W) –  Uruguay (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/368252421__/",
+        "competition": "Women. CONMEBOL Nations League",
+        "date_time": "14 April at 22:00",
+        "parsed_datetime": "2026-04-14T22:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Bolivia (W)",
+                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag27.gif"
+            },
+            {
+                "team_name": "Uruguay (W)",
+                "logo_url": "https://cdn.livetv876.me/img/teams/fullsize/ods/flag204.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997415&lang=en&eid=368252421&lid=2997415&ci=8632&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer2.php?t=youtube&c=jY4tfySWxes&lang=en&eid=368252421&lid=2997958&ci=8632&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv876.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv876.me/webplayer.php?t=ifr&c=2997333&lang=en&eid=368252421&lid=2997333&ci=8632&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-14T22:54:04.500963"
     }
 }
