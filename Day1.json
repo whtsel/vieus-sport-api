@@ -5,7 +5,7 @@
         "competition": "Netherlands. Eredivisie",
         "date_time": "28 April at 17:45",
         "parsed_datetime": "2026-04-28T17:45:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Roda JC",
@@ -16,10 +16,83 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3855.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Dutch",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/4.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3000110&lang=en&eid=373829213&lid=3000110&ci=22&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Dutch",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/4.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3006704&lang=en&eid=373829213&lid=3006704&ci=22&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Dutch",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/4.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3004139&lang=en&eid=373829213&lid=3004139&ci=22&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Justin Treichel",
+                "(G)",
+                "08.",
+                "Joey Mueller",
+                "22.",
+                "Jay Kruiver",
+                "11.",
+                "Iman Griffith",
+                "33.",
+                "Dario van den Buijs",
+                "04.",
+                "Joshua Nisbet",
+                "14.",
+                "Michael Breij",
+                "03.",
+                "Marco Tol",
+                "15.",
+                "Lucas Beerten",
+                "05.",
+                "Koen Jansen",
+                "09.",
+                "Anthony van den Hurk"
+            ],
+            "away_team": [
+                "01.",
+                "Yanick van Osch",
+                "(G)",
+                "35.",
+                "Loek Postma",
+                "04.",
+                "Liam van Gelderen",
+                "05.",
+                "Juan Familia-Castillo",
+                "09.",
+                "Jesper Uneken",
+                "14.",
+                "Jean-Paul Boetius",
+                "20.",
+                "Harrie Kuster",
+                "12.",
+                "Ryan Fage",
+                "03.",
+                "Roshon van Eijma",
+                "55.",
+                "Nazjir Held",
+                "07.",
+                "Denilho Cleonise"
+            ]
         },
         "league_table": [
             {
@@ -131,7 +204,7 @@
                 "pts": "19"
             }
         ],
-        "last_updated": "2026-04-28T15:05:23.068787"
+        "last_updated": "2026-04-28T17:12:58.956576"
     },
     "355523919": {
         "matchup": "Peterborough United – Mansfield Town",
@@ -301,7 +374,32 @@
                 "pts": "35"
             }
         ],
-        "last_updated": "2026-04-28T15:05:23.306163"
+        "last_updated": "2026-04-28T17:12:59.343633"
+    },
+    "368722991": {
+        "matchup": "Pakhtakor – Nasaf",
+        "event_url": "https://livetv.sx/enx/eventinfo/368722991__/",
+        "competition": "Uzbekistan. Super League",
+        "date_time": "28 April at 16:00",
+        "parsed_datetime": "2026-04-28T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Pakhtakor",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4745.gif"
+            },
+            {
+                "team_name": "Nasaf",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33443.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:12:59.458169"
     },
     "368881513": {
         "matchup": "Libertad – Independiente",
@@ -326,279 +424,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:23.653148"
-    },
-    "368700189": {
-        "matchup": "Petrojet – Ismaily",
-        "event_url": "https://livetv.sx/enx/eventinfo/368700189__/",
-        "competition": "Egypt. Premier League",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Petrojet",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1554.gif"
-            },
-            {
-                "team_name": "Ismaily",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1549.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://tinyurl.com/3vt2sdjp",
-                "stream_title": "",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:23.958750"
-    },
-    "355523921": {
-        "matchup": "Northampton Town – Barnsley",
-        "event_url": "https://livetv.sx/enx/eventinfo/355523921__/",
-        "competition": "England. League One",
-        "date_time": "28 April at 19:45",
-        "parsed_datetime": "2026-04-28T19:45:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Northampton Town",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4057.gif"
-            },
-            {
-                "team_name": "Barnsley",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3898.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lincoln City",
-                "played": "45",
-                "pts": "100"
-            },
-            {
-                "pos": "2",
-                "team": "Cardiff City",
-                "played": "45",
-                "pts": "91"
-            },
-            {
-                "pos": "3",
-                "team": "Bolton Wanderers",
-                "played": "45",
-                "pts": "75"
-            },
-            {
-                "pos": "4",
-                "team": "Stockport",
-                "played": "44",
-                "pts": "74"
-            },
-            {
-                "pos": "5",
-                "team": "Bradford City",
-                "played": "45",
-                "pts": "74"
-            },
-            {
-                "pos": "6",
-                "team": "Stevenage",
-                "played": "45",
-                "pts": "72"
-            },
-            {
-                "pos": "7",
-                "team": "Luton Town",
-                "played": "45",
-                "pts": "71"
-            },
-            {
-                "pos": "8",
-                "team": "Plymouth Argyle",
-                "played": "45",
-                "pts": "70"
-            },
-            {
-                "pos": "9",
-                "team": "Huddersfield",
-                "played": "45",
-                "pts": "64"
-            },
-            {
-                "pos": "10",
-                "team": "Reading",
-                "played": "45",
-                "pts": "63"
-            },
-            {
-                "pos": "11",
-                "team": "Mansfield Town",
-                "played": "44",
-                "pts": "61"
-            },
-            {
-                "pos": "12",
-                "team": "Wycombe",
-                "played": "45",
-                "pts": "60"
-            },
-            {
-                "pos": "13",
-                "team": "Blackpool",
-                "played": "45",
-                "pts": "57"
-            },
-            {
-                "pos": "14",
-                "team": "Doncaster Rovers",
-                "played": "45",
-                "pts": "57"
-            },
-            {
-                "pos": "15",
-                "team": "Barnsley",
-                "played": "44",
-                "pts": "56"
-            },
-            {
-                "pos": "16",
-                "team": "Wigan Athletic",
-                "played": "45",
-                "pts": "56"
-            },
-            {
-                "pos": "17",
-                "team": "Burton Albion",
-                "played": "45",
-                "pts": "53"
-            },
-            {
-                "pos": "18",
-                "team": "AFC Wimbledon",
-                "played": "45",
-                "pts": "53"
-            },
-            {
-                "pos": "19",
-                "team": "Peterborough United",
-                "played": "44",
-                "pts": "52"
-            },
-            {
-                "pos": "20",
-                "team": "Leyton Orient",
-                "played": "45",
-                "pts": "51"
-            },
-            {
-                "pos": "21",
-                "team": "Exeter City",
-                "played": "45",
-                "pts": "49"
-            },
-            {
-                "pos": "22",
-                "team": "Rotherham Utd",
-                "played": "45",
-                "pts": "41"
-            },
-            {
-                "pos": "23",
-                "team": "Port Vale",
-                "played": "44",
-                "pts": "39"
-            },
-            {
-                "pos": "24",
-                "team": "Northampton Town",
-                "played": "44",
-                "pts": "35"
-            }
-        ],
-        "last_updated": "2026-04-28T15:05:24.034454"
-    },
-    "368700187": {
-        "matchup": "ZED – Pharco",
-        "event_url": "https://livetv.sx/enx/eventinfo/368700187__/",
-        "competition": "Egypt. Premier League",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "ZED",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/29908.gif"
-            },
-            {
-                "team_name": "Pharco",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/2012.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://tinyurl.com/yu2wjf5c",
-                "stream_title": "",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:24.248395"
-    },
-    "368722989": {
-        "matchup": "Sogdiana – Surkhon Termez",
-        "event_url": "https://livetv.sx/enx/eventinfo/368722989__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Sogdiana",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4756.gif"
-            },
-            {
-                "team_name": "Surkhon Termez",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/31803.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=nx8xjHA3GfI&lang=en&eid=368722989&lid=3006759&ci=1088&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:24.411300"
+        "last_updated": "2026-04-28T17:12:59.546733"
     },
     "368881515": {
         "matchup": "Lanus – LDU Quito",
@@ -623,477 +449,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:24.505027"
-    },
-    "368722993": {
-        "matchup": "Andijon – Dinamo Samarkand",
-        "event_url": "https://livetv.sx/enx/eventinfo/368722993__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Andijon",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33120.gif"
-            },
-            {
-                "team_name": "Dinamo Samarkand",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/20509.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=Mjc9ptma9Mo&lang=en&eid=368722993&lid=3006758&ci=1088&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:24.534170"
-    },
-    "368700515": {
-        "matchup": "East Bengal – Odisha",
-        "event_url": "https://livetv.sx/enx/eventinfo/368700515__/",
-        "competition": "India. Super League",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "East Bengal",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/36443.gif"
-            },
-            {
-                "team_name": "Odisha",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10003.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "13.",
-                "Prabhsukhan Singh",
-                "(G)",
-                "77.",
-                "Anton Soejberg Horup",
-                "29.",
-                "Bipin Singh",
-                "10.",
-                "Edmund Lalrindika",
-                "25.",
-                "Jeakson Singh",
-                "06.",
-                "Kevin Sibille",
-                "12.",
-                "Mohammad Rakip",
-                "11.",
-                "Nandha Kumar Sekar",
-                "07.",
-                "P V Vishnu",
-                "21.",
-                "Saul Crespo",
-                "23.",
-                "Souvik Chakrabarti"
-            ],
-            "away_team": [
-                "23.",
-                "Anuj Kumar",
-                "(G)",
-                "18.",
-                "Hitesh Sharma",
-                "05.",
-                "Carlos Delgado",
-                "29.",
-                "Ashangbam Singh",
-                "25.",
-                "Lalrinfela Khiangte",
-                "07.",
-                "Lalthathanga",
-                "24.",
-                "Thoiba Moirangthem",
-                "15.",
-                "Suhair Vadakkepeedika",
-                "03.",
-                "Subham Bhattacharya",
-                "11.",
-                "Rahim Ali",
-                "34.",
-                "Vanlalzuidika"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:24.957364"
-    },
-    "375045241": {
-        "matchup": "Bars – Ozgon",
-        "event_url": "https://livetv.sx/enx/eventinfo/375045241_bars_ozgon/",
-        "competition": "Kyrgyzstan. Premier League",
-        "date_time": "28 April at 15:30",
-        "parsed_datetime": "2026-04-28T15:30:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=1K5w5VNTUNw&lang=en&eid=375045241&lid=3006866&ci=3253&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:25.143079"
-    },
-    "368796856": {
-        "matchup": "Stockport – Port Vale",
-        "event_url": "https://livetv.sx/enx/eventinfo/368796856__/",
-        "competition": "England. League One",
-        "date_time": "28 April at 19:45",
-        "parsed_datetime": "2026-04-28T19:45:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Stockport",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/5844.gif"
-            },
-            {
-                "team_name": "Port Vale",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4058.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lincoln City",
-                "played": "45",
-                "pts": "100"
-            },
-            {
-                "pos": "2",
-                "team": "Cardiff City",
-                "played": "45",
-                "pts": "91"
-            },
-            {
-                "pos": "3",
-                "team": "Bolton Wanderers",
-                "played": "45",
-                "pts": "75"
-            },
-            {
-                "pos": "4",
-                "team": "Stockport",
-                "played": "44",
-                "pts": "74"
-            },
-            {
-                "pos": "5",
-                "team": "Bradford City",
-                "played": "45",
-                "pts": "74"
-            },
-            {
-                "pos": "6",
-                "team": "Stevenage",
-                "played": "45",
-                "pts": "72"
-            },
-            {
-                "pos": "7",
-                "team": "Luton Town",
-                "played": "45",
-                "pts": "71"
-            },
-            {
-                "pos": "8",
-                "team": "Plymouth Argyle",
-                "played": "45",
-                "pts": "70"
-            },
-            {
-                "pos": "9",
-                "team": "Huddersfield",
-                "played": "45",
-                "pts": "64"
-            },
-            {
-                "pos": "10",
-                "team": "Reading",
-                "played": "45",
-                "pts": "63"
-            },
-            {
-                "pos": "11",
-                "team": "Mansfield Town",
-                "played": "44",
-                "pts": "61"
-            },
-            {
-                "pos": "12",
-                "team": "Wycombe",
-                "played": "45",
-                "pts": "60"
-            },
-            {
-                "pos": "13",
-                "team": "Blackpool",
-                "played": "45",
-                "pts": "57"
-            },
-            {
-                "pos": "14",
-                "team": "Doncaster Rovers",
-                "played": "45",
-                "pts": "57"
-            },
-            {
-                "pos": "15",
-                "team": "Barnsley",
-                "played": "44",
-                "pts": "56"
-            },
-            {
-                "pos": "16",
-                "team": "Wigan Athletic",
-                "played": "45",
-                "pts": "56"
-            },
-            {
-                "pos": "17",
-                "team": "Burton Albion",
-                "played": "45",
-                "pts": "53"
-            },
-            {
-                "pos": "18",
-                "team": "AFC Wimbledon",
-                "played": "45",
-                "pts": "53"
-            },
-            {
-                "pos": "19",
-                "team": "Peterborough United",
-                "played": "44",
-                "pts": "52"
-            },
-            {
-                "pos": "20",
-                "team": "Leyton Orient",
-                "played": "45",
-                "pts": "51"
-            },
-            {
-                "pos": "21",
-                "team": "Exeter City",
-                "played": "45",
-                "pts": "49"
-            },
-            {
-                "pos": "22",
-                "team": "Rotherham Utd",
-                "played": "45",
-                "pts": "41"
-            },
-            {
-                "pos": "23",
-                "team": "Port Vale",
-                "played": "44",
-                "pts": "39"
-            },
-            {
-                "pos": "24",
-                "team": "Northampton Town",
-                "played": "44",
-                "pts": "35"
-            }
-        ],
-        "last_updated": "2026-04-28T15:05:25.441010"
-    },
-    "375049965": {
-        "matchup": "Estoril Praia U-23 –  Gil Vicente U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375049965__/",
-        "competition": "Portugal. League U23",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Estoril Praia U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9574.gif"
-            },
-            {
-                "team_name": "Gil Vicente U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/21722.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Portuguese",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/9.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3006871&lang=en&eid=375049965&lid=3006871&ci=2300&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:25.507906"
-    },
-    "375049961": {
-        "matchup": "Portimonense U-23 –  Farense U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375049961__/",
-        "competition": "Portugal. League U23",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Portimonense U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9573.gif"
-            },
-            {
-                "team_name": "Farense U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/16780.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:26.027689"
-    },
-    "375049967": {
-        "matchup": "Maritimo U-23 –  Estrela U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375049967__/",
-        "competition": "Portugal. League U23",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Maritimo U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/26884.gif"
-            },
-            {
-                "team_name": "Estrela U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/21726.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:26.196452"
-    },
-    "375049963": {
-        "matchup": "UD Leiria U-23 –  Rio Ave U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375049963__/",
-        "competition": "Portugal. League U23",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "UD Leiria U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35841.gif"
-            },
-            {
-                "team_name": "Rio Ave U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/11026.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:26.215161"
-    },
-    "368720911": {
-        "matchup": "Liepaja – Grobina",
-        "event_url": "https://livetv.sx/enx/eventinfo/368720911__/",
-        "competition": "Latvia. Virsliga",
-        "date_time": "28 April at 16:00",
-        "parsed_datetime": "2026-04-28T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Liepaja",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1613.gif"
-            },
-            {
-                "team_name": "Grobina",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30462.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:26.230068"
-    },
-    "368722991": {
-        "matchup": "Pakhtakor – Nasaf",
-        "event_url": "https://livetv.sx/enx/eventinfo/368722991__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "28 April at 16:00",
-        "parsed_datetime": "2026-04-28T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Pakhtakor",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4745.gif"
-            },
-            {
-                "team_name": "Nasaf",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33443.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=-wfQkS9xSJg&lang=en&eid=368722991&lid=3006760&ci=1088&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:26.409622"
+        "last_updated": "2026-04-28T17:12:59.755210"
     },
     "368797097": {
         "matchup": "Southampton – Ipswich Town",
@@ -1263,7 +619,7 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-04-28T15:05:26.511948"
+        "last_updated": "2026-04-28T17:13:00.001476"
     },
     "368765955": {
         "matchup": "Al-Shabab Riyadh – Al-Fateh",
@@ -1271,7 +627,7 @@
         "competition": "Saudi Arabia. Pro League",
         "date_time": "28 April at 17:00",
         "parsed_datetime": "2026-04-28T17:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Al-Shabab Riyadh",
@@ -1284,8 +640,56 @@
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "43.",
+                "Marcelo Grohe",
+                "(G)",
+                "09.",
+                "Abderrazak Hamdallah",
+                "40.",
+                "Ali Al Asmari",
+                "99.",
+                "Ali Al-Azaizeh",
+                "03.",
+                "Ali Al-Bulayhi",
+                "08.",
+                "Josh Brownhill",
+                "02.",
+                "Mohammed Al Shwirekh",
+                "17.",
+                "Mohammed Al-Thani",
+                "31.",
+                "Saad Balobaid",
+                "29.",
+                "Yacine Adli",
+                "10.",
+                "Yannick Carrasco"
+            ],
+            "away_team": [
+                "01.",
+                "Fernando Pacheco",
+                "(G)",
+                "10.",
+                "Matias Vargas",
+                "17.",
+                "Marwane Saadane",
+                "50.",
+                "Majed Qasheesh",
+                "44.",
+                "Jorge Fernandes",
+                "27.",
+                "Fahad Aqeel",
+                "33.",
+                "Zaydou Youssouf",
+                "28.",
+                "Sofiane Bendebka",
+                "15.",
+                "Saeed Baattia",
+                "11.",
+                "Mourad Batna",
+                "04.",
+                "Ziyad Aljari"
+            ]
         },
         "league_table": [
             {
@@ -1397,7 +801,372 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-28T15:05:26.584079"
+        "last_updated": "2026-04-28T17:13:00.169032"
+    },
+    "368720911": {
+        "matchup": "Liepaja – Grobina",
+        "event_url": "https://livetv.sx/enx/eventinfo/368720911__/",
+        "competition": "Latvia. Virsliga",
+        "date_time": "28 April at 16:00",
+        "parsed_datetime": "2026-04-28T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Liepaja",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1613.gif"
+            },
+            {
+                "team_name": "Grobina",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30462.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:00.181989"
+    },
+    "355523921": {
+        "matchup": "Northampton Town – Barnsley",
+        "event_url": "https://livetv.sx/enx/eventinfo/355523921__/",
+        "competition": "England. League One",
+        "date_time": "28 April at 19:45",
+        "parsed_datetime": "2026-04-28T19:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Northampton Town",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4057.gif"
+            },
+            {
+                "team_name": "Barnsley",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3898.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Lincoln City",
+                "played": "45",
+                "pts": "100"
+            },
+            {
+                "pos": "2",
+                "team": "Cardiff City",
+                "played": "45",
+                "pts": "91"
+            },
+            {
+                "pos": "3",
+                "team": "Bolton Wanderers",
+                "played": "45",
+                "pts": "75"
+            },
+            {
+                "pos": "4",
+                "team": "Stockport",
+                "played": "44",
+                "pts": "74"
+            },
+            {
+                "pos": "5",
+                "team": "Bradford City",
+                "played": "45",
+                "pts": "74"
+            },
+            {
+                "pos": "6",
+                "team": "Stevenage",
+                "played": "45",
+                "pts": "72"
+            },
+            {
+                "pos": "7",
+                "team": "Luton Town",
+                "played": "45",
+                "pts": "71"
+            },
+            {
+                "pos": "8",
+                "team": "Plymouth Argyle",
+                "played": "45",
+                "pts": "70"
+            },
+            {
+                "pos": "9",
+                "team": "Huddersfield",
+                "played": "45",
+                "pts": "64"
+            },
+            {
+                "pos": "10",
+                "team": "Reading",
+                "played": "45",
+                "pts": "63"
+            },
+            {
+                "pos": "11",
+                "team": "Mansfield Town",
+                "played": "44",
+                "pts": "61"
+            },
+            {
+                "pos": "12",
+                "team": "Wycombe",
+                "played": "45",
+                "pts": "60"
+            },
+            {
+                "pos": "13",
+                "team": "Blackpool",
+                "played": "45",
+                "pts": "57"
+            },
+            {
+                "pos": "14",
+                "team": "Doncaster Rovers",
+                "played": "45",
+                "pts": "57"
+            },
+            {
+                "pos": "15",
+                "team": "Barnsley",
+                "played": "44",
+                "pts": "56"
+            },
+            {
+                "pos": "16",
+                "team": "Wigan Athletic",
+                "played": "45",
+                "pts": "56"
+            },
+            {
+                "pos": "17",
+                "team": "Burton Albion",
+                "played": "45",
+                "pts": "53"
+            },
+            {
+                "pos": "18",
+                "team": "AFC Wimbledon",
+                "played": "45",
+                "pts": "53"
+            },
+            {
+                "pos": "19",
+                "team": "Peterborough United",
+                "played": "44",
+                "pts": "52"
+            },
+            {
+                "pos": "20",
+                "team": "Leyton Orient",
+                "played": "45",
+                "pts": "51"
+            },
+            {
+                "pos": "21",
+                "team": "Exeter City",
+                "played": "45",
+                "pts": "49"
+            },
+            {
+                "pos": "22",
+                "team": "Rotherham Utd",
+                "played": "45",
+                "pts": "41"
+            },
+            {
+                "pos": "23",
+                "team": "Port Vale",
+                "played": "44",
+                "pts": "39"
+            },
+            {
+                "pos": "24",
+                "team": "Northampton Town",
+                "played": "44",
+                "pts": "35"
+            }
+        ],
+        "last_updated": "2026-04-28T17:13:00.208115"
+    },
+    "368796856": {
+        "matchup": "Stockport – Port Vale",
+        "event_url": "https://livetv.sx/enx/eventinfo/368796856__/",
+        "competition": "England. League One",
+        "date_time": "28 April at 19:45",
+        "parsed_datetime": "2026-04-28T19:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Stockport",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/5844.gif"
+            },
+            {
+                "team_name": "Port Vale",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4058.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Lincoln City",
+                "played": "45",
+                "pts": "100"
+            },
+            {
+                "pos": "2",
+                "team": "Cardiff City",
+                "played": "45",
+                "pts": "91"
+            },
+            {
+                "pos": "3",
+                "team": "Bolton Wanderers",
+                "played": "45",
+                "pts": "75"
+            },
+            {
+                "pos": "4",
+                "team": "Stockport",
+                "played": "44",
+                "pts": "74"
+            },
+            {
+                "pos": "5",
+                "team": "Bradford City",
+                "played": "45",
+                "pts": "74"
+            },
+            {
+                "pos": "6",
+                "team": "Stevenage",
+                "played": "45",
+                "pts": "72"
+            },
+            {
+                "pos": "7",
+                "team": "Luton Town",
+                "played": "45",
+                "pts": "71"
+            },
+            {
+                "pos": "8",
+                "team": "Plymouth Argyle",
+                "played": "45",
+                "pts": "70"
+            },
+            {
+                "pos": "9",
+                "team": "Huddersfield",
+                "played": "45",
+                "pts": "64"
+            },
+            {
+                "pos": "10",
+                "team": "Reading",
+                "played": "45",
+                "pts": "63"
+            },
+            {
+                "pos": "11",
+                "team": "Mansfield Town",
+                "played": "44",
+                "pts": "61"
+            },
+            {
+                "pos": "12",
+                "team": "Wycombe",
+                "played": "45",
+                "pts": "60"
+            },
+            {
+                "pos": "13",
+                "team": "Blackpool",
+                "played": "45",
+                "pts": "57"
+            },
+            {
+                "pos": "14",
+                "team": "Doncaster Rovers",
+                "played": "45",
+                "pts": "57"
+            },
+            {
+                "pos": "15",
+                "team": "Barnsley",
+                "played": "44",
+                "pts": "56"
+            },
+            {
+                "pos": "16",
+                "team": "Wigan Athletic",
+                "played": "45",
+                "pts": "56"
+            },
+            {
+                "pos": "17",
+                "team": "Burton Albion",
+                "played": "45",
+                "pts": "53"
+            },
+            {
+                "pos": "18",
+                "team": "AFC Wimbledon",
+                "played": "45",
+                "pts": "53"
+            },
+            {
+                "pos": "19",
+                "team": "Peterborough United",
+                "played": "44",
+                "pts": "52"
+            },
+            {
+                "pos": "20",
+                "team": "Leyton Orient",
+                "played": "45",
+                "pts": "51"
+            },
+            {
+                "pos": "21",
+                "team": "Exeter City",
+                "played": "45",
+                "pts": "49"
+            },
+            {
+                "pos": "22",
+                "team": "Rotherham Utd",
+                "played": "45",
+                "pts": "41"
+            },
+            {
+                "pos": "23",
+                "team": "Port Vale",
+                "played": "44",
+                "pts": "39"
+            },
+            {
+                "pos": "24",
+                "team": "Northampton Town",
+                "played": "44",
+                "pts": "35"
+            }
+        ],
+        "last_updated": "2026-04-28T17:13:00.208126"
     },
     "368244429": {
         "matchup": "Bnei Sakhnin – Ashdod",
@@ -1405,7 +1174,7 @@
         "competition": "Israel. Premier League",
         "date_time": "28 April at 17:00",
         "parsed_datetime": "2026-04-28T17:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Bnei Sakhnin",
@@ -1416,7 +1185,16 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/497.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007032&lang=en&eid=368244429&lid=3007032&ci=38&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -1507,75 +1285,7 @@
                 "pts": "12"
             }
         ],
-        "last_updated": "2026-04-28T15:05:26.885379"
-    },
-    "373116316": {
-        "matchup": "Al-Gharraf – Al-Minaa",
-        "event_url": "https://livetv.sx/enx/eventinfo/373116316__/",
-        "competition": "Iraq. Premier League",
-        "date_time": "28 April at 15:00",
-        "parsed_datetime": "2026-04-28T15:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Al-Gharraf",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35790.gif"
-            },
-            {
-                "team_name": "Al-Minaa",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35656.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=vKERPRCN5cA&lang=en&eid=373116316&lid=3006790&ci=2637&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:27.001744"
-    },
-    "375481812": {
-        "matchup": "Saku Sporting (W) –  Flora (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/375481812__/",
-        "competition": "Estonia. Women. Cup",
-        "date_time": "28 April at 17:00",
-        "parsed_datetime": "2026-04-28T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Saku Sporting (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4801.gif"
-            },
-            {
-                "team_name": "Flora (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30369.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=U4yQ5cDpUaQ&lang=en&eid=375481812&lid=3006853&ci=3164&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:27.059878"
+        "last_updated": "2026-04-28T17:13:00.372749"
     },
     "369318581": {
         "matchup": "PSG – Bayern Munich",
@@ -1817,7 +1527,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-04-28T15:05:27.189764"
+        "last_updated": "2026-04-28T17:13:00.543013"
     },
     "369210585": {
         "matchup": "Malkiya – Al-Najma",
@@ -1825,7 +1535,7 @@
         "competition": "Bahrain. Premier League",
         "date_time": "28 April at 17:00",
         "parsed_datetime": "2026-04-28T17:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Malkiya",
@@ -1841,7 +1551,7 @@
                 "language": "Arabic",
                 "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=Kd60iI-emNY&lang=en&eid=369210585&lid=3006752&ci=965&si=1",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=j22KNoMOLrE&lang=en&eid=369210585&lid=3006984&ci=965&si=1",
                 "stream_title": "",
                 "stream_type": ""
             }
@@ -1878,7 +1588,7 @@
             {
                 "pos": "5",
                 "team": "A`Ali",
-                "played": "18",
+                "played": "19",
                 "pts": "25"
             },
             {
@@ -1901,15 +1611,15 @@
             },
             {
                 "pos": "9",
-                "team": "Al-Najma",
-                "played": "18",
-                "pts": "19"
+                "team": "Sitra",
+                "played": "19",
+                "pts": "21"
             },
             {
                 "pos": "10",
-                "team": "Sitra",
+                "team": "Al-Najma",
                 "played": "18",
-                "pts": "18"
+                "pts": "19"
             },
             {
                 "pos": "11",
@@ -1924,7 +1634,7 @@
                 "pts": "7"
             }
         ],
-        "last_updated": "2026-04-28T15:05:27.300390"
+        "last_updated": "2026-04-28T17:13:00.616479"
     },
     "369210587": {
         "matchup": "Al-Shabab Manama – Bahrain SC",
@@ -1932,7 +1642,7 @@
         "competition": "Bahrain. Premier League",
         "date_time": "28 April at 17:00",
         "parsed_datetime": "2026-04-28T17:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Al-Shabab Manama",
@@ -1985,7 +1695,7 @@
             {
                 "pos": "5",
                 "team": "A`Ali",
-                "played": "18",
+                "played": "19",
                 "pts": "25"
             },
             {
@@ -2008,15 +1718,15 @@
             },
             {
                 "pos": "9",
-                "team": "Al-Najma",
-                "played": "18",
-                "pts": "19"
+                "team": "Sitra",
+                "played": "19",
+                "pts": "21"
             },
             {
                 "pos": "10",
-                "team": "Sitra",
+                "team": "Al-Najma",
                 "played": "18",
-                "pts": "18"
+                "pts": "19"
             },
             {
                 "pos": "11",
@@ -2031,7 +1741,41 @@
                 "pts": "7"
             }
         ],
-        "last_updated": "2026-04-28T15:05:27.393903"
+        "last_updated": "2026-04-28T17:13:00.715626"
+    },
+    "375481812": {
+        "matchup": "Saku Sporting (W) –  Flora (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/375481812__/",
+        "competition": "Estonia. Women. Cup",
+        "date_time": "28 April at 17:00",
+        "parsed_datetime": "2026-04-28T17:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Saku Sporting (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4801.gif"
+            },
+            {
+                "team_name": "Flora (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30369.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=U4yQ5cDpUaQ&lang=en&eid=375481812&lid=3006853&ci=3164&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:00.782262"
     },
     "368244419": {
         "matchup": "Maccabi Tel Aviv – Hapoel Beer Sheva",
@@ -2039,7 +1783,7 @@
         "competition": "Israel. Premier League",
         "date_time": "28 April at 17:30",
         "parsed_datetime": "2026-04-28T17:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Maccabi Tel Aviv",
@@ -2050,7 +1794,16 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/780.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007033&lang=en&eid=368244419&lid=3007033&ci=38&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -2093,57 +1846,7 @@
                 "pts": "37"
             }
         ],
-        "last_updated": "2026-04-28T15:05:27.456818"
-    },
-    "375049971": {
-        "matchup": "Santa Clara U-23 –  Sporting U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375049971__/",
-        "competition": "Portugal. League U23",
-        "date_time": "28 April at 17:30",
-        "parsed_datetime": "2026-04-28T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Santa Clara U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30240.gif"
-            },
-            {
-                "team_name": "Sporting U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9571.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:27.514509"
-    },
-    "375049969": {
-        "matchup": "Benfica U-23 –  Famalicao U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375049969__/",
-        "competition": "Portugal. League U23",
-        "date_time": "28 April at 17:30",
-        "parsed_datetime": "2026-04-28T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Benfica U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10255.gif"
-            },
-            {
-                "team_name": "Famalicao U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10053.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:27.925249"
+        "last_updated": "2026-04-28T17:13:00.864567"
     },
     "375049973": {
         "matchup": "Torreense U-23 –  Braga U-23",
@@ -2151,7 +1854,7 @@
         "competition": "Portugal. League U23",
         "date_time": "28 April at 17:30",
         "parsed_datetime": "2026-04-28T17:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Torreense U-23",
@@ -2168,57 +1871,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:27.981364"
+        "last_updated": "2026-04-28T17:13:01.193620"
     },
-    "368763225": {
-        "matchup": "Kahraba Ismailia – National Bank",
-        "event_url": "https://livetv.sx/enx/eventinfo/368763225__/",
-        "competition": "Egypt. Premier League",
-        "date_time": "28 April at 18:00",
-        "parsed_datetime": "2026-04-28T18:00:00",
-        "is_live": false,
+    "375043037": {
+        "matchup": "Academico Viseu U-23 –  Leixoes U-23",
+        "event_url": "https://livetv.sx/enx/eventinfo/375043037__/",
+        "competition": "Portugal. League U23",
+        "date_time": "28 April at 17:30",
+        "parsed_datetime": "2026-04-28T17:30:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Kahraba Ismailia",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35043.gif"
+                "team_name": "Academico Viseu U-23",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/27062.gif"
             },
             {
-                "team_name": "National Bank",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/2075.gif"
+                "team_name": "Leixoes U-23",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10538.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=2951631&lang=en&eid=375043037&lid=2951631&ci=2300&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:28.309999"
-    },
-    "368763227": {
-        "matchup": "Al Mokawloon – Ghazl El Mehalla",
-        "event_url": "https://livetv.sx/enx/eventinfo/368763227__/",
-        "competition": "Egypt. Premier League",
-        "date_time": "28 April at 18:00",
-        "parsed_datetime": "2026-04-28T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Al Mokawloon",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1552.gif"
-            },
-            {
-                "team_name": "Ghazl El Mehalla",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33575.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:28.435818"
+        "last_updated": "2026-04-28T17:13:01.341977"
     },
     "368765960": {
         "matchup": "Neom – Al-Hazem",
@@ -2226,7 +1913,7 @@
         "competition": "Saudi Arabia. Pro League",
         "date_time": "28 April at 17:45",
         "parsed_datetime": "2026-04-28T17:45:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Neom",
@@ -2239,8 +1926,56 @@
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "99.",
+                "Marcin Bulka",
+                "(G)",
+                "15.",
+                "Abdulmalik Al Oyayari",
+                "18.",
+                "Ala’a Al-Haji",
+                "91.",
+                "Alexandre Lacazette",
+                "72.",
+                "Amadou Kone",
+                "25.",
+                "Faris Abdi",
+                "04.",
+                "Khalifah Aldawsari",
+                "14.",
+                "Muhannad Al Saad",
+                "44.",
+                "Nathan Zeze",
+                "80.",
+                "Rayane Messi",
+                "10.",
+                "Said Benrahma"
+            ],
+            "away_team": [
+                "23.",
+                "Ibrahim Zaied",
+                "(G)",
+                "27.",
+                "Ahmed Al-Nakhli",
+                "24.",
+                "Aboubacar Bah",
+                "34.",
+                "Abdurahman Al Dakheel",
+                "15.",
+                "Abdulrahman Al",
+                "13.",
+                "Abdullah Al-Shanqiti",
+                "82.",
+                "Abdulaziz Al-Harbi",
+                "17.",
+                "Elias Mokwana",
+                "10.",
+                "Fabio Martins",
+                "32.",
+                "Loreintz Rosier",
+                "09.",
+                "Omar Al Somah"
+            ]
         },
         "league_table": [
             {
@@ -2352,23 +2087,23 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-28T15:05:28.572878"
+        "last_updated": "2026-04-28T17:13:01.435032"
     },
-    "375043037": {
-        "matchup": "Academico Viseu U-23 –  Leixoes U-23",
-        "event_url": "https://livetv.sx/enx/eventinfo/375043037__/",
+    "375049969": {
+        "matchup": "Benfica U-23 –  Famalicao U-23",
+        "event_url": "https://livetv.sx/enx/eventinfo/375049969__/",
         "competition": "Portugal. League U23",
         "date_time": "28 April at 17:30",
         "parsed_datetime": "2026-04-28T17:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Academico Viseu U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/27062.gif"
+                "team_name": "Benfica U-23",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10255.gif"
             },
             {
-                "team_name": "Leixoes U-23",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10538.gif"
+                "team_name": "Famalicao U-23",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10053.gif"
             }
         ],
         "streams": [],
@@ -2377,7 +2112,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:28.605652"
+        "last_updated": "2026-04-28T17:13:01.507303"
+    },
+    "368763225": {
+        "matchup": "Kahraba Ismailia – National Bank",
+        "event_url": "https://livetv.sx/enx/eventinfo/368763225__/",
+        "competition": "Egypt. Premier League",
+        "date_time": "28 April at 18:00",
+        "parsed_datetime": "2026-04-28T18:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Kahraba Ismailia",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35043.gif"
+            },
+            {
+                "team_name": "National Bank",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/2075.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://tinyurl.com/yu2wjf5c",
+                "stream_title": "",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:01.631827"
     },
     "368767605": {
         "matchup": "Norrkoeping – Landskrona",
@@ -2385,7 +2154,7 @@
         "competition": "Sweden. Superettan",
         "date_time": "28 April at 18:00",
         "parsed_datetime": "2026-04-28T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Norrkoeping",
@@ -2398,11 +2167,59 @@
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Theo Krantz",
+                "(G)",
+                "10.",
+                "Albert Aleksanjan",
+                "23.",
+                "Alexander Opsahl",
+                "20.",
+                "Axel Broenner",
+                "05.",
+                "Christoffer Nyman",
+                "11.",
+                "Elias Jemal",
+                "25.",
+                "Filip Dagerstaal",
+                "04.",
+                "Jonas Weber",
+                "34.",
+                "Noel Sernelius",
+                "08.",
+                "Ryan Nelson",
+                "09.",
+                "Tim Prica"
+            ],
+            "away_team": [
+                "01.",
+                "Amr Kaddoura",
+                "(G)",
+                "36.",
+                "Enes Hebibovic",
+                "10.",
+                "Constantino Capotondi",
+                "26.",
+                "Andreas Murbeck",
+                "18.",
+                "Andre Alvarez Perez",
+                "04.",
+                "Gustaf Bruzelius",
+                "06.",
+                "Tobias Karlsson",
+                "11.",
+                "Markus Bjoerkqvist",
+                "03.",
+                "Gustaf Weststroem",
+                "08.",
+                "Allen Smajic",
+                "05.",
+                "Adam Egnell"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:28.659744"
+        "last_updated": "2026-04-28T17:13:01.806762"
     },
     "367805497": {
         "matchup": "Feirense – Torreense",
@@ -2410,7 +2227,7 @@
         "competition": "Portugal. Segunda Liga",
         "date_time": "28 April at 18:00",
         "parsed_datetime": "2026-04-28T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Feirense",
@@ -2421,7 +2238,24 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/21717.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3004164&lang=en&eid=367805497&lid=3004164&ci=170&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3006695&lang=en&eid=367805497&lid=3006695&ci=170&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -2536,7 +2370,66 @@
                 "pts": "30"
             }
         ],
-        "last_updated": "2026-04-28T15:05:28.729060"
+        "last_updated": "2026-04-28T17:13:01.887562"
+    },
+    "368763227": {
+        "matchup": "Al Mokawloon – Ghazl El Mehalla",
+        "event_url": "https://livetv.sx/enx/eventinfo/368763227__/",
+        "competition": "Egypt. Premier League",
+        "date_time": "28 April at 18:00",
+        "parsed_datetime": "2026-04-28T18:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Al Mokawloon",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1552.gif"
+            },
+            {
+                "team_name": "Ghazl El Mehalla",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33575.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://tinyurl.com/3vt2sdjp",
+                "stream_title": "",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:01.911222"
+    },
+    "375049971": {
+        "matchup": "Santa Clara U-23 –  Sporting U-23",
+        "event_url": "https://livetv.sx/enx/eventinfo/375049971__/",
+        "competition": "Portugal. League U23",
+        "date_time": "28 April at 17:30",
+        "parsed_datetime": "2026-04-28T17:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Santa Clara U-23",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30240.gif"
+            },
+            {
+                "team_name": "Sporting U-23",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9571.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:01.991927"
     },
     "368764543": {
         "matchup": "RFS – Riga",
@@ -2544,7 +2437,7 @@
         "competition": "Latvia. Virsliga",
         "date_time": "28 April at 18:00",
         "parsed_datetime": "2026-04-28T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "RFS",
@@ -2561,7 +2454,78 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:29.013029"
+        "last_updated": "2026-04-28T17:13:02.105036"
+    },
+    "368244421": {
+        "matchup": "Beitar Jerusalem – Hapoel Petah Tikva",
+        "event_url": "https://livetv.sx/enx/eventinfo/368244421__/",
+        "competition": "Israel. Premier League",
+        "date_time": "28 April at 18:00",
+        "parsed_datetime": "2026-04-28T18:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Beitar Jerusalem",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1128.gif"
+            },
+            {
+                "team_name": "Hapoel Petah Tikva",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4501.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007034&lang=en&eid=368244421&lid=3007034&ci=38&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Hapoel Beer Sheva",
+                "played": "28",
+                "pts": "63"
+            },
+            {
+                "pos": "2",
+                "team": "Beitar Jerusalem",
+                "played": "28",
+                "pts": "61"
+            },
+            {
+                "pos": "3",
+                "team": "Maccabi Tel Aviv",
+                "played": "28",
+                "pts": "55"
+            },
+            {
+                "pos": "4",
+                "team": "Hapoel Tel Aviv",
+                "played": "28",
+                "pts": "52"
+            },
+            {
+                "pos": "5",
+                "team": "Maccabi Haifa",
+                "played": "28",
+                "pts": "42"
+            },
+            {
+                "pos": "6",
+                "team": "Hapoel Petah Tikva",
+                "played": "28",
+                "pts": "37"
+            }
+        ],
+        "last_updated": "2026-04-28T17:13:02.151254"
     },
     "368765957": {
         "matchup": "Al-Khaleej – Al-Najma",
@@ -2695,32 +2659,7 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-28T15:05:29.321288"
-    },
-    "368813061": {
-        "matchup": "AD Fafe – Sao Joao Ver",
-        "event_url": "https://livetv.sx/enx/eventinfo/368813061__/",
-        "competition": "Portugal. Liga 3",
-        "date_time": "28 April at 20:00",
-        "parsed_datetime": "2026-04-28T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "AD Fafe",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10228.gif"
-            },
-            {
-                "team_name": "Sao Joao Ver",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/11470.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:29.366584"
+        "last_updated": "2026-04-28T17:13:02.238746"
     },
     "373483611": {
         "matchup": "Argentina U17 (W) – Bolivia U17 (W)",
@@ -2736,7 +2675,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:29.416498"
+        "last_updated": "2026-04-28T17:13:02.306752"
     },
     "368765967": {
         "matchup": "Al-Hilal Riyadh – Damac",
@@ -2755,10 +2694,123 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/27321.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258374&lang=en&eid=368765967&lid=3003914&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258375&lang=en&eid=368765967&lid=3003915&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258446&lang=en&eid=368765967&lid=3003919&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3001374&lang=en&eid=368765967&lid=3001374&ci=66&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3001434&lang=en&eid=368765967&lid=3001434&ci=66&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258376&lang=en&eid=368765967&lid=3003912&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258378&lang=en&eid=368765967&lid=3003913&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258383&lang=en&eid=368765967&lid=3003916&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "37.",
+                "Yassine Bounou",
+                "(G)",
+                "87.",
+                "Hassan Al Tambakti",
+                "90.",
+                "Karim Benzema",
+                "10.",
+                "Malcom",
+                "28.",
+                "Mohamed Kanno",
+                "24.",
+                "Moteb Al-Harbi",
+                "08.",
+                "Ruben Neves",
+                "29.",
+                "Salem Al-Dawsari",
+                "22.",
+                "Sergej",
+                "19.",
+                "Theo Hernandez",
+                "04.",
+                "Yusuf Akcicek"
+            ],
+            "away_team": [
+                "01.",
+                "Kewin",
+                "(G)",
+                "15.",
+                "Jamal Harkass",
+                "20.",
+                "Dhari Sayyar Al-Anazi",
+                "22.",
+                "Abdulrahman",
+                "88.",
+                "Khaled Al Samiri",
+                "08.",
+                "Valentin Vada",
+                "06.",
+                "Tariq Mohammed",
+                "02.",
+                "Morlaye Sylla",
+                "13.",
+                "Abdulrahman Al Obaid",
+                "03.",
+                "Abdelkader Bedrane",
+                "11.",
+                "Yakou Meite"
+            ]
         },
         "league_table": [
             {
@@ -2870,32 +2922,7 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-28T15:05:29.615166"
-    },
-    "368884851": {
-        "matchup": "Botafogo-RJ – Independiente Petrolero",
-        "event_url": "https://livetv.sx/enx/eventinfo/368884851__/",
-        "competition": "Copa Sudamericana",
-        "date_time": "28 April at 23:00",
-        "parsed_datetime": "2026-04-28T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Botafogo-RJ",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/433.gif"
-            },
-            {
-                "team_name": "Independiente Petrolero",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9830.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-28T15:05:29.733654"
+        "last_updated": "2026-04-28T17:13:02.409496"
     },
     "375156214": {
         "matchup": "Ind Medellin (W) –  Once Caldas (W)",
@@ -2920,7 +2947,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:29.770027"
+        "last_updated": "2026-04-28T17:13:02.655762"
+    },
+    "368813061": {
+        "matchup": "AD Fafe – Sao Joao Ver",
+        "event_url": "https://livetv.sx/enx/eventinfo/368813061__/",
+        "competition": "Portugal. Liga 3",
+        "date_time": "28 April at 20:00",
+        "parsed_datetime": "2026-04-28T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "AD Fafe",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10228.gif"
+            },
+            {
+                "team_name": "Sao Joao Ver",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/11470.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:02.785473"
     },
     "368884853": {
         "matchup": "San Lorenzo – Santos-SP",
@@ -2945,7 +2997,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:29.999761"
+        "last_updated": "2026-04-28T17:13:02.949476"
     },
     "368890199": {
         "matchup": "Ferro Carril Oeste – Almirante Brown",
@@ -2970,23 +3022,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-28T15:05:30.610492"
+        "last_updated": "2026-04-28T17:13:03.432341"
     },
-    "368244421": {
-        "matchup": "Beitar Jerusalem – Hapoel Petah Tikva",
-        "event_url": "https://livetv.sx/enx/eventinfo/368244421__/",
-        "competition": "Israel. Premier League",
-        "date_time": "28 April at 18:00",
-        "parsed_datetime": "2026-04-28T18:00:00",
+    "368884851": {
+        "matchup": "Botafogo-RJ – Independiente Petrolero",
+        "event_url": "https://livetv.sx/enx/eventinfo/368884851__/",
+        "competition": "Copa Sudamericana",
+        "date_time": "28 April at 23:00",
+        "parsed_datetime": "2026-04-28T23:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Beitar Jerusalem",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1128.gif"
+                "team_name": "Botafogo-RJ",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/433.gif"
             },
             {
-                "team_name": "Hapoel Petah Tikva",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4501.gif"
+                "team_name": "Independiente Petrolero",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9830.gif"
             }
         ],
         "streams": [],
@@ -2994,44 +3046,7 @@
             "home_team": [],
             "away_team": []
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Hapoel Beer Sheva",
-                "played": "28",
-                "pts": "63"
-            },
-            {
-                "pos": "2",
-                "team": "Beitar Jerusalem",
-                "played": "28",
-                "pts": "61"
-            },
-            {
-                "pos": "3",
-                "team": "Maccabi Tel Aviv",
-                "played": "28",
-                "pts": "55"
-            },
-            {
-                "pos": "4",
-                "team": "Hapoel Tel Aviv",
-                "played": "28",
-                "pts": "52"
-            },
-            {
-                "pos": "5",
-                "team": "Maccabi Haifa",
-                "played": "28",
-                "pts": "42"
-            },
-            {
-                "pos": "6",
-                "team": "Hapoel Petah Tikva",
-                "played": "28",
-                "pts": "37"
-            }
-        ],
-        "last_updated": "2026-04-28T15:05:32.521690"
+        "league_table": [],
+        "last_updated": "2026-04-28T17:13:04.744421"
     }
 }
