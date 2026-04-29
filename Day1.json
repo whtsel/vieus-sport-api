@@ -5,7 +5,7 @@
         "competition": "Netherlands. Eredivisie",
         "date_time": "29 April at 17:45",
         "parsed_datetime": "2026-04-29T17:45:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Den Bosch",
@@ -21,15 +21,15 @@
                 "language": "Dutch",
                 "flag_src": "https://cdn.livetv880.me/img/linkflag/4.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3000110&lang=en&eid=373829215&lid=3000110&ci=22&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258420&lang=en&eid=373829215&lid=3007042&ci=22&si=1",
+                "stream_title": "",
+                "stream_type": ""
             },
             {
                 "language": "Dutch",
                 "flag_src": "https://cdn.livetv880.me/img/linkflag/4.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007149&lang=en&eid=373829215&lid=3007149&ci=22&si=1",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3000110&lang=en&eid=373829215&lid=3000110&ci=22&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
@@ -204,7 +204,32 @@
                 "pts": "19"
             }
         ],
-        "last_updated": "2026-04-29T16:14:52.484413"
+        "last_updated": "2026-04-29T17:58:14.336718"
+    },
+    "375018807": {
+        "matchup": "Werder Bremen Women – Bayern (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/375018807_werder_bremen_women_bayern_w/",
+        "competition": "Germany. Women. Bundesliga",
+        "date_time": "29 April at 17:00",
+        "parsed_datetime": "2026-04-29T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Werder Bremen Women",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/44468.gif"
+            },
+            {
+                "team_name": "Bayern (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/33553.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:14.474717"
     },
     "369318583": {
         "matchup": "Atletico Madrid – Arsenal",
@@ -446,73 +471,162 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-04-29T16:14:52.783754"
+        "last_updated": "2026-04-29T17:58:14.928057"
     },
-    "369194676": {
-        "matchup": "Neftchi – Kokand",
-        "event_url": "https://livetv.sx/enx/eventinfo/369194676__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "29 April at 15:00",
-        "parsed_datetime": "2026-04-29T15:00:00",
+    "369215234": {
+        "matchup": "Inter Turku – HJK",
+        "event_url": "https://livetv.sx/enx/eventinfo/369215234__/",
+        "competition": "Finland. Veikkausliiga",
+        "date_time": "29 April at 17:00",
+        "parsed_datetime": "2026-04-29T17:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Neftchi",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33597.gif"
+                "team_name": "Inter Turku",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/358.gif"
             },
             {
-                "team_name": "Kokand",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/34622.gif"
+                "team_name": "HJK",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/27412.gif"
             }
         ],
         "streams": [],
+        "starting_lineups": {
+            "home_team": [
+                "01.",
+                "Eetu Huuhtanen",
+                "(G)",
+                "05.",
+                "Albin Granlund",
+                "27.",
+                "Vincent Ulundu",
+                "10.",
+                "Alie Conteh",
+                "14.",
+                "Janne-Pekka Laine",
+                "09.",
+                "Jasse Tuominen",
+                "02.",
+                "Jussi Niska",
+                "03.",
+                "Juuso Haemaelaeinen",
+                "23.",
+                "Loic Essomba",
+                "22.",
+                "Luka Kuittinen",
+                "04.",
+                "Prosper Ahiabu"
+            ],
+            "away_team": [
+                "44.",
+                "Matej Markovic",
+                "(G)",
+                "15.",
+                "Jere Kallinen",
+                "19.",
+                "David Ezeh",
+                "02.",
+                "Brooklyn Lyons-Foster",
+                "14.",
+                "Leonel Montano",
+                "22.",
+                "Liam Moeller",
+                "10.",
+                "Lucas Lingman",
+                "09.",
+                "Mads Borchers",
+                "31.",
+                "Mihailo Bogicevic",
+                "28.",
+                "Miska Ylitolva",
+                "18.",
+                "Toivo Mero"
+            ]
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:15.184753"
+    },
+    "369210695": {
+        "matchup": "CSKA Sofia – Ludogorets",
+        "event_url": "https://livetv.sx/enx/eventinfo/369210695__/",
+        "competition": "Bulgaria. Cup",
+        "date_time": "29 April at 17:00",
+        "parsed_datetime": "2026-04-29T17:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "CSKA Sofia",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3793.gif"
+            },
+            {
+                "team_name": "Ludogorets",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1089.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Croatian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/29.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258325&lang=en&eid=369210695&lid=3003706&ci=88&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Bulgarian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3003227&lang=en&eid=369210695&lid=3003227&ci=88&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Bulgarian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007255&lang=en&eid=369210695&lid=3007255&ci=88&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Bulgarian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007148&lang=en&eid=369210695&lid=3007148&ci=88&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Bulgarian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3004139&lang=en&eid=369210695&lid=3004139&ci=88&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:52.945100"
+        "last_updated": "2026-04-29T17:58:15.403185"
     },
-    "369339433": {
-        "matchup": "Atletico Platense – Santa Fe",
-        "event_url": "https://livetv.sx/enx/eventinfo/369339433__/",
-        "competition": "Copa Libertadores",
-        "date_time": "29 April at 23:00",
-        "parsed_datetime": "2026-04-29T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Atletico Platense",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10174.gif"
-            },
-            {
-                "team_name": "Santa Fe",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1296.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.150116"
-    },
-    "369342830": {
-        "matchup": "Caracas – Racing",
-        "event_url": "https://livetv.sx/enx/eventinfo/369342830__/",
+    "369342828": {
+        "matchup": "Deportivo Riestra – MC Torque",
+        "event_url": "https://livetv.sx/enx/eventinfo/369342828__/",
         "competition": "Copa Sudamericana",
         "date_time": "29 April at 23:00",
         "parsed_datetime": "2026-04-29T23:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Caracas",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/253.gif"
+                "team_name": "Deportivo Riestra",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10224.gif"
             },
             {
-                "team_name": "Racing",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/429.gif"
+                "team_name": "MC Torque",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1468.gif"
             }
         ],
         "streams": [],
@@ -521,7 +635,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.317656"
+        "last_updated": "2026-04-29T17:58:15.473448"
     },
     "369339431": {
         "matchup": "Mirassol – Always Ready",
@@ -546,32 +660,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.502461"
-    },
-    "369194674": {
-        "matchup": "Qizilqum – Khorezm Urganch",
-        "event_url": "https://livetv.sx/enx/eventinfo/369194674__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "29 April at 15:00",
-        "parsed_datetime": "2026-04-29T15:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Qizilqum",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33894.gif"
-            },
-            {
-                "team_name": "Khorezm Urganch",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/22474.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.502476"
+        "last_updated": "2026-04-29T17:58:15.696610"
     },
     "372563729": {
         "matchup": "Sporting – Tondela",
@@ -705,386 +794,23 @@
                 "pts": "14"
             }
         ],
-        "last_updated": "2026-04-29T16:14:53.570626"
+        "last_updated": "2026-04-29T17:58:15.799323"
     },
-    "369172335": {
-        "matchup": "El Gouna – Haras El Hodood",
-        "event_url": "https://livetv.sx/enx/eventinfo/369172335__/",
-        "competition": "Egypt. Premier League",
-        "date_time": "29 April at 15:00",
-        "parsed_datetime": "2026-04-29T15:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "El Gouna",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1545.gif"
-            },
-            {
-                "team_name": "Haras El Hodood",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10647.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.579443"
-    },
-    "375862315": {
-        "matchup": "Noah – Ararat-Armenia",
-        "event_url": "https://livetv.sx/enx/eventinfo/375862315_noah_ararat_armenia/",
-        "competition": "Armenia. Cup",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
+    "368739602": {
+        "matchup": "Al-Ahli Manama – Al Riffa",
+        "event_url": "https://livetv.sx/enx/eventinfo/368739602__/",
+        "competition": "Bahrain. Premier League",
+        "date_time": "29 April at 17:00",
+        "parsed_datetime": "2026-04-29T17:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Noah",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/37904.gif"
+                "team_name": "Al-Ahli Manama",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1748.gif"
             },
             {
-                "team_name": "Ararat-Armenia",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/33182.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Armenian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/36.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=kT0YpfQCshE&lang=en&eid=375862315&lid=3007310&ci=1549&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.637720"
-    },
-    "375862316": {
-        "matchup": "Urartu – Andranik",
-        "event_url": "https://livetv.sx/enx/eventinfo/375862316_urartu_andranik/",
-        "competition": "Armenia. Cup",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "Armenian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/36.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=Ua76DQQan-o&lang=en&eid=375862316&lid=3007311&ci=1549&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.750594"
-    },
-    "375496720": {
-        "matchup": "Start Brno – Frydek-Mistek",
-        "event_url": "https://livetv.sx/enx/eventinfo/375496720__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Start Brno",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/15726.gif"
-            },
-            {
-                "team_name": "Frydek-Mistek",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/998.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007314&lang=en&eid=375496720&lid=3007314&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.887165"
-    },
-    "375472161": {
-        "matchup": "Hodonin – Trinec",
-        "event_url": "https://livetv.sx/enx/eventinfo/375472161__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Hodonin",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/20117.gif"
-            },
-            {
-                "team_name": "Trinec",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35316.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:53.915115"
-    },
-    "375206332": {
-        "matchup": "Zlin B – Unicov",
-        "event_url": "https://livetv.sx/enx/eventinfo/375206332__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Zlin B",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/22678.gif"
-            },
-            {
-                "team_name": "Unicov",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/6560.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007320&lang=en&eid=375206332&lid=3007320&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.080679"
-    },
-    "375206333": {
-        "matchup": "TJ Unie Hlubina – Vitkovice",
-        "event_url": "https://livetv.sx/enx/eventinfo/375206333__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "TJ Unie Hlubina",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/8269.gif"
-            },
-            {
-                "team_name": "Vitkovice",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3973.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007319&lang=en&eid=375206333&lid=3007319&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.350818"
-    },
-    "375206335": {
-        "matchup": "Slovacko B – Blansko",
-        "event_url": "https://livetv.sx/enx/eventinfo/375206335__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Slovacko B",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7790.gif"
-            },
-            {
-                "team_name": "Blansko",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/6210.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007317&lang=en&eid=375206335&lid=3007317&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.357927"
-    },
-    "375206334": {
-        "matchup": "Karvina B – SFK Vrchovina",
-        "event_url": "https://livetv.sx/enx/eventinfo/375206334__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Karvina B",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/16488.gif"
-            },
-            {
-                "team_name": "SFK Vrchovina",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/6427.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007318&lang=en&eid=375206334&lid=3007318&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.470021"
-    },
-    "375346888": {
-        "matchup": "Zbrojovka Brno B – Sigma B",
-        "event_url": "https://livetv.sx/enx/eventinfo/375346888__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 15:30",
-        "parsed_datetime": "2026-04-29T15:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Zbrojovka Brno B",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/15723.gif"
-            },
-            {
-                "team_name": "Sigma B",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/6799.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007316&lang=en&eid=375346888&lid=3007316&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.515561"
-    },
-    "369190294": {
-        "matchup": "BATE – Slavia Mazyr",
-        "event_url": "https://livetv.sx/enx/eventinfo/369190294__/",
-        "competition": "Belarus. Cup",
-        "date_time": "29 April at 16:00",
-        "parsed_datetime": "2026-04-29T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "BATE",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/514.gif"
-            },
-            {
-                "team_name": "Slavia Mazyr",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3684.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258355&lang=en&eid=369190294&lid=3003712&ci=355&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=Fwkhulfe9yE&lang=en&eid=369190294&lid=3007362&ci=355&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=acestream&c=3e1f6de8444abb15efeadb97952d6324e5b6ed9f&lang=en&eid=369190294&lid=2783167&ci=355&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.768704"
-    },
-    "371717723": {
-        "matchup": "FUS Rabat – CODM Meknes",
-        "event_url": "https://livetv.sx/enx/eventinfo/371717723__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "29 April at 16:00",
-        "parsed_datetime": "2026-04-29T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "FUS Rabat",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/904.gif"
-            },
-            {
-                "team_name": "CODM Meknes",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/29372.gif"
+                "team_name": "Al Riffa",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1535.gif"
             }
         ],
         "streams": [
@@ -1092,7 +818,7 @@
                 "language": "Arabic",
                 "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=mkmYmq-DuxQ&lang=en&eid=371717723&lid=3007361&ci=551&si=1",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=qlqFrUHFXjQ&lang=en&eid=368739602&lid=3007363&ci=965&si=1",
                 "stream_title": "",
                 "stream_type": ""
             }
@@ -1104,421 +830,128 @@
         "league_table": [
             {
                 "pos": "1",
-                "team": "Maghreb de Fes",
-                "played": "16",
-                "pts": "34"
+                "team": "Al-Khaldiya",
+                "played": "19",
+                "pts": "48"
             },
             {
                 "pos": "2",
-                "team": "Raja CA",
-                "played": "16",
-                "pts": "33"
+                "team": "Al-Muharraq",
+                "played": "18",
+                "pts": "43"
             },
             {
                 "pos": "3",
-                "team": "ASFAR",
-                "played": "16",
-                "pts": "32"
+                "team": "Al Riffa",
+                "played": "18",
+                "pts": "37"
             },
             {
                 "pos": "4",
-                "team": "WAC",
-                "played": "16",
-                "pts": "31"
-            },
-            {
-                "pos": "5",
-                "team": "RS Berkane",
-                "played": "16",
+                "team": "Malkiya",
+                "played": "19",
                 "pts": "30"
             },
             {
-                "pos": "6",
-                "team": "CODM Meknes",
-                "played": "16",
-                "pts": "26"
-            },
-            {
-                "pos": "7",
-                "team": "DHJ",
-                "played": "16",
-                "pts": "24"
-            },
-            {
-                "pos": "8",
-                "team": "FUS Rabat",
-                "played": "16",
-                "pts": "18"
-            },
-            {
-                "pos": "9",
-                "team": "KACM",
-                "played": "16",
-                "pts": "17"
-            },
-            {
-                "pos": "10",
-                "team": "HUSA",
-                "played": "16",
-                "pts": "16"
-            },
-            {
-                "pos": "11",
-                "team": "RS Zemamra",
-                "played": "16",
-                "pts": "16"
-            },
-            {
-                "pos": "12",
-                "team": "Olympique Dcheira",
-                "played": "16",
-                "pts": "16"
-            },
-            {
-                "pos": "13",
-                "team": "Ittihad Tanger",
-                "played": "16",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Olympic Safi",
-                "played": "16",
-                "pts": "12"
-            },
-            {
-                "pos": "15",
-                "team": "Union Touarga",
-                "played": "16",
-                "pts": "10"
-            },
-            {
-                "pos": "16",
-                "team": "Yacoub El Mansour",
-                "played": "16",
-                "pts": "8"
-            }
-        ],
-        "last_updated": "2026-04-29T16:14:54.792357"
-    },
-    "375899998": {
-        "matchup": "APOEL – Apollon Limassol",
-        "event_url": "https://livetv.sx/enx/eventinfo/375899998__/",
-        "competition": "Cyprus. Cup",
-        "date_time": "29 April at 16:00",
-        "parsed_datetime": "2026-04-29T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "APOEL",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/765.gif"
-            },
-            {
-                "team_name": "Apollon Limassol",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/906.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Greek",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/28.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=253248&lang=en&eid=375899998&lid=2983834&ci=2417&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.810147"
-    },
-    "369194678": {
-        "matchup": "Bunyodkor – Navbahor Namangan",
-        "event_url": "https://livetv.sx/enx/eventinfo/369194678__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "29 April at 16:00",
-        "parsed_datetime": "2026-04-29T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Bunyodkor",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4748.gif"
-            },
-            {
-                "team_name": "Navbahor Namangan",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/31802.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=iLNSRFdATRQ&lang=en&eid=369194678&lid=3007277&ci=1088&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:54.963371"
-    },
-    "366057658": {
-        "matchup": "Shabab Al Ahli – Khor Fakkan",
-        "event_url": "https://livetv.sx/enx/eventinfo/366057658__/",
-        "competition": "UAE. Pro League",
-        "date_time": "29 April at 16:20",
-        "parsed_datetime": "2026-04-29T16:20:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Shabab Al Ahli",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1507.gif"
-            },
-            {
-                "team_name": "Khor Fakkan",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9192.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Al Ain",
-                "played": "23",
-                "pts": "59"
-            },
-            {
-                "pos": "2",
-                "team": "Shabab Al Ahli",
-                "played": "22",
-                "pts": "52"
-            },
-            {
-                "pos": "3",
-                "team": "Al Jazira",
-                "played": "23",
-                "pts": "40"
-            },
-            {
-                "pos": "4",
-                "team": "Al Wasl",
-                "played": "23",
-                "pts": "39"
-            },
-            {
                 "pos": "5",
-                "team": "Al Wahda",
-                "played": "23",
-                "pts": "39"
+                "team": "A`Ali",
+                "played": "19",
+                "pts": "25"
             },
             {
                 "pos": "6",
-                "team": "Al Nasr Dubai",
-                "played": "23",
-                "pts": "34"
-            },
-            {
-                "pos": "7",
-                "team": "Ajman",
-                "played": "23",
-                "pts": "27"
-            },
-            {
-                "pos": "8",
-                "team": "Bani Yas",
-                "played": "23",
-                "pts": "25"
-            },
-            {
-                "pos": "9",
-                "team": "Sharjah",
-                "played": "23",
-                "pts": "25"
-            },
-            {
-                "pos": "10",
-                "team": "Khor Fakkan",
-                "played": "22",
+                "team": "Al-Hidd",
+                "played": "19",
                 "pts": "24"
             },
             {
-                "pos": "11",
-                "team": "Kalba",
-                "played": "23",
+                "pos": "7",
+                "team": "Al-Ahli Manama",
+                "played": "18",
                 "pts": "23"
             },
             {
-                "pos": "12",
-                "team": "Al Bataeh",
-                "played": "23",
+                "pos": "8",
+                "team": "Al-Budaiya",
+                "played": "18",
+                "pts": "21"
+            },
+            {
+                "pos": "9",
+                "team": "Sitra",
+                "played": "19",
+                "pts": "21"
+            },
+            {
+                "pos": "10",
+                "team": "Al-Najma",
+                "played": "19",
                 "pts": "19"
             },
             {
-                "pos": "13",
-                "team": "Al Dhafra",
-                "played": "23",
-                "pts": "18"
+                "pos": "11",
+                "team": "Al-Shabab Manama",
+                "played": "19",
+                "pts": "14"
             },
             {
-                "pos": "14",
-                "team": "Dibba Al-Fujairah",
-                "played": "23",
-                "pts": "17"
+                "pos": "12",
+                "team": "Bahrain SC",
+                "played": "19",
+                "pts": "7"
             }
         ],
-        "last_updated": "2026-04-29T16:14:54.980974"
+        "last_updated": "2026-04-29T17:58:15.799337"
     },
-    "369154996": {
-        "matchup": "Kaisar – Kairat",
-        "event_url": "https://livetv.sx/enx/eventinfo/369154996__/",
-        "competition": "Kazakhstan. Cup",
-        "date_time": "29 April at 16:00",
-        "parsed_datetime": "2026-04-29T16:00:00",
-        "is_live": true,
+    "369339433": {
+        "matchup": "Atletico Platense – Santa Fe",
+        "event_url": "https://livetv.sx/enx/eventinfo/369339433__/",
+        "competition": "Copa Libertadores",
+        "date_time": "29 April at 23:00",
+        "parsed_datetime": "2026-04-29T23:00:00",
+        "is_live": false,
         "team_logos": [
             {
-                "team_name": "Kaisar",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/799.gif"
+                "team_name": "Atletico Platense",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10174.gif"
             },
             {
-                "team_name": "Kairat",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/34608.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Kazakh",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/37.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=vhaJmlxUFks&lang=en&eid=369154996&lid=3007187&ci=298&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.057781"
-    },
-    "375834421": {
-        "matchup": "Shafa – Simal",
-        "event_url": "https://livetv.sx/enx/eventinfo/375834421__/",
-        "competition": "Azerbaijan. 1 League",
-        "date_time": "29 April at 16:30",
-        "parsed_datetime": "2026-04-29T16:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Shafa",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/37680.gif"
-            },
-            {
-                "team_name": "Simal",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35739.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Azerbaijani",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/23.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=lqY2vql2zys&lang=en&eid=375834421&lid=3007224&ci=5027&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.327781"
-    },
-    "369215234": {
-        "matchup": "Inter Turku – HJK",
-        "event_url": "https://livetv.sx/enx/eventinfo/369215234__/",
-        "competition": "Finland. Veikkausliiga",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Inter Turku",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/358.gif"
-            },
-            {
-                "team_name": "HJK",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/27412.gif"
+                "team_name": "Santa Fe",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1296.gif"
             }
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Eetu Huuhtanen",
-                "(G)",
-                "05.",
-                "Albin Granlund",
-                "27.",
-                "Vincent Ulundu",
-                "10.",
-                "Alie Conteh",
-                "14.",
-                "Janne-Pekka Laine",
-                "09.",
-                "Jasse Tuominen",
-                "02.",
-                "Jussi Niska",
-                "03.",
-                "Juuso Haemaelaeinen",
-                "23.",
-                "Loic Essomba",
-                "22.",
-                "Luka Kuittinen",
-                "04.",
-                "Prosper Ahiabu"
-            ],
-            "away_team": [
-                "44.",
-                "Matej Markovic",
-                "(G)",
-                "15.",
-                "Jere Kallinen",
-                "19.",
-                "David Ezeh",
-                "02.",
-                "Brooklyn Lyons-Foster",
-                "14.",
-                "Leonel Montano",
-                "22.",
-                "Liam Moeller",
-                "10.",
-                "Lucas Lingman",
-                "09.",
-                "Mads Borchers",
-                "31.",
-                "Mihailo Bogicevic",
-                "28.",
-                "Miska Ylitolva",
-                "18.",
-                "Toivo Mero"
-            ]
+            "home_team": [],
+            "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.525547"
+        "last_updated": "2026-04-29T17:58:15.848276"
+    },
+    "375206340": {
+        "matchup": "Hranice – Vsetin",
+        "event_url": "https://livetv.sx/enx/eventinfo/375206340__/",
+        "competition": "Czech Republic. 3. Liga",
+        "date_time": "29 April at 17:00",
+        "parsed_datetime": "2026-04-29T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Hranice",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/21603.gif"
+            },
+            {
+                "team_name": "Vsetin",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/16489.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:15.969768"
     },
     "368765959": {
         "matchup": "Al-Riyadh – Al Quadisiya",
@@ -1526,7 +959,7 @@
         "competition": "Saudi Arabia. Pro League",
         "date_time": "29 April at 17:00",
         "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Al-Riyadh",
@@ -1537,16 +970,7 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30593.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007376&lang=en&eid=368765959&lid=3007376&ci=66&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [
                 "82.",
@@ -1709,346 +1133,7 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-29T16:14:55.577554"
-    },
-    "375018807": {
-        "matchup": "Werder Bremen Women – Bayern (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/375018807_werder_bremen_women_bayern_w/",
-        "competition": "Germany. Women. Bundesliga",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Werder Bremen Women",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/44468.gif"
-            },
-            {
-                "team_name": "Bayern (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/33553.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258312&lang=en&eid=375018807&lid=3003903&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258381&lang=en&eid=375018807&lid=3003909&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258576&lang=en&eid=375018807&lid=3003906&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258657&lang=en&eid=375018807&lid=3004855&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258704&lang=en&eid=375018807&lid=3005913&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258705&lang=en&eid=375018807&lid=3005914&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258802&lang=en&eid=375018807&lid=3007160&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258805&lang=en&eid=375018807&lid=3007161&ci=1423&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.639451"
-    },
-    "375855444": {
-        "matchup": "Jadran Dekani – Brinje Grosuplje",
-        "event_url": "https://livetv.sx/enx/eventinfo/375855444__/",
-        "competition": "Slovenia. 2. SNL",
-        "date_time": "29 April at 16:30",
-        "parsed_datetime": "2026-04-29T16:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Jadran Dekani",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4833.gif"
-            },
-            {
-                "team_name": "Brinje Grosuplje",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/18500.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=2chXchJj_5w&lang=en&eid=375855444&lid=3007299&ci=1459&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.718462"
-    },
-    "375206340": {
-        "matchup": "Hranice – Vsetin",
-        "event_url": "https://livetv.sx/enx/eventinfo/375206340__/",
-        "competition": "Czech Republic. 3. Liga",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Hranice",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/21603.gif"
-            },
-            {
-                "team_name": "Vsetin",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/16489.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007322&lang=en&eid=375206340&lid=3007322&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.909038"
-    },
-    "368739602": {
-        "matchup": "Al-Ahli Manama – Al Riffa",
-        "event_url": "https://livetv.sx/enx/eventinfo/368739602__/",
-        "competition": "Bahrain. Premier League",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Al-Ahli Manama",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1748.gif"
-            },
-            {
-                "team_name": "Al Riffa",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1535.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=qlqFrUHFXjQ&lang=en&eid=368739602&lid=3007363&ci=965&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Al-Khaldiya",
-                "played": "19",
-                "pts": "48"
-            },
-            {
-                "pos": "2",
-                "team": "Al-Muharraq",
-                "played": "18",
-                "pts": "43"
-            },
-            {
-                "pos": "3",
-                "team": "Al Riffa",
-                "played": "18",
-                "pts": "37"
-            },
-            {
-                "pos": "4",
-                "team": "Malkiya",
-                "played": "19",
-                "pts": "30"
-            },
-            {
-                "pos": "5",
-                "team": "A`Ali",
-                "played": "19",
-                "pts": "25"
-            },
-            {
-                "pos": "6",
-                "team": "Al-Hidd",
-                "played": "19",
-                "pts": "24"
-            },
-            {
-                "pos": "7",
-                "team": "Al-Ahli Manama",
-                "played": "18",
-                "pts": "23"
-            },
-            {
-                "pos": "8",
-                "team": "Al-Budaiya",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "9",
-                "team": "Sitra",
-                "played": "19",
-                "pts": "21"
-            },
-            {
-                "pos": "10",
-                "team": "Al-Najma",
-                "played": "19",
-                "pts": "19"
-            },
-            {
-                "pos": "11",
-                "team": "Al-Shabab Manama",
-                "played": "19",
-                "pts": "14"
-            },
-            {
-                "pos": "12",
-                "team": "Bahrain SC",
-                "played": "19",
-                "pts": "7"
-            }
-        ],
-        "last_updated": "2026-04-29T16:14:55.945449"
-    },
-    "369210695": {
-        "matchup": "CSKA Sofia – Ludogorets",
-        "event_url": "https://livetv.sx/enx/eventinfo/369210695__/",
-        "competition": "Bulgaria. Cup",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "CSKA Sofia",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3793.gif"
-            },
-            {
-                "team_name": "Ludogorets",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1089.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Croatian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/29.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258325&lang=en&eid=369210695&lid=3003706&ci=88&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Bulgarian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3003227&lang=en&eid=369210695&lid=3003227&ci=88&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Bulgarian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007255&lang=en&eid=369210695&lid=3007255&ci=88&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Bulgarian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007148&lang=en&eid=369210695&lid=3007148&ci=88&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Bulgarian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3006473&lang=en&eid=369210695&lid=3006473&ci=88&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Bulgarian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/16.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3004139&lang=en&eid=369210695&lid=3004139&ci=88&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:55.994689"
+        "last_updated": "2026-04-29T17:58:15.988246"
     },
     "375206341": {
         "matchup": "Hlucin – Polanka",
@@ -2056,7 +1141,7 @@
         "competition": "Czech Republic. 3. Liga",
         "date_time": "29 April at 17:00",
         "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Hlucin",
@@ -2067,47 +1152,13 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/22960.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007321&lang=en&eid=375206341&lid=3007321&ci=1828&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "TVcom"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:56.096077"
-    },
-    "375790673": {
-        "matchup": "Flora II (W) –  Elva (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/375790673__/",
-        "competition": "Estonia. Women. Cup",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Flora II (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4998.gif"
-            },
-            {
-                "team_name": "Elva (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/34321.gif"
-            }
-        ],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:56.173365"
+        "last_updated": "2026-04-29T17:58:16.056896"
     },
     "368244423": {
         "matchup": "Maccabi Bnei Raina – Hapoel Jerusalem",
@@ -2115,7 +1166,7 @@
         "competition": "Israel. Premier League",
         "date_time": "29 April at 17:00",
         "parsed_datetime": "2026-04-29T17:00:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Maccabi Bnei Raina",
@@ -2217,117 +1268,32 @@
                 "pts": "12"
             }
         ],
-        "last_updated": "2026-04-29T16:14:56.266825"
+        "last_updated": "2026-04-29T17:58:16.226646"
     },
-    "368244425": {
-        "matchup": "Hapoel Haifa – Ironi Tiberias",
-        "event_url": "https://livetv.sx/enx/eventinfo/368244425__/",
-        "competition": "Israel. Premier League",
-        "date_time": "29 April at 17:00",
-        "parsed_datetime": "2026-04-29T17:00:00",
+    "375926121": {
+        "matchup": "Ferro Karril Oeste-rezerv – Atlético Rafaela Reserve",
+        "event_url": "https://livetv.sx/enx/eventinfo/375926121_ferro_karril_oeste_rezerv_atltico_rafaela_reserve/",
+        "competition": "Argentina. Reserve League",
+        "date_time": "29 April at 17:30",
+        "parsed_datetime": "2026-04-29T17:30:00",
         "is_live": true,
-        "team_logos": [
+        "team_logos": [],
+        "streams": [
             {
-                "team_name": "Hapoel Haifa",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/882.gif"
-            },
-            {
-                "team_name": "Ironi Tiberias",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35229.gif"
+                "language": "",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258487&lang=en&eid=375926121&lid=3007414&ci=1843&si=1",
+                "stream_title": "",
+                "stream_type": ""
             }
         ],
-        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Hapoel Beer Sheva",
-                "played": "26",
-                "pts": "59"
-            },
-            {
-                "pos": "2",
-                "team": "Beitar Jerusalem",
-                "played": "26",
-                "pts": "57"
-            },
-            {
-                "pos": "3",
-                "team": "Maccabi Tel Aviv",
-                "played": "26",
-                "pts": "49"
-            },
-            {
-                "pos": "4",
-                "team": "Hapoel Tel Aviv",
-                "played": "26",
-                "pts": "49"
-            },
-            {
-                "pos": "5",
-                "team": "Maccabi Haifa",
-                "played": "26",
-                "pts": "42"
-            },
-            {
-                "pos": "6",
-                "team": "Hapoel Petah Tikva",
-                "played": "26",
-                "pts": "37"
-            },
-            {
-                "pos": "7",
-                "team": "Maccabi Netanya",
-                "played": "26",
-                "pts": "35"
-            },
-            {
-                "pos": "8",
-                "team": "Bnei Sakhnin",
-                "played": "26",
-                "pts": "32"
-            },
-            {
-                "pos": "9",
-                "team": "Kiryat Shmona",
-                "played": "26",
-                "pts": "27"
-            },
-            {
-                "pos": "10",
-                "team": "Hapoel Haifa",
-                "played": "26",
-                "pts": "25"
-            },
-            {
-                "pos": "11",
-                "team": "Ashdod",
-                "played": "26",
-                "pts": "24"
-            },
-            {
-                "pos": "12",
-                "team": "Hapoel Jerusalem",
-                "played": "26",
-                "pts": "21"
-            },
-            {
-                "pos": "13",
-                "team": "Ironi Tiberias",
-                "played": "26",
-                "pts": "19"
-            },
-            {
-                "pos": "14",
-                "team": "Maccabi Bnei Raina",
-                "played": "26",
-                "pts": "12"
-            }
-        ],
-        "last_updated": "2026-04-29T16:14:56.408020"
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:16.371125"
     },
     "368244427": {
         "matchup": "Kiryat Shmona – Maccabi Netanya",
@@ -2437,7 +1403,117 @@
                 "pts": "12"
             }
         ],
-        "last_updated": "2026-04-29T16:14:56.577436"
+        "last_updated": "2026-04-29T17:58:16.634418"
+    },
+    "368244425": {
+        "matchup": "Hapoel Haifa – Ironi Tiberias",
+        "event_url": "https://livetv.sx/enx/eventinfo/368244425__/",
+        "competition": "Israel. Premier League",
+        "date_time": "29 April at 17:00",
+        "parsed_datetime": "2026-04-29T17:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Hapoel Haifa",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/882.gif"
+            },
+            {
+                "team_name": "Ironi Tiberias",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35229.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Hapoel Beer Sheva",
+                "played": "26",
+                "pts": "59"
+            },
+            {
+                "pos": "2",
+                "team": "Beitar Jerusalem",
+                "played": "26",
+                "pts": "57"
+            },
+            {
+                "pos": "3",
+                "team": "Maccabi Tel Aviv",
+                "played": "26",
+                "pts": "49"
+            },
+            {
+                "pos": "4",
+                "team": "Hapoel Tel Aviv",
+                "played": "26",
+                "pts": "49"
+            },
+            {
+                "pos": "5",
+                "team": "Maccabi Haifa",
+                "played": "26",
+                "pts": "42"
+            },
+            {
+                "pos": "6",
+                "team": "Hapoel Petah Tikva",
+                "played": "26",
+                "pts": "37"
+            },
+            {
+                "pos": "7",
+                "team": "Maccabi Netanya",
+                "played": "26",
+                "pts": "35"
+            },
+            {
+                "pos": "8",
+                "team": "Bnei Sakhnin",
+                "played": "26",
+                "pts": "32"
+            },
+            {
+                "pos": "9",
+                "team": "Kiryat Shmona",
+                "played": "26",
+                "pts": "27"
+            },
+            {
+                "pos": "10",
+                "team": "Hapoel Haifa",
+                "played": "26",
+                "pts": "25"
+            },
+            {
+                "pos": "11",
+                "team": "Ashdod",
+                "played": "26",
+                "pts": "24"
+            },
+            {
+                "pos": "12",
+                "team": "Hapoel Jerusalem",
+                "played": "26",
+                "pts": "21"
+            },
+            {
+                "pos": "13",
+                "team": "Ironi Tiberias",
+                "played": "26",
+                "pts": "19"
+            },
+            {
+                "pos": "14",
+                "team": "Maccabi Bnei Raina",
+                "played": "26",
+                "pts": "12"
+            }
+        ],
+        "last_updated": "2026-04-29T17:58:16.729067"
     },
     "368295656": {
         "matchup": "Al-Muharraq – Al-Budaiya",
@@ -2544,139 +1620,7 @@
                 "pts": "7"
             }
         ],
-        "last_updated": "2026-04-29T16:14:56.691627"
-    },
-    "369520498": {
-        "matchup": "Graficar – Vojvodina",
-        "event_url": "https://livetv.sx/enx/eventinfo/369520498__/",
-        "competition": "Serbia. Cup",
-        "date_time": "29 April at 17:30",
-        "parsed_datetime": "2026-04-29T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Graficar",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4708.gif"
-            },
-            {
-                "team_name": "Vojvodina",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30145.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Serbian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/17.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258798&lang=en&eid=369520498&lid=3007093&ci=255&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Serbian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/17.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007147&lang=en&eid=369520498&lid=3007147&ci=255&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3007254&lang=en&eid=369520498&lid=3007254&ci=255&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:56.773206"
-    },
-    "369235712": {
-        "matchup": "Tromsoe – Brann",
-        "event_url": "https://livetv.sx/enx/eventinfo/369235712__/",
-        "competition": "Norway. Eliteserien",
-        "date_time": "29 April at 18:00",
-        "parsed_datetime": "2026-04-29T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Tromsoe",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/278.gif"
-            },
-            {
-                "team_name": "Brann",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3787.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Norvegian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/39.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3002086&lang=en&eid=369235712&lid=3002086&ci=113&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Jakob Haugaard",
-                "(G)",
-                "25.",
-                "Abubacarr Sedi Kinteh",
-                "29.",
-                "Alexander Warneryd",
-                "05.",
-                "David Edvardsson",
-                "22.",
-                "Heine Aasen Larsen",
-                "30.",
-                "Isak Vaadebu",
-                "06.",
-                "Jens Hjertoe-Dahl",
-                "07.",
-                "Lars Olden Larsen",
-                "02.",
-                "Leo Cornic",
-                "11.",
-                "Ruben Yttergaard",
-                "21.",
-                "Tobias Guddal"
-            ],
-            "away_team": [
-                "12.",
-                "Simen Vidtun Nilsen",
-                "(G)",
-                "07.",
-                "Jon Thorsteinsson",
-                "18.",
-                "Jacob Lungi Soerensen",
-                "03.",
-                "Fredrik Pallesen",
-                "08.",
-                "Felix Horn Myhre",
-                "21.",
-                "Denzel De Roeve",
-                "10.",
-                "Kristall Mani Ingason",
-                "16.",
-                "Kristian Eriksen",
-                "23.",
-                "Thore Pedersen",
-                "14.",
-                "Ulrik Mathisen",
-                "20.",
-                "Vetle Dragsnes"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:56.998188"
+        "last_updated": "2026-04-29T17:58:16.815949"
     },
     "368765962": {
         "matchup": "Al-Taawoun – Al-Ittihad Jeddah",
@@ -2923,7 +1867,157 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-29T16:14:57.005989"
+        "last_updated": "2026-04-29T17:58:17.034918"
+    },
+    "369520498": {
+        "matchup": "Graficar – Vojvodina",
+        "event_url": "https://livetv.sx/enx/eventinfo/369520498__/",
+        "competition": "Serbia. Cup",
+        "date_time": "29 April at 17:30",
+        "parsed_datetime": "2026-04-29T17:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Graficar",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/4708.gif"
+            },
+            {
+                "team_name": "Vojvodina",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30145.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Serbian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/17.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258798&lang=en&eid=369520498&lid=3007093&ci=255&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:17.045631"
+    },
+    "369235712": {
+        "matchup": "Tromsoe – Brann",
+        "event_url": "https://livetv.sx/enx/eventinfo/369235712__/",
+        "competition": "Norway. Eliteserien",
+        "date_time": "29 April at 18:00",
+        "parsed_datetime": "2026-04-29T18:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Tromsoe",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/278.gif"
+            },
+            {
+                "team_name": "Brann",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/3787.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Norvegian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/39.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3002086&lang=en&eid=369235712&lid=3002086&ci=113&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [
+                "01.",
+                "Jakob Haugaard",
+                "(G)",
+                "25.",
+                "Abubacarr Sedi Kinteh",
+                "29.",
+                "Alexander Warneryd",
+                "05.",
+                "David Edvardsson",
+                "22.",
+                "Heine Aasen Larsen",
+                "30.",
+                "Isak Vaadebu",
+                "06.",
+                "Jens Hjertoe-Dahl",
+                "07.",
+                "Lars Olden Larsen",
+                "02.",
+                "Leo Cornic",
+                "11.",
+                "Ruben Yttergaard",
+                "21.",
+                "Tobias Guddal"
+            ],
+            "away_team": [
+                "12.",
+                "Simen Vidtun Nilsen",
+                "(G)",
+                "07.",
+                "Jon Thorsteinsson",
+                "18.",
+                "Jacob Lungi Soerensen",
+                "03.",
+                "Fredrik Pallesen",
+                "08.",
+                "Felix Horn Myhre",
+                "21.",
+                "Denzel De Roeve",
+                "10.",
+                "Kristall Mani Ingason",
+                "16.",
+                "Kristian Eriksen",
+                "23.",
+                "Thore Pedersen",
+                "14.",
+                "Ulrik Mathisen",
+                "20.",
+                "Vetle Dragsnes"
+            ]
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:17.200811"
+    },
+    "369233691": {
+        "matchup": "Wadi Degla – Al Ittihad",
+        "event_url": "https://livetv.sx/enx/eventinfo/369233691__/",
+        "competition": "Egypt. Premier League",
+        "date_time": "29 April at 18:00",
+        "parsed_datetime": "2026-04-29T18:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Wadi Degla",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1546.gif"
+            },
+            {
+                "team_name": "Al Ittihad",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1555.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://tinyurl.com/3vt2sdjp",
+                "stream_title": "",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:17.211084"
     },
     "368244417": {
         "matchup": "Hapoel Tel Aviv – Maccabi Haifa",
@@ -2931,7 +2025,7 @@
         "competition": "Israel. Premier League",
         "date_time": "29 April at 17:30",
         "parsed_datetime": "2026-04-29T17:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Hapoel Tel Aviv",
@@ -2985,32 +2079,7 @@
                 "pts": "37"
             }
         ],
-        "last_updated": "2026-04-29T16:14:57.111871"
-    },
-    "369233691": {
-        "matchup": "Wadi Degla – Al Ittihad",
-        "event_url": "https://livetv.sx/enx/eventinfo/369233691__/",
-        "competition": "Egypt. Premier League",
-        "date_time": "29 April at 18:00",
-        "parsed_datetime": "2026-04-29T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Wadi Degla",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1546.gif"
-            },
-            {
-                "team_name": "Al Ittihad",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1555.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:57.211068"
+        "last_updated": "2026-04-29T17:58:17.292253"
     },
     "369233693": {
         "matchup": "Modern Sport – El Geish",
@@ -3018,7 +2087,7 @@
         "competition": "Egypt. Premier League",
         "date_time": "29 April at 18:00",
         "parsed_datetime": "2026-04-29T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Modern Sport",
@@ -3029,13 +2098,22 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30215.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://tinyurl.com/yu2wjf5c",
+                "stream_title": "",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:57.240069"
+        "last_updated": "2026-04-29T17:58:17.545681"
     },
     "371717727": {
         "matchup": "Olympic Safi – Ittihad Tanger",
@@ -3043,7 +2121,7 @@
         "competition": "Morocco. Botola Pro",
         "date_time": "29 April at 18:00",
         "parsed_datetime": "2026-04-29T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Olympic Safi",
@@ -3054,7 +2132,16 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1730.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=youtube&c=Utv5mHbx18M&lang=en&eid=371717727&lid=3007380&ci=551&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -3157,49 +2244,7 @@
                 "pts": "8"
             }
         ],
-        "last_updated": "2026-04-29T16:14:57.326829"
-    },
-    "369190292": {
-        "matchup": "Dinamo Minsk – Maxline",
-        "event_url": "https://livetv.sx/enx/eventinfo/369190292__/",
-        "competition": "Belarus. Cup",
-        "date_time": "29 April at 18:00",
-        "parsed_datetime": "2026-04-29T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Dinamo Minsk",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/522.gif"
-            },
-            {
-                "team_name": "Maxline",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/26042.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258355&lang=en&eid=369190292&lid=3003712&ci=355&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=acestream&c=3e1f6de8444abb15efeadb97952d6324e5b6ed9f&lang=en&eid=369190292&lid=2783167&ci=355&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:57.404067"
+        "last_updated": "2026-04-29T17:58:17.747908"
     },
     "371717725": {
         "matchup": "WAC – Yacoub El Mansour",
@@ -3207,7 +2252,7 @@
         "competition": "Morocco. Botola Pro",
         "date_time": "29 April at 18:00",
         "parsed_datetime": "2026-04-29T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "WAC",
@@ -3321,32 +2366,65 @@
                 "pts": "8"
             }
         ],
-        "last_updated": "2026-04-29T16:14:57.531052"
+        "last_updated": "2026-04-29T17:58:17.927264"
     },
-    "372560061": {
-        "matchup": "Arsenal (W) –  Leicester City (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/372560061__/",
-        "competition": "England. Women. Super League",
-        "date_time": "29 April at 19:00",
-        "parsed_datetime": "2026-04-29T19:00:00",
-        "is_live": false,
+    "369190292": {
+        "matchup": "Dinamo Minsk – Maxline",
+        "event_url": "https://livetv.sx/enx/eventinfo/369190292__/",
+        "competition": "Belarus. Cup",
+        "date_time": "29 April at 18:00",
+        "parsed_datetime": "2026-04-29T18:00:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Arsenal (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7105.gif"
+                "team_name": "Dinamo Minsk",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/522.gif"
             },
             {
-                "team_name": "Leicester City (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9473.gif"
+                "team_name": "Maxline",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/26042.gif"
             }
         ],
+        "streams": [
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258355&lang=en&eid=369190292&lid=3003712&ci=355&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=acestream&c=3e1f6de8444abb15efeadb97952d6324e5b6ed9f&lang=en&eid=369190292&lid=2783167&ci=355&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:17.944916"
+    },
+    "373483613": {
+        "matchup": "Venezuela U17 (W) – Uruguay U17 (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/373483613_venezuela_u17_w_uruguay_u17_w/",
+        "competition": "Women. South American Championship U17",
+        "date_time": "29 April at 21:00",
+        "parsed_datetime": "2026-04-29T21:00:00",
+        "is_live": false,
+        "team_logos": [],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:57.638607"
+        "last_updated": "2026-04-29T17:58:18.092746"
     },
     "368765963": {
         "matchup": "Al Nassr – Al Ahli Jeddah",
@@ -3365,10 +2443,123 @@
                 "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/35358.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3001434&lang=en&eid=368765963&lid=3001434&ci=66&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3004175&lang=en&eid=368765963&lid=3004175&ci=66&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258374&lang=en&eid=368765963&lid=3003914&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258375&lang=en&eid=368765963&lid=3003915&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258376&lang=en&eid=368765963&lid=3003912&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258378&lang=en&eid=368765963&lid=3003913&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258383&lang=en&eid=368765963&lid=3003916&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Turkish",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/10.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258404&lang=en&eid=368765963&lid=3006591&ci=66&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "24.",
+                "Bento Krepski",
+                "(G)",
+                "05.",
+                "Abdulelah Al Amri",
+                "17.",
+                "Abdullah Alkhaibari",
+                "07.",
+                "Cristiano Ronaldo",
+                "26.",
+                "Inigo Martinez",
+                "79.",
+                "Joao Felix",
+                "21.",
+                "Kingsley Coman",
+                "11.",
+                "Marcelo Brozovic",
+                "03.",
+                "Mohamed Simakan",
+                "12.",
+                "Nawaf Al-Boushail",
+                "10.",
+                "Sadio Mane"
+            ],
+            "away_team": [
+                "16.",
+                "Edouard Mendy",
+                "(G)",
+                "28.",
+                "Merih Demiral",
+                "17.",
+                "Ivan Toney",
+                "79.",
+                "Franck Kessie",
+                "07.",
+                "Riyad Mahrez",
+                "03.",
+                "Roger Ibanez",
+                "06.",
+                "Valentin Atangana",
+                "13.",
+                "Wenderson Galeno",
+                "02.",
+                "Zakaria Al Hawsawi",
+                "27.",
+                "Ali Majrashi",
+                "30.",
+                "Ziyad Aljohani"
+            ]
         },
         "league_table": [
             {
@@ -3480,23 +2671,145 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-04-29T16:14:57.696298"
+        "last_updated": "2026-04-29T17:58:18.121091"
     },
-    "373483613": {
-        "matchup": "Venezuela U17 (W) – Uruguay U17 (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/373483613_venezuela_u17_w_uruguay_u17_w/",
-        "competition": "Women. South American Championship U17",
-        "date_time": "29 April at 21:00",
-        "parsed_datetime": "2026-04-29T21:00:00",
+    "372560061": {
+        "matchup": "Arsenal (W) –  Leicester City (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/372560061__/",
+        "competition": "England. Women. Super League",
+        "date_time": "29 April at 19:00",
+        "parsed_datetime": "2026-04-29T19:00:00",
         "is_live": false,
-        "team_logos": [],
-        "streams": [],
+        "team_logos": [
+            {
+                "team_name": "Arsenal (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7105.gif"
+            },
+            {
+                "team_name": "Leicester City (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/9473.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258280&lang=en&eid=372560061&lid=3003835&ci=1451&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258287&lang=en&eid=372560061&lid=3003818&ci=1451&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258288&lang=en&eid=372560061&lid=3003845&ci=1451&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258373&lang=en&eid=372560061&lid=3004912&ci=1451&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer2.php?t=alieztv&c=258419&lang=en&eid=372560061&lid=3003756&ci=1451&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=2689638&lang=en&eid=372560061&lid=2689638&ci=1451&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3002934&lang=en&eid=372560061&lid=3002934&ci=1451&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv880.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv880.me/webplayer.php?t=ifr&c=3001376&lang=en&eid=372560061&lid=3001376&ci=1451&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "14.",
+                "Daphne van Domselaar",
+                "(G)",
+                "21.",
+                "Victoria Pelova",
+                "02.",
+                "Emily Fox",
+                "12.",
+                "Frida Maanum",
+                "11.",
+                "Katie McCabe",
+                "10.",
+                "Kim Little",
+                "05.",
+                "Laia Codina",
+                "15.",
+                "Olivia Smith",
+                "31.",
+                "Smilla Holmberg",
+                "25.",
+                "Stina Blackstenius",
+                "24.",
+                "Taylor Hinds"
+            ],
+            "away_team": [
+                "13.",
+                "Olivia Clark",
+                "(G)",
+                "17.",
+                "Julie Thibaud",
+                "21.",
+                "Hannah Cain",
+                "05.",
+                "Emily van Egmond",
+                "12.",
+                "Asmita Ale",
+                "23.",
+                "Olivia McLoughlin",
+                "03.",
+                "Samantha Tierney",
+                "20.",
+                "Sarah Mayling",
+                "02.",
+                "Sari Kees",
+                "29.",
+                "Ashleigh Neville",
+                "27.",
+                "Shannon O’Brien"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:57.767783"
+        "last_updated": "2026-04-29T17:58:18.295010"
     },
     "371717729": {
         "matchup": "Maghreb de Fes – HUSA",
@@ -3618,7 +2931,7 @@
                 "pts": "8"
             }
         ],
-        "last_updated": "2026-04-29T16:14:57.992986"
+        "last_updated": "2026-04-29T17:58:18.295024"
     },
     "375437707": {
         "matchup": "Stjarnan (W) –  Valur (W)",
@@ -3643,7 +2956,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.066517"
+        "last_updated": "2026-04-29T17:58:18.387187"
+    },
+    "375437709": {
+        "matchup": "Breidablik (W) –  Fram (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/375437709__/",
+        "competition": "Iceland. Women. Urvalsdeild",
+        "date_time": "29 April at 20:15",
+        "parsed_datetime": "2026-04-29T20:15:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Breidablik (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7929.gif"
+            },
+            {
+                "team_name": "Fram (W)",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/26389.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:18.494423"
     },
     "372896164": {
         "matchup": "Envigado – Tigres Bogota",
@@ -3668,7 +3006,82 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.140481"
+        "last_updated": "2026-04-29T17:58:18.765479"
+    },
+    "369301339": {
+        "matchup": "22 de Julio – Gualaceo",
+        "event_url": "https://livetv.sx/enx/eventinfo/369301339__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "29 April at 21:30",
+        "parsed_datetime": "2026-04-29T21:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "22 de Julio",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33073.gif"
+            },
+            {
+                "team_name": "Gualaceo",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7100.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:19.047565"
+    },
+    "369342830": {
+        "matchup": "Caracas – Racing",
+        "event_url": "https://livetv.sx/enx/eventinfo/369342830__/",
+        "competition": "Copa Sudamericana",
+        "date_time": "29 April at 23:00",
+        "parsed_datetime": "2026-04-29T23:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Caracas",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/253.gif"
+            },
+            {
+                "team_name": "Racing",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/429.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:19.113599"
+    },
+    "369301335": {
+        "matchup": "9 de Octubre – Cumbaya",
+        "event_url": "https://livetv.sx/enx/eventinfo/369301335__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "29 April at 22:30",
+        "parsed_datetime": "2026-04-29T22:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "9 de Octubre",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/2512.gif"
+            },
+            {
+                "team_name": "Cumbaya",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30210.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-04-29T17:58:19.184093"
     },
     "375754914": {
         "matchup": "Coban Imperial – Mixco",
@@ -3766,107 +3179,7 @@
                 "pts": "19"
             }
         ],
-        "last_updated": "2026-04-29T16:14:58.397760"
-    },
-    "369301339": {
-        "matchup": "22 de Julio – Gualaceo",
-        "event_url": "https://livetv.sx/enx/eventinfo/369301339__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "29 April at 21:30",
-        "parsed_datetime": "2026-04-29T21:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "22 de Julio",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/33073.gif"
-            },
-            {
-                "team_name": "Gualaceo",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7100.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.470480"
-    },
-    "369342832": {
-        "matchup": "Juventud Las Piedras – Puerto Cabello",
-        "event_url": "https://livetv.sx/enx/eventinfo/369342832__/",
-        "competition": "Copa Sudamericana",
-        "date_time": "29 April at 23:00",
-        "parsed_datetime": "2026-04-29T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Juventud Las Piedras",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7007.gif"
-            },
-            {
-                "team_name": "Puerto Cabello",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/34136.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.578878"
-    },
-    "369342828": {
-        "matchup": "Deportivo Riestra – MC Torque",
-        "event_url": "https://livetv.sx/enx/eventinfo/369342828__/",
-        "competition": "Copa Sudamericana",
-        "date_time": "29 April at 23:00",
-        "parsed_datetime": "2026-04-29T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Deportivo Riestra",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/10224.gif"
-            },
-            {
-                "team_name": "MC Torque",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/1468.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.613936"
-    },
-    "375437709": {
-        "matchup": "Breidablik (W) –  Fram (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/375437709__/",
-        "competition": "Iceland. Women. Urvalsdeild",
-        "date_time": "29 April at 20:15",
-        "parsed_datetime": "2026-04-29T20:15:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Breidablik (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7929.gif"
-            },
-            {
-                "team_name": "Fram (W)",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/26389.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.685770"
+        "last_updated": "2026-04-29T17:58:19.263782"
     },
     "375696536": {
         "matchup": "ART Jalapa – Walter Ferretti",
@@ -3891,23 +3204,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.755818"
+        "last_updated": "2026-04-29T17:58:19.368790"
     },
-    "369301335": {
-        "matchup": "9 de Octubre – Cumbaya",
-        "event_url": "https://livetv.sx/enx/eventinfo/369301335__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "29 April at 22:30",
-        "parsed_datetime": "2026-04-29T22:30:00",
+    "369342832": {
+        "matchup": "Juventud Las Piedras – Puerto Cabello",
+        "event_url": "https://livetv.sx/enx/eventinfo/369342832__/",
+        "competition": "Copa Sudamericana",
+        "date_time": "29 April at 23:00",
+        "parsed_datetime": "2026-04-29T23:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "9 de Octubre",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/2512.gif"
+                "team_name": "Juventud Las Piedras",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/7007.gif"
             },
             {
-                "team_name": "Cumbaya",
-                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/30210.gif"
+                "team_name": "Puerto Cabello",
+                "logo_url": "https://cdn.livetv880.me/img/teams/fullsize/ods/34136.gif"
             }
         ],
         "streams": [],
@@ -3916,6 +3229,6 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-04-29T16:14:58.935445"
+        "last_updated": "2026-04-29T17:58:19.399569"
     }
 }
