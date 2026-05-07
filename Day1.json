@@ -1,293 +1,85 @@
 {
-    "373096006": {
-        "matchup": "Aston Villa – Nottingham Forest",
-        "event_url": "https://livetv.sx/enx/eventinfo/373096006__/",
-        "competition": "Europa League",
-        "date_time": "7 May at 20:00",
-        "parsed_datetime": "2026-05-07T20:00:00",
-        "is_live": false,
+    "373161869": {
+        "matchup": "Boston River – Millonarios",
+        "event_url": "https://livetv.sx/enx/eventinfo/373161869__/",
+        "competition": "Copa Sudamericana",
+        "date_time": "7 May at 23:00",
+        "parsed_datetime": "2026-05-07T23:00:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Aston Villa",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/31245.gif"
+                "team_name": "Boston River",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/25676.gif"
             },
             {
-                "team_name": "Nottingham Forest",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/3905.gif"
+                "team_name": "Millonarios",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/34740.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259293&lang=en&eid=373161869&lid=3010213&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [
-                "23.",
-                "Emiliano Martinez",
+                "01.",
+                "Bruno Antunez",
                 "(G)",
-                "07.",
-                "John McGinn",
-                "04.",
-                "Ezri Konsa",
-                "10.",
-                "Emiliano Buendia",
-                "12.",
-                "Lucas Digne",
-                "08.",
-                "Youri Tielemans",
-                "03.",
-                "Victor Nilsson",
-                "14.",
-                "Pau Torres",
+                "05.",
+                "Francisco Barrios",
+                "06.",
+                "Andres Romero",
+                "09.",
+                "Alexander Gonzalez",
                 "11.",
-                "Ollie Watkins",
-                "27.",
-                "Morgan Rogers",
-                "02.",
-                "Matty Cash"
+                "Gaston Ramirez",
+                "17.",
+                "Rafael Haller",
+                "03.",
+                "Marco Mancebo",
+                "20.",
+                "Marcelo Hornos",
+                "13.",
+                "Ignacio Fernandez",
+                "99.",
+                "Gonzalo Reyna",
+                "25.",
+                "Agustin Aguirre"
             ],
             "away_team": [
-                "27.",
-                "Stefan Ortega",
+                "12.",
+                "Diego Alejandro Novoa",
                 "(G)",
-                "24.",
-                "James McAtee",
-                "23.",
-                "Jair Cunha",
+                "14.",
+                "David Silva",
+                "02.",
+                "Carlos Sarabia",
+                "26.",
+                "Andres Llinas",
+                "17.",
+                "Jorge Arias",
+                "30.",
+                "Sebastian Viveros",
+                "22.",
+                "Sebastian Isaza",
+                "18.",
+                "Rodrigo Urena",
+                "27.",
+                "Rodrigo Contreras",
                 "19.",
-                "Igor Jesus",
-                "08.",
-                "Elliot Anderson",
-                "21.",
-                "Omari Hutchinson",
-                "31.",
-                "Nikola Milenkovic",
-                "16.",
-                "Nicolas Dominguez",
-                "03.",
-                "Neco Williams",
-                "04.",
-                "Morato",
-                "11.",
-                "Chris Wood"
+                "Mateo Garcia",
+                "23.",
+                "Leonardo Castro"
             ]
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lyon",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "2",
-                "team": "Aston Villa",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "3",
-                "team": "Midtjylland",
-                "played": "8",
-                "pts": "19"
-            },
-            {
-                "pos": "4",
-                "team": "Real Betis",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "5",
-                "team": "Porto",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "6",
-                "team": "Braga",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "7",
-                "team": "Freiburg",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "8",
-                "team": "Roma",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "9",
-                "team": "Genk",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Bologna",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "11",
-                "team": "Stuttgart",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Ferencvaros",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "13",
-                "team": "Nottingham Forest",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Viktoria Plzen",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "15",
-                "team": "Crvena Zvezda",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "16",
-                "team": "Celta",
-                "played": "8",
-                "pts": "13"
-            },
-            {
-                "pos": "17",
-                "team": "PAOK",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "18",
-                "team": "Lille",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "19",
-                "team": "Fenerbahce",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "20",
-                "team": "Panathinaikos",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "21",
-                "team": "Celtic",
-                "played": "8",
-                "pts": "11"
-            },
-            {
-                "pos": "22",
-                "team": "Ludogorets",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "23",
-                "team": "Dinamo Zagreb",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "24",
-                "team": "Brann",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "25",
-                "team": "Young Boys",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "26",
-                "team": "Sturm",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "FCSB",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "28",
-                "team": "Go Ahead Eagles",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "29",
-                "team": "Feyenoord",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Basel",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "31",
-                "team": "RB Salzburg",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "32",
-                "team": "Rangers",
-                "played": "8",
-                "pts": "4"
-            },
-            {
-                "pos": "33",
-                "team": "Nice",
-                "played": "8",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Utrecht",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "35",
-                "team": "Malmoe",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "36",
-                "team": "Maccabi Tel Aviv",
-                "played": "8",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-05-07T21:09:07.876146"
+        "league_table": [],
+        "last_updated": "2026-05-07T22:35:41.422460"
     },
     "373161871": {
         "matchup": "O`Higgins – Sao Paolo",
@@ -295,7 +87,7 @@
         "competition": "Copa Sudamericana",
         "date_time": "7 May at 23:00",
         "parsed_datetime": "2026-05-07T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "O`Higgins",
@@ -316,6 +108,30 @@
                 "stream_type": "Web"
             },
             {
+                "language": "Croatian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/29.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259119&lang=en&eid=373161871&lid=3010198&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Serbian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/17.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259126&lang=en&eid=373161871&lid=3010264&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259232&lang=en&eid=373161871&lid=3011289&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
                 "language": "Spanish",
                 "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
@@ -327,23 +143,15 @@
                 "language": "Spanish",
                 "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259351&lang=en&eid=373161871&lid=3010452&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Portuguese",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/9.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2662574&lang=en&eid=373161871&lid=2662574&ci=131&si=1",
+                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2935637&lang=en&eid=373161871&lid=2935637&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
             {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+                "language": "",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2709944&lang=en&eid=373161871&lid=2709944&ci=131&si=1",
+                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3011385&lang=en&eid=373161871&lid=3011385&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             },
@@ -354,30 +162,6 @@
                 "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3011364&lang=en&eid=373161871&lid=3011364&ci=131&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
-            },
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3011363&lang=en&eid=373161871&lid=3011363&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010093&lang=en&eid=373161871&lid=3010093&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Polish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/8.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010912&lang=en&eid=373161871&lid=3010912&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
             }
         ],
         "starting_lineups": {
@@ -385,475 +169,79 @@
                 "31.",
                 "Omar Carabali",
                 "(G)",
-                "33.",
-                "Miguel Brizuela",
-                "21.",
-                "Nicolas Garrido",
-                "07.",
-                "Martin Sarrafiore",
-                "09.",
-                "Arnaldo Castillo",
-                "10.",
-                "Bryan Rabello",
-                "03.",
-                "Felipe Faundez",
-                "08.",
-                "Felipe Ogaz",
                 "24.",
                 "Francisco Gonzalez",
-                "11.",
-                "Juan Leiva",
+                "08.",
+                "Felipe Ogaz",
+                "03.",
+                "Felipe Faundez",
+                "10.",
+                "Bryan Rabello",
+                "09.",
+                "Arnaldo Castillo",
+                "21.",
+                "Nicolas Garrido",
+                "33.",
+                "Miguel Brizuela",
+                "07.",
+                "Martin Sarrafiore",
                 "06.",
-                "Luis Pavez"
+                "Luis Pavez",
+                "11.",
+                "Juan Leiva"
             ],
             "away_team": [
                 "31.",
                 "Carlos Coronel",
                 "(G)",
-                "17.",
-                "Andre",
-                "80.",
-                "Cauly Oliveira Souza",
-                "48.",
-                "Djhordney",
-                "13.",
-                "Enzo Hernan Diaz",
                 "11.",
                 "Ferreira",
+                "13.",
+                "Enzo Hernan Diaz",
+                "48.",
+                "Djhordney",
+                "80.",
+                "Cauly Oliveira Souza",
                 "14.",
                 "Gonzalo Tapia",
                 "40.",
                 "Igor Felisberto",
-                "33.",
-                "Luan Santos",
+                "04.",
+                "Matheus Doria",
                 "54.",
                 "Luis Osorio",
-                "04.",
-                "Matheus Doria"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-05-07T21:09:08.193411"
-    },
-    "378758325": {
-        "matchup": "Simulcast",
-        "event_url": "https://livetv.sx/enx/eventinfo/378758325_simulcast/",
-        "competition": "Europa League",
-        "date_time": "7 May at 20:00",
-        "parsed_datetime": "2026-05-07T20:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lyon",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "2",
-                "team": "Aston Villa",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "3",
-                "team": "Midtjylland",
-                "played": "8",
-                "pts": "19"
-            },
-            {
-                "pos": "4",
-                "team": "Real Betis",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "5",
-                "team": "Porto",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "6",
-                "team": "Braga",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "7",
-                "team": "Freiburg",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "8",
-                "team": "Roma",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "9",
-                "team": "Genk",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Bologna",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "11",
-                "team": "Stuttgart",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Ferencvaros",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "13",
-                "team": "Nottingham Forest",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Viktoria Plzen",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "15",
-                "team": "Crvena Zvezda",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "16",
-                "team": "Celta",
-                "played": "8",
-                "pts": "13"
-            },
-            {
-                "pos": "17",
-                "team": "PAOK",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "18",
-                "team": "Lille",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "19",
-                "team": "Fenerbahce",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "20",
-                "team": "Panathinaikos",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "21",
-                "team": "Celtic",
-                "played": "8",
-                "pts": "11"
-            },
-            {
-                "pos": "22",
-                "team": "Ludogorets",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "23",
-                "team": "Dinamo Zagreb",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "24",
-                "team": "Brann",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "25",
-                "team": "Young Boys",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "26",
-                "team": "Sturm",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "FCSB",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "28",
-                "team": "Go Ahead Eagles",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "29",
-                "team": "Feyenoord",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Basel",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "31",
-                "team": "RB Salzburg",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "32",
-                "team": "Rangers",
-                "played": "8",
-                "pts": "4"
-            },
-            {
-                "pos": "33",
-                "team": "Nice",
-                "played": "8",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Utrecht",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "35",
-                "team": "Malmoe",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "36",
-                "team": "Maccabi Tel Aviv",
-                "played": "8",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-05-07T21:09:08.383361"
-    },
-    "373158563": {
-        "matchup": "Mirassol – LDU Quito",
-        "event_url": "https://livetv.sx/enx/eventinfo/373158563__/",
-        "competition": "Copa Libertadores",
-        "date_time": "7 May at 23:00",
-        "parsed_datetime": "2026-05-07T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Mirassol",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30289.gif"
-            },
-            {
-                "team_name": "LDU Quito",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30211.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010390&lang=en&eid=373158563&lid=3010390&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3009969&lang=en&eid=373158563&lid=3009969&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010913&lang=en&eid=373158563&lid=3010913&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2994462&lang=en&eid=373158563&lid=2994462&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=242312&lang=en&eid=373158563&lid=2956097&ci=12&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=242313&lang=en&eid=373158563&lid=2819130&ci=12&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=242327&lang=en&eid=373158563&lid=3008674&ci=12&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259312&lang=en&eid=373158563&lid=3010215&ci=12&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "22.",
-                "Walter",
-                "(G)",
-                "32.",
-                "Igor Marques",
-                "17.",
-                "Everton",
-                "95.",
-                "Edson Carioca",
-                "08.",
-                "Denilson",
-                "96.",
-                "Carlos Eduardo",
-                "03.",
-                "Willian Machado",
-                "07.",
-                "Shaylon",
-                "06.",
-                "Reinaldo",
-                "25.",
-                "Neto",
-                "02.",
-                "Lucas Oliveira"
-            ],
-            "away_team": [
-                "01.",
-                "Gonzalo Valle",
-                "(G)",
-                "23.",
-                "Yerlin Quinonez",
-                "30.",
-                "Gian Allala",
-                "15.",
-                "Gabriel Villamil",
-                "20.",
-                "Fernando Cornejo",
-                "16.",
-                "Deyverson",
-                "09.",
-                "Jeison Medina",
-                "08.",
-                "Jesus Pretell",
-                "44.",
-                "Luis Segovia",
                 "33.",
-                "Leonel Quinonez",
-                "14.",
-                "Jose Quinteros"
+                "Luan Santos",
+                "17.",
+                "Andre"
             ]
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:08.667942"
+        "last_updated": "2026-05-07T22:35:41.603786"
     },
-    "372679034": {
-        "matchup": "Cuenca Juniors – Cumbaya",
-        "event_url": "https://livetv.sx/enx/eventinfo/372679034__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "7 May at 21:30",
-        "parsed_datetime": "2026-05-07T21:30:00",
+    "378899014": {
+        "matchup": "Flamengo-RJ U-20 –  Palmeiras U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/378899014__/",
+        "competition": "Brazil. Brasileiro U20",
+        "date_time": "7 May at 22:00",
+        "parsed_datetime": "2026-05-07T22:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Cuenca Juniors",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/35348.gif"
+                "team_name": "Flamengo-RJ U-20",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/9076.gif"
             },
             {
-                "team_name": "Cumbaya",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30210.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-05-07T21:09:08.847179"
-    },
-    "376270772": {
-        "matchup": "ASFAR – Olympic Safi",
-        "event_url": "https://livetv.sx/enx/eventinfo/376270772__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "7 May at 21:00",
-        "parsed_datetime": "2026-05-07T21:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "ASFAR",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30579.gif"
-            },
-            {
-                "team_name": "Olympic Safi",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/902.gif"
+                "team_name": "Palmeiras U-20",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/9008.gif"
             }
         ],
         "streams": [
             {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/5.png",
+                "language": "",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=YK93znmbXLs&lang=en&eid=376270772&lid=3011345&ci=551&si=1",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=quHQcLdSMR0&lang=en&eid=378899014&lid=3011358&ci=2719&si=1",
                 "stream_title": "",
                 "stream_type": ""
             }
@@ -862,105 +250,8 @@
             "home_team": [],
             "away_team": []
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Raja CA",
-                "played": "19",
-                "pts": "39"
-            },
-            {
-                "pos": "2",
-                "team": "Maghreb de Fes",
-                "played": "19",
-                "pts": "38"
-            },
-            {
-                "pos": "3",
-                "team": "ASFAR",
-                "played": "18",
-                "pts": "36"
-            },
-            {
-                "pos": "4",
-                "team": "WAC",
-                "played": "19",
-                "pts": "34"
-            },
-            {
-                "pos": "5",
-                "team": "RS Berkane",
-                "played": "18",
-                "pts": "31"
-            },
-            {
-                "pos": "6",
-                "team": "DHJ",
-                "played": "19",
-                "pts": "28"
-            },
-            {
-                "pos": "7",
-                "team": "CODM Meknes",
-                "played": "19",
-                "pts": "27"
-            },
-            {
-                "pos": "8",
-                "team": "FUS Rabat",
-                "played": "19",
-                "pts": "25"
-            },
-            {
-                "pos": "9",
-                "team": "KACM",
-                "played": "18",
-                "pts": "23"
-            },
-            {
-                "pos": "10",
-                "team": "HUSA",
-                "played": "19",
-                "pts": "20"
-            },
-            {
-                "pos": "11",
-                "team": "Ittihad Tanger",
-                "played": "19",
-                "pts": "19"
-            },
-            {
-                "pos": "12",
-                "team": "RS Zemamra",
-                "played": "18",
-                "pts": "19"
-            },
-            {
-                "pos": "13",
-                "team": "Olympique Dcheira",
-                "played": "18",
-                "pts": "16"
-            },
-            {
-                "pos": "14",
-                "team": "Union Touarga",
-                "played": "18",
-                "pts": "13"
-            },
-            {
-                "pos": "15",
-                "team": "Yacoub El Mansour",
-                "played": "18",
-                "pts": "12"
-            },
-            {
-                "pos": "16",
-                "team": "Olympic Safi",
-                "played": "18",
-                "pts": "12"
-            }
-        ],
-        "last_updated": "2026-05-07T21:09:08.906110"
+        "league_table": [],
+        "last_updated": "2026-05-07T22:35:41.746351"
     },
     "372679030": {
         "matchup": "Independiente Juniors – Gualaceo",
@@ -968,7 +259,7 @@
         "competition": "Ecuador. Serie B",
         "date_time": "7 May at 21:30",
         "parsed_datetime": "2026-05-07T21:30:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Independiente Juniors",
@@ -985,587 +276,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:08.993653"
+        "last_updated": "2026-05-07T22:35:41.780506"
     },
-    "373096032": {
-        "matchup": "Crystal Palace – Shakhtar Donetsk",
-        "event_url": "https://livetv.sx/enx/eventinfo/373096032__/",
-        "competition": "Europa Conference League",
-        "date_time": "7 May at 20:00",
-        "parsed_datetime": "2026-05-07T20:00:00",
-        "is_live": false,
+    "378847178": {
+        "matchup": "Jaguares de Cordoba – Real Cundinamarca",
+        "event_url": "https://livetv.sx/enx/eventinfo/378847178__/",
+        "competition": "Colombia. Cup",
+        "date_time": "7 May at 22:00",
+        "parsed_datetime": "2026-05-07T22:00:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Crystal Palace",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1111.gif"
+                "team_name": "Jaguares de Cordoba",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1453.gif"
             },
             {
-                "team_name": "Shakhtar Donetsk",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/93.gif"
+                "team_name": "Real Cundinamarca",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/29115.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://tinyurl.com/yc5e8kbe",
+                "stream_title": "",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Dean Henderson",
-                "(G)",
-                "14.",
-                "Jean-Philippe Mateta",
-                "23.",
-                "Jaydee Canvot",
-                "07.",
-                "Ismaila Sarr",
-                "02.",
-                "Daniel Munoz",
-                "18.",
-                "Daichi Kamada",
-                "26.",
-                "Chris Richards",
-                "10.",
-                "Yeremy Pino",
-                "03.",
-                "Tyrick Mitchell",
-                "05.",
-                "Maxence Lacroix",
-                "20.",
-                "Adam Wharton"
-            ],
-            "away_team": [
-                "31.",
-                "Dmytro Riznyk",
-                "(G)",
-                "19.",
-                "Kaua Elias",
-                "07.",
-                "Eguinaldo",
-                "17.",
-                "Vinicius Tobias",
-                "05.",
-                "Valeriy Bondar",
-                "13.",
-                "Pedro Henrique",
-                "10.",
-                "Pedrinho",
-                "27.",
-                "Oleg Ocheretko",
-                "22.",
-                "Mykola Matviyenko",
-                "06.",
-                "Marlon Gomes",
-                "30.",
-                "Alisson Santana"
-            ]
+            "home_team": [],
+            "away_team": []
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Strasbourg",
-                "played": "6",
-                "pts": "16"
-            },
-            {
-                "pos": "2",
-                "team": "Rakow",
-                "played": "6",
-                "pts": "14"
-            },
-            {
-                "pos": "3",
-                "team": "AEK",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "4",
-                "team": "Sparta Prague",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "5",
-                "team": "Rayo Vallecano",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "6",
-                "team": "Shakhtar Donetsk",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "7",
-                "team": "Mainz 05",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "8",
-                "team": "AEK Larnaca",
-                "played": "6",
-                "pts": "12"
-            },
-            {
-                "pos": "9",
-                "team": "Lausanne",
-                "played": "6",
-                "pts": "11"
-            },
-            {
-                "pos": "10",
-                "team": "Crystal Palace",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "11",
-                "team": "Lech Poznan",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "12",
-                "team": "Samsunspor",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "13",
-                "team": "Celje",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "14",
-                "team": "AZ",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "15",
-                "team": "Fiorentina",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "16",
-                "team": "Rijeka",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "17",
-                "team": "Jagiellonia",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "18",
-                "team": "Omonia",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "19",
-                "team": "Noah",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "Drita",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "21",
-                "team": "KuPS",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "22",
-                "team": "Shkendija",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "23",
-                "team": "Zrinjski",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "24",
-                "team": "Sigma",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "25",
-                "team": "U Craiova",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "26",
-                "team": "Lincoln Red Imps",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "Dynamo Kyiv",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "28",
-                "team": "Legia Warsaw",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "29",
-                "team": "Slovan Bratislava",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Breidablik",
-                "played": "6",
-                "pts": "5"
-            },
-            {
-                "pos": "31",
-                "team": "Shamrock Rovers",
-                "played": "6",
-                "pts": "4"
-            },
-            {
-                "pos": "32",
-                "team": "Haecken",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "33",
-                "team": "Hamrun Spartans",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Shelbourne",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "35",
-                "team": "Aberdeen",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "36",
-                "team": "Rapid Vienna",
-                "played": "6",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-05-07T21:09:09.106942"
-    },
-    "373096008": {
-        "matchup": "Freiburg – Braga",
-        "event_url": "https://livetv.sx/enx/eventinfo/373096008__/",
-        "competition": "Europa League",
-        "date_time": "7 May at 20:00",
-        "parsed_datetime": "2026-05-07T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Freiburg",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/29.gif"
-            },
-            {
-                "team_name": "Braga",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/3775.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Noah Atubolu",
-                "(G)",
-                "32.",
-                "Vincenzo Grifo",
-                "44.",
-                "Johan Manzambi",
-                "19.",
-                "Jan-Niklas Beste",
-                "31.",
-                "Igor Matanovic",
-                "29.",
-                "Philipp Treu",
-                "03.",
-                "Philipp Lienhart",
-                "27.",
-                "Nicolas Hoefler",
-                "08.",
-                "Maximilian Eggestein",
-                "28.",
-                "Matthias Ginter",
-                "17.",
-                "Lukas Kuebler"
-            ],
-            "away_team": [
-                "01.",
-                "Lukas Hornicek",
-                "(G)",
-                "08.",
-                "Joao Moutinho",
-                "29.",
-                "Jean-Baptiste Gorby",
-                "14.",
-                "Gustaf Lagerbielke",
-                "34.",
-                "Demir Tiknaz",
-                "06.",
-                "Carvalho",
-                "02.",
-                "Victor Gomez",
-                "10.",
-                "Rodrigo Zalazar",
-                "15.",
-                "Paulo Oliveira",
-                "18.",
-                "Pau Victor",
-                "20.",
-                "Mario Dorgeles"
-            ]
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Lyon",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "2",
-                "team": "Aston Villa",
-                "played": "8",
-                "pts": "21"
-            },
-            {
-                "pos": "3",
-                "team": "Midtjylland",
-                "played": "8",
-                "pts": "19"
-            },
-            {
-                "pos": "4",
-                "team": "Real Betis",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "5",
-                "team": "Porto",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "6",
-                "team": "Braga",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "7",
-                "team": "Freiburg",
-                "played": "8",
-                "pts": "17"
-            },
-            {
-                "pos": "8",
-                "team": "Roma",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "9",
-                "team": "Genk",
-                "played": "8",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Bologna",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "11",
-                "team": "Stuttgart",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Ferencvaros",
-                "played": "8",
-                "pts": "15"
-            },
-            {
-                "pos": "13",
-                "team": "Nottingham Forest",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Viktoria Plzen",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "15",
-                "team": "Crvena Zvezda",
-                "played": "8",
-                "pts": "14"
-            },
-            {
-                "pos": "16",
-                "team": "Celta",
-                "played": "8",
-                "pts": "13"
-            },
-            {
-                "pos": "17",
-                "team": "PAOK",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "18",
-                "team": "Lille",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "19",
-                "team": "Fenerbahce",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "20",
-                "team": "Panathinaikos",
-                "played": "8",
-                "pts": "12"
-            },
-            {
-                "pos": "21",
-                "team": "Celtic",
-                "played": "8",
-                "pts": "11"
-            },
-            {
-                "pos": "22",
-                "team": "Ludogorets",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "23",
-                "team": "Dinamo Zagreb",
-                "played": "8",
-                "pts": "10"
-            },
-            {
-                "pos": "24",
-                "team": "Brann",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "25",
-                "team": "Young Boys",
-                "played": "8",
-                "pts": "9"
-            },
-            {
-                "pos": "26",
-                "team": "Sturm",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "FCSB",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "28",
-                "team": "Go Ahead Eagles",
-                "played": "8",
-                "pts": "7"
-            },
-            {
-                "pos": "29",
-                "team": "Feyenoord",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Basel",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "31",
-                "team": "RB Salzburg",
-                "played": "8",
-                "pts": "6"
-            },
-            {
-                "pos": "32",
-                "team": "Rangers",
-                "played": "8",
-                "pts": "4"
-            },
-            {
-                "pos": "33",
-                "team": "Nice",
-                "played": "8",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Utrecht",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "35",
-                "team": "Malmoe",
-                "played": "8",
-                "pts": "1"
-            },
-            {
-                "pos": "36",
-                "team": "Maccabi Tel Aviv",
-                "played": "8",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-05-07T21:09:09.164400"
+        "league_table": [],
+        "last_updated": "2026-05-07T22:35:41.850169"
     },
     "373158561": {
         "matchup": "Atletico Platense – Penarol",
@@ -1573,7 +318,7 @@
         "competition": "Copa Libertadores",
         "date_time": "7 May at 23:00",
         "parsed_datetime": "2026-05-07T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Atletico Platense",
@@ -1585,6 +330,30 @@
             }
         ],
         "streams": [
+            {
+                "language": "Ukrainian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/3.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=240418&lang=en&eid=373158561&lid=2997686&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=249436&lang=en&eid=373158561&lid=2977607&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=253105&lang=en&eid=373158561&lid=3007427&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
             {
                 "language": "Spanish",
                 "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
@@ -1602,26 +371,26 @@
                 "stream_type": "Web"
             },
             {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2710316&lang=en&eid=373158561&lid=2710316&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010212&lang=en&eid=373158561&lid=3010212&ci=12&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
                 "language": "",
                 "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010096&lang=en&eid=373158561&lid=3010096&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3011393&lang=en&eid=373158561&lid=3011393&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3011392&lang=en&eid=373158561&lid=3011392&ci=12&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             }
@@ -1679,313 +448,23 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.207916"
+        "last_updated": "2026-05-07T22:35:41.868315"
     },
-    "373096030": {
-        "matchup": "Strasbourg – Rayo Vallecano",
-        "event_url": "https://livetv.sx/enx/eventinfo/373096030__/",
-        "competition": "Europa Conference League",
-        "date_time": "7 May at 20:00",
-        "parsed_datetime": "2026-05-07T20:00:00",
+    "372679034": {
+        "matchup": "Cuenca Juniors – Cumbaya",
+        "event_url": "https://livetv.sx/enx/eventinfo/372679034__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "7 May at 21:30",
+        "parsed_datetime": "2026-05-07T21:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Strasbourg",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/26648.gif"
+                "team_name": "Cuenca Juniors",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/35348.gif"
             },
             {
-                "team_name": "Rayo Vallecano",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/678.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "39.",
-                "Mike Penders",
-                "(G)",
-                "32.",
-                "Valentin Barco",
-                "06.",
-                "Ismael Doukoure",
-                "22.",
-                "Guela Doue",
-                "07.",
-                "Diego Moreira",
-                "03.",
-                "Ben Chilwell",
-                "02.",
-                "Andrew Omobamidele",
-                "19.",
-                "Julio Enciso",
-                "29.",
-                "Samir El Mourabet",
-                "20.",
-                "Martial Godo",
-                "42.",
-                "Abdoul Ouattara"
-            ],
-            "away_team": [
-                "13.",
-                "Augusto Batalla",
-                "(G)",
-                "24.",
-                "Florian Lejeune",
-                "02.",
-                "Andrei Ratiu",
-                "17.",
-                "Unai Lopez",
-                "22.",
-                "Alfonso Espino",
-                "09.",
-                "Alexandre Zurawski",
-                "07.",
-                "Isi Palazon",
-                "03.",
-                "Pep Chavarria",
-                "06.",
-                "Pathe Ciss",
-                "23.",
-                "Oscar Valentin",
-                "19.",
-                "Jorge de Frutos"
-            ]
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Strasbourg",
-                "played": "6",
-                "pts": "16"
-            },
-            {
-                "pos": "2",
-                "team": "Rakow",
-                "played": "6",
-                "pts": "14"
-            },
-            {
-                "pos": "3",
-                "team": "AEK",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "4",
-                "team": "Sparta Prague",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "5",
-                "team": "Rayo Vallecano",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "6",
-                "team": "Shakhtar Donetsk",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "7",
-                "team": "Mainz 05",
-                "played": "6",
-                "pts": "13"
-            },
-            {
-                "pos": "8",
-                "team": "AEK Larnaca",
-                "played": "6",
-                "pts": "12"
-            },
-            {
-                "pos": "9",
-                "team": "Lausanne",
-                "played": "6",
-                "pts": "11"
-            },
-            {
-                "pos": "10",
-                "team": "Crystal Palace",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "11",
-                "team": "Lech Poznan",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "12",
-                "team": "Samsunspor",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "13",
-                "team": "Celje",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "14",
-                "team": "AZ",
-                "played": "6",
-                "pts": "10"
-            },
-            {
-                "pos": "15",
-                "team": "Fiorentina",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "16",
-                "team": "Rijeka",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "17",
-                "team": "Jagiellonia",
-                "played": "6",
-                "pts": "9"
-            },
-            {
-                "pos": "18",
-                "team": "Omonia",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "19",
-                "team": "Noah",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "Drita",
-                "played": "6",
-                "pts": "8"
-            },
-            {
-                "pos": "21",
-                "team": "KuPS",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "22",
-                "team": "Shkendija",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "23",
-                "team": "Zrinjski",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "24",
-                "team": "Sigma",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "25",
-                "team": "U Craiova",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "26",
-                "team": "Lincoln Red Imps",
-                "played": "6",
-                "pts": "7"
-            },
-            {
-                "pos": "27",
-                "team": "Dynamo Kyiv",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "28",
-                "team": "Legia Warsaw",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "29",
-                "team": "Slovan Bratislava",
-                "played": "6",
-                "pts": "6"
-            },
-            {
-                "pos": "30",
-                "team": "Breidablik",
-                "played": "6",
-                "pts": "5"
-            },
-            {
-                "pos": "31",
-                "team": "Shamrock Rovers",
-                "played": "6",
-                "pts": "4"
-            },
-            {
-                "pos": "32",
-                "team": "Haecken",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "33",
-                "team": "Hamrun Spartans",
-                "played": "6",
-                "pts": "3"
-            },
-            {
-                "pos": "34",
-                "team": "Shelbourne",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "35",
-                "team": "Aberdeen",
-                "played": "6",
-                "pts": "2"
-            },
-            {
-                "pos": "36",
-                "team": "Rapid Vienna",
-                "played": "6",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-05-07T21:09:09.255714"
-    },
-    "375418977": {
-        "matchup": "Manta – 9 de Octubre",
-        "event_url": "https://livetv.sx/enx/eventinfo/375418977__/",
-        "competition": "Ecuador. Cup",
-        "date_time": "7 May at 21:00",
-        "parsed_datetime": "2026-05-07T21:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Manta",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/7103.gif"
-            },
-            {
-                "team_name": "9 de Octubre",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/2512.gif"
+                "team_name": "Cumbaya",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30210.gif"
             }
         ],
         "streams": [],
@@ -1994,41 +473,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.287664"
-    },
-    "378899014": {
-        "matchup": "Flamengo-RJ U-20 –  Palmeiras U-20",
-        "event_url": "https://livetv.sx/enx/eventinfo/378899014__/",
-        "competition": "Brazil. Brasileiro U20",
-        "date_time": "7 May at 22:00",
-        "parsed_datetime": "2026-05-07T22:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Flamengo-RJ U-20",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/9076.gif"
-            },
-            {
-                "team_name": "Palmeiras U-20",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/9008.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=quHQcLdSMR0&lang=en&eid=378899014&lid=3011358&ci=2719&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.329964"
+        "last_updated": "2026-05-07T22:35:42.025967"
     },
     "372679026": {
         "matchup": "San Antonio Cotacachi – Atletico Vinotinto",
@@ -2053,41 +498,145 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.462088"
+        "last_updated": "2026-05-07T22:35:42.213885"
     },
-    "378847178": {
-        "matchup": "Jaguares de Cordoba – Real Cundinamarca",
-        "event_url": "https://livetv.sx/enx/eventinfo/378847178__/",
-        "competition": "Colombia. Cup",
-        "date_time": "7 May at 22:00",
-        "parsed_datetime": "2026-05-07T22:00:00",
+    "373158563": {
+        "matchup": "Mirassol – LDU Quito",
+        "event_url": "https://livetv.sx/enx/eventinfo/373158563__/",
+        "competition": "Copa Libertadores",
+        "date_time": "7 May at 23:00",
+        "parsed_datetime": "2026-05-07T23:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Jaguares de Cordoba",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/1453.gif"
+                "team_name": "Mirassol",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30289.gif"
             },
             {
-                "team_name": "Real Cundinamarca",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/29115.gif"
+                "team_name": "LDU Quito",
+                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/30211.gif"
             }
         ],
         "streams": [
             {
-                "language": "",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
+                "language": "English",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://tinyurl.com/yc5e8kbe",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=242328&lang=en&eid=373158563&lid=2968715&ci=12&si=1",
                 "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=3010390&lang=en&eid=373158563&lid=3010390&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2994462&lang=en&eid=373158563&lid=2994462&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=237460&lang=en&eid=373158563&lid=2842250&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=250739&lang=en&eid=373158563&lid=2969752&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=241322&lang=en&eid=373158563&lid=2824919&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=242312&lang=en&eid=373158563&lid=2956097&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=242313&lang=en&eid=373158563&lid=2819130&ci=12&si=1",
+                "stream_title": "",
+                "stream_type": ""
             }
         ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "22.",
+                "Walter",
+                "(G)",
+                "32.",
+                "Igor Marques",
+                "17.",
+                "Everton",
+                "95.",
+                "Edson Carioca",
+                "08.",
+                "Denilson",
+                "96.",
+                "Carlos Eduardo",
+                "03.",
+                "Willian Machado",
+                "07.",
+                "Shaylon",
+                "06.",
+                "Reinaldo",
+                "25.",
+                "Neto",
+                "02.",
+                "Lucas Oliveira"
+            ],
+            "away_team": [
+                "01.",
+                "Gonzalo Valle",
+                "(G)",
+                "23.",
+                "Yerlin Quinonez",
+                "30.",
+                "Gian Allala",
+                "15.",
+                "Gabriel Villamil",
+                "20.",
+                "Fernando Cornejo",
+                "16.",
+                "Deyverson",
+                "09.",
+                "Jeison Medina",
+                "08.",
+                "Jesus Pretell",
+                "44.",
+                "Luis Segovia",
+                "33.",
+                "Leonel Quinonez",
+                "14.",
+                "Jose Quinteros"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.631842"
+        "last_updated": "2026-05-07T22:35:42.216377"
     },
     "378426950": {
         "matchup": "Confianca EC – Fortaleza",
@@ -2095,7 +644,7 @@
         "competition": "Brazil. Copa do Nordeste",
         "date_time": "7 May at 23:30",
         "parsed_datetime": "2026-05-07T23:30:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Confianca EC",
@@ -2106,55 +655,14 @@
                 "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/747.gif"
             }
         ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.808018"
-    },
-    "373161869": {
-        "matchup": "Boston River – Millonarios",
-        "event_url": "https://livetv.sx/enx/eventinfo/373161869__/",
-        "competition": "Copa Sudamericana",
-        "date_time": "7 May at 23:00",
-        "parsed_datetime": "2026-05-07T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Boston River",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/25676.gif"
-            },
-            {
-                "team_name": "Millonarios",
-                "logo_url": "https://cdn.livetv882.me/img/teams/fullsize/ods/34740.gif"
-            }
-        ],
         "streams": [
             {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
+                "language": "",
+                "flag_src": "https://cdn.livetv882.me/img/linkflag/0.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259290&lang=en&eid=373161869&lid=3010207&ci=131&si=1",
+                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=youtube&c=A-g3MnvzTAw&lang=en&eid=378426950&lid=3011403&ci=1023&si=1",
                 "stream_title": "",
                 "stream_type": ""
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer2.php?t=alieztv&c=259293&lang=en&eid=373161869&lid=3010213&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Serbian",
-                "flag_src": "https://cdn.livetv882.me/img/linkflag/17.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv882.me/webplayer.php?t=ifr&c=2691926&lang=en&eid=373161869&lid=2691926&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
             }
         ],
         "starting_lineups": {
@@ -2162,7 +670,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:09.908307"
+        "last_updated": "2026-05-07T22:35:42.225798"
     },
     "378847180": {
         "matchup": "Llaneros – Atletico Cali",
@@ -2170,7 +678,7 @@
         "competition": "Colombia. Cup",
         "date_time": "7 May at 23:00",
         "parsed_datetime": "2026-05-07T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Llaneros",
@@ -2196,6 +704,6 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-05-07T21:09:10.005283"
+        "last_updated": "2026-05-07T22:35:42.351071"
     }
 }
