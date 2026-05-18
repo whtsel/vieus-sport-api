@@ -1,36 +1,11 @@
 {
-    "382098335": {
-        "matchup": "Envigado – Deportes Quindio",
-        "event_url": "https://livetv.sx/enx/eventinfo/382098335__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "18 May at 21:00",
-        "parsed_datetime": "2026-05-18T21:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Envigado",
-                "logo_url": "https://cdn.livetv886.me/img/teams/fullsize/ods/34744.gif"
-            },
-            {
-                "team_name": "Deportes Quindio",
-                "logo_url": "https://cdn.livetv886.me/img/teams/fullsize/ods/7982.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-05-18T21:47:42.145972"
-    },
     "378229825": {
         "matchup": "Ponte Preta – Londrina",
         "event_url": "https://livetv.sx/enx/eventinfo/378229825__/",
         "competition": "Brazil. Serie B",
         "date_time": "18 May at 23:00",
         "parsed_datetime": "2026-05-18T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Ponte Preta",
@@ -41,16 +16,7 @@
                 "logo_url": "https://cdn.livetv886.me/img/teams/fullsize/ods/1103.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv886.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://cdn.livetv886.me/webplayer.php?t=ifr&c=3015497&lang=en&eid=378229825&lid=3015497&ci=260&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -177,6 +143,6 @@
                 "pts": "3"
             }
         ],
-        "last_updated": "2026-05-18T21:47:42.466798"
+        "last_updated": "2026-05-18T23:09:58.817738"
     }
 }
