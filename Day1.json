@@ -1,134 +1,11 @@
 {
-    "385521714": {
-        "matchup": "Belgium BEL – Egypt EGY",
-        "event_url": "https://livetv.sx/enx/eventinfo/385521714__/",
-        "competition": "World Cup",
-        "date_time": "15 June at 20:00",
-        "parsed_datetime": "2026-06-15T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Belgium BEL",
-                "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/flag16.gif"
-            },
-            {
-                "team_name": "Egypt EGY",
-                "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/flag57.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Thibaut Courtois",
-                "(G)",
-                "11.",
-                "Jeremy Doku",
-                "17.",
-                "Charles De Ketelaere",
-                "04.",
-                "Brandon Mechele",
-                "24.",
-                "Amadou Onana",
-                "07.",
-                "Kevin De Bruyne",
-                "10.",
-                "Leandro Trossard",
-                "08.",
-                "Youri Tielemans",
-                "21.",
-                "Timothy Castagne",
-                "15.",
-                "Thomas Meunier",
-                "25.",
-                "Nathan Ngoy"
-            ],
-            "away_team": [
-                "23.",
-                "Mostafa Ahmed Shobeir",
-                "(G)",
-                "19.",
-                "Marwan Ateya",
-                "14.",
-                "Hamdi Fathi",
-                "08.",
-                "Emam Ashour",
-                "02.",
-                "Yasser Ibrahim",
-                "22.",
-                "Omar Marmoush",
-                "11.",
-                "Mostafa Ziko",
-                "17.",
-                "Mohanad Lasheen",
-                "10.",
-                "Mohamed Salah",
-                "03.",
-                "Mohamed Hany",
-                "13.",
-                "Ahmed Abou El Fotouh"
-            ]
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Belgium BEL",
-                "played": "0",
-                "pts": "0"
-            },
-            {
-                "pos": "2",
-                "team": "Egypt EGY",
-                "played": "0",
-                "pts": "0"
-            },
-            {
-                "pos": "3",
-                "team": "Iran IRN",
-                "played": "0",
-                "pts": "0"
-            },
-            {
-                "pos": "4",
-                "team": "New Zealand NZL",
-                "played": "0",
-                "pts": "0"
-            }
-        ],
-        "last_updated": "2026-06-15T21:11:55.175097"
-    },
-    "385537367": {
-        "matchup": "Maringa – Maranhao",
-        "event_url": "https://livetv.sx/enx/eventinfo/385537367__/",
-        "competition": "Brazil. Serie C",
-        "date_time": "15 June at 23:30",
-        "parsed_datetime": "2026-06-15T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Maringa",
-                "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/23480.gif"
-            },
-            {
-                "team_name": "Maranhao",
-                "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/22557.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-15T21:11:55.698401"
-    },
     "385542223": {
         "matchup": "Saudi Arabia SAU – Uruguay URY",
         "event_url": "https://livetv.sx/enx/eventinfo/385542223__/",
         "competition": "World Cup",
         "date_time": "15 June at 23:00",
         "parsed_datetime": "2026-06-15T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Saudi Arabia SAU",
@@ -153,6 +30,14 @@
                 "flag_src": "https://cdn.livetv899.me/img/linkflag/2.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261628&lang=en&eid=385542223&lid=3027008&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv899.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261629&lang=en&eid=385542223&lid=3027007&ci=2608&si=1",
                 "stream_title": "",
                 "stream_type": ""
             },
@@ -193,14 +78,6 @@
                 "flag_src": "https://cdn.livetv899.me/img/linkflag/2.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=241094&lang=en&eid=385542223&lid=3027345&ci=2608&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv899.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=241801&lang=en&eid=385542223&lid=2819132&ci=2608&si=1",
                 "stream_title": "",
                 "stream_type": ""
             }
@@ -283,6 +160,40 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-06-15T21:11:55.851381"
+        "last_updated": "2026-06-15T23:18:38.573108"
+    },
+    "385537367": {
+        "matchup": "Maringa – Maranhao",
+        "event_url": "https://livetv.sx/enx/eventinfo/385537367__/",
+        "competition": "Brazil. Serie C",
+        "date_time": "15 June at 23:30",
+        "parsed_datetime": "2026-06-15T23:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Maringa",
+                "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/23480.gif"
+            },
+            {
+                "team_name": "Maranhao",
+                "logo_url": "https://cdn.livetv899.me/img/teams/fullsize/ods/22557.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv899.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=xOLgnCKGPUA&lang=en&eid=385537367&lid=3027713&ci=744&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-15T23:18:38.989819"
     }
 }
