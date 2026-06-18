@@ -1,44 +1,11 @@
 {
-    "387761270": {
-        "matchup": "West Indies (W) –  Scotland (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/387761270_west_indies_w_scotland_w/",
-        "competition": "General",
-        "date_time": "18:30 (Women. T20 World Cup)",
-        "parsed_datetime": "",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3028380&lang=en&eid=387761270&lid=3028380&ci=1552&si=41",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=6d95e4b0893e155cc674b84e0763150c445d3ddd&lang=en&eid=387761270&lid=2838085&ci=1552&si=41",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-18T21:06:44.543350"
-    },
     "385985983": {
         "matchup": "Canada CAN – Qatar QAT",
         "event_url": "https://livetv.sx/enx/eventinfo/385985983__/",
         "competition": "World Cup",
         "date_time": "18 June at 23:00",
         "parsed_datetime": "2026-06-18T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Canada CAN",
@@ -171,8 +138,8 @@
             {
                 "pos": "1",
                 "team": "Switzerland SUI",
-                "played": "1",
-                "pts": "1"
+                "played": "2",
+                "pts": "4"
             },
             {
                 "pos": "2",
@@ -189,108 +156,10 @@
             {
                 "pos": "4",
                 "team": "Bosnia and Herzegovina BIH",
-                "played": "1",
+                "played": "2",
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-06-18T21:06:46.099450"
-    },
-    "385964857": {
-        "matchup": "Switzerland SUI – Bosnia and Herzegovina BIH",
-        "event_url": "https://livetv.sx/enx/eventinfo/385964857__/",
-        "competition": "World Cup",
-        "date_time": "18 June at 20:00",
-        "parsed_datetime": "2026-06-18T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Switzerland SUI",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag35.gif"
-            },
-            {
-                "team_name": "Bosnia and Herzegovina BIH",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag23.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Gregor Kobel",
-                "(G)",
-                "10.",
-                "Granit Xhaka",
-                "22.",
-                "Fabian Rieder",
-                "11.",
-                "Dan Ndoye",
-                "07.",
-                "Breel Embolo",
-                "05.",
-                "Manuel Akanji",
-                "03.",
-                "Silvan Widmer",
-                "13.",
-                "Ricardo Rodriguez",
-                "08.",
-                "Remo Freuler",
-                "04.",
-                "Nico Elvedi",
-                "20.",
-                "Michel Aebischer"
-            ],
-            "away_team": [
-                "01.",
-                "Nikola Vasilj",
-                "(G)",
-                "04.",
-                "Tarik Muharemovic",
-                "10.",
-                "Ermedin Demirovic",
-                "11.",
-                "Edin Dzeko",
-                "06.",
-                "Benjamin Tahirovic",
-                "05.",
-                "Sead Kolasinac",
-                "18.",
-                "Nikola Katic",
-                "19.",
-                "Kerim Alajbegovic",
-                "14.",
-                "Ivan Sunjic",
-                "15.",
-                "Amar Memic",
-                "07.",
-                "Amar Dedic"
-            ]
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Switzerland SUI",
-                "played": "1",
-                "pts": "1"
-            },
-            {
-                "pos": "2",
-                "team": "Canada CAN",
-                "played": "1",
-                "pts": "1"
-            },
-            {
-                "pos": "3",
-                "team": "Qatar QAT",
-                "played": "1",
-                "pts": "1"
-            },
-            {
-                "pos": "4",
-                "team": "Bosnia and Herzegovina BIH",
-                "played": "1",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-06-18T21:06:46.270656"
+        "last_updated": "2026-06-18T23:19:14.794275"
     }
 }
