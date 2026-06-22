@@ -1,36 +1,11 @@
 {
-    "388029460": {
-        "matchup": "Aktobe (W) – Altai (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/388029460_aktobe_w_altai_w/",
-        "competition": "Kazakhstan. Women. Championship",
-        "date_time": "22 June at 14:00",
-        "parsed_datetime": "2026-06-22T14:00:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=wfa9YbnazAQ&lang=en&eid=388029460&lid=3029675&ci=7848&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:46.718449"
-    },
     "386640162": {
         "matchup": "Varberg – Landskrona",
         "event_url": "https://livetv.sx/enx/eventinfo/386640162__/",
         "competition": "Sweden. Superettan",
         "date_time": "22 June at 18:00",
         "parsed_datetime": "2026-06-22T18:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Varberg",
@@ -41,10 +16,83 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5192.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Swedish",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/22.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3029925&lang=en&eid=386640162&lid=3029925&ci=144&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Swedish",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/22.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3029926&lang=en&eid=386640162&lid=3029926&ci=144&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Swedish",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/22.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3028859&lang=en&eid=386640162&lid=3028859&ci=144&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Oscar Ekman",
+                "(G)",
+                "08.",
+                "Albin Winbo",
+                "17.",
+                "Edvin Tellgren",
+                "05.",
+                "Emil Hellman",
+                "21.",
+                "Isak Vidjeskog",
+                "18.",
+                "Joakim Lindner",
+                "22.",
+                "Niklas Dahlstroem",
+                "15.",
+                "Noah Johansson",
+                "12.",
+                "Severin Nioule",
+                "49.",
+                "Shanyder Borgelin",
+                "07.",
+                "Willhelm Aerlig"
+            ],
+            "away_team": [
+                "30.",
+                "Marcus Pettersson",
+                "(G)",
+                "12.",
+                "Emmanuel Moungam",
+                "09.",
+                "Edi Sylisufaj",
+                "10.",
+                "Constantino Capotondi",
+                "18.",
+                "Andre Alvarez Perez",
+                "04.",
+                "Gustaf Bruzelius",
+                "03.",
+                "Gustaf Weststroem",
+                "21.",
+                "Kevin Jensen",
+                "13.",
+                "Kota Sakurai",
+                "06.",
+                "Tobias Karlsson",
+                "05.",
+                "Adam Egnell"
+            ]
         },
         "league_table": [
             {
@@ -144,7 +192,150 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-06-22T14:46:46.984451"
+        "last_updated": "2026-06-22T18:50:52.930371"
+    },
+    "386651877": {
+        "matchup": "Shamrock Rovers – Derry City",
+        "event_url": "https://livetv.sx/enx/eventinfo/386651877__/",
+        "competition": "Ireland. Premier Division",
+        "date_time": "22 June at 20:00",
+        "parsed_datetime": "2026-06-22T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Shamrock Rovers",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1090.gif"
+            },
+            {
+                "team_name": "Derry City",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/390.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3029793&lang=en&eid=386651877&lid=3029793&ci=45&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [
+                "01.",
+                "Edward McGinty",
+                "(G)",
+                "22.",
+                "Tunmise Sobowale",
+                "19.",
+                "Adam Brennan",
+                "27.",
+                "Cory O’Sullivan",
+                "07.",
+                "Dylan Watts",
+                "10.",
+                "Graham Burke",
+                "29.",
+                "Jack Byrne",
+                "11.",
+                "Jake Mulraney",
+                "05.",
+                "Lee Grace",
+                "08.",
+                "Matthew Healy",
+                "31.",
+                "Michael Noonan"
+            ],
+            "away_team": [
+                "13.",
+                "Eddie Beach",
+                "(G)",
+                "22.",
+                "Conor Barr",
+                "23.",
+                "Cameron Dummigan",
+                "19.",
+                "Brandon Fleming",
+                "16.",
+                "James McClean",
+                "21.",
+                "Kevin Santos",
+                "27.",
+                "Liam Boyce",
+                "07.",
+                "Michael Duffy",
+                "03.",
+                "Patrick McClean",
+                "02.",
+                "Barry Cotter",
+                "08.",
+                "Adam O’Reilly"
+            ]
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Shamrock Rovers",
+                "played": "22",
+                "pts": "43"
+            },
+            {
+                "pos": "2",
+                "team": "St Patrick`s Athletic",
+                "played": "21",
+                "pts": "38"
+            },
+            {
+                "pos": "3",
+                "team": "Dundalk",
+                "played": "21",
+                "pts": "35"
+            },
+            {
+                "pos": "4",
+                "team": "Bohemian",
+                "played": "22",
+                "pts": "34"
+            },
+            {
+                "pos": "5",
+                "team": "Shelbourne",
+                "played": "21",
+                "pts": "30"
+            },
+            {
+                "pos": "6",
+                "team": "Derry City",
+                "played": "22",
+                "pts": "25"
+            },
+            {
+                "pos": "7",
+                "team": "Galway United",
+                "played": "20",
+                "pts": "24"
+            },
+            {
+                "pos": "8",
+                "team": "Drogheda United",
+                "played": "21",
+                "pts": "22"
+            },
+            {
+                "pos": "9",
+                "team": "Sligo Rovers",
+                "played": "21",
+                "pts": "19"
+            },
+            {
+                "pos": "10",
+                "team": "Waterford",
+                "played": "21",
+                "pts": "14"
+            }
+        ],
+        "last_updated": "2026-06-22T18:50:53.449131"
     },
     "386640112": {
         "matchup": "Argentina ARG – Austria AUT",
@@ -163,10 +354,123 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag13.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261716&lang=en&eid=386640112&lid=3028550&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261905&lang=en&eid=386640112&lid=3028888&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261974&lang=en&eid=386640112&lid=3028290&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261988&lang=en&eid=386640112&lid=3028224&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261994&lang=en&eid=386640112&lid=3028291&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262005&lang=en&eid=386640112&lid=3029678&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262007&lang=en&eid=386640112&lid=3029683&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262010&lang=en&eid=386640112&lid=3028293&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "23.",
+                "Emiliano Martinez",
+                "(G)",
+                "25.",
+                "Facundo Medina",
+                "24.",
+                "Enzo Fernandez",
+                "13.",
+                "Cristian Romero",
+                "22.",
+                "Lautaro Martinez",
+                "16.",
+                "Thiago Almada",
+                "07.",
+                "Rodrigo De Paul",
+                "26.",
+                "Nahuel Molina",
+                "06.",
+                "Lisandro Martinez",
+                "10.",
+                "Lionel Messi",
+                "20.",
+                "Alexis Mac Allister"
+            ],
+            "away_team": [
+                "01.",
+                "Alexander Schlager",
+                "(G)",
+                "04.",
+                "Xaver Schlager",
+                "09.",
+                "Marcel Sabitzer",
+                "20.",
+                "Konrad Laimer",
+                "03.",
+                "Kevin Danso",
+                "08.",
+                "David Alaba",
+                "11.",
+                "Michael Gregoritsch",
+                "05.",
+                "Stefan Posch",
+                "18.",
+                "Romano Schmid",
+                "24.",
+                "Paul Wanner",
+                "06.",
+                "Nicolas Seiwald"
+            ]
         },
         "league_table": [
             {
@@ -194,29 +498,86 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-06-22T14:46:47.048872"
+        "last_updated": "2026-06-22T18:50:53.694191"
     },
-    "386640163": {
-        "matchup": "Oddevold – Ljungskile",
-        "event_url": "https://livetv.sx/enx/eventinfo/386640163__/",
+    "386643238": {
+        "matchup": "Oerebro – Sandviken",
+        "event_url": "https://livetv.sx/enx/eventinfo/386643238__/",
         "competition": "Sweden. Superettan",
-        "date_time": "22 June at 18:00",
-        "parsed_datetime": "2026-06-22T18:00:00",
-        "is_live": false,
+        "date_time": "22 June at 18:05",
+        "parsed_datetime": "2026-06-22T18:05:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Oddevold",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5706.gif"
+                "team_name": "Oerebro",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/377.gif"
             },
             {
-                "team_name": "Ljungskile",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4859.gif"
+                "team_name": "Sandviken",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5111.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Swedish",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/22.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3029426&lang=en&eid=386643238&lid=3029426&ci=144&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "75.",
+                "Jakub Ojrzynski",
+                "(G)",
+                "99.",
+                "Ahmed Yasin",
+                "03.",
+                "Victor Sandberg",
+                "09.",
+                "Antonio Yakoub",
+                "11.",
+                "Christopher",
+                "22.",
+                "Giuseppe Bovalina",
+                "05.",
+                "Jacob Ortmark",
+                "32.",
+                "John Stenberg",
+                "17.",
+                "Kalle Holmberg",
+                "08.",
+                "Manasse Kusu",
+                "07.",
+                "Samuel Wikman"
+            ],
+            "away_team": [
+                "30.",
+                "Otto Lindell",
+                "(G)",
+                "07.",
+                "Johan Arvidsson",
+                "02.",
+                "Gustav Thoern",
+                "15.",
+                "Fabian Andersson",
+                "22.",
+                "Christian Wagner",
+                "23.",
+                "Kasper Harletun",
+                "26.",
+                "Linus Tagesson",
+                "16.",
+                "Mohammed Sadat",
+                "25.",
+                "Valassina Diomande",
+                "12.",
+                "Alan Carleton",
+                "21.",
+                "Adam Kiani"
+            ]
         },
         "league_table": [
             {
@@ -316,7 +677,127 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-06-22T14:46:47.231265"
+        "last_updated": "2026-06-22T18:50:53.939484"
+    },
+    "386638511": {
+        "matchup": "Torpedo Kt – Spaeri",
+        "event_url": "https://livetv.sx/enx/eventinfo/386638511__/",
+        "competition": "Georgia. Erovnuli Liga",
+        "date_time": "22 June at 18:00",
+        "parsed_datetime": "2026-06-22T18:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Torpedo Kt",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5546.gif"
+            },
+            {
+                "team_name": "Spaeri",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/20984.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Georgian",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/24.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=ynB7QuN0x7c&lang=en&eid=386638511&lid=3029641&ci=641&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Rustavi",
+                "played": "19",
+                "pts": "32"
+            },
+            {
+                "pos": "2",
+                "team": "Iberia",
+                "played": "18",
+                "pts": "31"
+            },
+            {
+                "pos": "3",
+                "team": "Dinamo Tbilisi",
+                "played": "18",
+                "pts": "28"
+            },
+            {
+                "pos": "4",
+                "team": "Dinamo Batumi",
+                "played": "18",
+                "pts": "27"
+            },
+            {
+                "pos": "5",
+                "team": "Torpedo Kt",
+                "played": "18",
+                "pts": "26"
+            },
+            {
+                "pos": "6",
+                "team": "Dila",
+                "played": "19",
+                "pts": "26"
+            },
+            {
+                "pos": "7",
+                "team": "Samgurali",
+                "played": "18",
+                "pts": "24"
+            },
+            {
+                "pos": "8",
+                "team": "Spaeri",
+                "played": "18",
+                "pts": "21"
+            },
+            {
+                "pos": "9",
+                "team": "Gagra",
+                "played": "18",
+                "pts": "21"
+            },
+            {
+                "pos": "10",
+                "team": "Meshakhte",
+                "played": "18",
+                "pts": "11"
+            }
+        ],
+        "last_updated": "2026-06-22T18:50:54.197052"
+    },
+    "386675086": {
+        "matchup": "Confianca EC – Guarani",
+        "event_url": "https://livetv.sx/enx/eventinfo/386675086__/",
+        "competition": "Brazil. Serie C",
+        "date_time": "22 June at 23:30",
+        "parsed_datetime": "2026-06-22T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Confianca EC",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6266.gif"
+            },
+            {
+                "team_name": "Guarani",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6263.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-22T18:50:54.197067"
     },
     "386666757": {
         "matchup": "France FRA – Iraq IRQ",
@@ -366,29 +847,77 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-06-22T14:46:47.338723"
+        "last_updated": "2026-06-22T18:50:54.197073"
     },
-    "386651877": {
-        "matchup": "Shamrock Rovers – Derry City",
-        "event_url": "https://livetv.sx/enx/eventinfo/386651877__/",
+    "386651688": {
+        "matchup": "Shelbourne – Bohemian",
+        "event_url": "https://livetv.sx/enx/eventinfo/386651688__/",
         "competition": "Ireland. Premier Division",
-        "date_time": "22 June at 20:00",
-        "parsed_datetime": "2026-06-22T20:00:00",
-        "is_live": false,
+        "date_time": "22 June at 19:45",
+        "parsed_datetime": "2026-06-22T19:45:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Shamrock Rovers",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1090.gif"
+                "team_name": "Shelbourne",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6476.gif"
             },
             {
-                "team_name": "Derry City",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/390.gif"
+                "team_name": "Bohemian",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/388.gif"
             }
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Wessel Speel",
+                "(G)",
+                "17.",
+                "Daniel Kelly",
+                "05.",
+                "Ellis Chapman",
+                "27.",
+                "Evan Caffrey",
+                "07.",
+                "Harry Wood",
+                "21.",
+                "Jack Henry-Francis",
+                "18.",
+                "James Norris",
+                "06.",
+                "Jonathan Lunney",
+                "04.",
+                "Kameron Ledwidge",
+                "29.",
+                "Patrick Barrett",
+                "02.",
+                "Sean Gannon"
+            ],
+            "away_team": [
+                "25.",
+                "Paul Walters",
+                "(G)",
+                "08.",
+                "Harry Vaughan",
+                "10.",
+                "Dawson Devoy",
+                "16.",
+                "Darragh Power",
+                "09.",
+                "Colm Whelan",
+                "06.",
+                "Jordan Flores",
+                "32.",
+                "Markuss Strods",
+                "12.",
+                "Patrick Hickey",
+                "26.",
+                "Ross Tierney",
+                "22.",
+                "Sam Todd",
+                "15.",
+                "Senan Mullen"
+            ]
         },
         "league_table": [
             {
@@ -452,88 +981,77 @@
                 "pts": "14"
             }
         ],
-        "last_updated": "2026-06-22T14:46:47.355287"
+        "last_updated": "2026-06-22T18:50:54.197087"
     },
-    "388857653": {
-        "matchup": "Merani Martvili – Gori",
-        "event_url": "https://livetv.sx/enx/eventinfo/388857653__/",
-        "competition": "Georgia. Erovnuli Liga 2",
-        "date_time": "22 June at 14:00",
-        "parsed_datetime": "2026-06-22T14:00:00",
+    "386640163": {
+        "matchup": "Oddevold – Ljungskile",
+        "event_url": "https://livetv.sx/enx/eventinfo/386640163__/",
+        "competition": "Sweden. Superettan",
+        "date_time": "22 June at 18:00",
+        "parsed_datetime": "2026-06-22T18:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Merani Martvili",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5547.gif"
+                "team_name": "Oddevold",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5706.gif"
             },
             {
-                "team_name": "Gori",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/23255.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=U1biM_Ab6j8&lang=en&eid=388857653&lid=3029788&ci=1836&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:47.360809"
-    },
-    "386675086": {
-        "matchup": "Confianca EC – Guarani",
-        "event_url": "https://livetv.sx/enx/eventinfo/386675086__/",
-        "competition": "Brazil. Serie C",
-        "date_time": "22 June at 23:30",
-        "parsed_datetime": "2026-06-22T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Confianca EC",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6266.gif"
-            },
-            {
-                "team_name": "Guarani",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6263.gif"
+                "team_name": "Ljungskile",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4859.gif"
             }
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:47.441609"
-    },
-    "386643238": {
-        "matchup": "Oerebro – Sandviken",
-        "event_url": "https://livetv.sx/enx/eventinfo/386643238__/",
-        "competition": "Sweden. Superettan",
-        "date_time": "22 June at 18:05",
-        "parsed_datetime": "2026-06-22T18:05:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Oerebro",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/377.gif"
-            },
-            {
-                "team_name": "Sandviken",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5111.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "12.",
+                "Morten Saetra",
+                "(G)",
+                "16.",
+                "Awaka Djoro",
+                "03.",
+                "Erik Hedenquist",
+                "05.",
+                "Esim Mehmed",
+                "14.",
+                "Gabriel Sandberg",
+                "18.",
+                "Gustav Forssell",
+                "19.",
+                "Hugo Engstroem",
+                "06.",
+                "Jesper Merbom",
+                "22.",
+                "Johan Albin",
+                "10.",
+                "Leonardo Shahin",
+                "17.",
+                "Olle Kjellman Olblad"
+            ],
+            "away_team": [
+                "01.",
+                "Lukas Eriksson",
+                "(G)",
+                "10.",
+                "Filip Ambroz",
+                "16.",
+                "Emilio Reljanovic",
+                "71.",
+                "Daniel Ljung",
+                "14.",
+                "Daniel Lagerloef",
+                "60.",
+                "Gideon Mensah",
+                "04.",
+                "Issaka Seidu",
+                "69.",
+                "Ivan Maric",
+                "99.",
+                "Lukas Lindholm Corner",
+                "11.",
+                "Shakur Omar",
+                "27.",
+                "Alfons Boren"
+            ]
         },
         "league_table": [
             {
@@ -633,588 +1151,6 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-06-22T14:46:47.472650"
-    },
-    "386651688": {
-        "matchup": "Shelbourne – Bohemian",
-        "event_url": "https://livetv.sx/enx/eventinfo/386651688__/",
-        "competition": "Ireland. Premier Division",
-        "date_time": "22 June at 19:45",
-        "parsed_datetime": "2026-06-22T19:45:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Shelbourne",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6476.gif"
-            },
-            {
-                "team_name": "Bohemian",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/388.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Shamrock Rovers",
-                "played": "22",
-                "pts": "43"
-            },
-            {
-                "pos": "2",
-                "team": "St Patrick`s Athletic",
-                "played": "21",
-                "pts": "38"
-            },
-            {
-                "pos": "3",
-                "team": "Dundalk",
-                "played": "21",
-                "pts": "35"
-            },
-            {
-                "pos": "4",
-                "team": "Bohemian",
-                "played": "22",
-                "pts": "34"
-            },
-            {
-                "pos": "5",
-                "team": "Shelbourne",
-                "played": "21",
-                "pts": "30"
-            },
-            {
-                "pos": "6",
-                "team": "Derry City",
-                "played": "22",
-                "pts": "25"
-            },
-            {
-                "pos": "7",
-                "team": "Galway United",
-                "played": "20",
-                "pts": "24"
-            },
-            {
-                "pos": "8",
-                "team": "Drogheda United",
-                "played": "21",
-                "pts": "22"
-            },
-            {
-                "pos": "9",
-                "team": "Sligo Rovers",
-                "played": "21",
-                "pts": "19"
-            },
-            {
-                "pos": "10",
-                "team": "Waterford",
-                "played": "21",
-                "pts": "14"
-            }
-        ],
-        "last_updated": "2026-06-22T14:46:47.497124"
-    },
-    "388857696": {
-        "matchup": "Gareji – Odishi",
-        "event_url": "https://livetv.sx/enx/eventinfo/388857696__/",
-        "competition": "Georgia. Erovnuli Liga 2",
-        "date_time": "22 June at 14:00",
-        "parsed_datetime": "2026-06-22T14:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Gareji",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12358.gif"
-            },
-            {
-                "team_name": "Odishi",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/34124.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=5h1FaBKbOSI&lang=en&eid=388857696&lid=3029789&ci=1836&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:47.571461"
-    },
-    "388029462": {
-        "matchup": "Tomiris-Turan (W) – Kairat (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/388029462_tomiris_turan_w_kairat_w/",
-        "competition": "Kazakhstan. Women. Championship",
-        "date_time": "22 June at 15:00",
-        "parsed_datetime": "2026-06-22T15:00:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "Kazakh",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/37.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=2GsyXmGikrI&lang=en&eid=388029462&lid=3029674&ci=7848&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:47.610335"
-    },
-    "386627158": {
-        "matchup": "RFS – Ogre United",
-        "event_url": "https://livetv.sx/enx/eventinfo/386627158__/",
-        "competition": "Latvia. Virsliga",
-        "date_time": "22 June at 16:00",
-        "parsed_datetime": "2026-06-22T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "RFS",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26374.gif"
-            },
-            {
-                "team_name": "Ogre United",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29440.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Latvian",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/34.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3029790&lang=en&eid=386627158&lid=3029790&ci=107&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Riga",
-                "played": "19",
-                "pts": "48"
-            },
-            {
-                "pos": "2",
-                "team": "RFS",
-                "played": "18",
-                "pts": "46"
-            },
-            {
-                "pos": "3",
-                "team": "Auda",
-                "played": "19",
-                "pts": "38"
-            },
-            {
-                "pos": "4",
-                "team": "Liepaja",
-                "played": "19",
-                "pts": "25"
-            },
-            {
-                "pos": "5",
-                "team": "Daugavpils",
-                "played": "19",
-                "pts": "23"
-            },
-            {
-                "pos": "6",
-                "team": "Super Nova",
-                "played": "19",
-                "pts": "21"
-            },
-            {
-                "pos": "7",
-                "team": "Jelgava",
-                "played": "19",
-                "pts": "19"
-            },
-            {
-                "pos": "8",
-                "team": "Tukums",
-                "played": "19",
-                "pts": "17"
-            },
-            {
-                "pos": "9",
-                "team": "Grobina",
-                "played": "19",
-                "pts": "16"
-            },
-            {
-                "pos": "10",
-                "team": "Ogre United",
-                "played": "18",
-                "pts": "7"
-            }
-        ],
-        "last_updated": "2026-06-22T14:46:48.044565"
-    },
-    "386632992": {
-        "matchup": "Riteriai – Hegelmann",
-        "event_url": "https://livetv.sx/enx/eventinfo/386632992__/",
-        "competition": "Lithuania. A Lyga",
-        "date_time": "22 June at 17:00",
-        "parsed_datetime": "2026-06-22T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Riteriai",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4775.gif"
-            },
-            {
-                "team_name": "Hegelmann",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5405.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Dziugas",
-                "played": "19",
-                "pts": "34"
-            },
-            {
-                "pos": "2",
-                "team": "Kauno Zalgiris",
-                "played": "19",
-                "pts": "33"
-            },
-            {
-                "pos": "3",
-                "team": "Suduva",
-                "played": "19",
-                "pts": "32"
-            },
-            {
-                "pos": "4",
-                "team": "Transinvest",
-                "played": "18",
-                "pts": "31"
-            },
-            {
-                "pos": "5",
-                "team": "Banga",
-                "played": "19",
-                "pts": "30"
-            },
-            {
-                "pos": "6",
-                "team": "Zalgiris",
-                "played": "19",
-                "pts": "28"
-            },
-            {
-                "pos": "7",
-                "team": "Panevezys",
-                "played": "19",
-                "pts": "24"
-            },
-            {
-                "pos": "8",
-                "team": "Hegelmann",
-                "played": "18",
-                "pts": "19"
-            },
-            {
-                "pos": "9",
-                "team": "Siauliai",
-                "played": "19",
-                "pts": "17"
-            },
-            {
-                "pos": "10",
-                "team": "Riteriai",
-                "played": "17",
-                "pts": "3"
-            }
-        ],
-        "last_updated": "2026-06-22T14:46:48.159318"
-    },
-    "386633926": {
-        "matchup": "Maardu – Viimsi",
-        "event_url": "https://livetv.sx/enx/eventinfo/386633926__/",
-        "competition": "Estonia. Esiliiga",
-        "date_time": "22 June at 17:00",
-        "parsed_datetime": "2026-06-22T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Maardu",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4244.gif"
-            },
-            {
-                "team_name": "Viimsi",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4964.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:48.210776"
-    },
-    "386633925": {
-        "matchup": "Elva –  Flora U-21",
-        "event_url": "https://livetv.sx/enx/eventinfo/386633925__/",
-        "competition": "Estonia. Esiliiga",
-        "date_time": "22 June at 17:00",
-        "parsed_datetime": "2026-06-22T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Elva",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4630.gif"
-            },
-            {
-                "team_name": "Flora U-21",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30370.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:48.247901"
-    },
-    "386638511": {
-        "matchup": "Torpedo Kt – Spaeri",
-        "event_url": "https://livetv.sx/enx/eventinfo/386638511__/",
-        "competition": "Georgia. Erovnuli Liga",
-        "date_time": "22 June at 18:00",
-        "parsed_datetime": "2026-06-22T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Torpedo Kt",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5546.gif"
-            },
-            {
-                "team_name": "Spaeri",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/20984.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Rustavi",
-                "played": "18",
-                "pts": "32"
-            },
-            {
-                "pos": "2",
-                "team": "Iberia",
-                "played": "18",
-                "pts": "31"
-            },
-            {
-                "pos": "3",
-                "team": "Dinamo Tbilisi",
-                "played": "18",
-                "pts": "28"
-            },
-            {
-                "pos": "4",
-                "team": "Dinamo Batumi",
-                "played": "18",
-                "pts": "27"
-            },
-            {
-                "pos": "5",
-                "team": "Torpedo Kt",
-                "played": "18",
-                "pts": "26"
-            },
-            {
-                "pos": "6",
-                "team": "Samgurali",
-                "played": "18",
-                "pts": "24"
-            },
-            {
-                "pos": "7",
-                "team": "Dila",
-                "played": "18",
-                "pts": "23"
-            },
-            {
-                "pos": "8",
-                "team": "Spaeri",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "9",
-                "team": "Gagra",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "10",
-                "team": "Meshakhte",
-                "played": "18",
-                "pts": "11"
-            }
-        ],
-        "last_updated": "2026-06-22T14:46:48.301244"
-    },
-    "386626510": {
-        "matchup": "Dila – Rustavi",
-        "event_url": "https://livetv.sx/enx/eventinfo/386626510__/",
-        "competition": "Georgia. Erovnuli Liga",
-        "date_time": "22 June at 16:00",
-        "parsed_datetime": "2026-06-22T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Dila",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1245.gif"
-            },
-            {
-                "team_name": "Rustavi",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30375.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Georgian",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/24.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=boQ66LhJXog&lang=en&eid=386626510&lid=3029640&ci=641&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Rustavi",
-                "played": "18",
-                "pts": "32"
-            },
-            {
-                "pos": "2",
-                "team": "Iberia",
-                "played": "18",
-                "pts": "31"
-            },
-            {
-                "pos": "3",
-                "team": "Dinamo Tbilisi",
-                "played": "18",
-                "pts": "28"
-            },
-            {
-                "pos": "4",
-                "team": "Dinamo Batumi",
-                "played": "18",
-                "pts": "27"
-            },
-            {
-                "pos": "5",
-                "team": "Torpedo Kt",
-                "played": "18",
-                "pts": "26"
-            },
-            {
-                "pos": "6",
-                "team": "Samgurali",
-                "played": "18",
-                "pts": "24"
-            },
-            {
-                "pos": "7",
-                "team": "Dila",
-                "played": "18",
-                "pts": "23"
-            },
-            {
-                "pos": "8",
-                "team": "Spaeri",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "9",
-                "team": "Gagra",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "10",
-                "team": "Meshakhte",
-                "played": "18",
-                "pts": "11"
-            }
-        ],
-        "last_updated": "2026-06-22T14:46:48.334268"
-    },
-    "388029461": {
-        "matchup": "Astana (W) – Oqschetpes (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/388029461_astana_w_oqschetpes_w/",
-        "competition": "Kazakhstan. Women. Championship",
-        "date_time": "22 June at 15:00",
-        "parsed_datetime": "2026-06-22T15:00:00",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "Kazakh",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/37.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=eHSu4daLM9E&lang=en&eid=388029461&lid=3029673&ci=7848&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-22T14:46:48.370653"
+        "last_updated": "2026-06-22T18:50:54.203801"
     }
 }
