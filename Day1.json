@@ -1,85 +1,11 @@
 {
-    "388867972": {
-        "matchup": "Dynamo Kiev – Zilina",
-        "event_url": "https://livetv.sx/enx/eventinfo/388867972_dynamo_kiev_zilina/",
-        "competition": "Friendly Match",
-        "date_time": "24 June at 16:00",
-        "parsed_datetime": "2026-06-24T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Dynamo Kiev",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/32619.gif"
-            },
-            {
-                "team_name": "Zilina",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/49806.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Ukrainian",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/3.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=5mJgVDa1m7s&lang=en&eid=388867972&lid=3029817&ci=5&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Ukrainian",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/3.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=ioleR03Oh_A&lang=en&eid=388867972&lid=3029818&ci=5&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-24T16:25:28.984739"
-    },
-    "389094387": {
-        "matchup": "Simulcast",
-        "event_url": "https://livetv.sx/enx/eventinfo/389094387_simulcast/",
-        "competition": "World Cup",
-        "date_time": "24 June at 23:00",
-        "parsed_datetime": "2026-06-24T23:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-24T16:25:29.805454"
-    },
-    "389094386": {
-        "matchup": "Simulcast",
-        "event_url": "https://livetv.sx/enx/eventinfo/389094386_simulcast/",
-        "competition": "World Cup",
-        "date_time": "24 June at 20:00",
-        "parsed_datetime": "2026-06-24T20:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-24T16:25:29.841314"
-    },
     "386954613": {
         "matchup": "Gagra – Samgurali",
         "event_url": "https://livetv.sx/enx/eventinfo/386954613__/",
         "competition": "Georgia. Erovnuli Liga",
         "date_time": "24 June at 17:00",
         "parsed_datetime": "2026-06-24T17:00:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Gagra",
@@ -90,16 +16,7 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6009.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "Georgian",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/24.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=9YsHy6bmSDM&lang=en&eid=386954613&lid=3029643&ci=641&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -144,8 +61,8 @@
             {
                 "pos": "7",
                 "team": "Samgurali",
-                "played": "18",
-                "pts": "24"
+                "played": "19",
+                "pts": "25"
             },
             {
                 "pos": "8",
@@ -156,8 +73,8 @@
             {
                 "pos": "9",
                 "team": "Gagra",
-                "played": "18",
-                "pts": "21"
+                "played": "19",
+                "pts": "22"
             },
             {
                 "pos": "10",
@@ -166,7 +83,440 @@
                 "pts": "11"
             }
         ],
-        "last_updated": "2026-06-24T16:25:30.118496"
+        "last_updated": "2026-06-24T18:18:55.124945"
+    },
+    "389094387": {
+        "matchup": "Simulcast",
+        "event_url": "https://livetv.sx/enx/eventinfo/389094387_simulcast/",
+        "competition": "World Cup",
+        "date_time": "24 June at 23:00",
+        "parsed_datetime": "2026-06-24T23:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-24T18:18:55.241928"
+    },
+    "389094386": {
+        "matchup": "Simulcast",
+        "event_url": "https://livetv.sx/enx/eventinfo/389094386_simulcast/",
+        "competition": "World Cup",
+        "date_time": "24 June at 20:00",
+        "parsed_datetime": "2026-06-24T20:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261716&lang=en&eid=389094386&lid=3028550&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261905&lang=en&eid=389094386&lid=3028888&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3029730&lang=en&eid=389094386&lid=3029730&ci=2608&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-24T18:18:55.293938"
+    },
+    "386974316": {
+        "matchup": "Switzerland SUI – Canada CAN",
+        "event_url": "https://livetv.sx/enx/eventinfo/386974316__/",
+        "competition": "World Cup",
+        "date_time": "24 June at 20:00",
+        "parsed_datetime": "2026-06-24T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Switzerland SUI",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag35.gif"
+            },
+            {
+                "team_name": "Canada CAN",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag34.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261315&lang=en&eid=386974316&lid=3026103&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261974&lang=en&eid=386974316&lid=3028290&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261988&lang=en&eid=386974316&lid=3028224&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=261994&lang=en&eid=386974316&lid=3028291&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262005&lang=en&eid=386974316&lid=3029678&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262007&lang=en&eid=386974316&lid=3029683&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262010&lang=en&eid=386974316&lid=3028293&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262119&lang=en&eid=386974316&lid=3028910&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [
+                "01.",
+                "Gregor Kobel",
+                "(G)",
+                "10.",
+                "Granit Xhaka",
+                "15.",
+                "Djibril Sow",
+                "07.",
+                "Breel Embolo",
+                "09.",
+                "Johan Manzambi",
+                "25.",
+                "Luca Jaquez",
+                "17.",
+                "Ruben Vargas",
+                "13.",
+                "Ricardo Rodriguez",
+                "08.",
+                "Remo Freuler",
+                "04.",
+                "Nico Elvedi",
+                "05.",
+                "Manuel Akanji"
+            ],
+            "away_team": [
+                "16.",
+                "Maxime Crepeau",
+                "(G)",
+                "10.",
+                "Jonathan David",
+                "13.",
+                "Derek Cornelius",
+                "09.",
+                "Cyle Larin",
+                "02.",
+                "Alistair Johnston",
+                "04.",
+                "Luc De Fougerolles",
+                "17.",
+                "Tajon Buchanan",
+                "22.",
+                "Richie Laryea",
+                "25.",
+                "Nathan Saliba",
+                "06.",
+                "Mathieu Choiniere",
+                "20.",
+                "Ali Ahmed"
+            ]
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Canada CAN",
+                "played": "2",
+                "pts": "4"
+            },
+            {
+                "pos": "2",
+                "team": "Switzerland SUI",
+                "played": "2",
+                "pts": "4"
+            },
+            {
+                "pos": "3",
+                "team": "Bosnia and Herzegovina BIH",
+                "played": "2",
+                "pts": "1"
+            },
+            {
+                "pos": "4",
+                "team": "Qatar QAT",
+                "played": "2",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-06-24T18:18:55.788312"
+    },
+    "389122126": {
+        "matchup": "Bad Schallerbach – LASK",
+        "event_url": "https://livetv.sx/enx/eventinfo/389122126__/",
+        "competition": "Friendly Match",
+        "date_time": "24 June at 17:30",
+        "parsed_datetime": "2026-06-24T17:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Bad Schallerbach",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26710.gif"
+            },
+            {
+                "team_name": "LASK",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/31047.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=u1vAUbdFa1k&lang=en&eid=389122126&lid=3030494&ci=5&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-24T18:18:55.935995"
+    },
+    "386974318": {
+        "matchup": "Bosnia and Herzegovina BIH – Qatar QAT",
+        "event_url": "https://livetv.sx/enx/eventinfo/386974318__/",
+        "competition": "World Cup",
+        "date_time": "24 June at 20:00",
+        "parsed_datetime": "2026-06-24T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Bosnia and Herzegovina BIH",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag23.gif"
+            },
+            {
+                "team_name": "Qatar QAT",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag164.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262326&lang=en&eid=386974318&lid=3030571&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262327&lang=en&eid=386974318&lid=3030572&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262328&lang=en&eid=386974318&lid=3030573&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242257&lang=en&eid=386974318&lid=3030402&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=242328&lang=en&eid=386974318&lid=2968715&ci=2608&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3030611&lang=en&eid=386974318&lid=3030611&ci=2608&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3030612&lang=en&eid=386974318&lid=3030612&ci=2608&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3030606&lang=en&eid=386974318&lid=3030606&ci=2608&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3030486&lang=en&eid=386974318&lid=3030486&ci=2608&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3030490&lang=en&eid=386974318&lid=3030490&ci=2608&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [
+                "01.",
+                "Nikola Vasilj",
+                "(G)",
+                "21.",
+                "Stjepan Radeljic",
+                "10.",
+                "Ermedin Demirovic",
+                "11.",
+                "Edin Dzeko",
+                "24.",
+                "Arjan Malic",
+                "20.",
+                "Esmir Bajraktarevic",
+                "05.",
+                "Sead Kolasinac",
+                "18.",
+                "Nikola Katic",
+                "19.",
+                "Kerim Alajbegovic",
+                "14.",
+                "Ivan Sunjic",
+                "13.",
+                "Ivan Basic"
+            ],
+            "away_team": [
+                "01.",
+                "Mahmud Abunada",
+                "(G)",
+                "08.",
+                "Edmilson Junior",
+                "16.",
+                "Boualem Khoukhi",
+                "11.",
+                "Akram Afif",
+                "20.",
+                "Ahmed Fathi",
+                "10.",
+                "Hassan Al Haidos",
+                "04.",
+                "Issa Laye",
+                "18.",
+                "Sultan Al Brake",
+                "02.",
+                "Pedro Miguel",
+                "12.",
+                "Karim Boudiaf",
+                "05.",
+                "Jassem Gaber"
+            ]
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Canada CAN",
+                "played": "2",
+                "pts": "4"
+            },
+            {
+                "pos": "2",
+                "team": "Switzerland SUI",
+                "played": "2",
+                "pts": "4"
+            },
+            {
+                "pos": "3",
+                "team": "Bosnia and Herzegovina BIH",
+                "played": "2",
+                "pts": "1"
+            },
+            {
+                "pos": "4",
+                "team": "Qatar QAT",
+                "played": "2",
+                "pts": "1"
+            }
+        ],
+        "last_updated": "2026-06-24T18:18:56.106874"
     },
     "386990231": {
         "matchup": "La Serena – Cobresal",
@@ -191,225 +541,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-24T16:25:30.160640"
-    },
-    "386990173": {
-        "matchup": "Scotland SCO – Brazil BRA",
-        "event_url": "https://livetv.sx/enx/eventinfo/386990173__/",
-        "competition": "World Cup",
-        "date_time": "24 June at 23:00",
-        "parsed_datetime": "2026-06-24T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Scotland SCO",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag1003.gif"
-            },
-            {
-                "team_name": "Brazil BRA",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag28.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Brazil BRA",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "2",
-                "team": "Morocco MAR",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "3",
-                "team": "Scotland SCO",
-                "played": "2",
-                "pts": "3"
-            },
-            {
-                "pos": "4",
-                "team": "Haiti HTI",
-                "played": "2",
-                "pts": "0"
-            }
-        ],
-        "last_updated": "2026-06-24T16:25:30.315205"
-    },
-    "389122123": {
-        "matchup": "Grazer AK – Slovan Bratislava",
-        "event_url": "https://livetv.sx/enx/eventinfo/389122123__/",
-        "competition": "Friendly Match",
-        "date_time": "24 June at 16:00",
-        "parsed_datetime": "2026-06-24T16:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Grazer AK",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4546.gif"
-            },
-            {
-                "team_name": "Slovan Bratislava",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/628.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Slovak",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/27.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=FppazfIpHqA&lang=en&eid=389122123&lid=3030493&ci=5&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-24T16:25:30.378644"
-    },
-    "386974318": {
-        "matchup": "Bosnia and Herzegovina BIH – Qatar QAT",
-        "event_url": "https://livetv.sx/enx/eventinfo/386974318__/",
-        "competition": "World Cup",
-        "date_time": "24 June at 20:00",
-        "parsed_datetime": "2026-06-24T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bosnia and Herzegovina BIH",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag23.gif"
-            },
-            {
-                "team_name": "Qatar QAT",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag164.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Canada CAN",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "2",
-                "team": "Switzerland SUI",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "3",
-                "team": "Bosnia and Herzegovina BIH",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "4",
-                "team": "Qatar QAT",
-                "played": "2",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-06-24T16:25:30.445325"
-    },
-    "386974316": {
-        "matchup": "Switzerland SUI – Canada CAN",
-        "event_url": "https://livetv.sx/enx/eventinfo/386974316__/",
-        "competition": "World Cup",
-        "date_time": "24 June at 20:00",
-        "parsed_datetime": "2026-06-24T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Switzerland SUI",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag35.gif"
-            },
-            {
-                "team_name": "Canada CAN",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag34.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Canada CAN",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "2",
-                "team": "Switzerland SUI",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "3",
-                "team": "Bosnia and Herzegovina BIH",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "4",
-                "team": "Qatar QAT",
-                "played": "2",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-06-24T16:25:30.459527"
-    },
-    "389122126": {
-        "matchup": "Bad Schallerbach – LASK",
-        "event_url": "https://livetv.sx/enx/eventinfo/389122126__/",
-        "competition": "Friendly Match",
-        "date_time": "24 June at 17:30",
-        "parsed_datetime": "2026-06-24T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bad Schallerbach",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26710.gif"
-            },
-            {
-                "team_name": "LASK",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/31047.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=u1vAUbdFa1k&lang=en&eid=389122126&lid=3030494&ci=5&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-24T16:25:30.521218"
+        "last_updated": "2026-06-24T18:18:56.183208"
     },
     "386990171": {
         "matchup": "Morocco MAR – Haiti HTI",
@@ -459,6 +591,56 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-06-24T16:25:30.929606"
+        "last_updated": "2026-06-24T18:18:56.235783"
+    },
+    "386990173": {
+        "matchup": "Scotland SCO – Brazil BRA",
+        "event_url": "https://livetv.sx/enx/eventinfo/386990173__/",
+        "competition": "World Cup",
+        "date_time": "24 June at 23:00",
+        "parsed_datetime": "2026-06-24T23:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Scotland SCO",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag1003.gif"
+            },
+            {
+                "team_name": "Brazil BRA",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag28.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Brazil BRA",
+                "played": "2",
+                "pts": "4"
+            },
+            {
+                "pos": "2",
+                "team": "Morocco MAR",
+                "played": "2",
+                "pts": "4"
+            },
+            {
+                "pos": "3",
+                "team": "Scotland SCO",
+                "played": "2",
+                "pts": "3"
+            },
+            {
+                "pos": "4",
+                "team": "Haiti HTI",
+                "played": "2",
+                "pts": "0"
+            }
+        ],
+        "last_updated": "2026-06-24T18:18:56.893986"
     }
 }
