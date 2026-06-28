@@ -1,11 +1,36 @@
 {
+    "388867971": {
+        "matchup": "Finland U17 – Estonia U17",
+        "event_url": "https://livetv.sx/enx/eventinfo/388867971_finland_u17_estonia_u17/",
+        "competition": "Friendly Match. National Teams",
+        "date_time": "28 June at 11:00",
+        "parsed_datetime": "2026-06-28T11:00:00",
+        "is_live": true,
+        "team_logos": [],
+        "streams": [
+            {
+                "language": "Finnish",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/21.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=UJoCWGTMP4c&lang=en&eid=388867971&lid=3029816&ci=5679&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:44.437523"
+    },
     "387587328": {
         "matchup": "Qingdao West Coast – Zhejiang Greentown",
         "event_url": "https://livetv.sx/enx/eventinfo/387587328__/",
         "competition": "China. Super League",
         "date_time": "28 June at 11:00",
         "parsed_datetime": "2026-06-28T11:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Qingdao West Coast",
@@ -16,10 +41,67 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6197.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Chinese",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/6.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=RF9jt2vNH7o&lang=en&eid=387587328&lid=3029831&ci=69&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "16.",
+                "Hao Li",
+                "(G)",
+                "22.",
+                "Gengrui Wang",
+                "11.",
+                "Davidson",
+                "28.",
+                "Chengdong Zhang",
+                "19.",
+                "Yu Dong",
+                "08.",
+                "Xiuwei Zhang",
+                "25.",
+                "Xinli Peng",
+                "05.",
+                "Samir Memisevic",
+                "23.",
+                "Rezende",
+                "10.",
+                "Nelson Da Luz",
+                "09.",
+                "Abdul-Aziz Yakubu"
+            ],
+            "away_team": [
+                "33.",
+                "Bo Zhao",
+                "(G)",
+                "11.",
+                "Yudong Wang",
+                "26.",
+                "Guowen Sun",
+                "28.",
+                "Alexandru Mitrita",
+                "22.",
+                "Jin Cheng",
+                "25.",
+                "Junchi Xu",
+                "14.",
+                "Wei Wu",
+                "23.",
+                "Saul Guarirapa",
+                "10.",
+                "Marko Tolic",
+                "36.",
+                "Lucas Possignolo",
+                "38.",
+                "Aihui Zhang"
+            ]
         },
         "league_table": [
             {
@@ -119,323 +201,31 @@
                 "pts": "5"
             }
         ],
-        "last_updated": "2026-06-28T08:32:25.957813"
+        "last_updated": "2026-06-28T11:11:44.562634"
     },
-    "387651140": {
-        "matchup": "Athletic MG – Avai",
-        "event_url": "https://livetv.sx/enx/eventinfo/387651140__/",
-        "competition": "Brazil. Serie B",
-        "date_time": "28 June at 20:00",
-        "parsed_datetime": "2026-06-28T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Athletic MG",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12995.gif"
-            },
-            {
-                "team_name": "Avai",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3871.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Vila Nova",
-                "played": "15",
-                "pts": "28"
-            },
-            {
-                "pos": "2",
-                "team": "Novorizontino",
-                "played": "15",
-                "pts": "27"
-            },
-            {
-                "pos": "3",
-                "team": "Criciuma",
-                "played": "15",
-                "pts": "27"
-            },
-            {
-                "pos": "4",
-                "team": "Sao Bernardo",
-                "played": "15",
-                "pts": "25"
-            },
-            {
-                "pos": "5",
-                "team": "Operario FEC",
-                "played": "15",
-                "pts": "25"
-            },
-            {
-                "pos": "6",
-                "team": "Sport Recife",
-                "played": "14",
-                "pts": "25"
-            },
-            {
-                "pos": "7",
-                "team": "Juventude",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "8",
-                "team": "Fortaleza",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "9",
-                "team": "Nautico",
-                "played": "14",
-                "pts": "20"
-            },
-            {
-                "pos": "10",
-                "team": "Cuiaba",
-                "played": "15",
-                "pts": "20"
-            },
-            {
-                "pos": "11",
-                "team": "Athletic MG",
-                "played": "14",
-                "pts": "19"
-            },
-            {
-                "pos": "12",
-                "team": "Goias",
-                "played": "14",
-                "pts": "18"
-            },
-            {
-                "pos": "13",
-                "team": "Atletico-GO",
-                "played": "14",
-                "pts": "18"
-            },
-            {
-                "pos": "14",
-                "team": "Ceara",
-                "played": "14",
-                "pts": "17"
-            },
-            {
-                "pos": "15",
-                "team": "Botafogo-SP",
-                "played": "14",
-                "pts": "16"
-            },
-            {
-                "pos": "16",
-                "team": "CRB",
-                "played": "14",
-                "pts": "16"
-            },
-            {
-                "pos": "17",
-                "team": "Londrina",
-                "played": "15",
-                "pts": "15"
-            },
-            {
-                "pos": "18",
-                "team": "Avai",
-                "played": "14",
-                "pts": "13"
-            },
-            {
-                "pos": "19",
-                "team": "Ponte Preta",
-                "played": "14",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "America Mineiro",
-                "played": "15",
-                "pts": "6"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:26.238251"
-    },
-    "387651138": {
-        "matchup": "Atletico-GO – Ponte Preta",
-        "event_url": "https://livetv.sx/enx/eventinfo/387651138__/",
-        "competition": "Brazil. Serie B",
-        "date_time": "28 June at 20:00",
-        "parsed_datetime": "2026-06-28T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Atletico-GO",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12825.gif"
-            },
-            {
-                "team_name": "Ponte Preta",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6256.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Vila Nova",
-                "played": "15",
-                "pts": "28"
-            },
-            {
-                "pos": "2",
-                "team": "Novorizontino",
-                "played": "15",
-                "pts": "27"
-            },
-            {
-                "pos": "3",
-                "team": "Criciuma",
-                "played": "15",
-                "pts": "27"
-            },
-            {
-                "pos": "4",
-                "team": "Sao Bernardo",
-                "played": "15",
-                "pts": "25"
-            },
-            {
-                "pos": "5",
-                "team": "Operario FEC",
-                "played": "15",
-                "pts": "25"
-            },
-            {
-                "pos": "6",
-                "team": "Sport Recife",
-                "played": "14",
-                "pts": "25"
-            },
-            {
-                "pos": "7",
-                "team": "Juventude",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "8",
-                "team": "Fortaleza",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "9",
-                "team": "Nautico",
-                "played": "14",
-                "pts": "20"
-            },
-            {
-                "pos": "10",
-                "team": "Cuiaba",
-                "played": "15",
-                "pts": "20"
-            },
-            {
-                "pos": "11",
-                "team": "Athletic MG",
-                "played": "14",
-                "pts": "19"
-            },
-            {
-                "pos": "12",
-                "team": "Goias",
-                "played": "14",
-                "pts": "18"
-            },
-            {
-                "pos": "13",
-                "team": "Atletico-GO",
-                "played": "14",
-                "pts": "18"
-            },
-            {
-                "pos": "14",
-                "team": "Ceara",
-                "played": "14",
-                "pts": "17"
-            },
-            {
-                "pos": "15",
-                "team": "Botafogo-SP",
-                "played": "14",
-                "pts": "16"
-            },
-            {
-                "pos": "16",
-                "team": "CRB",
-                "played": "14",
-                "pts": "16"
-            },
-            {
-                "pos": "17",
-                "team": "Londrina",
-                "played": "15",
-                "pts": "15"
-            },
-            {
-                "pos": "18",
-                "team": "Avai",
-                "played": "14",
-                "pts": "13"
-            },
-            {
-                "pos": "19",
-                "team": "Ponte Preta",
-                "played": "14",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "America Mineiro",
-                "played": "15",
-                "pts": "6"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:26.375046"
-    },
-    "387565918": {
-        "matchup": "Lions – WDSC Wolves",
-        "event_url": "https://livetv.sx/enx/eventinfo/387565918__/",
-        "competition": "Australia. NPL Queensland",
-        "date_time": "28 June at 8:00",
-        "parsed_datetime": "2026-06-28T08:00:00",
+    "387550349": {
+        "matchup": "Busan TC – Daejeon Korail",
+        "event_url": "https://livetv.sx/enx/eventinfo/387550349__/",
+        "competition": "South Korea. K-League 3",
+        "date_time": "28 June at 11:00",
+        "parsed_datetime": "2026-06-28T11:00:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Lions",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12990.gif"
+                "team_name": "Busan TC",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4129.gif"
             },
             {
-                "team_name": "WDSC Wolves",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6358.gif"
+                "team_name": "Daejeon Korail",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4134.gif"
             }
         ],
         "streams": [
             {
-                "language": "English",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
+                "language": "Korean",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/31.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=RhmPWzTpuW0&lang=en&eid=387565918&lid=3030883&ci=2527&si=1",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=h2oYMeFxJ6o&lang=en&eid=387550349&lid=3029820&ci=2595&si=1",
                 "stream_title": "",
                 "stream_type": ""
             }
@@ -445,32 +235,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:26.475134"
-    },
-    "387611839": {
-        "matchup": "Figueirense – Guarani",
-        "event_url": "https://livetv.sx/enx/eventinfo/387611839__/",
-        "competition": "Brazil. Serie C",
-        "date_time": "28 June at 15:00",
-        "parsed_datetime": "2026-06-28T15:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Figueirense",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5872.gif"
-            },
-            {
-                "team_name": "Guarani",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6263.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:26.505389"
+        "last_updated": "2026-06-28T11:11:44.685960"
     },
     "387678419": {
         "matchup": "Fortaleza – Sport Recife",
@@ -616,23 +381,23 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-06-28T08:32:26.592421"
+        "last_updated": "2026-06-28T11:11:44.882254"
     },
-    "389200012": {
-        "matchup": "South Africa ZAF – Canada CAN",
-        "event_url": "https://livetv.sx/enx/eventinfo/389200012__/",
-        "competition": "World Cup",
-        "date_time": "28 June at 20:00",
-        "parsed_datetime": "2026-06-28T20:00:00",
+    "387611839": {
+        "matchup": "Figueirense – Guarani",
+        "event_url": "https://livetv.sx/enx/eventinfo/387611839__/",
+        "competition": "Brazil. Serie C",
+        "date_time": "28 June at 15:00",
+        "parsed_datetime": "2026-06-28T15:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "South Africa ZAF",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag216.gif"
+                "team_name": "Figueirense",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5872.gif"
             },
             {
-                "team_name": "Canada CAN",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag34.gif"
+                "team_name": "Guarani",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6263.gif"
             }
         ],
         "streams": [],
@@ -640,33 +405,8 @@
             "home_team": [],
             "away_team": []
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Mexico MEX",
-                "played": "3",
-                "pts": "9"
-            },
-            {
-                "pos": "2",
-                "team": "South Africa ZAF",
-                "played": "3",
-                "pts": "4"
-            },
-            {
-                "pos": "3",
-                "team": "South Korea KOR",
-                "played": "3",
-                "pts": "3"
-            },
-            {
-                "pos": "4",
-                "team": "Czech Republic CZE",
-                "played": "3",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:26.659064"
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:44.895101"
     },
     "387678416": {
         "matchup": "Nautico – Goias",
@@ -812,23 +552,23 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-06-28T08:32:26.668553"
+        "last_updated": "2026-06-28T11:11:45.057667"
     },
-    "387561980": {
-        "matchup": "Darwin Olympic – Darwin Hearts",
-        "event_url": "https://livetv.sx/enx/eventinfo/387561980__/",
-        "competition": "Australia. NTPL",
-        "date_time": "28 June at 7:30",
-        "parsed_datetime": "2026-06-28T07:30:00",
+    "387651140": {
+        "matchup": "Athletic MG – Avai",
+        "event_url": "https://livetv.sx/enx/eventinfo/387651140__/",
+        "competition": "Brazil. Serie B",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Darwin Olympic",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6817.gif"
+                "team_name": "Athletic MG",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12995.gif"
             },
             {
-                "team_name": "Darwin Hearts",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14168.gif"
+                "team_name": "Avai",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3871.gif"
             }
         ],
         "streams": [],
@@ -836,8 +576,129 @@
             "home_team": [],
             "away_team": []
         },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:26.896812"
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Vila Nova",
+                "played": "15",
+                "pts": "28"
+            },
+            {
+                "pos": "2",
+                "team": "Novorizontino",
+                "played": "15",
+                "pts": "27"
+            },
+            {
+                "pos": "3",
+                "team": "Criciuma",
+                "played": "15",
+                "pts": "27"
+            },
+            {
+                "pos": "4",
+                "team": "Sao Bernardo",
+                "played": "15",
+                "pts": "25"
+            },
+            {
+                "pos": "5",
+                "team": "Operario FEC",
+                "played": "15",
+                "pts": "25"
+            },
+            {
+                "pos": "6",
+                "team": "Sport Recife",
+                "played": "14",
+                "pts": "25"
+            },
+            {
+                "pos": "7",
+                "team": "Juventude",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "8",
+                "team": "Fortaleza",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "9",
+                "team": "Nautico",
+                "played": "14",
+                "pts": "20"
+            },
+            {
+                "pos": "10",
+                "team": "Cuiaba",
+                "played": "15",
+                "pts": "20"
+            },
+            {
+                "pos": "11",
+                "team": "Athletic MG",
+                "played": "14",
+                "pts": "19"
+            },
+            {
+                "pos": "12",
+                "team": "Goias",
+                "played": "14",
+                "pts": "18"
+            },
+            {
+                "pos": "13",
+                "team": "Atletico-GO",
+                "played": "14",
+                "pts": "18"
+            },
+            {
+                "pos": "14",
+                "team": "Ceara",
+                "played": "14",
+                "pts": "17"
+            },
+            {
+                "pos": "15",
+                "team": "Botafogo-SP",
+                "played": "14",
+                "pts": "16"
+            },
+            {
+                "pos": "16",
+                "team": "CRB",
+                "played": "14",
+                "pts": "16"
+            },
+            {
+                "pos": "17",
+                "team": "Londrina",
+                "played": "15",
+                "pts": "15"
+            },
+            {
+                "pos": "18",
+                "team": "Avai",
+                "played": "14",
+                "pts": "13"
+            },
+            {
+                "pos": "19",
+                "team": "Ponte Preta",
+                "played": "14",
+                "pts": "8"
+            },
+            {
+                "pos": "20",
+                "team": "America Mineiro",
+                "played": "15",
+                "pts": "6"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:45.057680"
     },
     "387611816": {
         "matchup": "Juventude – Ceara",
@@ -983,191 +844,23 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-06-28T08:32:27.142524"
+        "last_updated": "2026-06-28T11:11:45.120014"
     },
-    "388867971": {
-        "matchup": "Finland U17 – Estonia U17",
-        "event_url": "https://livetv.sx/enx/eventinfo/388867971_finland_u17_estonia_u17/",
-        "competition": "Friendly Match. National Teams",
-        "date_time": "28 June at 11:00",
-        "parsed_datetime": "2026-06-28T11:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.293357"
-    },
-    "389094725": {
-        "matchup": "Darwin Olympic – Litchfield (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389094725_darwin_olympic_litchfield_w/",
-        "competition": "Australia. Women. NTPL",
-        "date_time": "28 June at 10:00",
-        "parsed_datetime": "2026-06-28T10:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=B7K1Ym0NV0w&lang=en&eid=389094725&lid=3030410&ci=3717&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.381973"
-    },
-    "389644259": {
-        "matchup": "Sydney Uni (W) –  Western City Rangers (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389644259__/",
-        "competition": "Australia. Women. NPL NSW",
-        "date_time": "28 June at 8:00",
-        "parsed_datetime": "2026-06-28T08:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Sydney Uni (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26515.gif"
-            },
-            {
-                "team_name": "Western City Rangers (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/0.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=ey1mmCrK-3I&lang=en&eid=389644259&lid=3031928&ci=2765&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.388752"
-    },
-    "389538555": {
-        "matchup": "Sydney Uni (W) –  Mt Druitt Rangers (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389538555__/",
-        "competition": "Australia. Women. NPL NSW",
-        "date_time": "28 June at 8:00",
-        "parsed_datetime": "2026-06-28T08:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Sydney Uni (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26515.gif"
-            },
-            {
-                "team_name": "Mt Druitt Rangers (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/32810.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.435096"
-    },
-    "387574755": {
-        "matchup": "Dangjin Citizen – Gangneung Citizen",
-        "event_url": "https://livetv.sx/enx/eventinfo/387574755__/",
-        "competition": "South Korea. K-League 3",
-        "date_time": "28 June at 9:00",
-        "parsed_datetime": "2026-06-28T09:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Dangjin Citizen",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/17628.gif"
-            },
-            {
-                "team_name": "Gangneung Citizen",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/34630.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Korean",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/31.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JXa2xAhGNBI&lang=en&eid=387574755&lid=3029819&ci=2595&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.485974"
-    },
-    "389556144": {
-        "matchup": "Manly United (W) –  APIA Leichhardt (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389556144__/",
-        "competition": "Australia. Women. NPL NSW",
-        "date_time": "28 June at 8:00",
-        "parsed_datetime": "2026-06-28T08:00:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Manly United (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/21659.gif"
-            },
-            {
-                "team_name": "APIA Leichhardt (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/22365.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=3yosot82TbI&lang=en&eid=389556144&lid=3031929&ci=2765&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.682381"
-    },
-    "387550349": {
-        "matchup": "Busan TC – Daejeon Korail",
-        "event_url": "https://livetv.sx/enx/eventinfo/387550349__/",
-        "competition": "South Korea. K-League 3",
-        "date_time": "28 June at 11:00",
-        "parsed_datetime": "2026-06-28T11:00:00",
+    "389200012": {
+        "matchup": "South Africa ZAF – Canada CAN",
+        "event_url": "https://livetv.sx/enx/eventinfo/389200012__/",
+        "competition": "World Cup",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Busan TC",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4129.gif"
+                "team_name": "South Africa ZAF",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag216.gif"
             },
             {
-                "team_name": "Daejeon Korail",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4134.gif"
+                "team_name": "Canada CAN",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag34.gif"
             }
         ],
         "streams": [],
@@ -1175,92 +868,33 @@
             "home_team": [],
             "away_team": []
         },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.894643"
-    },
-    "389664996": {
-        "matchup": "Ulaangom City – Khovd",
-        "event_url": "https://livetv.sx/enx/eventinfo/389664996__/",
-        "competition": "Mongolia. Premier League",
-        "date_time": "28 June at 9:00",
-        "parsed_datetime": "2026-06-28T09:00:00",
-        "is_live": true,
-        "team_logos": [
+        "league_table": [
             {
-                "team_name": "Ulaangom City",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/0.gif"
+                "pos": "1",
+                "team": "Mexico MEX",
+                "played": "3",
+                "pts": "9"
             },
             {
-                "team_name": "Khovd",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/17337.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:27.940453"
-    },
-    "389560713": {
-        "matchup": "Hills United (W) –  Sydney Olympic (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389560713__/",
-        "competition": "Australia. Women. NPL NSW",
-        "date_time": "28 June at 8:30",
-        "parsed_datetime": "2026-06-28T08:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Hills United (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37401.gif"
+                "pos": "2",
+                "team": "South Africa ZAF",
+                "played": "3",
+                "pts": "4"
             },
             {
-                "team_name": "Sydney Olympic (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/21658.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=U43VpJ-suu4&lang=en&eid=389560713&lid=3031930&ci=2765&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:28.013104"
-    },
-    "387593612": {
-        "matchup": "Suzhou Dongwu – Ningbo Professional",
-        "event_url": "https://livetv.sx/enx/eventinfo/387593612__/",
-        "competition": "China. League One",
-        "date_time": "28 June at 12:00",
-        "parsed_datetime": "2026-06-28T12:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Suzhou Dongwu",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6206.gif"
+                "pos": "3",
+                "team": "South Korea KOR",
+                "played": "3",
+                "pts": "3"
             },
             {
-                "team_name": "Ningbo Professional",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37380.gif"
+                "pos": "4",
+                "team": "Czech Republic CZE",
+                "played": "3",
+                "pts": "1"
             }
         ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:28.091783"
+        "last_updated": "2026-06-28T11:11:45.191508"
     },
     "389659498": {
         "matchup": "Orsha – Minsk Res",
@@ -1268,7 +902,7 @@
         "competition": "Belarus. First League",
         "date_time": "28 June at 12:00",
         "parsed_datetime": "2026-06-28T12:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Orsha",
@@ -1279,29 +913,38 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3572.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=A1wD7TL3yPU&lang=en&eid=389659498&lid=3032011&ci=1280&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:28.179884"
+        "last_updated": "2026-06-28T11:11:45.315483"
     },
-    "387600318": {
-        "matchup": "Dingnan United – Wuxi Wugou",
-        "event_url": "https://livetv.sx/enx/eventinfo/387600318__/",
-        "competition": "China. League One",
-        "date_time": "28 June at 13:00",
-        "parsed_datetime": "2026-06-28T13:00:00",
+    "387651138": {
+        "matchup": "Atletico-GO – Ponte Preta",
+        "event_url": "https://livetv.sx/enx/eventinfo/387651138__/",
+        "competition": "Brazil. Serie B",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Dingnan United",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33323.gif"
+                "team_name": "Atletico-GO",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12825.gif"
             },
             {
-                "team_name": "Wuxi Wugou",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/19003.gif"
+                "team_name": "Ponte Preta",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6256.gif"
             }
         ],
         "streams": [],
@@ -1309,8 +952,129 @@
             "home_team": [],
             "away_team": []
         },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:28.266469"
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Vila Nova",
+                "played": "15",
+                "pts": "28"
+            },
+            {
+                "pos": "2",
+                "team": "Novorizontino",
+                "played": "15",
+                "pts": "27"
+            },
+            {
+                "pos": "3",
+                "team": "Criciuma",
+                "played": "15",
+                "pts": "27"
+            },
+            {
+                "pos": "4",
+                "team": "Sao Bernardo",
+                "played": "15",
+                "pts": "25"
+            },
+            {
+                "pos": "5",
+                "team": "Operario FEC",
+                "played": "15",
+                "pts": "25"
+            },
+            {
+                "pos": "6",
+                "team": "Sport Recife",
+                "played": "14",
+                "pts": "25"
+            },
+            {
+                "pos": "7",
+                "team": "Juventude",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "8",
+                "team": "Fortaleza",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "9",
+                "team": "Nautico",
+                "played": "14",
+                "pts": "20"
+            },
+            {
+                "pos": "10",
+                "team": "Cuiaba",
+                "played": "15",
+                "pts": "20"
+            },
+            {
+                "pos": "11",
+                "team": "Athletic MG",
+                "played": "14",
+                "pts": "19"
+            },
+            {
+                "pos": "12",
+                "team": "Goias",
+                "played": "14",
+                "pts": "18"
+            },
+            {
+                "pos": "13",
+                "team": "Atletico-GO",
+                "played": "14",
+                "pts": "18"
+            },
+            {
+                "pos": "14",
+                "team": "Ceara",
+                "played": "14",
+                "pts": "17"
+            },
+            {
+                "pos": "15",
+                "team": "Botafogo-SP",
+                "played": "14",
+                "pts": "16"
+            },
+            {
+                "pos": "16",
+                "team": "CRB",
+                "played": "14",
+                "pts": "16"
+            },
+            {
+                "pos": "17",
+                "team": "Londrina",
+                "played": "15",
+                "pts": "15"
+            },
+            {
+                "pos": "18",
+                "team": "Avai",
+                "played": "14",
+                "pts": "13"
+            },
+            {
+                "pos": "19",
+                "team": "Ponte Preta",
+                "played": "14",
+                "pts": "8"
+            },
+            {
+                "pos": "20",
+                "team": "America Mineiro",
+                "played": "15",
+                "pts": "6"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:45.323667"
     },
     "387593650": {
         "matchup": "Dalian Yingbo – Shanghai Shenhua",
@@ -1318,7 +1082,7 @@
         "competition": "China. Super League",
         "date_time": "28 June at 12:00",
         "parsed_datetime": "2026-06-28T12:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Dalian Yingbo",
@@ -1331,8 +1095,56 @@
         ],
         "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "20.",
+                "Weiguo Liu",
+                "(G)",
+                "40.",
+                "Jintao Liao",
+                "07.",
+                "Jing Luo",
+                "04.",
+                "Isnik Alimi",
+                "30.",
+                "Frank Acheampong",
+                "02.",
+                "Mamadou Traore",
+                "10.",
+                "Nicolae Stanciu",
+                "38.",
+                "Zhuoyi Lyu",
+                "06.",
+                "Yue Song",
+                "22.",
+                "Weijie Mao",
+                "11.",
+                "Cephas Malele"
+            ],
+            "away_team": [
+                "01.",
+                "Qinghao Xue",
+                "(G)",
+                "19.",
+                "Luis Asue",
+                "21.",
+                "Haoyang Xu",
+                "09.",
+                "Rafael Ratao",
+                "15.",
+                "Xi Wu",
+                "13.",
+                "Wilson Manafa",
+                "17.",
+                "Tianyi Gao",
+                "03.",
+                "Shunkai Jin",
+                "27.",
+                "Shinichi Chan",
+                "33.",
+                "Haijian Wang",
+                "05.",
+                "Chenjie Zhu"
+            ]
         },
         "league_table": [
             {
@@ -1432,7 +1244,41 @@
                 "pts": "5"
             }
         ],
-        "last_updated": "2026-06-28T08:32:28.372280"
+        "last_updated": "2026-06-28T11:11:45.472664"
+    },
+    "387593612": {
+        "matchup": "Suzhou Dongwu – Ningbo Professional",
+        "event_url": "https://livetv.sx/enx/eventinfo/387593612__/",
+        "competition": "China. League One",
+        "date_time": "28 June at 12:00",
+        "parsed_datetime": "2026-06-28T12:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Suzhou Dongwu",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6206.gif"
+            },
+            {
+                "team_name": "Ningbo Professional",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37380.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=1eiOF8c7DVw&lang=en&eid=387593612&lid=3029827&ci=1826&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:45.535295"
     },
     "389017355": {
         "matchup": "Switzerland (W) U-19 –   Spain (W) U-19",
@@ -1451,257 +1297,56 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag60.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=acestream&c=5e94200ae8b1d95cb559fb150e5993d92e15d4e7&lang=en&eid=389017355&lid=3031374&ci=942&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:28.460310"
+        "last_updated": "2026-06-28T11:11:45.638866"
     },
-    "387587268": {
-        "matchup": "Irtysh – Kaisar",
-        "event_url": "https://livetv.sx/enx/eventinfo/387587268__/",
-        "competition": "Kazakhstan. Premier League",
+    "387600318": {
+        "matchup": "Dingnan United – Wuxi Wugou",
+        "event_url": "https://livetv.sx/enx/eventinfo/387600318__/",
+        "competition": "China. League One",
         "date_time": "28 June at 13:00",
         "parsed_datetime": "2026-06-28T13:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Irtysh",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37836.gif"
+                "team_name": "Dingnan United",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33323.gif"
             },
             {
-                "team_name": "Kaisar",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/799.gif"
+                "team_name": "Wuxi Wugou",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/19003.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=r4Dmbr2ozU8&lang=en&eid=387600318&lid=3029826&ci=1826&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Kairat",
-                "played": "17",
-                "pts": "36"
-            },
-            {
-                "pos": "2",
-                "team": "Ordabasy",
-                "played": "14",
-                "pts": "34"
-            },
-            {
-                "pos": "3",
-                "team": "Okzhetpes",
-                "played": "15",
-                "pts": "27"
-            },
-            {
-                "pos": "4",
-                "team": "Elimai",
-                "played": "15",
-                "pts": "23"
-            },
-            {
-                "pos": "5",
-                "team": "Ulytau",
-                "played": "14",
-                "pts": "23"
-            },
-            {
-                "pos": "6",
-                "team": "Astana",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "7",
-                "team": "Aktobe",
-                "played": "15",
-                "pts": "22"
-            },
-            {
-                "pos": "8",
-                "team": "Atyrau",
-                "played": "15",
-                "pts": "18"
-            },
-            {
-                "pos": "9",
-                "team": "Zhetysu",
-                "played": "15",
-                "pts": "18"
-            },
-            {
-                "pos": "10",
-                "team": "Zhenys",
-                "played": "14",
-                "pts": "17"
-            },
-            {
-                "pos": "11",
-                "team": "Kyzylzhar",
-                "played": "16",
-                "pts": "15"
-            },
-            {
-                "pos": "12",
-                "team": "Kaisar",
-                "played": "15",
-                "pts": "14"
-            },
-            {
-                "pos": "13",
-                "team": "Tobol",
-                "played": "14",
-                "pts": "12"
-            },
-            {
-                "pos": "14",
-                "team": "Caspiy",
-                "played": "15",
-                "pts": "11"
-            },
-            {
-                "pos": "15",
-                "team": "Irtysh",
-                "played": "14",
-                "pts": "10"
-            },
-            {
-                "pos": "16",
-                "team": "Altay",
-                "played": "14",
-                "pts": "10"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:28.516958"
-    },
-    "387608579": {
-        "matchup": "Norrkoeping – Norrby",
-        "event_url": "https://livetv.sx/enx/eventinfo/387608579__/",
-        "competition": "Sweden. Superettan",
-        "date_time": "28 June at 14:00",
-        "parsed_datetime": "2026-06-28T14:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Norrkoeping",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1052.gif"
-            },
-            {
-                "team_name": "Norrby",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4868.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Falkenberg",
-                "played": "14",
-                "pts": "28"
-            },
-            {
-                "pos": "2",
-                "team": "Varberg",
-                "played": "14",
-                "pts": "27"
-            },
-            {
-                "pos": "3",
-                "team": "Norrkoeping",
-                "played": "13",
-                "pts": "26"
-            },
-            {
-                "pos": "4",
-                "team": "Landskrona",
-                "played": "13",
-                "pts": "22"
-            },
-            {
-                "pos": "5",
-                "team": "Oestersund",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "6",
-                "team": "United IK",
-                "played": "14",
-                "pts": "22"
-            },
-            {
-                "pos": "7",
-                "team": "Oddevold",
-                "played": "14",
-                "pts": "20"
-            },
-            {
-                "pos": "8",
-                "team": "Helsingborg",
-                "played": "13",
-                "pts": "20"
-            },
-            {
-                "pos": "9",
-                "team": "Oester",
-                "played": "14",
-                "pts": "20"
-            },
-            {
-                "pos": "10",
-                "team": "Sandviken",
-                "played": "13",
-                "pts": "16"
-            },
-            {
-                "pos": "11",
-                "team": "Brage",
-                "played": "14",
-                "pts": "16"
-            },
-            {
-                "pos": "12",
-                "team": "Ljungskile",
-                "played": "14",
-                "pts": "16"
-            },
-            {
-                "pos": "13",
-                "team": "Oerebro",
-                "played": "14",
-                "pts": "14"
-            },
-            {
-                "pos": "14",
-                "team": "Norrby",
-                "played": "13",
-                "pts": "11"
-            },
-            {
-                "pos": "15",
-                "team": "Vaernamo",
-                "played": "13",
-                "pts": "10"
-            },
-            {
-                "pos": "16",
-                "team": "Sundsvall",
-                "played": "14",
-                "pts": "9"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:28.884265"
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:45.693756"
     },
     "387608581": {
         "matchup": "Landskrona – Vaernamo",
@@ -1823,23 +1468,154 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-06-28T08:32:28.956003"
+        "last_updated": "2026-06-28T11:11:45.913822"
     },
-    "389662105": {
-        "matchup": "Astravyets – Dinamo Minsk Res",
-        "event_url": "https://livetv.sx/enx/eventinfo/389662105__/",
-        "competition": "Belarus. First League",
+    "387587268": {
+        "matchup": "Irtysh – Kaisar",
+        "event_url": "https://livetv.sx/enx/eventinfo/387587268__/",
+        "competition": "Kazakhstan. Premier League",
+        "date_time": "28 June at 13:00",
+        "parsed_datetime": "2026-06-28T13:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Irtysh",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37836.gif"
+            },
+            {
+                "team_name": "Kaisar",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/799.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=V_Yq8NsXXfg&lang=en&eid=387587268&lid=3032091&ci=287&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Kairat",
+                "played": "17",
+                "pts": "36"
+            },
+            {
+                "pos": "2",
+                "team": "Ordabasy",
+                "played": "14",
+                "pts": "34"
+            },
+            {
+                "pos": "3",
+                "team": "Okzhetpes",
+                "played": "15",
+                "pts": "27"
+            },
+            {
+                "pos": "4",
+                "team": "Elimai",
+                "played": "15",
+                "pts": "23"
+            },
+            {
+                "pos": "5",
+                "team": "Ulytau",
+                "played": "14",
+                "pts": "23"
+            },
+            {
+                "pos": "6",
+                "team": "Astana",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "7",
+                "team": "Aktobe",
+                "played": "15",
+                "pts": "22"
+            },
+            {
+                "pos": "8",
+                "team": "Atyrau",
+                "played": "15",
+                "pts": "18"
+            },
+            {
+                "pos": "9",
+                "team": "Zhetysu",
+                "played": "15",
+                "pts": "18"
+            },
+            {
+                "pos": "10",
+                "team": "Zhenys",
+                "played": "14",
+                "pts": "17"
+            },
+            {
+                "pos": "11",
+                "team": "Kyzylzhar",
+                "played": "16",
+                "pts": "15"
+            },
+            {
+                "pos": "12",
+                "team": "Kaisar",
+                "played": "15",
+                "pts": "14"
+            },
+            {
+                "pos": "13",
+                "team": "Tobol",
+                "played": "14",
+                "pts": "12"
+            },
+            {
+                "pos": "14",
+                "team": "Caspiy",
+                "played": "15",
+                "pts": "11"
+            },
+            {
+                "pos": "15",
+                "team": "Irtysh",
+                "played": "14",
+                "pts": "10"
+            },
+            {
+                "pos": "16",
+                "team": "Altay",
+                "played": "14",
+                "pts": "10"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:45.981466"
+    },
+    "389672009": {
+        "matchup": "Portuguesa SP U-20 –  Ferroviaria U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/389672009__/",
+        "competition": "Brazil. Campeonato Paulista U20",
         "date_time": "28 June at 14:00",
         "parsed_datetime": "2026-06-28T14:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Astravyets",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3723.gif"
+                "team_name": "Portuguesa SP U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/8771.gif"
             },
             {
-                "team_name": "Dinamo Minsk Res",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3557.gif"
+                "team_name": "Ferroviaria U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/9987.gif"
             }
         ],
         "streams": [],
@@ -1848,7 +1624,129 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:28.987470"
+        "last_updated": "2026-06-28T11:11:46.072651"
+    },
+    "387608579": {
+        "matchup": "Norrkoeping – Norrby",
+        "event_url": "https://livetv.sx/enx/eventinfo/387608579__/",
+        "competition": "Sweden. Superettan",
+        "date_time": "28 June at 14:00",
+        "parsed_datetime": "2026-06-28T14:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Norrkoeping",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1052.gif"
+            },
+            {
+                "team_name": "Norrby",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4868.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Falkenberg",
+                "played": "14",
+                "pts": "28"
+            },
+            {
+                "pos": "2",
+                "team": "Varberg",
+                "played": "14",
+                "pts": "27"
+            },
+            {
+                "pos": "3",
+                "team": "Norrkoeping",
+                "played": "13",
+                "pts": "26"
+            },
+            {
+                "pos": "4",
+                "team": "Landskrona",
+                "played": "13",
+                "pts": "22"
+            },
+            {
+                "pos": "5",
+                "team": "Oestersund",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "6",
+                "team": "United IK",
+                "played": "14",
+                "pts": "22"
+            },
+            {
+                "pos": "7",
+                "team": "Oddevold",
+                "played": "14",
+                "pts": "20"
+            },
+            {
+                "pos": "8",
+                "team": "Helsingborg",
+                "played": "13",
+                "pts": "20"
+            },
+            {
+                "pos": "9",
+                "team": "Oester",
+                "played": "14",
+                "pts": "20"
+            },
+            {
+                "pos": "10",
+                "team": "Sandviken",
+                "played": "13",
+                "pts": "16"
+            },
+            {
+                "pos": "11",
+                "team": "Brage",
+                "played": "14",
+                "pts": "16"
+            },
+            {
+                "pos": "12",
+                "team": "Ljungskile",
+                "played": "14",
+                "pts": "16"
+            },
+            {
+                "pos": "13",
+                "team": "Oerebro",
+                "played": "14",
+                "pts": "14"
+            },
+            {
+                "pos": "14",
+                "team": "Norrby",
+                "played": "13",
+                "pts": "11"
+            },
+            {
+                "pos": "15",
+                "team": "Vaernamo",
+                "played": "13",
+                "pts": "10"
+            },
+            {
+                "pos": "16",
+                "team": "Sundsvall",
+                "played": "14",
+                "pts": "9"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:46.263073"
     },
     "387600291": {
         "matchup": "Ulytau – Ordabasy",
@@ -1970,7 +1868,48 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.043517"
+        "last_updated": "2026-06-28T11:11:46.263086"
+    },
+    "389671915": {
+        "matchup": "Tupa – Independente Limeira",
+        "event_url": "https://livetv.sx/enx/eventinfo/389671915_tupa_independente_limeira/",
+        "competition": "Brazil. Campeonato Paulista B",
+        "date_time": "28 June at 14:00",
+        "parsed_datetime": "2026-06-28T14:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:46.263092"
+    },
+    "389671925": {
+        "matchup": "Audax Sao Paulo – Flamengo",
+        "event_url": "https://livetv.sx/enx/eventinfo/389671925_audax_sao_paulo_flamengo/",
+        "competition": "Brazil. Campeonato Paulista B",
+        "date_time": "28 June at 14:00",
+        "parsed_datetime": "2026-06-28T14:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Audax Sao Paulo",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/17510.gif"
+            },
+            {
+                "team_name": "Flamengo",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/32690.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:46.346273"
     },
     "387607468": {
         "matchup": "Tobol – Altay",
@@ -2092,7 +2031,32 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.127438"
+        "last_updated": "2026-06-28T11:11:46.377642"
+    },
+    "389662105": {
+        "matchup": "Astravyets – Dinamo Minsk Res",
+        "event_url": "https://livetv.sx/enx/eventinfo/389662105__/",
+        "competition": "Belarus. First League",
+        "date_time": "28 June at 14:00",
+        "parsed_datetime": "2026-06-28T14:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Astravyets",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3723.gif"
+            },
+            {
+                "team_name": "Dinamo Minsk Res",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3557.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:46.437534"
     },
     "387612455": {
         "matchup": "EB/Streymur – B36 Torshavn",
@@ -2178,7 +2142,118 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.185340"
+        "last_updated": "2026-06-28T11:11:46.499290"
+    },
+    "389251933": {
+        "matchup": "Dynamo Kiev – Wieczysta",
+        "event_url": "https://livetv.sx/enx/eventinfo/389251933_dynamo_kiev_wieczysta/",
+        "competition": "Friendly Match",
+        "date_time": "28 June at 15:30",
+        "parsed_datetime": "2026-06-28T15:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Dynamo Kiev",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/32619.gif"
+            },
+            {
+                "team_name": "Wieczysta",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/51566.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:46.595094"
+    },
+    "387612621": {
+        "matchup": "Nomme Kalju – Paide",
+        "event_url": "https://livetv.sx/enx/eventinfo/387612621__/",
+        "competition": "Estonia. Meistriliiga",
+        "date_time": "28 June at 15:00",
+        "parsed_datetime": "2026-06-28T15:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Nomme Kalju",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29731.gif"
+            },
+            {
+                "team_name": "Paide",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4966.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Levadia",
+                "played": "17",
+                "pts": "43"
+            },
+            {
+                "pos": "2",
+                "team": "Flora",
+                "played": "16",
+                "pts": "30"
+            },
+            {
+                "pos": "3",
+                "team": "Nomme Kalju",
+                "played": "17",
+                "pts": "30"
+            },
+            {
+                "pos": "4",
+                "team": "Paide",
+                "played": "17",
+                "pts": "28"
+            },
+            {
+                "pos": "5",
+                "team": "Tammeka",
+                "played": "16",
+                "pts": "23"
+            },
+            {
+                "pos": "6",
+                "team": "Parnu Vaprus",
+                "played": "17",
+                "pts": "23"
+            },
+            {
+                "pos": "7",
+                "team": "Nomme United",
+                "played": "17",
+                "pts": "19"
+            },
+            {
+                "pos": "8",
+                "team": "Harju",
+                "played": "17",
+                "pts": "19"
+            },
+            {
+                "pos": "9",
+                "team": "Kuressaare",
+                "played": "17",
+                "pts": "17"
+            },
+            {
+                "pos": "10",
+                "team": "Narva Trans",
+                "played": "17",
+                "pts": "10"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:46.828262"
     },
     "387612456": {
         "matchup": "KI Klaksvik – 07 Vestur",
@@ -2264,32 +2339,7 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.267347"
-    },
-    "389251933": {
-        "matchup": "Dynamo Kiev – Wieczysta",
-        "event_url": "https://livetv.sx/enx/eventinfo/389251933_dynamo_kiev_wieczysta/",
-        "competition": "Friendly Match",
-        "date_time": "28 June at 15:30",
-        "parsed_datetime": "2026-06-28T15:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Dynamo Kiev",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/32619.gif"
-            },
-            {
-                "team_name": "Wieczysta",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/51566.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:29.441256"
+        "last_updated": "2026-06-28T11:11:46.930961"
     },
     "387617254": {
         "matchup": "Zhenys – Astana",
@@ -2411,23 +2461,23 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.499522"
+        "last_updated": "2026-06-28T11:11:46.997319"
     },
-    "387612621": {
-        "matchup": "Nomme Kalju – Paide",
-        "event_url": "https://livetv.sx/enx/eventinfo/387612621__/",
-        "competition": "Estonia. Meistriliiga",
-        "date_time": "28 June at 15:00",
-        "parsed_datetime": "2026-06-28T15:00:00",
+    "389248024": {
+        "matchup": "Banga – Hegelmann",
+        "event_url": "https://livetv.sx/enx/eventinfo/389248024__/",
+        "competition": "Lithuania. A Lyga",
+        "date_time": "28 June at 16:00",
+        "parsed_datetime": "2026-06-28T16:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Nomme Kalju",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29731.gif"
+                "team_name": "Banga",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4774.gif"
             },
             {
-                "team_name": "Paide",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4966.gif"
+                "team_name": "Hegelmann",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5405.gif"
             }
         ],
         "streams": [],
@@ -2438,66 +2488,116 @@
         "league_table": [
             {
                 "pos": "1",
-                "team": "Levadia",
-                "played": "17",
-                "pts": "43"
-            },
-            {
-                "pos": "2",
-                "team": "Flora",
-                "played": "16",
-                "pts": "30"
-            },
-            {
-                "pos": "3",
-                "team": "Nomme Kalju",
-                "played": "17",
-                "pts": "30"
-            },
-            {
-                "pos": "4",
-                "team": "Paide",
+                "team": "Dziugas",
                 "played": "17",
                 "pts": "28"
             },
             {
-                "pos": "5",
-                "team": "Tammeka",
+                "pos": "2",
+                "team": "Kauno Zalgiris",
+                "played": "17",
+                "pts": "27"
+            },
+            {
+                "pos": "3",
+                "team": "Suduva",
+                "played": "17",
+                "pts": "26"
+            },
+            {
+                "pos": "4",
+                "team": "Transinvest",
                 "played": "16",
-                "pts": "23"
+                "pts": "25"
+            },
+            {
+                "pos": "5",
+                "team": "Banga",
+                "played": "17",
+                "pts": "24"
             },
             {
                 "pos": "6",
-                "team": "Parnu Vaprus",
+                "team": "Zalgiris",
                 "played": "17",
-                "pts": "23"
+                "pts": "24"
             },
             {
                 "pos": "7",
-                "team": "Nomme United",
+                "team": "Hegelmann",
                 "played": "17",
-                "pts": "19"
+                "pts": "18"
             },
             {
                 "pos": "8",
-                "team": "Harju",
+                "team": "Panevezys",
                 "played": "17",
-                "pts": "19"
+                "pts": "18"
             },
             {
                 "pos": "9",
-                "team": "Kuressaare",
+                "team": "Siauliai",
                 "played": "17",
-                "pts": "17"
+                "pts": "13"
             },
             {
                 "pos": "10",
-                "team": "Narva Trans",
+                "team": "Riteriai",
                 "played": "17",
-                "pts": "10"
+                "pts": "3"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.595907"
+        "last_updated": "2026-06-28T11:11:47.100435"
+    },
+    "389017357": {
+        "matchup": "Austria (W) U-19 –   Iceland (W) U-19",
+        "event_url": "https://livetv.sx/enx/eventinfo/389017357__/",
+        "competition": "Women. European U-19 Championship",
+        "date_time": "28 June at 16:00",
+        "parsed_datetime": "2026-06-28T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Austria (W) U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag13.gif"
+            },
+            {
+                "team_name": "Iceland (W) U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag97.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:47.118240"
+    },
+    "389662107": {
+        "matchup": "BATE Res – Energetik-BGU",
+        "event_url": "https://livetv.sx/enx/eventinfo/389662107__/",
+        "competition": "Belarus. First League",
+        "date_time": "28 June at 16:00",
+        "parsed_datetime": "2026-06-28T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "BATE Res",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3575.gif"
+            },
+            {
+                "team_name": "Energetik-BGU",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30283.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:47.194053"
     },
     "387618376": {
         "matchup": "Sandviken – Helsingborg",
@@ -2619,168 +2719,7 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-06-28T08:32:29.872753"
-    },
-    "389017357": {
-        "matchup": "Austria (W) U-19 –   Iceland (W) U-19",
-        "event_url": "https://livetv.sx/enx/eventinfo/389017357__/",
-        "competition": "Women. European U-19 Championship",
-        "date_time": "28 June at 16:00",
-        "parsed_datetime": "2026-06-28T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Austria (W) U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag13.gif"
-            },
-            {
-                "team_name": "Iceland (W) U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag97.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:29.914366"
-    },
-    "389248024": {
-        "matchup": "Banga – Hegelmann",
-        "event_url": "https://livetv.sx/enx/eventinfo/389248024__/",
-        "competition": "Lithuania. A Lyga",
-        "date_time": "28 June at 16:00",
-        "parsed_datetime": "2026-06-28T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Banga",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/4774.gif"
-            },
-            {
-                "team_name": "Hegelmann",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5405.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Dziugas",
-                "played": "17",
-                "pts": "28"
-            },
-            {
-                "pos": "2",
-                "team": "Kauno Zalgiris",
-                "played": "17",
-                "pts": "27"
-            },
-            {
-                "pos": "3",
-                "team": "Suduva",
-                "played": "17",
-                "pts": "26"
-            },
-            {
-                "pos": "4",
-                "team": "Transinvest",
-                "played": "16",
-                "pts": "25"
-            },
-            {
-                "pos": "5",
-                "team": "Banga",
-                "played": "17",
-                "pts": "24"
-            },
-            {
-                "pos": "6",
-                "team": "Zalgiris",
-                "played": "17",
-                "pts": "24"
-            },
-            {
-                "pos": "7",
-                "team": "Hegelmann",
-                "played": "17",
-                "pts": "18"
-            },
-            {
-                "pos": "8",
-                "team": "Panevezys",
-                "played": "17",
-                "pts": "18"
-            },
-            {
-                "pos": "9",
-                "team": "Siauliai",
-                "played": "17",
-                "pts": "13"
-            },
-            {
-                "pos": "10",
-                "team": "Riteriai",
-                "played": "17",
-                "pts": "3"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:29.967292"
-    },
-    "389662107": {
-        "matchup": "BATE Res – Energetik-BGU",
-        "event_url": "https://livetv.sx/enx/eventinfo/389662107__/",
-        "competition": "Belarus. First League",
-        "date_time": "28 June at 16:00",
-        "parsed_datetime": "2026-06-28T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "BATE Res",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/3575.gif"
-            },
-            {
-                "team_name": "Energetik-BGU",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30283.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:30.030870"
-    },
-    "389470551": {
-        "matchup": "Olimpija – Cukaricki",
-        "event_url": "https://livetv.sx/enx/eventinfo/389470551_olimpija_cukaricki/",
-        "competition": "Friendly Match",
-        "date_time": "28 June at 17:00",
-        "parsed_datetime": "2026-06-28T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Olimpija",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/21655.gif"
-            },
-            {
-                "team_name": "Cukaricki",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/32950.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:30.101449"
+        "last_updated": "2026-06-28T11:11:47.240803"
     },
     "387606952": {
         "matchup": "Isloch – Belshina",
@@ -2902,7 +2841,7 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-06-28T08:32:30.234031"
+        "last_updated": "2026-06-28T11:11:47.311906"
     },
     "387616732": {
         "matchup": "Dnepr Mogilyov – Neman",
@@ -3024,118 +2963,7 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-06-28T08:32:30.360075"
-    },
-    "387622934": {
-        "matchup": "Levadia – Flora",
-        "event_url": "https://livetv.sx/enx/eventinfo/387622934__/",
-        "competition": "Estonia. Meistriliiga",
-        "date_time": "28 June at 17:00",
-        "parsed_datetime": "2026-06-28T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Levadia",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30140.gif"
-            },
-            {
-                "team_name": "Flora",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30367.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Levadia",
-                "played": "17",
-                "pts": "43"
-            },
-            {
-                "pos": "2",
-                "team": "Flora",
-                "played": "16",
-                "pts": "30"
-            },
-            {
-                "pos": "3",
-                "team": "Nomme Kalju",
-                "played": "17",
-                "pts": "30"
-            },
-            {
-                "pos": "4",
-                "team": "Paide",
-                "played": "17",
-                "pts": "28"
-            },
-            {
-                "pos": "5",
-                "team": "Tammeka",
-                "played": "16",
-                "pts": "23"
-            },
-            {
-                "pos": "6",
-                "team": "Parnu Vaprus",
-                "played": "17",
-                "pts": "23"
-            },
-            {
-                "pos": "7",
-                "team": "Nomme United",
-                "played": "17",
-                "pts": "19"
-            },
-            {
-                "pos": "8",
-                "team": "Harju",
-                "played": "17",
-                "pts": "19"
-            },
-            {
-                "pos": "9",
-                "team": "Kuressaare",
-                "played": "17",
-                "pts": "17"
-            },
-            {
-                "pos": "10",
-                "team": "Narva Trans",
-                "played": "17",
-                "pts": "10"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:30.427279"
-    },
-    "387627565": {
-        "matchup": "La Serena – Cobreloa",
-        "event_url": "https://livetv.sx/enx/eventinfo/387627565__/",
-        "competition": "Chile. Cup",
-        "date_time": "28 June at 17:30",
-        "parsed_datetime": "2026-06-28T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "La Serena",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/7800.gif"
-            },
-            {
-                "team_name": "Cobreloa",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/8023.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:30.587202"
+        "last_updated": "2026-06-28T11:11:47.404582"
     },
     "389248025": {
         "matchup": "Dziugas – Zalgiris",
@@ -3221,7 +3049,143 @@
                 "pts": "3"
             }
         ],
-        "last_updated": "2026-06-28T08:32:30.656729"
+        "last_updated": "2026-06-28T11:11:47.445734"
+    },
+    "389470551": {
+        "matchup": "Olimpija – Cukaricki",
+        "event_url": "https://livetv.sx/enx/eventinfo/389470551_olimpija_cukaricki/",
+        "competition": "Friendly Match",
+        "date_time": "28 June at 17:00",
+        "parsed_datetime": "2026-06-28T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Olimpija",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/21655.gif"
+            },
+            {
+                "team_name": "Cukaricki",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/32950.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:47.535248"
+    },
+    "387622934": {
+        "matchup": "Levadia – Flora",
+        "event_url": "https://livetv.sx/enx/eventinfo/387622934__/",
+        "competition": "Estonia. Meistriliiga",
+        "date_time": "28 June at 17:00",
+        "parsed_datetime": "2026-06-28T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Levadia",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30140.gif"
+            },
+            {
+                "team_name": "Flora",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30367.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Levadia",
+                "played": "17",
+                "pts": "43"
+            },
+            {
+                "pos": "2",
+                "team": "Flora",
+                "played": "16",
+                "pts": "30"
+            },
+            {
+                "pos": "3",
+                "team": "Nomme Kalju",
+                "played": "17",
+                "pts": "30"
+            },
+            {
+                "pos": "4",
+                "team": "Paide",
+                "played": "17",
+                "pts": "28"
+            },
+            {
+                "pos": "5",
+                "team": "Tammeka",
+                "played": "16",
+                "pts": "23"
+            },
+            {
+                "pos": "6",
+                "team": "Parnu Vaprus",
+                "played": "17",
+                "pts": "23"
+            },
+            {
+                "pos": "7",
+                "team": "Nomme United",
+                "played": "17",
+                "pts": "19"
+            },
+            {
+                "pos": "8",
+                "team": "Harju",
+                "played": "17",
+                "pts": "19"
+            },
+            {
+                "pos": "9",
+                "team": "Kuressaare",
+                "played": "17",
+                "pts": "17"
+            },
+            {
+                "pos": "10",
+                "team": "Narva Trans",
+                "played": "17",
+                "pts": "10"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:47.599561"
+    },
+    "387627565": {
+        "matchup": "La Serena – Cobreloa",
+        "event_url": "https://livetv.sx/enx/eventinfo/387627565__/",
+        "competition": "Chile. Cup",
+        "date_time": "28 June at 17:30",
+        "parsed_datetime": "2026-06-28T17:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "La Serena",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/7800.gif"
+            },
+            {
+                "team_name": "Cobreloa",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/8023.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:47.654082"
     },
     "389248037": {
         "matchup": "Olympic Safi – CODM Meknes",
@@ -3343,251 +3307,7 @@
                 "pts": "20"
             }
         ],
-        "last_updated": "2026-06-28T08:32:31.028931"
-    },
-    "389248038": {
-        "matchup": "Maghreb de Fes – Yacoub El Mansour",
-        "event_url": "https://livetv.sx/enx/eventinfo/389248038__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "28 June at 18:00",
-        "parsed_datetime": "2026-06-28T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Maghreb de Fes",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/8427.gif"
-            },
-            {
-                "team_name": "Yacoub El Mansour",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37322.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "ASFAR",
-                "played": "27",
-                "pts": "53"
-            },
-            {
-                "pos": "2",
-                "team": "Maghreb de Fes",
-                "played": "27",
-                "pts": "52"
-            },
-            {
-                "pos": "3",
-                "team": "RS Berkane",
-                "played": "27",
-                "pts": "51"
-            },
-            {
-                "pos": "4",
-                "team": "Raja CA",
-                "played": "27",
-                "pts": "49"
-            },
-            {
-                "pos": "5",
-                "team": "WAC",
-                "played": "27",
-                "pts": "43"
-            },
-            {
-                "pos": "6",
-                "team": "DHJ",
-                "played": "27",
-                "pts": "38"
-            },
-            {
-                "pos": "7",
-                "team": "Ittihad Tanger",
-                "played": "27",
-                "pts": "35"
-            },
-            {
-                "pos": "8",
-                "team": "KACM",
-                "played": "27",
-                "pts": "33"
-            },
-            {
-                "pos": "9",
-                "team": "FUS Rabat",
-                "played": "27",
-                "pts": "33"
-            },
-            {
-                "pos": "10",
-                "team": "CODM Meknes",
-                "played": "27",
-                "pts": "32"
-            },
-            {
-                "pos": "11",
-                "team": "HUSA",
-                "played": "27",
-                "pts": "31"
-            },
-            {
-                "pos": "12",
-                "team": "RS Zemamra",
-                "played": "27",
-                "pts": "30"
-            },
-            {
-                "pos": "13",
-                "team": "Olympique Dcheira",
-                "played": "27",
-                "pts": "26"
-            },
-            {
-                "pos": "14",
-                "team": "Yacoub El Mansour",
-                "played": "27",
-                "pts": "26"
-            },
-            {
-                "pos": "15",
-                "team": "Union Touarga",
-                "played": "27",
-                "pts": "24"
-            },
-            {
-                "pos": "16",
-                "team": "Olympic Safi",
-                "played": "27",
-                "pts": "20"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:31.098375"
-    },
-    "389248039": {
-        "matchup": "Ittihad Tanger – Raja CA",
-        "event_url": "https://livetv.sx/enx/eventinfo/389248039__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "28 June at 18:00",
-        "parsed_datetime": "2026-06-28T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Ittihad Tanger",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1730.gif"
-            },
-            {
-                "team_name": "Raja CA",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1012.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "ASFAR",
-                "played": "27",
-                "pts": "53"
-            },
-            {
-                "pos": "2",
-                "team": "Maghreb de Fes",
-                "played": "27",
-                "pts": "52"
-            },
-            {
-                "pos": "3",
-                "team": "RS Berkane",
-                "played": "27",
-                "pts": "51"
-            },
-            {
-                "pos": "4",
-                "team": "Raja CA",
-                "played": "27",
-                "pts": "49"
-            },
-            {
-                "pos": "5",
-                "team": "WAC",
-                "played": "27",
-                "pts": "43"
-            },
-            {
-                "pos": "6",
-                "team": "DHJ",
-                "played": "27",
-                "pts": "38"
-            },
-            {
-                "pos": "7",
-                "team": "Ittihad Tanger",
-                "played": "27",
-                "pts": "35"
-            },
-            {
-                "pos": "8",
-                "team": "KACM",
-                "played": "27",
-                "pts": "33"
-            },
-            {
-                "pos": "9",
-                "team": "FUS Rabat",
-                "played": "27",
-                "pts": "33"
-            },
-            {
-                "pos": "10",
-                "team": "CODM Meknes",
-                "played": "27",
-                "pts": "32"
-            },
-            {
-                "pos": "11",
-                "team": "HUSA",
-                "played": "27",
-                "pts": "31"
-            },
-            {
-                "pos": "12",
-                "team": "RS Zemamra",
-                "played": "27",
-                "pts": "30"
-            },
-            {
-                "pos": "13",
-                "team": "Olympique Dcheira",
-                "played": "27",
-                "pts": "26"
-            },
-            {
-                "pos": "14",
-                "team": "Yacoub El Mansour",
-                "played": "27",
-                "pts": "26"
-            },
-            {
-                "pos": "15",
-                "team": "Union Touarga",
-                "played": "27",
-                "pts": "24"
-            },
-            {
-                "pos": "16",
-                "team": "Olympic Safi",
-                "played": "27",
-                "pts": "20"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:31.189855"
+        "last_updated": "2026-06-28T11:11:48.007852"
     },
     "389248036": {
         "matchup": "WAC – Olympique Dcheira",
@@ -3709,7 +3429,129 @@
                 "pts": "20"
             }
         ],
-        "last_updated": "2026-06-28T08:32:31.211203"
+        "last_updated": "2026-06-28T11:11:48.058658"
+    },
+    "389248038": {
+        "matchup": "Maghreb de Fes – Yacoub El Mansour",
+        "event_url": "https://livetv.sx/enx/eventinfo/389248038__/",
+        "competition": "Morocco. Botola Pro",
+        "date_time": "28 June at 18:00",
+        "parsed_datetime": "2026-06-28T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Maghreb de Fes",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/8427.gif"
+            },
+            {
+                "team_name": "Yacoub El Mansour",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37322.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "ASFAR",
+                "played": "27",
+                "pts": "53"
+            },
+            {
+                "pos": "2",
+                "team": "Maghreb de Fes",
+                "played": "27",
+                "pts": "52"
+            },
+            {
+                "pos": "3",
+                "team": "RS Berkane",
+                "played": "27",
+                "pts": "51"
+            },
+            {
+                "pos": "4",
+                "team": "Raja CA",
+                "played": "27",
+                "pts": "49"
+            },
+            {
+                "pos": "5",
+                "team": "WAC",
+                "played": "27",
+                "pts": "43"
+            },
+            {
+                "pos": "6",
+                "team": "DHJ",
+                "played": "27",
+                "pts": "38"
+            },
+            {
+                "pos": "7",
+                "team": "Ittihad Tanger",
+                "played": "27",
+                "pts": "35"
+            },
+            {
+                "pos": "8",
+                "team": "KACM",
+                "played": "27",
+                "pts": "33"
+            },
+            {
+                "pos": "9",
+                "team": "FUS Rabat",
+                "played": "27",
+                "pts": "33"
+            },
+            {
+                "pos": "10",
+                "team": "CODM Meknes",
+                "played": "27",
+                "pts": "32"
+            },
+            {
+                "pos": "11",
+                "team": "HUSA",
+                "played": "27",
+                "pts": "31"
+            },
+            {
+                "pos": "12",
+                "team": "RS Zemamra",
+                "played": "27",
+                "pts": "30"
+            },
+            {
+                "pos": "13",
+                "team": "Olympique Dcheira",
+                "played": "27",
+                "pts": "26"
+            },
+            {
+                "pos": "14",
+                "team": "Yacoub El Mansour",
+                "played": "27",
+                "pts": "26"
+            },
+            {
+                "pos": "15",
+                "team": "Union Touarga",
+                "played": "27",
+                "pts": "24"
+            },
+            {
+                "pos": "16",
+                "team": "Olympic Safi",
+                "played": "27",
+                "pts": "20"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:48.176393"
     },
     "387627567": {
         "matchup": "Cobresal – Antofagasta",
@@ -3734,23 +3576,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:31.254270"
+        "last_updated": "2026-06-28T11:11:48.180331"
     },
-    "389248041": {
-        "matchup": "FUS Rabat – RS Berkane",
-        "event_url": "https://livetv.sx/enx/eventinfo/389248041__/",
+    "389248039": {
+        "matchup": "Ittihad Tanger – Raja CA",
+        "event_url": "https://livetv.sx/enx/eventinfo/389248039__/",
         "competition": "Morocco. Botola Pro",
         "date_time": "28 June at 18:00",
         "parsed_datetime": "2026-06-28T18:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "FUS Rabat",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/904.gif"
+                "team_name": "Ittihad Tanger",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1730.gif"
             },
             {
-                "team_name": "RS Berkane",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1321.gif"
+                "team_name": "Raja CA",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1012.gif"
             }
         ],
         "streams": [],
@@ -3856,129 +3698,7 @@
                 "pts": "20"
             }
         ],
-        "last_updated": "2026-06-28T08:32:31.372962"
-    },
-    "389248042": {
-        "matchup": "ASFAR – Union Touarga",
-        "event_url": "https://livetv.sx/enx/eventinfo/389248042__/",
-        "competition": "Morocco. Botola Pro",
-        "date_time": "28 June at 18:00",
-        "parsed_datetime": "2026-06-28T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "ASFAR",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30579.gif"
-            },
-            {
-                "team_name": "Union Touarga",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30580.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "ASFAR",
-                "played": "27",
-                "pts": "53"
-            },
-            {
-                "pos": "2",
-                "team": "Maghreb de Fes",
-                "played": "27",
-                "pts": "52"
-            },
-            {
-                "pos": "3",
-                "team": "RS Berkane",
-                "played": "27",
-                "pts": "51"
-            },
-            {
-                "pos": "4",
-                "team": "Raja CA",
-                "played": "27",
-                "pts": "49"
-            },
-            {
-                "pos": "5",
-                "team": "WAC",
-                "played": "27",
-                "pts": "43"
-            },
-            {
-                "pos": "6",
-                "team": "DHJ",
-                "played": "27",
-                "pts": "38"
-            },
-            {
-                "pos": "7",
-                "team": "Ittihad Tanger",
-                "played": "27",
-                "pts": "35"
-            },
-            {
-                "pos": "8",
-                "team": "KACM",
-                "played": "27",
-                "pts": "33"
-            },
-            {
-                "pos": "9",
-                "team": "FUS Rabat",
-                "played": "27",
-                "pts": "33"
-            },
-            {
-                "pos": "10",
-                "team": "CODM Meknes",
-                "played": "27",
-                "pts": "32"
-            },
-            {
-                "pos": "11",
-                "team": "HUSA",
-                "played": "27",
-                "pts": "31"
-            },
-            {
-                "pos": "12",
-                "team": "RS Zemamra",
-                "played": "27",
-                "pts": "30"
-            },
-            {
-                "pos": "13",
-                "team": "Olympique Dcheira",
-                "played": "27",
-                "pts": "26"
-            },
-            {
-                "pos": "14",
-                "team": "Yacoub El Mansour",
-                "played": "27",
-                "pts": "26"
-            },
-            {
-                "pos": "15",
-                "team": "Union Touarga",
-                "played": "27",
-                "pts": "24"
-            },
-            {
-                "pos": "16",
-                "team": "Olympic Safi",
-                "played": "27",
-                "pts": "20"
-            }
-        ],
-        "last_updated": "2026-06-28T08:32:31.483744"
+        "last_updated": "2026-06-28T11:11:48.248846"
     },
     "389248040": {
         "matchup": "HUSA – RS Zemamra",
@@ -4100,7 +3820,276 @@
                 "pts": "20"
             }
         ],
-        "last_updated": "2026-06-28T08:32:31.621604"
+        "last_updated": "2026-06-28T11:11:48.420033"
+    },
+    "389248041": {
+        "matchup": "FUS Rabat – RS Berkane",
+        "event_url": "https://livetv.sx/enx/eventinfo/389248041__/",
+        "competition": "Morocco. Botola Pro",
+        "date_time": "28 June at 18:00",
+        "parsed_datetime": "2026-06-28T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "FUS Rabat",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/904.gif"
+            },
+            {
+                "team_name": "RS Berkane",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1321.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "ASFAR",
+                "played": "27",
+                "pts": "53"
+            },
+            {
+                "pos": "2",
+                "team": "Maghreb de Fes",
+                "played": "27",
+                "pts": "52"
+            },
+            {
+                "pos": "3",
+                "team": "RS Berkane",
+                "played": "27",
+                "pts": "51"
+            },
+            {
+                "pos": "4",
+                "team": "Raja CA",
+                "played": "27",
+                "pts": "49"
+            },
+            {
+                "pos": "5",
+                "team": "WAC",
+                "played": "27",
+                "pts": "43"
+            },
+            {
+                "pos": "6",
+                "team": "DHJ",
+                "played": "27",
+                "pts": "38"
+            },
+            {
+                "pos": "7",
+                "team": "Ittihad Tanger",
+                "played": "27",
+                "pts": "35"
+            },
+            {
+                "pos": "8",
+                "team": "KACM",
+                "played": "27",
+                "pts": "33"
+            },
+            {
+                "pos": "9",
+                "team": "FUS Rabat",
+                "played": "27",
+                "pts": "33"
+            },
+            {
+                "pos": "10",
+                "team": "CODM Meknes",
+                "played": "27",
+                "pts": "32"
+            },
+            {
+                "pos": "11",
+                "team": "HUSA",
+                "played": "27",
+                "pts": "31"
+            },
+            {
+                "pos": "12",
+                "team": "RS Zemamra",
+                "played": "27",
+                "pts": "30"
+            },
+            {
+                "pos": "13",
+                "team": "Olympique Dcheira",
+                "played": "27",
+                "pts": "26"
+            },
+            {
+                "pos": "14",
+                "team": "Yacoub El Mansour",
+                "played": "27",
+                "pts": "26"
+            },
+            {
+                "pos": "15",
+                "team": "Union Touarga",
+                "played": "27",
+                "pts": "24"
+            },
+            {
+                "pos": "16",
+                "team": "Olympic Safi",
+                "played": "27",
+                "pts": "20"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:48.445923"
+    },
+    "389248042": {
+        "matchup": "ASFAR – Union Touarga",
+        "event_url": "https://livetv.sx/enx/eventinfo/389248042__/",
+        "competition": "Morocco. Botola Pro",
+        "date_time": "28 June at 18:00",
+        "parsed_datetime": "2026-06-28T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "ASFAR",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30579.gif"
+            },
+            {
+                "team_name": "Union Touarga",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/30580.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "ASFAR",
+                "played": "27",
+                "pts": "53"
+            },
+            {
+                "pos": "2",
+                "team": "Maghreb de Fes",
+                "played": "27",
+                "pts": "52"
+            },
+            {
+                "pos": "3",
+                "team": "RS Berkane",
+                "played": "27",
+                "pts": "51"
+            },
+            {
+                "pos": "4",
+                "team": "Raja CA",
+                "played": "27",
+                "pts": "49"
+            },
+            {
+                "pos": "5",
+                "team": "WAC",
+                "played": "27",
+                "pts": "43"
+            },
+            {
+                "pos": "6",
+                "team": "DHJ",
+                "played": "27",
+                "pts": "38"
+            },
+            {
+                "pos": "7",
+                "team": "Ittihad Tanger",
+                "played": "27",
+                "pts": "35"
+            },
+            {
+                "pos": "8",
+                "team": "KACM",
+                "played": "27",
+                "pts": "33"
+            },
+            {
+                "pos": "9",
+                "team": "FUS Rabat",
+                "played": "27",
+                "pts": "33"
+            },
+            {
+                "pos": "10",
+                "team": "CODM Meknes",
+                "played": "27",
+                "pts": "32"
+            },
+            {
+                "pos": "11",
+                "team": "HUSA",
+                "played": "27",
+                "pts": "31"
+            },
+            {
+                "pos": "12",
+                "team": "RS Zemamra",
+                "played": "27",
+                "pts": "30"
+            },
+            {
+                "pos": "13",
+                "team": "Olympique Dcheira",
+                "played": "27",
+                "pts": "26"
+            },
+            {
+                "pos": "14",
+                "team": "Yacoub El Mansour",
+                "played": "27",
+                "pts": "26"
+            },
+            {
+                "pos": "15",
+                "team": "Union Touarga",
+                "played": "27",
+                "pts": "24"
+            },
+            {
+                "pos": "16",
+                "team": "Olympic Safi",
+                "played": "27",
+                "pts": "20"
+            }
+        ],
+        "last_updated": "2026-06-28T11:11:48.485567"
+    },
+    "387632257": {
+        "matchup": "Wales U-19 –  Spain U-19",
+        "event_url": "https://livetv.sx/enx/eventinfo/387632257__/",
+        "competition": "European U-19 Championship",
+        "date_time": "28 June at 18:00",
+        "parsed_datetime": "2026-06-28T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Wales U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag1002.gif"
+            },
+            {
+                "team_name": "Spain U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag60.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:48.539261"
     },
     "389248043": {
         "matchup": "DHJ – KACM",
@@ -4222,23 +4211,39 @@
                 "pts": "20"
             }
         ],
-        "last_updated": "2026-06-28T08:32:31.683767"
+        "last_updated": "2026-06-28T11:11:48.606481"
     },
-    "387632257": {
-        "matchup": "Wales U-19 –  Spain U-19",
-        "event_url": "https://livetv.sx/enx/eventinfo/387632257__/",
-        "competition": "European U-19 Championship",
-        "date_time": "28 June at 18:00",
-        "parsed_datetime": "2026-06-28T18:00:00",
+    "389671916": {
+        "matchup": "Santacruzense – America SP",
+        "event_url": "https://livetv.sx/enx/eventinfo/389671916_santacruzense_america_sp/",
+        "competition": "Brazil. Campeonato Paulista B",
+        "date_time": "28 June at 19:00",
+        "parsed_datetime": "2026-06-28T19:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:48.658764"
+    },
+    "389672010": {
+        "matchup": "RB Bragantino U-20 –  Capivariano U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/389672010__/",
+        "competition": "Brazil. Campeonato Paulista U20",
+        "date_time": "28 June at 19:00",
+        "parsed_datetime": "2026-06-28T19:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Wales U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag1002.gif"
+                "team_name": "RB Bragantino U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/9231.gif"
             },
             {
-                "team_name": "Spain U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag60.gif"
+                "team_name": "Capivariano U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/12862.gif"
             }
         ],
         "streams": [],
@@ -4247,23 +4252,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:31.725308"
+        "last_updated": "2026-06-28T11:11:48.813367"
     },
-    "389540259": {
-        "matchup": "Libertad – Lavalleja Minas",
-        "event_url": "https://livetv.sx/enx/eventinfo/389540259__/",
-        "competition": "Uruguay. Cup",
-        "date_time": "28 June at 19:30",
-        "parsed_datetime": "2026-06-28T19:30:00",
+    "389672011": {
+        "matchup": "Santos-SP U-20 –  Corinthians U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/389672011__/",
+        "competition": "Brazil. Campeonato Paulista U20",
+        "date_time": "28 June at 19:00",
+        "parsed_datetime": "2026-06-28T19:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Libertad",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/35060.gif"
+                "team_name": "Santos-SP U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/9078.gif"
             },
             {
-                "team_name": "Lavalleja Minas",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/27876.gif"
+                "team_name": "Corinthians U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/9174.gif"
             }
         ],
         "streams": [],
@@ -4272,23 +4277,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.056893"
+        "last_updated": "2026-06-28T11:11:48.960365"
     },
-    "387652725": {
-        "matchup": "Union La Calera – Santiago Wanderers",
-        "event_url": "https://livetv.sx/enx/eventinfo/387652725__/",
-        "competition": "Chile. Cup",
-        "date_time": "28 June at 20:00",
-        "parsed_datetime": "2026-06-28T20:00:00",
+    "389671750": {
+        "matchup": "Sao Caetano U-20 –  Sao Paolo U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/389671750__/",
+        "competition": "Brazil. Campeonato Paulista U20",
+        "date_time": "28 June at 19:00",
+        "parsed_datetime": "2026-06-28T19:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Union La Calera",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37762.gif"
+                "team_name": "Sao Caetano U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/16038.gif"
             },
             {
-                "team_name": "Santiago Wanderers",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/7802.gif"
+                "team_name": "Sao Paolo U-20",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/9014.gif"
             }
         ],
         "streams": [],
@@ -4297,107 +4302,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.194349"
+        "last_updated": "2026-06-28T11:11:49.014053"
     },
-    "387652517": {
-        "matchup": "Germany U-19 –  Denmark U-19",
-        "event_url": "https://livetv.sx/enx/eventinfo/387652517__/",
-        "competition": "European U-19 Championship",
-        "date_time": "28 June at 20:00",
-        "parsed_datetime": "2026-06-28T20:00:00",
+    "389671917": {
+        "matchup": "Paulinia FU – Itaqua",
+        "event_url": "https://livetv.sx/enx/eventinfo/389671917_paulinia_fu_itaqua/",
+        "competition": "Brazil. Campeonato Paulista B",
+        "date_time": "28 June at 19:00",
+        "parsed_datetime": "2026-06-28T19:00:00",
         "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Germany U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag50.gif"
-            },
-            {
-                "team_name": "Denmark U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag53.gif"
-            }
-        ],
+        "team_logos": [],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.264194"
-    },
-    "389517820": {
-        "matchup": "Toronto II – New England Revolution II",
-        "event_url": "https://livetv.sx/enx/eventinfo/389517820__/",
-        "competition": "USA. MLS Next Pro",
-        "date_time": "28 June at 20:00",
-        "parsed_datetime": "2026-06-28T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Toronto II",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14996.gif"
-            },
-            {
-                "team_name": "New England Revolution II",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/22295.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.283389"
-    },
-    "387663836": {
-        "matchup": "Curico Unido – Univ de Concepcion",
-        "event_url": "https://livetv.sx/enx/eventinfo/387663836__/",
-        "competition": "Chile. Cup",
-        "date_time": "28 June at 21:00",
-        "parsed_datetime": "2026-06-28T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Curico Unido",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/731.gif"
-            },
-            {
-                "team_name": "Univ de Concepcion",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/923.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.328950"
-    },
-    "389452277": {
-        "matchup": "Philadelphia Lone Star – Ocean City Nor`easters",
-        "event_url": "https://livetv.sx/enx/eventinfo/389452277__/",
-        "competition": "USA. USL League Two",
-        "date_time": "28 June at 21:00",
-        "parsed_datetime": "2026-06-28T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Philadelphia Lone Star",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/15163.gif"
-            },
-            {
-                "team_name": "Ocean City Nor`easters",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14587.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.479627"
+        "last_updated": "2026-06-28T11:11:49.065302"
     },
     "387652727": {
         "matchup": "Huachipato – Deportes Temuco",
@@ -4422,7 +4343,98 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.549458"
+        "last_updated": "2026-06-28T11:11:49.156955"
+    },
+    "389540259": {
+        "matchup": "Libertad – Lavalleja Minas",
+        "event_url": "https://livetv.sx/enx/eventinfo/389540259__/",
+        "competition": "Uruguay. Cup",
+        "date_time": "28 June at 19:30",
+        "parsed_datetime": "2026-06-28T19:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Libertad",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/35060.gif"
+            },
+            {
+                "team_name": "Lavalleja Minas",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/27876.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.213418"
+    },
+    "389674700": {
+        "matchup": "Erie Sports Center – Pittsburgh Riverhounds 2",
+        "event_url": "https://livetv.sx/enx/eventinfo/389674700_erie_sports_center_pittsburgh_riverhounds_2/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.266565"
+    },
+    "387652725": {
+        "matchup": "Union La Calera – Santiago Wanderers",
+        "event_url": "https://livetv.sx/enx/eventinfo/387652725__/",
+        "competition": "Chile. Cup",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Union La Calera",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37762.gif"
+            },
+            {
+                "team_name": "Santiago Wanderers",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/7802.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.320730"
+    },
+    "387652517": {
+        "matchup": "Germany U-19 –  Denmark U-19",
+        "event_url": "https://livetv.sx/enx/eventinfo/387652517__/",
+        "competition": "European U-19 Championship",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Germany U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag50.gif"
+            },
+            {
+                "team_name": "Denmark U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag53.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.399589"
     },
     "389455471": {
         "matchup": "Seacoast Utd Phantoms – Black Rock",
@@ -4447,23 +4459,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.593447"
+        "last_updated": "2026-06-28T11:11:49.497473"
     },
-    "387674823": {
-        "matchup": "O`Higgins – Deportes Recoleta",
-        "event_url": "https://livetv.sx/enx/eventinfo/387674823__/",
-        "competition": "Chile. Cup",
-        "date_time": "28 June at 22:00",
-        "parsed_datetime": "2026-06-28T22:00:00",
+    "389517820": {
+        "matchup": "Toronto II – New England Revolution II",
+        "event_url": "https://livetv.sx/enx/eventinfo/389517820__/",
+        "competition": "USA. MLS Next Pro",
+        "date_time": "28 June at 20:00",
+        "parsed_datetime": "2026-06-28T20:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "O`Higgins",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1721.gif"
+                "team_name": "Toronto II",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14996.gif"
             },
             {
-                "team_name": "Deportes Recoleta",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33156.gif"
+                "team_name": "New England Revolution II",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/22295.gif"
             }
         ],
         "streams": [],
@@ -4472,7 +4484,82 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:32.745311"
+        "last_updated": "2026-06-28T11:11:49.551918"
+    },
+    "389674742": {
+        "matchup": "San Francisco Glens – San Francisco City",
+        "event_url": "https://livetv.sx/enx/eventinfo/389674742_san_francisco_glens_san_francisco_city/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 22:00",
+        "parsed_datetime": "2026-06-28T22:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "San Francisco Glens",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/34616.gif"
+            },
+            {
+                "team_name": "San Francisco City",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/22647.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.650800"
+    },
+    "387663836": {
+        "matchup": "Curico Unido – Univ de Concepcion",
+        "event_url": "https://livetv.sx/enx/eventinfo/387663836__/",
+        "competition": "Chile. Cup",
+        "date_time": "28 June at 21:00",
+        "parsed_datetime": "2026-06-28T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Curico Unido",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/731.gif"
+            },
+            {
+                "team_name": "Univ de Concepcion",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/923.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.723494"
+    },
+    "389452277": {
+        "matchup": "Philadelphia Lone Star – Ocean City Nor`easters",
+        "event_url": "https://livetv.sx/enx/eventinfo/389452277__/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 21:00",
+        "parsed_datetime": "2026-06-28T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Philadelphia Lone Star",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/15163.gif"
+            },
+            {
+                "team_name": "Ocean City Nor`easters",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14587.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:49.776508"
     },
     "387674821": {
         "matchup": "Rangers de Talca – Nublense",
@@ -4497,23 +4584,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:33.013386"
+        "last_updated": "2026-06-28T11:11:49.831940"
     },
-    "389521810": {
-        "matchup": "Carolina Core – Huntsville City",
-        "event_url": "https://livetv.sx/enx/eventinfo/389521810__/",
-        "competition": "USA. MLS Next Pro",
-        "date_time": "28 June at 23:00",
-        "parsed_datetime": "2026-06-28T23:00:00",
+    "387674823": {
+        "matchup": "O`Higgins – Deportes Recoleta",
+        "event_url": "https://livetv.sx/enx/eventinfo/387674823__/",
+        "competition": "Chile. Cup",
+        "date_time": "28 June at 22:00",
+        "parsed_datetime": "2026-06-28T22:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Carolina Core",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29142.gif"
+                "team_name": "O`Higgins",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/1721.gif"
             },
             {
-                "team_name": "Huntsville City",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26312.gif"
+                "team_name": "Deportes Recoleta",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33156.gif"
             }
         ],
         "streams": [],
@@ -4522,57 +4609,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:33.223538"
-    },
-    "389604192": {
-        "matchup": "Vancouver Rise (W) –  Toronto (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389604192__/",
-        "competition": "Canada. Women. Northern Super League",
-        "date_time": "28 June at 23:30",
-        "parsed_datetime": "2026-06-28T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Vancouver Rise (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/35505.gif"
-            },
-            {
-                "team_name": "Toronto (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/0.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:33.345170"
-    },
-    "389443220": {
-        "matchup": "Weston – Lakeland United",
-        "event_url": "https://livetv.sx/enx/eventinfo/389443220__/",
-        "competition": "USA. USL League Two",
-        "date_time": "28 June at 23:00",
-        "parsed_datetime": "2026-06-28T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Weston",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14594.gif"
-            },
-            {
-                "team_name": "Lakeland United",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37889.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-28T08:32:33.411407"
+        "last_updated": "2026-06-28T11:11:49.918604"
     },
     "387679999": {
         "matchup": "Universidad de Chile – Union San Felipe",
@@ -4597,7 +4634,105 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:33.450679"
+        "last_updated": "2026-06-28T11:11:49.990530"
+    },
+    "389674909": {
+        "matchup": "Albion Colorado – Colorado Storm",
+        "event_url": "https://livetv.sx/enx/eventinfo/389674909_albion_colorado_colorado_storm/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 23:00",
+        "parsed_datetime": "2026-06-28T23:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:50.076805"
+    },
+    "389674908": {
+        "matchup": "Bangers – Bigfoot",
+        "event_url": "https://livetv.sx/enx/eventinfo/389674908_bangers_bigfoot/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 23:00",
+        "parsed_datetime": "2026-06-28T23:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:50.129449"
+    },
+    "389674745": {
+        "matchup": "Blackwatch Rush – Boston Bolts",
+        "event_url": "https://livetv.sx/enx/eventinfo/389674745_blackwatch_rush_boston_bolts/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 23:00",
+        "parsed_datetime": "2026-06-28T23:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:50.178517"
+    },
+    "389521810": {
+        "matchup": "Carolina Core – Huntsville City",
+        "event_url": "https://livetv.sx/enx/eventinfo/389521810__/",
+        "competition": "USA. MLS Next Pro",
+        "date_time": "28 June at 23:00",
+        "parsed_datetime": "2026-06-28T23:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Carolina Core",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29142.gif"
+            },
+            {
+                "team_name": "Huntsville City",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26312.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:50.345486"
+    },
+    "389443220": {
+        "matchup": "Weston – Lakeland United",
+        "event_url": "https://livetv.sx/enx/eventinfo/389443220__/",
+        "competition": "USA. USL League Two",
+        "date_time": "28 June at 23:00",
+        "parsed_datetime": "2026-06-28T23:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Weston",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14594.gif"
+            },
+            {
+                "team_name": "Lakeland United",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/37889.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:50.394839"
     },
     "389521812": {
         "matchup": "Cincinnati 2 – Inter Miami II",
@@ -4622,6 +4757,31 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-28T08:32:33.532358"
+        "last_updated": "2026-06-28T11:11:50.446036"
+    },
+    "389604192": {
+        "matchup": "Vancouver Rise (W) –  Toronto (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/389604192__/",
+        "competition": "Canada. Women. Northern Super League",
+        "date_time": "28 June at 23:30",
+        "parsed_datetime": "2026-06-28T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Vancouver Rise (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/35505.gif"
+            },
+            {
+                "team_name": "Toronto (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/0.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-28T11:11:50.494643"
     }
 }
