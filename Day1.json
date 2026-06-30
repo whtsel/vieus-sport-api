@@ -1,61 +1,11 @@
 {
-    "389828453": {
-        "matchup": "Bulgaria U22 –  France U22",
-        "event_url": "https://livetv.sx/enx/eventinfo/389828453_bulgaria_u22_france_u22/",
-        "competition": "General",
-        "date_time": "20:30 (European U-22 Championship)",
-        "parsed_datetime": "",
-        "is_live": true,
-        "team_logos": [],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=sM-JUs0DGms&lang=en&eid=389828453&lid=3032645&ci=5890&si=5",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-30T21:15:28.089158"
-    },
-    "387950806": {
-        "matchup": "Audax Italiano – Palestino",
-        "event_url": "https://livetv.sx/enx/eventinfo/387950806__/",
-        "competition": "Chile. Cup",
-        "date_time": "30 June at 23:00",
-        "parsed_datetime": "2026-06-30T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Audax Italiano",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33218.gif"
-            },
-            {
-                "team_name": "Palestino",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/501.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-30T21:15:29.439303"
-    },
     "387946979": {
         "matchup": "Caxias –  Anapolis",
         "event_url": "https://livetv.sx/enx/eventinfo/387946979_caxias_anapolis/",
         "competition": "General",
         "date_time": "23:30 (Brazil. Serie C)",
         "parsed_datetime": "",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Caxias",
@@ -66,13 +16,22 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/11200.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=cha8rJYZhKs&lang=en&eid=387946979&lid=3032412&ci=744&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T21:15:29.608287"
+        "last_updated": "2026-06-30T22:51:16.825642"
     },
     "389446908": {
         "matchup": "France FRA – Sweden SWE",
@@ -235,6 +194,31 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-06-30T21:15:29.626965"
+        "last_updated": "2026-06-30T22:51:17.775777"
+    },
+    "387950806": {
+        "matchup": "Audax Italiano – Palestino",
+        "event_url": "https://livetv.sx/enx/eventinfo/387950806__/",
+        "competition": "Chile. Cup",
+        "date_time": "30 June at 23:00",
+        "parsed_datetime": "2026-06-30T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Audax Italiano",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/33218.gif"
+            },
+            {
+                "team_name": "Palestino",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/501.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-30T22:51:17.820326"
     }
 }
