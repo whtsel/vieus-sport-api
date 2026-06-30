@@ -5,7 +5,7 @@
         "competition": "General",
         "date_time": "10:30 (NPL Queensland)",
         "parsed_datetime": "",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "SC Wanderers (W)",
@@ -16,13 +16,22 @@
                 "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14576.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JaaCK7GEHTo&lang=en&eid=389823485&lid=3032390&ci=2766&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.113785"
+        "last_updated": "2026-06-30T10:07:45.533305"
     },
     "389856653": {
         "matchup": "Lithuania U17 – Finland U17",
@@ -38,7 +47,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.319930"
+        "last_updated": "2026-06-30T10:07:45.770366"
     },
     "388876236": {
         "matchup": "U-18 World Championships",
@@ -46,106 +55,40 @@
         "competition": "General",
         "date_time": "10:30 (U18 World Championship)",
         "parsed_datetime": "",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=SkPxcJSFotU&lang=en&eid=388876236&lid=3029934&ci=6211&si=22",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.350563"
+        "last_updated": "2026-06-30T10:07:45.912361"
     },
-    "389823489": {
-        "matchup": "Eastern Suburbs (W) –   Gold Coast United (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389823489__eastern_suburbs_w__gold_coast_united_w/",
-        "competition": "General",
-        "date_time": "10:30 (NPL Queensland)",
-        "parsed_datetime": "",
+    "389094526": {
+        "matchup": "VPS – Inter Turku",
+        "event_url": "https://livetv.sx/enx/eventinfo/389094526__/",
+        "competition": "Finland. Cup",
+        "date_time": "30 June at 16:00",
+        "parsed_datetime": "2026-06-30T16:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Eastern Suburbs (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14577.gif"
+                "team_name": "VPS",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/357.gif"
             },
             {
-                "team_name": "Gold Coast United (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14569.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.535558"
-    },
-    "389446908": {
-        "matchup": "France FRA – Sweden SWE",
-        "event_url": "https://livetv.sx/enx/eventinfo/389446908__/",
-        "competition": "World Cup",
-        "date_time": "30 June at 22:00",
-        "parsed_datetime": "2026-06-30T22:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "France FRA",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag66.gif"
-            },
-            {
-                "team_name": "Sweden SWE",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag183.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "France FRA",
-                "played": "3",
-                "pts": "9"
-            },
-            {
-                "pos": "2",
-                "team": "Norway NOR",
-                "played": "3",
-                "pts": "6"
-            },
-            {
-                "pos": "3",
-                "team": "Senegal SEN",
-                "played": "3",
-                "pts": "3"
-            },
-            {
-                "pos": "4",
-                "team": "Iraq IRQ",
-                "played": "3",
-                "pts": "0"
-            }
-        ],
-        "last_updated": "2026-06-30T06:18:30.645320"
-    },
-    "389823487": {
-        "matchup": "Gold Coast Knights (W) –   Lions (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389823487__gold_coast_knights_w__lions_w/",
-        "competition": "General",
-        "date_time": "10:30 (NPL Queensland)",
-        "parsed_datetime": "",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Gold Coast Knights (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29649.gif"
-            },
-            {
-                "team_name": "Lions (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14568.gif"
+                "team_name": "Inter Turku",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/358.gif"
             }
         ],
         "streams": [],
@@ -154,7 +97,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.690144"
+        "last_updated": "2026-06-30T10:07:46.140340"
     },
     "389410933": {
         "matchup": "Ivory Coast CIV – Norway NOR",
@@ -204,93 +147,7 @@
                 "pts": "1"
             }
         ],
-        "last_updated": "2026-06-30T06:18:30.760605"
-    },
-    "387912078": {
-        "matchup": "RFS – Daugavpils",
-        "event_url": "https://livetv.sx/enx/eventinfo/387912078__/",
-        "competition": "Latvia. Virsliga",
-        "date_time": "30 June at 16:00",
-        "parsed_datetime": "2026-06-30T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "RFS",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26374.gif"
-            },
-            {
-                "team_name": "Daugavpils",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5054.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Riga",
-                "played": "21",
-                "pts": "52"
-            },
-            {
-                "pos": "2",
-                "team": "RFS",
-                "played": "20",
-                "pts": "52"
-            },
-            {
-                "pos": "3",
-                "team": "Auda",
-                "played": "21",
-                "pts": "39"
-            },
-            {
-                "pos": "4",
-                "team": "Liepaja",
-                "played": "20",
-                "pts": "25"
-            },
-            {
-                "pos": "5",
-                "team": "Jelgava",
-                "played": "21",
-                "pts": "25"
-            },
-            {
-                "pos": "6",
-                "team": "Daugavpils",
-                "played": "20",
-                "pts": "24"
-            },
-            {
-                "pos": "7",
-                "team": "Super Nova",
-                "played": "20",
-                "pts": "21"
-            },
-            {
-                "pos": "8",
-                "team": "Tukums",
-                "played": "20",
-                "pts": "17"
-            },
-            {
-                "pos": "9",
-                "team": "Grobina",
-                "played": "21",
-                "pts": "17"
-            },
-            {
-                "pos": "10",
-                "team": "Ogre United",
-                "played": "20",
-                "pts": "10"
-            }
-        ],
-        "last_updated": "2026-06-30T06:18:30.773942"
+        "last_updated": "2026-06-30T10:07:46.192745"
     },
     "387917743": {
         "matchup": "Liepaja – Ogre United",
@@ -376,7 +233,159 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-06-30T06:18:30.804094"
+        "last_updated": "2026-06-30T10:07:46.252013"
+    },
+    "389823489": {
+        "matchup": "Eastern Suburbs (W) –   Gold Coast United (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/389823489__eastern_suburbs_w__gold_coast_united_w/",
+        "competition": "General",
+        "date_time": "10:30 (NPL Queensland)",
+        "parsed_datetime": "",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Eastern Suburbs (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14577.gif"
+            },
+            {
+                "team_name": "Gold Coast United (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14569.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=VheBlugkH5E&lang=en&eid=389823489&lid=3032388&ci=2766&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-30T10:07:46.320840"
+    },
+    "389446908": {
+        "matchup": "France FRA – Sweden SWE",
+        "event_url": "https://livetv.sx/enx/eventinfo/389446908__/",
+        "competition": "World Cup",
+        "date_time": "30 June at 22:00",
+        "parsed_datetime": "2026-06-30T22:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "France FRA",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag66.gif"
+            },
+            {
+                "team_name": "Sweden SWE",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag183.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "France FRA",
+                "played": "3",
+                "pts": "9"
+            },
+            {
+                "pos": "2",
+                "team": "Norway NOR",
+                "played": "3",
+                "pts": "6"
+            },
+            {
+                "pos": "3",
+                "team": "Senegal SEN",
+                "played": "3",
+                "pts": "3"
+            },
+            {
+                "pos": "4",
+                "team": "Iraq IRQ",
+                "played": "3",
+                "pts": "0"
+            }
+        ],
+        "last_updated": "2026-06-30T10:07:46.399228"
+    },
+    "389955613": {
+        "matchup": "SD Raiders –  Sydney U-23",
+        "event_url": "https://livetv.sx/enx/eventinfo/389955613__/",
+        "competition": "Australia. NPL NSW",
+        "date_time": "30 June at 11:00",
+        "parsed_datetime": "2026-06-30T11:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "SD Raiders",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6380.gif"
+            },
+            {
+                "team_name": "Sydney U-23",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/6155.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=vFiEtmzxYEU&lang=en&eid=389955613&lid=3032613&ci=2641&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-30T10:07:46.422713"
+    },
+    "389823487": {
+        "matchup": "Gold Coast Knights (W) –   Lions (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/389823487__gold_coast_knights_w__lions_w/",
+        "competition": "General",
+        "date_time": "10:30 (NPL Queensland)",
+        "parsed_datetime": "",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Gold Coast Knights (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/29649.gif"
+            },
+            {
+                "team_name": "Lions (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14568.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=whMRJxFfgfI&lang=en&eid=389823487&lid=3032389&ci=2766&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-30T10:07:46.465816"
     },
     "389822249": {
         "matchup": "Ha Noi 2 (W) – Ho Chi Minh City 2 (W)",
@@ -384,15 +393,24 @@
         "competition": "Vietnam. Women. National League",
         "date_time": "30 June at 10:00",
         "parsed_datetime": "2026-06-30T10:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Chinese",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/6.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=0Vqz1eXEhrE&lang=en&eid=389822249&lid=3032610&ci=2036&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.837765"
+        "last_updated": "2026-06-30T10:07:46.573990"
     },
     "387946979": {
         "matchup": "Caxias – Anapolis",
@@ -417,7 +435,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.870903"
+        "last_updated": "2026-06-30T10:07:46.626659"
+    },
+    "389955612": {
+        "matchup": "Logan Lightning – Redlands",
+        "event_url": "https://livetv.sx/enx/eventinfo/389955612_logan_lightning_redlands/",
+        "competition": "Australia. Queensland Premier League",
+        "date_time": "30 June at 11:30",
+        "parsed_datetime": "2026-06-30T11:30:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/0.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=0QJVQ7w5bfI&lang=en&eid=389955612&lid=3032612&ci=3354&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-30T10:07:46.707581"
     },
     "389822250": {
         "matchup": "Phong Phu Ha Nam (W) – TKS Viet Nam (W)",
@@ -425,15 +468,24 @@
         "competition": "Vietnam. Women. National League",
         "date_time": "30 June at 10:00",
         "parsed_datetime": "2026-06-30T10:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Chinese",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/6.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=6l3MlKPUjII&lang=en&eid=389822250&lid=3032609&ci=2036&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:30.956765"
+        "last_updated": "2026-06-30T10:07:46.759759"
     },
     "389858538": {
         "matchup": "Ulaanbaatar – Central Stallions",
@@ -458,32 +510,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.172364"
+        "last_updated": "2026-06-30T10:07:46.808021"
     },
-    "389094526": {
-        "matchup": "VPS – Inter Turku",
-        "event_url": "https://livetv.sx/enx/eventinfo/389094526__/",
-        "competition": "Finland. Cup",
-        "date_time": "30 June at 16:00",
-        "parsed_datetime": "2026-06-30T16:00:00",
+    "389823491": {
+        "matchup": "Brisbane City (W) –  Souths Utd (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/389823491__/",
+        "competition": "Australia. Women. NPL Queensland",
+        "date_time": "30 June at 11:15",
+        "parsed_datetime": "2026-06-30T11:15:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "VPS",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/357.gif"
+                "team_name": "Brisbane City (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14571.gif"
             },
             {
-                "team_name": "Inter Turku",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/358.gif"
+                "team_name": "Souths Utd (W)",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14572.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv901.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=i6TrAxejKaM&lang=en&eid=389823491&lid=3032387&ci=2766&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.399094"
+        "last_updated": "2026-06-30T10:07:47.004986"
     },
     "389858540": {
         "matchup": "Deren – Khangarid",
@@ -508,32 +569,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.461160"
-    },
-    "389823491": {
-        "matchup": "Brisbane City (W) –  Souths Utd (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/389823491__/",
-        "competition": "Australia. Women. NPL Queensland",
-        "date_time": "30 June at 11:15",
-        "parsed_datetime": "2026-06-30T11:15:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Brisbane City (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14571.gif"
-            },
-            {
-                "team_name": "Souths Utd (W)",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/14572.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.461174"
+        "last_updated": "2026-06-30T10:07:47.097458"
     },
     "389017358": {
         "matchup": "Bosnia and Herzegovina (W) U-19 –   Sweden (W) U-19",
@@ -558,32 +594,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.490669"
-    },
-    "389017360": {
-        "matchup": "Poland (W) U-19 –   Germany (W) U-19",
-        "event_url": "https://livetv.sx/enx/eventinfo/389017360__/",
-        "competition": "Women. European U-19 Championship",
-        "date_time": "30 June at 19:00",
-        "parsed_datetime": "2026-06-30T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Poland (W) U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag158.gif"
-            },
-            {
-                "team_name": "Germany (W) U-19",
-                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag50.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.530794"
+        "last_updated": "2026-06-30T10:07:47.141152"
     },
     "368301336": {
         "matchup": "Nomme United U-21 –  Flora U-21",
@@ -608,7 +619,93 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.562561"
+        "last_updated": "2026-06-30T10:07:47.200857"
+    },
+    "387912078": {
+        "matchup": "RFS – Daugavpils",
+        "event_url": "https://livetv.sx/enx/eventinfo/387912078__/",
+        "competition": "Latvia. Virsliga",
+        "date_time": "30 June at 16:00",
+        "parsed_datetime": "2026-06-30T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "RFS",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/26374.gif"
+            },
+            {
+                "team_name": "Daugavpils",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/5054.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Riga",
+                "played": "21",
+                "pts": "52"
+            },
+            {
+                "pos": "2",
+                "team": "RFS",
+                "played": "20",
+                "pts": "52"
+            },
+            {
+                "pos": "3",
+                "team": "Auda",
+                "played": "21",
+                "pts": "39"
+            },
+            {
+                "pos": "4",
+                "team": "Liepaja",
+                "played": "20",
+                "pts": "25"
+            },
+            {
+                "pos": "5",
+                "team": "Jelgava",
+                "played": "21",
+                "pts": "25"
+            },
+            {
+                "pos": "6",
+                "team": "Daugavpils",
+                "played": "20",
+                "pts": "24"
+            },
+            {
+                "pos": "7",
+                "team": "Super Nova",
+                "played": "20",
+                "pts": "21"
+            },
+            {
+                "pos": "8",
+                "team": "Tukums",
+                "played": "20",
+                "pts": "17"
+            },
+            {
+                "pos": "9",
+                "team": "Grobina",
+                "played": "21",
+                "pts": "17"
+            },
+            {
+                "pos": "10",
+                "team": "Ogre United",
+                "played": "20",
+                "pts": "10"
+            }
+        ],
+        "last_updated": "2026-06-30T10:07:47.302096"
     },
     "387950806": {
         "matchup": "Audax Italiano – Palestino",
@@ -633,6 +730,31 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-06-30T06:18:31.593233"
+        "last_updated": "2026-06-30T10:07:47.364277"
+    },
+    "389017360": {
+        "matchup": "Poland (W) U-19 –   Germany (W) U-19",
+        "event_url": "https://livetv.sx/enx/eventinfo/389017360__/",
+        "competition": "Women. European U-19 Championship",
+        "date_time": "30 June at 19:00",
+        "parsed_datetime": "2026-06-30T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Poland (W) U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag158.gif"
+            },
+            {
+                "team_name": "Germany (W) U-19",
+                "logo_url": "https://cdn.livetv901.me/img/teams/fullsize/ods/flag50.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-06-30T10:07:47.443927"
     }
 }
