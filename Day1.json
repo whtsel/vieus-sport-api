@@ -5,7 +5,7 @@
         "competition": "Uruguay. Primera Division",
         "date_time": "13 July at 23:00",
         "parsed_datetime": "2026-07-13T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Cerro Largo",
@@ -16,16 +16,7 @@
                 "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/251.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv902.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3036741&lang=en&eid=391664456&lid=3036741&ci=99&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -128,7 +119,32 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-07-13T21:02:37.903370"
+        "last_updated": "2026-07-13T22:29:16.944876"
+    },
+    "389896653": {
+        "matchup": "Itabaiana – Brusque",
+        "event_url": "https://livetv.sx/enx/eventinfo/389896653__/",
+        "competition": "Brazil. Serie C",
+        "date_time": "13 July at 23:30",
+        "parsed_datetime": "2026-07-13T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Itabaiana",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6876.gif"
+            },
+            {
+                "team_name": "Brusque",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30296.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-13T22:29:17.495465"
     },
     "389893778": {
         "matchup": "America Mineiro – Londrina",
@@ -136,7 +152,7 @@
         "competition": "Brazil. Serie B",
         "date_time": "13 July at 23:00",
         "parsed_datetime": "2026-07-13T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "America Mineiro",
@@ -147,16 +163,7 @@
                 "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1103.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "Portuguese",
-                "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3036740&lang=en&eid=389893778&lid=3036740&ci=260&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -283,31 +290,6 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-07-13T21:02:38.499650"
-    },
-    "389896653": {
-        "matchup": "Itabaiana – Brusque",
-        "event_url": "https://livetv.sx/enx/eventinfo/389896653__/",
-        "competition": "Brazil. Serie C",
-        "date_time": "13 July at 23:30",
-        "parsed_datetime": "2026-07-13T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Itabaiana",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6876.gif"
-            },
-            {
-                "team_name": "Brusque",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30296.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-13T21:02:38.613279"
+        "last_updated": "2026-07-13T22:29:17.908249"
     }
 }
