@@ -1,62 +1,134 @@
 {
-    "391544111": {
-        "matchup": "XV de Piracicaba U-20 –  Desportivo Brasil U-20",
-        "event_url": "https://livetv.sx/enx/eventinfo/391544111__/",
-        "competition": "Brazil. Campeonato Paulista U20",
-        "date_time": "13 July at 19:00",
-        "parsed_datetime": "2026-07-13T19:00:00",
-        "is_live": true,
+    "391664456": {
+        "matchup": "Cerro Largo – Defensor Sporting",
+        "event_url": "https://livetv.sx/enx/eventinfo/391664456__/",
+        "competition": "Uruguay. Primera Division",
+        "date_time": "13 July at 23:00",
+        "parsed_datetime": "2026-07-13T23:00:00",
+        "is_live": false,
         "team_logos": [
             {
-                "team_name": "XV de Piracicaba U-20",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/9757.gif"
+                "team_name": "Cerro Largo",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6886.gif"
             },
             {
-                "team_name": "Desportivo Brasil U-20",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/16053.gif"
+                "team_name": "Defensor Sporting",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/251.gif"
             }
         ],
         "streams": [
             {
-                "language": "Portuguese",
-                "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=CLj5Yg99XcE&lang=en&eid=391544111&lid=3036657&ci=2768&si=1",
-                "stream_title": "",
-                "stream_type": ""
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3036741&lang=en&eid=391664456&lid=3036741&ci=99&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
             }
         ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
-        "league_table": [],
-        "last_updated": "2026-07-13T19:36:56.494748"
-    },
-    "389896653": {
-        "matchup": "Itabaiana – Brusque",
-        "event_url": "https://livetv.sx/enx/eventinfo/389896653__/",
-        "competition": "Brazil. Serie C",
-        "date_time": "13 July at 23:30",
-        "parsed_datetime": "2026-07-13T23:30:00",
-        "is_live": false,
-        "team_logos": [
+        "league_table": [
             {
-                "team_name": "Itabaiana",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6876.gif"
+                "pos": "1",
+                "team": "Racing de Montevideo",
+                "played": "15",
+                "pts": "31"
             },
             {
-                "team_name": "Brusque",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30296.gif"
+                "pos": "2",
+                "team": "Deportivo Maldonado",
+                "played": "15",
+                "pts": "29"
+            },
+            {
+                "pos": "3",
+                "team": "Albion",
+                "played": "15",
+                "pts": "28"
+            },
+            {
+                "pos": "4",
+                "team": "Penarol",
+                "played": "15",
+                "pts": "27"
+            },
+            {
+                "pos": "5",
+                "team": "Central Espanol",
+                "played": "15",
+                "pts": "24"
+            },
+            {
+                "pos": "6",
+                "team": "MC Torque",
+                "played": "15",
+                "pts": "23"
+            },
+            {
+                "pos": "7",
+                "team": "Nacional M",
+                "played": "15",
+                "pts": "22"
+            },
+            {
+                "pos": "8",
+                "team": "Defensor Sporting",
+                "played": "15",
+                "pts": "21"
+            },
+            {
+                "pos": "9",
+                "team": "Liverpool M",
+                "played": "15",
+                "pts": "20"
+            },
+            {
+                "pos": "10",
+                "team": "Montevideo Wanderers",
+                "played": "15",
+                "pts": "20"
+            },
+            {
+                "pos": "11",
+                "team": "Danubio",
+                "played": "15",
+                "pts": "18"
+            },
+            {
+                "pos": "12",
+                "team": "Cerro Largo",
+                "played": "15",
+                "pts": "17"
+            },
+            {
+                "pos": "13",
+                "team": "Boston River",
+                "played": "15",
+                "pts": "17"
+            },
+            {
+                "pos": "14",
+                "team": "Juventud Las Piedras",
+                "played": "15",
+                "pts": "15"
+            },
+            {
+                "pos": "15",
+                "team": "Progreso",
+                "played": "15",
+                "pts": "10"
+            },
+            {
+                "pos": "16",
+                "team": "Cerro",
+                "played": "15",
+                "pts": "10"
             }
         ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-13T19:36:57.113853"
+        "last_updated": "2026-07-13T21:02:37.903370"
     },
     "389893778": {
         "matchup": "America Mineiro – Londrina",
@@ -75,7 +147,16 @@
                 "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1103.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3036740&lang=en&eid=389893778&lid=3036740&ci=260&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
@@ -202,6 +283,31 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-07-13T19:36:57.358011"
+        "last_updated": "2026-07-13T21:02:38.499650"
+    },
+    "389896653": {
+        "matchup": "Itabaiana – Brusque",
+        "event_url": "https://livetv.sx/enx/eventinfo/389896653__/",
+        "competition": "Brazil. Serie C",
+        "date_time": "13 July at 23:30",
+        "parsed_datetime": "2026-07-13T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Itabaiana",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6876.gif"
+            },
+            {
+                "team_name": "Brusque",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30296.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-13T21:02:38.613279"
     }
 }
