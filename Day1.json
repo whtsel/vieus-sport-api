@@ -7,22 +7,13 @@
         "parsed_datetime": "",
         "is_live": false,
         "team_logos": [],
-        "streams": [
-            {
-                "language": "",
-                "flag_src": "https://cdn.livetv902.me/img/linkflag/0.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JHbgCr-DOkY&lang=en&eid=391012129&lid=3037071&ci=2263&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:25.077062"
+        "last_updated": "2026-07-16T08:27:29.402838"
     },
     "391640696": {
         "matchup": "Malaysia (W) – Singapore (W)",
@@ -47,7 +38,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:25.558227"
+        "last_updated": "2026-07-16T08:27:29.911084"
     },
     "391640695": {
         "matchup": "Indonesia (W) – Cambodia (W)",
@@ -72,7 +63,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:25.929416"
+        "last_updated": "2026-07-16T08:27:30.356617"
     },
     "391119787": {
         "matchup": "Phong Phu Ha Nam (W) – Ho Chi Minh City 2 (W)",
@@ -88,23 +79,39 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.282203"
+        "last_updated": "2026-07-16T08:27:30.404201"
     },
-    "391816332": {
-        "matchup": "Arys – Turan",
-        "event_url": "https://livetv.sx/enx/eventinfo/391816332_arys_turan/",
+    "391816333": {
+        "matchup": "Batyr – Shakhter Karaganda",
+        "event_url": "https://livetv.sx/enx/eventinfo/391816333_batyr_shakhter_karaganda/",
         "competition": "Kazakhstan. 1 Division",
         "date_time": "16 July at 13:00",
         "parsed_datetime": "2026-07-16T13:00:00",
         "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:30.731153"
+    },
+    "390256971": {
+        "matchup": "Derry City – CSKA Sofia",
+        "event_url": "https://livetv.sx/enx/eventinfo/390256971__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "16 July at 18:30",
+        "parsed_datetime": "2026-07-16T18:30:00",
+        "is_live": false,
         "team_logos": [
             {
-                "team_name": "Arys",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/42830.gif"
+                "team_name": "Derry City",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/390.gif"
             },
             {
-                "team_name": "Turan",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/48673.gif"
+                "team_name": "CSKA Sofia",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3793.gif"
             }
         ],
         "streams": [],
@@ -113,7 +120,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.379647"
+        "last_updated": "2026-07-16T08:27:30.765193"
     },
     "390279396": {
         "matchup": "Vestri – Qarabag",
@@ -138,7 +145,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.421020"
+        "last_updated": "2026-07-16T08:27:30.810166"
     },
     "390266563": {
         "matchup": "Ferencvaros – Vojvodina",
@@ -163,7 +170,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.580330"
+        "last_updated": "2026-07-16T08:27:30.833480"
+    },
+    "391816332": {
+        "matchup": "Arys – Turan",
+        "event_url": "https://livetv.sx/enx/eventinfo/391816332_arys_turan/",
+        "competition": "Kazakhstan. 1 Division",
+        "date_time": "16 July at 13:00",
+        "parsed_datetime": "2026-07-16T13:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Arys",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/42830.gif"
+            },
+            {
+                "team_name": "Turan",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/48673.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:30.866054"
     },
     "390266565": {
         "matchup": "Zilina – Hajduk",
@@ -188,7 +220,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.594992"
+        "last_updated": "2026-07-16T08:27:31.028228"
     },
     "390256973": {
         "matchup": "U Cluj – Dynamo Kyiv",
@@ -213,7 +245,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.638706"
+        "last_updated": "2026-07-16T08:27:31.095382"
+    },
+    "390261671": {
+        "matchup": "Aluminij – Sheriff",
+        "event_url": "https://livetv.sx/enx/eventinfo/390261671__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "16 July at 19:00",
+        "parsed_datetime": "2026-07-16T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Aluminij",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35986.gif"
+            },
+            {
+                "team_name": "Sheriff",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30142.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:31.097920"
     },
     "390297288": {
         "matchup": "Botafogo-RJ – Santos-SP",
@@ -359,73 +416,7 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-07-16T05:59:26.697225"
-    },
-    "390256971": {
-        "matchup": "Derry City – CSKA Sofia",
-        "event_url": "https://livetv.sx/enx/eventinfo/390256971__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "16 July at 18:30",
-        "parsed_datetime": "2026-07-16T18:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Derry City",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/390.gif"
-            },
-            {
-                "team_name": "CSKA Sofia",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3793.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.798010"
-    },
-    "391816333": {
-        "matchup": "Batyr – Shakhter Karaganda",
-        "event_url": "https://livetv.sx/enx/eventinfo/391816333_batyr_shakhter_karaganda/",
-        "competition": "Kazakhstan. 1 Division",
-        "date_time": "16 July at 13:00",
-        "parsed_datetime": "2026-07-16T13:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.808236"
-    },
-    "390261671": {
-        "matchup": "Aluminij – Sheriff",
-        "event_url": "https://livetv.sx/enx/eventinfo/390261671__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "16 July at 19:00",
-        "parsed_datetime": "2026-07-16T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Aluminij",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35986.gif"
-            },
-            {
-                "team_name": "Sheriff",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30142.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:26.921310"
+        "last_updated": "2026-07-16T08:27:31.217956"
     },
     "390297286": {
         "matchup": "Vitoria-BA – Vasco de Gama",
@@ -571,7 +562,7 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-07-16T05:59:26.966847"
+        "last_updated": "2026-07-16T08:27:31.237783"
     },
     "391816334": {
         "matchup": "Taraz – Aktobe 2",
@@ -587,7 +578,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.021113"
+        "last_updated": "2026-07-16T08:27:31.269181"
     },
     "391816335": {
         "matchup": "Khan Tengri – Yelimay Semey 2",
@@ -603,57 +594,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.043984"
-    },
-    "390239364": {
-        "matchup": "Elimai – Alashkert",
-        "event_url": "https://livetv.sx/enx/eventinfo/390239364__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "16 July at 16:00",
-        "parsed_datetime": "2026-07-16T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Elimai",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26416.gif"
-            },
-            {
-                "team_name": "Alashkert",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34992.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.325427"
-    },
-    "391830512": {
-        "matchup": "Kharkiv – Hradec Kralove",
-        "event_url": "https://livetv.sx/enx/eventinfo/391830512_kharkiv_hradec_kralove/",
-        "competition": "Friendly Match",
-        "date_time": "16 July at 16:30",
-        "parsed_datetime": "2026-07-16T16:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Kharkiv",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/31.gif"
-            },
-            {
-                "team_name": "Hradec Kralove",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/10824.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.402673"
+        "last_updated": "2026-07-16T08:27:31.300578"
     },
     "390239362": {
         "matchup": "Inter Turku – Sarajevo",
@@ -678,7 +619,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.443327"
+        "last_updated": "2026-07-16T08:27:31.640421"
+    },
+    "390239364": {
+        "matchup": "Elimai – Alashkert",
+        "event_url": "https://livetv.sx/enx/eventinfo/390239364__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "16 July at 16:00",
+        "parsed_datetime": "2026-07-16T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Elimai",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26416.gif"
+            },
+            {
+                "team_name": "Alashkert",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34992.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:31.681286"
     },
     "390239366": {
         "matchup": "Astana – Dinamo City",
@@ -703,23 +669,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.493244"
+        "last_updated": "2026-07-16T08:27:31.708628"
     },
-    "390240166": {
-        "matchup": "Sogdiana – Khorezm Urganch",
-        "event_url": "https://livetv.sx/enx/eventinfo/390240166__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "16 July at 16:00",
-        "parsed_datetime": "2026-07-16T16:00:00",
+    "391830512": {
+        "matchup": "Kharkiv – Hradec Kralove",
+        "event_url": "https://livetv.sx/enx/eventinfo/391830512_kharkiv_hradec_kralove/",
+        "competition": "Friendly Match",
+        "date_time": "16 July at 16:30",
+        "parsed_datetime": "2026-07-16T16:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Sogdiana",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4756.gif"
+                "team_name": "Kharkiv",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/31.gif"
             },
             {
-                "team_name": "Khorezm Urganch",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/22474.gif"
+                "team_name": "Hradec Kralove",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/10824.gif"
             }
         ],
         "streams": [],
@@ -728,32 +694,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.535852"
-    },
-    "390240170": {
-        "matchup": "Bunyodkor – Nasaf",
-        "event_url": "https://livetv.sx/enx/eventinfo/390240170__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "16 July at 16:00",
-        "parsed_datetime": "2026-07-16T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bunyodkor",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4748.gif"
-            },
-            {
-                "team_name": "Nasaf",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33443.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.590756"
+        "last_updated": "2026-07-16T08:27:31.740963"
     },
     "390240168": {
         "matchup": "Neftchi – Buxoro",
@@ -778,7 +719,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.630334"
+        "last_updated": "2026-07-16T08:27:31.778744"
+    },
+    "390240166": {
+        "matchup": "Sogdiana – Khorezm Urganch",
+        "event_url": "https://livetv.sx/enx/eventinfo/390240166__/",
+        "competition": "Uzbekistan. Super League",
+        "date_time": "16 July at 16:00",
+        "parsed_datetime": "2026-07-16T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sogdiana",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4756.gif"
+            },
+            {
+                "team_name": "Khorezm Urganch",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/22474.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:31.880097"
+    },
+    "390240170": {
+        "matchup": "Bunyodkor – Nasaf",
+        "event_url": "https://livetv.sx/enx/eventinfo/390240170__/",
+        "competition": "Uzbekistan. Super League",
+        "date_time": "16 July at 16:00",
+        "parsed_datetime": "2026-07-16T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Bunyodkor",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4748.gif"
+            },
+            {
+                "team_name": "Nasaf",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33443.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:31.922809"
     },
     "390244667": {
         "matchup": "Viimsi – Elva",
@@ -803,32 +794,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.745184"
-    },
-    "390243485": {
-        "matchup": "Pyunik – Marsaxlokk",
-        "event_url": "https://livetv.sx/enx/eventinfo/390243485__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "16 July at 17:00",
-        "parsed_datetime": "2026-07-16T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Pyunik",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4083.gif"
-            },
-            {
-                "team_name": "Marsaxlokk",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35242.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.810706"
+        "last_updated": "2026-07-16T08:27:31.956423"
     },
     "390135116": {
         "matchup": "Cumbaya – 9 de Octubre",
@@ -853,7 +819,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:27.881831"
+        "last_updated": "2026-07-16T08:27:32.064591"
+    },
+    "390243485": {
+        "matchup": "Pyunik – Marsaxlokk",
+        "event_url": "https://livetv.sx/enx/eventinfo/390243485__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "16 July at 17:00",
+        "parsed_datetime": "2026-07-16T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Pyunik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4083.gif"
+            },
+            {
+                "team_name": "Marsaxlokk",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35242.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:32.299521"
     },
     "390243487": {
         "matchup": "Paide – Hegelmann",
@@ -878,57 +869,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.097989"
-    },
-    "390243491": {
-        "matchup": "Ilves – Differdange 03",
-        "event_url": "https://livetv.sx/enx/eventinfo/390243491__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "16 July at 17:00",
-        "parsed_datetime": "2026-07-16T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Ilves",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/722.gif"
-            },
-            {
-                "team_name": "Differdange 03",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6524.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.206568"
-    },
-    "390247887": {
-        "matchup": "RFS – Glentoran",
-        "event_url": "https://livetv.sx/enx/eventinfo/390247887__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "16 July at 17:30",
-        "parsed_datetime": "2026-07-16T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "RFS",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26374.gif"
-            },
-            {
-                "team_name": "Glentoran",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/632.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.294735"
+        "last_updated": "2026-07-16T08:27:32.331995"
     },
     "390243493": {
         "matchup": "St Josephs – Bohemian",
@@ -953,7 +894,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.340604"
+        "last_updated": "2026-07-16T08:27:32.409053"
     },
     "390243489": {
         "matchup": "Torpedo Kt – Zira",
@@ -978,7 +919,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.375384"
+        "last_updated": "2026-07-16T08:27:32.444110"
+    },
+    "390243491": {
+        "matchup": "Ilves – Differdange 03",
+        "event_url": "https://livetv.sx/enx/eventinfo/390243491__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "16 July at 17:00",
+        "parsed_datetime": "2026-07-16T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Ilves",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/722.gif"
+            },
+            {
+                "team_name": "Differdange 03",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6524.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:32.476106"
     },
     "390247470": {
         "matchup": "Hapoel Beer Sheva – Maccabi Tel Aviv",
@@ -1003,7 +969,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.418409"
+        "last_updated": "2026-07-16T08:27:32.590650"
     },
     "390247885": {
         "matchup": "Levadia – Caernarfon Town",
@@ -1028,7 +994,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.461597"
+        "last_updated": "2026-07-16T08:27:32.671220"
     },
     "390252686": {
         "matchup": "Valerenga – Aalesund",
@@ -1150,7 +1116,32 @@
                 "pts": "7"
             }
         ],
-        "last_updated": "2026-07-16T05:59:28.516556"
+        "last_updated": "2026-07-16T08:27:32.715024"
+    },
+    "390247887": {
+        "matchup": "RFS – Glentoran",
+        "event_url": "https://livetv.sx/enx/eventinfo/390247887__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "16 July at 17:30",
+        "parsed_datetime": "2026-07-16T17:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "RFS",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26374.gif"
+            },
+            {
+                "team_name": "Glentoran",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/632.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:32.750786"
     },
     "390271379": {
         "matchup": "Lech Poznan – Gornik Zabrze",
@@ -1175,7 +1166,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.560995"
+        "last_updated": "2026-07-16T08:27:32.786494"
     },
     "390252224": {
         "matchup": "Santa Coloma – Penybont",
@@ -1200,7 +1191,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.716237"
+        "last_updated": "2026-07-16T08:27:32.992001"
     },
     "390252226": {
         "matchup": "Zalgiris – Petrovac",
@@ -1225,32 +1216,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.806895"
-    },
-    "390252231": {
-        "matchup": "BATE – Elbasani",
-        "event_url": "https://livetv.sx/enx/eventinfo/390252231__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "16 July at 18:00",
-        "parsed_datetime": "2026-07-16T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "BATE",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/514.gif"
-            },
-            {
-                "team_name": "Elbasani",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/32546.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:28.980581"
+        "last_updated": "2026-07-16T08:27:33.027375"
     },
     "390252228": {
         "matchup": "Dinamo Tbilisi – Mondorf-les-Bains",
@@ -1275,23 +1241,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.048211"
+        "last_updated": "2026-07-16T08:27:33.099880"
     },
-    "390257065": {
-        "matchup": "Hamrun Spartans – NSI Runavik",
-        "event_url": "https://livetv.sx/enx/eventinfo/390257065__/",
+    "390252231": {
+        "matchup": "BATE – Elbasani",
+        "event_url": "https://livetv.sx/enx/eventinfo/390252231__/",
         "competition": "Europa Conference League Qualifying",
-        "date_time": "16 July at 18:30",
-        "parsed_datetime": "2026-07-16T18:30:00",
+        "date_time": "16 July at 18:00",
+        "parsed_datetime": "2026-07-16T18:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Hamrun Spartans",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/8521.gif"
+                "team_name": "BATE",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/514.gif"
             },
             {
-                "team_name": "NSI Runavik",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3716.gif"
+                "team_name": "Elbasani",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/32546.gif"
             }
         ],
         "streams": [],
@@ -1300,7 +1266,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.087275"
+        "last_updated": "2026-07-16T08:27:33.180222"
     },
     "390252232": {
         "matchup": "Milsami – Velez",
@@ -1325,7 +1291,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.130570"
+        "last_updated": "2026-07-16T08:27:33.216996"
     },
     "390252234": {
         "matchup": "Vikingur Reykjavik – Stjarnan",
@@ -1350,7 +1316,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.211622"
+        "last_updated": "2026-07-16T08:27:33.353082"
+    },
+    "390257065": {
+        "matchup": "Hamrun Spartans – NSI Runavik",
+        "event_url": "https://livetv.sx/enx/eventinfo/390257065__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "16 July at 18:30",
+        "parsed_datetime": "2026-07-16T18:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Hamrun Spartans",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/8521.gif"
+            },
+            {
+                "team_name": "NSI Runavik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3716.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:33.388725"
     },
     "390261765": {
         "matchup": "Shkendija – Europa",
@@ -1375,7 +1366,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.211634"
+        "last_updated": "2026-07-16T08:27:33.420994"
     },
     "390261767": {
         "matchup": "Sileks – Dinamo Minsk",
@@ -1400,7 +1391,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.311894"
+        "last_updated": "2026-07-16T08:27:33.455886"
     },
     "390261769": {
         "matchup": "Balkani – Connah`s Quay",
@@ -1425,7 +1416,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.362745"
+        "last_updated": "2026-07-16T08:27:33.518151"
     },
     "391827930": {
         "matchup": "Juventus SP U-20 –  Sertaozinho U-20",
@@ -1450,7 +1441,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.523027"
+        "last_updated": "2026-07-16T08:27:33.693525"
     },
     "390270739": {
         "matchup": "Mornar – Atletic Escaldes",
@@ -1475,7 +1466,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.562253"
+        "last_updated": "2026-07-16T08:27:33.729110"
     },
     "390270741": {
         "matchup": "Linfield – Nomme Kalju",
@@ -1500,57 +1491,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.700809"
-    },
-    "390135120": {
-        "matchup": "Atletico Rojiblanco – San Antonio Cotacachi",
-        "event_url": "https://livetv.sx/enx/eventinfo/390135120__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "16 July at 20:00",
-        "parsed_datetime": "2026-07-16T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Atletico Rojiblanco",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/37734.gif"
-            },
-            {
-                "team_name": "San Antonio Cotacachi",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30002.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.744810"
-    },
-    "391864083": {
-        "matchup": "Minneapolis City – West Virginiated",
-        "event_url": "https://livetv.sx/enx/eventinfo/391864083__/",
-        "competition": "USA. USL League Two",
-        "date_time": "16 July at 21:00",
-        "parsed_datetime": "2026-07-16T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Minneapolis City",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21390.gif"
-            },
-            {
-                "team_name": "West Virginiated",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14600.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.860386"
+        "last_updated": "2026-07-16T08:27:33.794705"
     },
     "390270743": {
         "matchup": "Virtus – Dila",
@@ -1575,7 +1516,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-16T05:59:29.916090"
+        "last_updated": "2026-07-16T08:27:33.859670"
+    },
+    "391864083": {
+        "matchup": "Minneapolis City – West Virginiated",
+        "event_url": "https://livetv.sx/enx/eventinfo/391864083__/",
+        "competition": "USA. USL League Two",
+        "date_time": "16 July at 21:00",
+        "parsed_datetime": "2026-07-16T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Minneapolis City",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21390.gif"
+            },
+            {
+                "team_name": "West Virginiated",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14600.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:34.063615"
+    },
+    "390135120": {
+        "matchup": "Atletico Rojiblanco – San Antonio Cotacachi",
+        "event_url": "https://livetv.sx/enx/eventinfo/390135120__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "16 July at 20:00",
+        "parsed_datetime": "2026-07-16T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Atletico Rojiblanco",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/37734.gif"
+            },
+            {
+                "team_name": "San Antonio Cotacachi",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30002.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-16T08:27:34.163758"
     },
     "391741350": {
         "matchup": "ABB – Independiente Petrolero",
@@ -1697,7 +1688,7 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-07-16T05:59:29.966337"
+        "last_updated": "2026-07-16T08:27:34.264003"
     },
     "389743294": {
         "matchup": "Aucas – Independiente",
@@ -1819,6 +1810,6 @@
                 "pts": "13"
             }
         ],
-        "last_updated": "2026-07-16T05:59:30.082131"
+        "last_updated": "2026-07-16T08:27:34.304200"
     }
 }
