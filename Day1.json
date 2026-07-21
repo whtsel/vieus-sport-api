@@ -22,7 +22,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:14.307130"
+        "last_updated": "2026-07-21T09:10:59.811962"
     },
     "390966706": {
         "matchup": "AGF – Lech Poznan",
@@ -47,7 +47,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:14.933648"
+        "last_updated": "2026-07-21T09:11:00.429652"
     },
     "391723900": {
         "matchup": "Dalian Kewei – Beijing Guoan",
@@ -55,7 +55,7 @@
         "competition": "China. FA Cup",
         "date_time": "21 July at 9:00",
         "parsed_datetime": "2026-07-21T09:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Dalian Kewei",
@@ -66,163 +66,70 @@
                 "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/819.gif"
             }
         ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.088623"
-    },
-    "390963014": {
-        "matchup": "Sturm – Hearts",
-        "event_url": "https://livetv.sx/enx/eventinfo/390963014__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 19:30",
-        "parsed_datetime": "2026-07-21T19:30:00",
-        "is_live": false,
-        "team_logos": [
+        "streams": [
             {
-                "team_name": "Sturm",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4555.gif"
-            },
-            {
-                "team_name": "Hearts",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/398.gif"
+                "language": "",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://tinyurl.com/5ftk9p9z",
+                "stream_title": "",
+                "stream_type": "Web"
             }
         ],
-        "streams": [],
         "starting_lineups": {
-            "home_team": [],
-            "away_team": []
+            "home_team": [
+                "01.",
+                "Chong Zhang",
+                "(G)",
+                "09.",
+                "Zhizhi Liu",
+                "20.",
+                "Xianbing Zhang",
+                "35.",
+                "Peng Wang",
+                "08.",
+                "Dilxat Ablimit",
+                "14.",
+                "Zhen Li",
+                "30.",
+                "Zeyuan Yu",
+                "05.",
+                "Yuncheng Fu",
+                "29.",
+                "Yongze Chen",
+                "18.",
+                "Xuchen Yao",
+                "31.",
+                "Bahtiyar Peyzullah"
+            ],
+            "away_team": [
+                "31.",
+                "Shaoziyang Liu",
+                "(G)",
+                "17.",
+                "Liyu Yang",
+                "11.",
+                "Liangming Lin",
+                "47.",
+                "Jiefu Deng",
+                "36.",
+                "Feifan Jia",
+                "30.",
+                "Shuangjie Fan",
+                "06.",
+                "Zhongguo Chi",
+                "09.",
+                "Yuning Zhang",
+                "37.",
+                "Yongjing Cao",
+                "26.",
+                "Yang Bai",
+                "24.",
+                "Abduhamit Abdugheni"
+            ]
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.160084"
-    },
-    "390963016": {
-        "matchup": "Thun – Dinamo Zagreb",
-        "event_url": "https://livetv.sx/enx/eventinfo/390963016__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 19:00",
-        "parsed_datetime": "2026-07-21T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Thun",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/88.gif"
-            },
-            {
-                "team_name": "Dinamo Zagreb",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/28655.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.170289"
-    },
-    "390963015": {
-        "matchup": "Fenerbahce – Gornik Zabrze",
-        "event_url": "https://livetv.sx/enx/eventinfo/390963015__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 19:00",
-        "parsed_datetime": "2026-07-21T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Fenerbahce",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/553.gif"
-            },
-            {
-                "team_name": "Gornik Zabrze",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/409.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.339124"
-    },
-    "391754192": {
-        "matchup": "Sabah – KuPS",
-        "event_url": "https://livetv.sx/enx/eventinfo/391754192__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 17:00",
-        "parsed_datetime": "2026-07-21T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Sabah",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30138.gif"
-            },
-            {
-                "team_name": "KuPS",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/595.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.339139"
-    },
-    "391750023": {
-        "matchup": "Vikingur Reykjavik – Hapoel Beer Sheva",
-        "event_url": "https://livetv.sx/enx/eventinfo/391750023__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 20:00",
-        "parsed_datetime": "2026-07-21T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Vikingur Reykjavik",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/752.gif"
-            },
-            {
-                "team_name": "Hapoel Beer Sheva",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/780.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.339199"
-    },
-    "391759777": {
-        "matchup": "Ararat-Armenia – Shamrock Rovers",
-        "event_url": "https://livetv.sx/enx/eventinfo/391759777__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 17:00",
-        "parsed_datetime": "2026-07-21T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Ararat-Armenia",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/2255.gif"
-            },
-            {
-                "team_name": "Shamrock Rovers",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1090.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.387467"
+        "last_updated": "2026-07-21T09:11:00.827873"
     },
     "391759781": {
         "matchup": "Larne – Crvena Zvezda",
@@ -247,7 +154,157 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.413226"
+        "last_updated": "2026-07-21T09:11:00.957651"
+    },
+    "391754192": {
+        "matchup": "Sabah – KuPS",
+        "event_url": "https://livetv.sx/enx/eventinfo/391754192__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 17:00",
+        "parsed_datetime": "2026-07-21T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sabah",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30138.gif"
+            },
+            {
+                "team_name": "KuPS",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/595.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:01.013160"
+    },
+    "391759777": {
+        "matchup": "Ararat-Armenia – Shamrock Rovers",
+        "event_url": "https://livetv.sx/enx/eventinfo/391759777__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 17:00",
+        "parsed_datetime": "2026-07-21T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Ararat-Armenia",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/2255.gif"
+            },
+            {
+                "team_name": "Shamrock Rovers",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1090.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:01.056489"
+    },
+    "390963016": {
+        "matchup": "Thun – Dinamo Zagreb",
+        "event_url": "https://livetv.sx/enx/eventinfo/390963016__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 19:00",
+        "parsed_datetime": "2026-07-21T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Thun",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/88.gif"
+            },
+            {
+                "team_name": "Dinamo Zagreb",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/28655.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:01.119996"
+    },
+    "390963014": {
+        "matchup": "Sturm – Hearts",
+        "event_url": "https://livetv.sx/enx/eventinfo/390963014__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 19:30",
+        "parsed_datetime": "2026-07-21T19:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sturm",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4555.gif"
+            },
+            {
+                "team_name": "Hearts",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/398.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:01.171935"
+    },
+    "390963015": {
+        "matchup": "Fenerbahce – Gornik Zabrze",
+        "event_url": "https://livetv.sx/enx/eventinfo/390963015__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 19:00",
+        "parsed_datetime": "2026-07-21T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Fenerbahce",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/553.gif"
+            },
+            {
+                "team_name": "Gornik Zabrze",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/409.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:01.171952"
+    },
+    "391750023": {
+        "matchup": "Vikingur Reykjavik – Hapoel Beer Sheva",
+        "event_url": "https://livetv.sx/enx/eventinfo/391750023__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 20:00",
+        "parsed_datetime": "2026-07-21T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Vikingur Reykjavik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/752.gif"
+            },
+            {
+                "team_name": "Hapoel Beer Sheva",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/780.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:01.180213"
     },
     "391745876": {
         "matchup": "Mjaellby – Lincoln Red Imps",
@@ -272,57 +329,41 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.423519"
+        "last_updated": "2026-07-21T09:11:01.241274"
     },
-    "390940666": {
-        "matchup": "Lions – Perth Glory",
-        "event_url": "https://livetv.sx/enx/eventinfo/390940666__/",
-        "competition": "Australia. Cup",
-        "date_time": "21 July at 10:30",
-        "parsed_datetime": "2026-07-21T10:30:00",
-        "is_live": false,
+    "392580723": {
+        "matchup": "Newcastle Olympic II – Belmont Swansea United II",
+        "event_url": "https://livetv.sx/enx/eventinfo/392580723__/",
+        "competition": "Australia. Northern NSW. Reserve",
+        "date_time": "21 July at 9:15",
+        "parsed_datetime": "2026-07-21T09:15:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Lions",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/12990.gif"
+                "team_name": "Newcastle Olympic II",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30424.gif"
             },
             {
-                "team_name": "Perth Glory",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/648.gif"
+                "team_name": "Belmont Swansea United II",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33458.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=nn4vaDp61YQ&lang=en&eid=392580723&lid=3039085&ci=7842&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.824029"
-    },
-    "390940667": {
-        "matchup": "Preston Lions – Newcastle Jets",
-        "event_url": "https://livetv.sx/enx/eventinfo/390940667__/",
-        "competition": "Australia. Cup",
-        "date_time": "21 July at 10:30",
-        "parsed_datetime": "2026-07-21T10:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Preston Lions",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14327.gif"
-            },
-            {
-                "team_name": "Newcastle Jets",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/646.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.886570"
+        "last_updated": "2026-07-21T09:11:01.420988"
     },
     "390943663": {
         "matchup": "Cumberland United – Heidelberg United",
@@ -341,38 +382,90 @@
                 "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/11170.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=8u5dN1ykAio&lang=en&eid=390943663&lid=3036906&ci=1107&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:15.981365"
+        "last_updated": "2026-07-21T09:11:01.840027"
     },
-    "390946941": {
-        "matchup": "Shanghai Shenhua – Qingdao Hainiu",
-        "event_url": "https://livetv.sx/enx/eventinfo/390946941__/",
-        "competition": "China. FA Cup",
-        "date_time": "21 July at 12:00",
-        "parsed_datetime": "2026-07-21T12:00:00",
+    "390940666": {
+        "matchup": "Lions – Perth Glory",
+        "event_url": "https://livetv.sx/enx/eventinfo/390940666__/",
+        "competition": "Australia. Cup",
+        "date_time": "21 July at 10:30",
+        "parsed_datetime": "2026-07-21T10:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Shanghai Shenhua",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/739.gif"
+                "team_name": "Lions",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/12990.gif"
             },
             {
-                "team_name": "Qingdao Hainiu",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21326.gif"
+                "team_name": "Perth Glory",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/648.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=JLn1-_GklR0&lang=en&eid=390940666&lid=3036908&ci=1107&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.057333"
+        "last_updated": "2026-07-21T09:11:01.994310"
+    },
+    "390940667": {
+        "matchup": "Preston Lions – Newcastle Jets",
+        "event_url": "https://livetv.sx/enx/eventinfo/390940667__/",
+        "competition": "Australia. Cup",
+        "date_time": "21 July at 10:30",
+        "parsed_datetime": "2026-07-21T10:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Preston Lions",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14327.gif"
+            },
+            {
+                "team_name": "Newcastle Jets",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/646.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=auE7J6wWAXQ&lang=en&eid=390940667&lid=3036907&ci=1107&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:02.058073"
     },
     "390943664": {
         "matchup": "Bayswater City – Sydney",
@@ -397,57 +490,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.151013"
-    },
-    "390946945": {
-        "matchup": "Chongqing Tonglianglong – Qingdao West Coast",
-        "event_url": "https://livetv.sx/enx/eventinfo/390946945__/",
-        "competition": "China. FA Cup",
-        "date_time": "21 July at 12:35",
-        "parsed_datetime": "2026-07-21T12:35:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Chongqing Tonglianglong",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26582.gif"
-            },
-            {
-                "team_name": "Qingdao West Coast",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34386.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.209642"
-    },
-    "391015883": {
-        "matchup": "Shanghai Port – Shenzhen Peng City",
-        "event_url": "https://livetv.sx/enx/eventinfo/391015883__/",
-        "competition": "China. FA Cup",
-        "date_time": "21 July at 12:35",
-        "parsed_datetime": "2026-07-21T12:35:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Shanghai Port",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1793.gif"
-            },
-            {
-                "team_name": "Shenzhen Peng City",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/28954.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.235918"
+        "last_updated": "2026-07-21T09:11:02.096865"
     },
     "391015881": {
         "matchup": "Wuhan Three Towns – Shandong Taishan",
@@ -472,7 +515,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.284409"
+        "last_updated": "2026-07-21T09:11:02.188023"
     },
     "391816342": {
         "matchup": "Ulytau (W) – Atyrau (W)",
@@ -488,7 +531,82 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.320192"
+        "last_updated": "2026-07-21T09:11:02.230939"
+    },
+    "391015883": {
+        "matchup": "Shanghai Port – Shenzhen Peng City",
+        "event_url": "https://livetv.sx/enx/eventinfo/391015883__/",
+        "competition": "China. FA Cup",
+        "date_time": "21 July at 12:00",
+        "parsed_datetime": "2026-07-21T12:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Shanghai Port",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1793.gif"
+            },
+            {
+                "team_name": "Shenzhen Peng City",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/28954.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:02.274431"
+    },
+    "390946945": {
+        "matchup": "Chongqing Tonglianglong – Qingdao West Coast",
+        "event_url": "https://livetv.sx/enx/eventinfo/390946945__/",
+        "competition": "China. FA Cup",
+        "date_time": "21 July at 12:35",
+        "parsed_datetime": "2026-07-21T12:35:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Chongqing Tonglianglong",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26582.gif"
+            },
+            {
+                "team_name": "Qingdao West Coast",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34386.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:02.354658"
+    },
+    "390946941": {
+        "matchup": "Shanghai Shenhua – Qingdao Hainiu",
+        "event_url": "https://livetv.sx/enx/eventinfo/390946941__/",
+        "competition": "China. FA Cup",
+        "date_time": "21 July at 12:35",
+        "parsed_datetime": "2026-07-21T12:35:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Shanghai Shenhua",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/739.gif"
+            },
+            {
+                "team_name": "Qingdao Hainiu",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21326.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:02.392887"
     },
     "390946939": {
         "matchup": "Yunnan Yukun – Chengdu Rongcheng",
@@ -513,7 +631,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.407547"
+        "last_updated": "2026-07-21T09:11:02.433746"
+    },
+    "391816347": {
+        "matchup": "Shakhter Karaganda (W) – Astana (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/391816347_shakhter_karaganda_w_astana_w/",
+        "competition": "Kazakhstan. Women. Championship",
+        "date_time": "21 July at 13:00",
+        "parsed_datetime": "2026-07-21T13:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:02.548573"
     },
     "390946943": {
         "matchup": "Henan – Dalian Yingbo",
@@ -538,23 +672,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.409841"
-    },
-    "391816347": {
-        "matchup": "Shakhter Karaganda (W) – Astana (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/391816347_shakhter_karaganda_w_astana_w/",
-        "competition": "Kazakhstan. Women. Championship",
-        "date_time": "21 July at 13:00",
-        "parsed_datetime": "2026-07-21T13:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.446657"
+        "last_updated": "2026-07-21T09:11:02.625280"
     },
     "392349228": {
         "matchup": "Maccabi Haifa – Hapoel Kfar Saba",
@@ -579,7 +697,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.654278"
+        "last_updated": "2026-07-21T09:11:02.662865"
     },
     "392349229": {
         "matchup": "Slaven Belupo – Shakhtar Donetsk",
@@ -604,32 +722,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.722034"
-    },
-    "390960413": {
-        "matchup": "Sogdiana – Neftchi",
-        "event_url": "https://livetv.sx/enx/eventinfo/390960413__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "21 July at 16:00",
-        "parsed_datetime": "2026-07-21T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Sogdiana",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4756.gif"
-            },
-            {
-                "team_name": "Neftchi",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33597.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.792596"
+        "last_updated": "2026-07-21T09:11:02.836249"
     },
     "391831623": {
         "matchup": "Orlando Pirates – Al-Ittihad Jeddah",
@@ -654,32 +747,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.830882"
-    },
-    "390960415": {
-        "matchup": "Pakhtakor – Khorezm Urganch",
-        "event_url": "https://livetv.sx/enx/eventinfo/390960415__/",
-        "competition": "Uzbekistan. Super League",
-        "date_time": "21 July at 16:00",
-        "parsed_datetime": "2026-07-21T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Pakhtakor",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4745.gif"
-            },
-            {
-                "team_name": "Khorezm Urganch",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/22474.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:16.873662"
+        "last_updated": "2026-07-21T09:11:02.955373"
     },
     "390960417": {
         "matchup": "Buxoro – Bunyodkor",
@@ -704,23 +772,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.000350"
+        "last_updated": "2026-07-21T09:11:02.997477"
     },
-    "391960056": {
-        "matchup": "Goeteborg – Levadia",
-        "event_url": "https://livetv.sx/enx/eventinfo/391960056__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "21 July at 18:00",
-        "parsed_datetime": "2026-07-21T18:00:00",
+    "390960415": {
+        "matchup": "Pakhtakor – Khorezm Urganch",
+        "event_url": "https://livetv.sx/enx/eventinfo/390960415__/",
+        "competition": "Uzbekistan. Super League",
+        "date_time": "21 July at 16:00",
+        "parsed_datetime": "2026-07-21T16:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Goeteborg",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1057.gif"
+                "team_name": "Pakhtakor",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4745.gif"
             },
             {
-                "team_name": "Levadia",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30140.gif"
+                "team_name": "Khorezm Urganch",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/22474.gif"
             }
         ],
         "streams": [],
@@ -729,7 +797,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.074969"
+        "last_updated": "2026-07-21T09:11:03.034746"
+    },
+    "390960413": {
+        "matchup": "Sogdiana – Neftchi",
+        "event_url": "https://livetv.sx/enx/eventinfo/390960413__/",
+        "competition": "Uzbekistan. Super League",
+        "date_time": "21 July at 16:00",
+        "parsed_datetime": "2026-07-21T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sogdiana",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4756.gif"
+            },
+            {
+                "team_name": "Neftchi",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33597.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:03.076507"
     },
     "391815245": {
         "matchup": "Floriana – Drita",
@@ -754,7 +847,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.171601"
+        "last_updated": "2026-07-21T09:11:03.362345"
     },
     "390967346": {
         "matchup": "Falkenberg – Helsingborg",
@@ -876,7 +969,32 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-07-21T06:12:17.228454"
+        "last_updated": "2026-07-21T09:11:03.414933"
+    },
+    "391960056": {
+        "matchup": "Goeteborg – Levadia",
+        "event_url": "https://livetv.sx/enx/eventinfo/391960056__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "21 July at 18:00",
+        "parsed_datetime": "2026-07-21T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Goeteborg",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1057.gif"
+            },
+            {
+                "team_name": "Levadia",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30140.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:03.454827"
     },
     "392349141": {
         "matchup": "Espanyol – Pau",
@@ -901,7 +1019,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.267241"
+        "last_updated": "2026-07-21T09:11:03.494728"
     },
     "391857794": {
         "matchup": "Bissen – Gyori ETO",
@@ -926,23 +1044,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.310309"
+        "last_updated": "2026-07-21T09:11:03.530229"
     },
-    "391857852": {
-        "matchup": "KI Klaksvik – Kauno Zalgiris",
-        "event_url": "https://livetv.sx/enx/eventinfo/391857852__/",
-        "competition": "Champions League Qualifying",
-        "date_time": "21 July at 19:45",
-        "parsed_datetime": "2026-07-21T19:45:00",
+    "390977663": {
+        "matchup": "Santa Fe – Union Magdalena",
+        "event_url": "https://livetv.sx/enx/eventinfo/390977663__/",
+        "competition": "Colombia. Cup",
+        "date_time": "21 July at 21:00",
+        "parsed_datetime": "2026-07-21T21:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "KI Klaksvik",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3813.gif"
+                "team_name": "Santa Fe",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1296.gif"
             },
             {
-                "team_name": "Kauno Zalgiris",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30224.gif"
+                "team_name": "Union Magdalena",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34739.gif"
             }
         ],
         "streams": [],
@@ -951,7 +1069,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.471102"
+        "last_updated": "2026-07-21T09:11:03.859804"
     },
     "390881102": {
         "matchup": "Botev Plovdiv – Lokomotiv Sofia",
@@ -1109,7 +1227,32 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-07-21T06:12:17.533380"
+        "last_updated": "2026-07-21T09:11:03.949416"
+    },
+    "391857852": {
+        "matchup": "KI Klaksvik – Kauno Zalgiris",
+        "event_url": "https://livetv.sx/enx/eventinfo/391857852__/",
+        "competition": "Champions League Qualifying",
+        "date_time": "21 July at 19:45",
+        "parsed_datetime": "2026-07-21T19:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "KI Klaksvik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3813.gif"
+            },
+            {
+                "team_name": "Kauno Zalgiris",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30224.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:04.000106"
     },
     "392523058": {
         "matchup": "Fluminense (W) –  Cruzeiro-MG (W)",
@@ -1134,57 +1277,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.576057"
-    },
-    "392345444": {
-        "matchup": "Estudiantes LP – Independiente R",
-        "event_url": "https://livetv.sx/enx/eventinfo/392345444__/",
-        "competition": "Argentina. Supercup",
-        "date_time": "21 July at 22:00",
-        "parsed_datetime": "2026-07-21T22:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Estudiantes LP",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/36876.gif"
-            },
-            {
-                "team_name": "Independiente R",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1117.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.652987"
-    },
-    "390977663": {
-        "matchup": "Santa Fe – Union Magdalena",
-        "event_url": "https://livetv.sx/enx/eventinfo/390977663__/",
-        "competition": "Colombia. Cup",
-        "date_time": "21 July at 21:00",
-        "parsed_datetime": "2026-07-21T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Santa Fe",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1296.gif"
-            },
-            {
-                "team_name": "Union Magdalena",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34739.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.725913"
+        "last_updated": "2026-07-21T09:11:04.019763"
     },
     "390983525": {
         "matchup": "Atletico Nacional – Tigres Bogota",
@@ -1209,7 +1302,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.763610"
+        "last_updated": "2026-07-21T09:11:04.160675"
     },
     "390982186": {
         "matchup": "Nacional M – Tigre",
@@ -1234,153 +1327,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-07-21T06:12:17.862712"
-    },
-    "390959200": {
-        "matchup": "Avai – America Mineiro",
-        "event_url": "https://livetv.sx/enx/eventinfo/390959200__/",
-        "competition": "Brazil. Serie B",
-        "date_time": "21 July at 23:30",
-        "parsed_datetime": "2026-07-21T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Avai",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3871.gif"
-            },
-            {
-                "team_name": "America Mineiro",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/826.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Criciuma",
-                "played": "18",
-                "pts": "36"
-            },
-            {
-                "pos": "2",
-                "team": "Juventude",
-                "played": "18",
-                "pts": "32"
-            },
-            {
-                "pos": "3",
-                "team": "Operario FEC",
-                "played": "18",
-                "pts": "32"
-            },
-            {
-                "pos": "4",
-                "team": "Vila Nova",
-                "played": "18",
-                "pts": "31"
-            },
-            {
-                "pos": "5",
-                "team": "Fortaleza",
-                "played": "18",
-                "pts": "31"
-            },
-            {
-                "pos": "6",
-                "team": "Novorizontino",
-                "played": "18",
-                "pts": "30"
-            },
-            {
-                "pos": "7",
-                "team": "Goias",
-                "played": "18",
-                "pts": "28"
-            },
-            {
-                "pos": "8",
-                "team": "Sao Bernardo",
-                "played": "18",
-                "pts": "27"
-            },
-            {
-                "pos": "9",
-                "team": "Sport Recife",
-                "played": "18",
-                "pts": "27"
-            },
-            {
-                "pos": "10",
-                "team": "Atletico-GO",
-                "played": "18",
-                "pts": "25"
-            },
-            {
-                "pos": "11",
-                "team": "Cuiaba",
-                "played": "18",
-                "pts": "24"
-            },
-            {
-                "pos": "12",
-                "team": "Athletic MG",
-                "played": "18",
-                "pts": "24"
-            },
-            {
-                "pos": "13",
-                "team": "CRB",
-                "played": "18",
-                "pts": "23"
-            },
-            {
-                "pos": "14",
-                "team": "Nautico",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "15",
-                "team": "Botafogo-SP",
-                "played": "18",
-                "pts": "21"
-            },
-            {
-                "pos": "16",
-                "team": "Londrina",
-                "played": "18",
-                "pts": "20"
-            },
-            {
-                "pos": "17",
-                "team": "Ceara",
-                "played": "18",
-                "pts": "19"
-            },
-            {
-                "pos": "18",
-                "team": "Avai",
-                "played": "18",
-                "pts": "17"
-            },
-            {
-                "pos": "19",
-                "team": "Ponte Preta",
-                "played": "18",
-                "pts": "8"
-            },
-            {
-                "pos": "20",
-                "team": "America Mineiro",
-                "played": "18",
-                "pts": "8"
-            }
-        ],
-        "last_updated": "2026-07-21T06:12:17.964130"
+        "last_updated": "2026-07-21T09:11:04.340752"
     },
     "391055144": {
         "matchup": "Libertad – Delfin",
@@ -1502,7 +1449,32 @@
                 "pts": "13"
             }
         ],
-        "last_updated": "2026-07-21T06:12:18.018733"
+        "last_updated": "2026-07-21T09:11:04.402244"
+    },
+    "392345444": {
+        "matchup": "Estudiantes LP – Independiente R",
+        "event_url": "https://livetv.sx/enx/eventinfo/392345444__/",
+        "competition": "Argentina. Supercup",
+        "date_time": "21 July at 22:00",
+        "parsed_datetime": "2026-07-21T22:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Estudiantes LP",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/36876.gif"
+            },
+            {
+                "team_name": "Independiente R",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1117.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-07-21T09:11:04.470885"
     },
     "390959205": {
         "matchup": "Novorizontino – Criciuma",
@@ -1648,7 +1620,153 @@
                 "pts": "8"
             }
         ],
-        "last_updated": "2026-07-21T06:12:18.073057"
+        "last_updated": "2026-07-21T09:11:04.521322"
+    },
+    "390959200": {
+        "matchup": "Avai – America Mineiro",
+        "event_url": "https://livetv.sx/enx/eventinfo/390959200__/",
+        "competition": "Brazil. Serie B",
+        "date_time": "21 July at 23:30",
+        "parsed_datetime": "2026-07-21T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Avai",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3871.gif"
+            },
+            {
+                "team_name": "America Mineiro",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/826.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Criciuma",
+                "played": "18",
+                "pts": "36"
+            },
+            {
+                "pos": "2",
+                "team": "Juventude",
+                "played": "18",
+                "pts": "32"
+            },
+            {
+                "pos": "3",
+                "team": "Operario FEC",
+                "played": "18",
+                "pts": "32"
+            },
+            {
+                "pos": "4",
+                "team": "Vila Nova",
+                "played": "18",
+                "pts": "31"
+            },
+            {
+                "pos": "5",
+                "team": "Fortaleza",
+                "played": "18",
+                "pts": "31"
+            },
+            {
+                "pos": "6",
+                "team": "Novorizontino",
+                "played": "18",
+                "pts": "30"
+            },
+            {
+                "pos": "7",
+                "team": "Goias",
+                "played": "18",
+                "pts": "28"
+            },
+            {
+                "pos": "8",
+                "team": "Sao Bernardo",
+                "played": "18",
+                "pts": "27"
+            },
+            {
+                "pos": "9",
+                "team": "Sport Recife",
+                "played": "18",
+                "pts": "27"
+            },
+            {
+                "pos": "10",
+                "team": "Atletico-GO",
+                "played": "18",
+                "pts": "25"
+            },
+            {
+                "pos": "11",
+                "team": "Cuiaba",
+                "played": "18",
+                "pts": "24"
+            },
+            {
+                "pos": "12",
+                "team": "Athletic MG",
+                "played": "18",
+                "pts": "24"
+            },
+            {
+                "pos": "13",
+                "team": "CRB",
+                "played": "18",
+                "pts": "23"
+            },
+            {
+                "pos": "14",
+                "team": "Nautico",
+                "played": "18",
+                "pts": "21"
+            },
+            {
+                "pos": "15",
+                "team": "Botafogo-SP",
+                "played": "18",
+                "pts": "21"
+            },
+            {
+                "pos": "16",
+                "team": "Londrina",
+                "played": "18",
+                "pts": "20"
+            },
+            {
+                "pos": "17",
+                "team": "Ceara",
+                "played": "18",
+                "pts": "19"
+            },
+            {
+                "pos": "18",
+                "team": "Avai",
+                "played": "18",
+                "pts": "17"
+            },
+            {
+                "pos": "19",
+                "team": "Ponte Preta",
+                "played": "18",
+                "pts": "8"
+            },
+            {
+                "pos": "20",
+                "team": "America Mineiro",
+                "played": "18",
+                "pts": "8"
+            }
+        ],
+        "last_updated": "2026-07-21T09:11:04.571429"
     },
     "390981237": {
         "matchup": "Atletico-MG – Bahia",
@@ -1794,6 +1912,6 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-07-21T06:12:18.249016"
+        "last_updated": "2026-07-21T09:11:04.845804"
     }
 }
