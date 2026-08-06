@@ -10,7 +10,7 @@
         "streams": [
             {
                 "language": "",
-                "flag_src": "https://cdn.livetv902.me/img/linkflag/0.png",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=3TKqErQv7nI&lang=en&eid=394559682&lid=3046357&ci=6237&si=22",
                 "stream_title": "",
@@ -18,7 +18,7 @@
             },
             {
                 "language": "",
-                "flag_src": "https://cdn.livetv902.me/img/linkflag/0.png",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
                 "bitrate": "Bit Rate (Kbps)",
                 "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=q38gKyWWs2g&lang=en&eid=394559682&lid=3046379&ci=6237&si=22",
                 "stream_title": "",
@@ -30,7 +30,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:47.054143"
+        "last_updated": "2026-08-06T10:10:27.717103"
     },
     "394761389": {
         "matchup": "Ireland U16 –  Netherlands U16",
@@ -38,15 +38,24 @@
         "competition": "General",
         "date_time": "10:00 (European U-16 Championship B)",
         "parsed_datetime": "",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [],
-        "streams": [],
+        "streams": [
+            {
+                "language": "",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=pwccyCj6XH8&lang=en&eid=394761389&lid=3047170&ci=1913&si=3",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.099243"
+        "last_updated": "2026-08-06T10:10:28.626913"
     },
     "394761390": {
         "matchup": "Luxembourg U16 –  Sweden U16",
@@ -54,65 +63,24 @@
         "competition": "General",
         "date_time": "10:00 (European U-16 Championship B)",
         "parsed_datetime": "",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.138464"
-    },
-    "393829439": {
-        "matchup": "Lincoln Red Imps – Omonia",
-        "event_url": "https://livetv.sx/enx/eventinfo/393829439__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
+        "streams": [
             {
-                "team_name": "Lincoln Red Imps",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/7071.gif"
-            },
-            {
-                "team_name": "Omonia",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/672.gif"
+                "language": "",
+                "flag_src": "https://cdn.livetv902.me/img/linkflag/18.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=xMcB6WvN0Ao&lang=en&eid=394761390&lid=3047171&ci=1913&si=3",
+                "stream_title": "",
+                "stream_type": ""
             }
         ],
-        "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.684161"
-    },
-    "392914005": {
-        "matchup": "Jagiellonia – Rangers Delhi",
-        "event_url": "https://livetv.sx/enx/eventinfo/392914005__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Jagiellonia",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/27070.gif"
-            },
-            {
-                "team_name": "Rangers Delhi",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/19751.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.730605"
+        "last_updated": "2026-08-06T10:10:28.675587"
     },
     "393829441": {
         "matchup": "KuPS – U Craiova",
@@ -137,7 +105,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.770754"
+        "last_updated": "2026-08-06T10:10:29.100330"
+    },
+    "393829439": {
+        "matchup": "Lincoln Red Imps – Omonia",
+        "event_url": "https://livetv.sx/enx/eventinfo/393829439__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Lincoln Red Imps",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/7071.gif"
+            },
+            {
+                "team_name": "Omonia",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/672.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:29.183124"
     },
     "393829438": {
         "matchup": "Thun – Vikingur Reykjavik",
@@ -162,7 +155,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.811317"
+        "last_updated": "2026-08-06T10:10:29.222545"
     },
     "393953471": {
         "matchup": "Hradec Kralove – Besiktas",
@@ -187,57 +180,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:48.968247"
-    },
-    "393960449": {
-        "matchup": "Maccabi Tel Aviv – CSKA Sofia",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960449__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Maccabi Tel Aviv",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30165.gif"
-            },
-            {
-                "team_name": "CSKA Sofia",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3793.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.035264"
-    },
-    "393829440": {
-        "matchup": "Lech Poznan – KI Klaksvik",
-        "event_url": "https://livetv.sx/enx/eventinfo/393829440__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Lech Poznan",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/405.gif"
-            },
-            {
-                "team_name": "KI Klaksvik",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3813.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.065068"
+        "last_updated": "2026-08-06T10:10:29.298171"
     },
     "393953474": {
         "matchup": "RB Salzburg – Pafos",
@@ -262,7 +205,82 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.122004"
+        "last_updated": "2026-08-06T10:10:29.301806"
+    },
+    "393960449": {
+        "matchup": "Maccabi Tel Aviv – CSKA Sofia",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960449__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Maccabi Tel Aviv",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30165.gif"
+            },
+            {
+                "team_name": "CSKA Sofia",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3793.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:29.389710"
+    },
+    "392914005": {
+        "matchup": "Jagiellonia – Rangers Delhi",
+        "event_url": "https://livetv.sx/enx/eventinfo/392914005__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Jagiellonia",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/27070.gif"
+            },
+            {
+                "team_name": "Rangers Delhi",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/19751.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:29.431362"
+    },
+    "393829440": {
+        "matchup": "Lech Poznan – KI Klaksvik",
+        "event_url": "https://livetv.sx/enx/eventinfo/393829440__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Lech Poznan",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/405.gif"
+            },
+            {
+                "team_name": "KI Klaksvik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3813.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:29.468699"
     },
     "393056349": {
         "matchup": "Bristol City – Walsall",
@@ -287,23 +305,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.160964"
-    },
-    "394760901": {
-        "matchup": "Akademiya Ontustik – Khan Tengri",
-        "event_url": "https://livetv.sx/enx/eventinfo/394760901_akademiya_ontustik_khan_tengri/",
-        "competition": "Kazakhstan. 1 Division",
-        "date_time": "6 August at 13:00",
-        "parsed_datetime": "2026-08-06T13:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.284330"
+        "last_updated": "2026-08-06T10:10:29.510395"
     },
     "392935750": {
         "matchup": "Union de Santa Fe – Lanus",
@@ -328,7 +330,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.371486"
+        "last_updated": "2026-08-06T10:10:29.552699"
+    },
+    "394760901": {
+        "matchup": "Akademiya Ontustik – Khan Tengri",
+        "event_url": "https://livetv.sx/enx/eventinfo/394760901_akademiya_ontustik_khan_tengri/",
+        "competition": "Kazakhstan. 1 Division",
+        "date_time": "6 August at 13:00",
+        "parsed_datetime": "2026-08-06T13:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:29.677803"
     },
     "394760902": {
         "matchup": "Yelimay Semey 2 – Kairat-Zhastar",
@@ -344,7 +362,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.435477"
+        "last_updated": "2026-08-06T10:10:29.723159"
     },
     "394760903": {
         "matchup": "Aktobe 2 – Batyr",
@@ -360,7 +378,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.452553"
+        "last_updated": "2026-08-06T10:10:29.773439"
+    },
+    "394927674": {
+        "matchup": "Akademiya Ontustik – Khan-Tengri",
+        "event_url": "https://livetv.sx/enx/eventinfo/394927674__/",
+        "competition": "Kazakhstan. 1 Division",
+        "date_time": "6 August at 13:00",
+        "parsed_datetime": "2026-08-06T13:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Akademiya Ontustik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14261.gif"
+            },
+            {
+                "team_name": "Khan-Tengri",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/23056.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:29.889919"
     },
     "394760904": {
         "matchup": "Shakhter Karaganda – Kaspiy 2",
@@ -376,7 +419,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.491830"
+        "last_updated": "2026-08-06T10:10:29.987935"
     },
     "394756373": {
         "matchup": "BATE-2 – Bumprom",
@@ -401,23 +444,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.653118"
+        "last_updated": "2026-08-06T10:10:30.041299"
     },
-    "394760886": {
-        "matchup": "Bishkek City – Asiagoal Bishkek",
-        "event_url": "https://livetv.sx/enx/eventinfo/394760886_bishkek_city_asiagoal_bishkek/",
-        "competition": "Kyrgyzstan. Premier League",
-        "date_time": "6 August at 15:30",
-        "parsed_datetime": "2026-08-06T15:30:00",
+    "394927676": {
+        "matchup": "Shakhter Karagandy – Caspiy II",
+        "event_url": "https://livetv.sx/enx/eventinfo/394927676__/",
+        "competition": "Kazakhstan. 1 Division",
+        "date_time": "6 August at 14:00",
+        "parsed_datetime": "2026-08-06T14:00:00",
         "is_live": false,
-        "team_logos": [],
+        "team_logos": [
+            {
+                "team_name": "Shakhter Karagandy",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38130.gif"
+            },
+            {
+                "team_name": "Caspiy II",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38155.gif"
+            }
+        ],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.694399"
+        "last_updated": "2026-08-06T10:10:30.228637"
     },
     "394760887": {
         "matchup": "Muras United – Asia Talas",
@@ -433,7 +485,48 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.733119"
+        "last_updated": "2026-08-06T10:10:30.285854"
+    },
+    "394760886": {
+        "matchup": "Bishkek City – Asiagoal Bishkek",
+        "event_url": "https://livetv.sx/enx/eventinfo/394760886_bishkek_city_asiagoal_bishkek/",
+        "competition": "Kyrgyzstan. Premier League",
+        "date_time": "6 August at 15:30",
+        "parsed_datetime": "2026-08-06T15:30:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:30.307352"
+    },
+    "394927678": {
+        "matchup": "Aktobe U-21 – Ekibastuz",
+        "event_url": "https://livetv.sx/enx/eventinfo/394927678__/",
+        "competition": "Kazakhstan. 1 Division",
+        "date_time": "6 August at 14:00",
+        "parsed_datetime": "2026-08-06T14:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Aktobe U-21",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/22384.gif"
+            },
+            {
+                "team_name": "Ekibastuz",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/14265.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:30.346375"
     },
     "394756374": {
         "matchup": "Orsha – Gomel-2",
@@ -449,32 +542,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.885324"
-    },
-    "394756375": {
-        "matchup": "Molodechno – Volna Pinsk",
-        "event_url": "https://livetv.sx/enx/eventinfo/394756375_molodechno_volna_pinsk/",
-        "competition": "Belarus. First League",
-        "date_time": "6 August at 16:00",
-        "parsed_datetime": "2026-08-06T16:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Molodechno",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33049.gif"
-            },
-            {
-                "team_name": "Volna Pinsk",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/44503.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:49.965371"
+        "last_updated": "2026-08-06T10:10:30.384700"
     },
     "392899325": {
         "matchup": "Sogdiana – Andijon",
@@ -499,23 +567,57 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.049208"
+        "last_updated": "2026-08-06T10:10:30.426511"
     },
-    "394756376": {
-        "matchup": "Slonim – Minsk-2",
-        "event_url": "https://livetv.sx/enx/eventinfo/394756376_slonim_minsk_2/",
+    "394756375": {
+        "matchup": "Molodechno – Volna Pinsk",
+        "event_url": "https://livetv.sx/enx/eventinfo/394756375_molodechno_volna_pinsk/",
         "competition": "Belarus. First League",
-        "date_time": "6 August at 16:30",
-        "parsed_datetime": "2026-08-06T16:30:00",
+        "date_time": "6 August at 16:00",
+        "parsed_datetime": "2026-08-06T16:00:00",
         "is_live": false,
-        "team_logos": [],
+        "team_logos": [
+            {
+                "team_name": "Molodechno",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/33049.gif"
+            },
+            {
+                "team_name": "Volna Pinsk",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/44503.gif"
+            }
+        ],
         "streams": [],
         "starting_lineups": {
             "home_team": [],
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.094929"
+        "last_updated": "2026-08-06T10:10:30.465803"
+    },
+    "394926974": {
+        "matchup": "BATE Res – Bumprom",
+        "event_url": "https://livetv.sx/enx/eventinfo/394926974__/",
+        "competition": "Belarus. First League",
+        "date_time": "6 August at 15:30",
+        "parsed_datetime": "2026-08-06T15:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "BATE Res",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3575.gif"
+            },
+            {
+                "team_name": "Bumprom",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30282.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:30.651055"
     },
     "393953536": {
         "matchup": "Inter Turku – Vaduz",
@@ -540,23 +642,39 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.247489"
+        "last_updated": "2026-08-06T10:10:30.702336"
     },
-    "392899326": {
-        "matchup": "Pakhtakor – Buxoro",
-        "event_url": "https://livetv.sx/enx/eventinfo/392899326__/",
-        "competition": "Uzbekistan. Super League",
+    "394756376": {
+        "matchup": "Slonim – Minsk-2",
+        "event_url": "https://livetv.sx/enx/eventinfo/394756376_slonim_minsk_2/",
+        "competition": "Belarus. First League",
+        "date_time": "6 August at 16:30",
+        "parsed_datetime": "2026-08-06T16:30:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:30.840333"
+    },
+    "394926976": {
+        "matchup": "Orsha – Gomel 2",
+        "event_url": "https://livetv.sx/enx/eventinfo/394926976__/",
+        "competition": "Belarus. First League",
         "date_time": "6 August at 16:00",
         "parsed_datetime": "2026-08-06T16:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Pakhtakor",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4745.gif"
+                "team_name": "Orsha",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3812.gif"
             },
             {
-                "team_name": "Buxoro",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34621.gif"
+                "team_name": "Gomel 2",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/15306.gif"
             }
         ],
         "streams": [],
@@ -565,23 +683,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.490946"
+        "last_updated": "2026-08-06T10:10:31.018895"
     },
-    "392913724": {
-        "matchup": "KRFK – Skanderborg",
-        "event_url": "https://livetv.sx/enx/eventinfo/392913724__/",
-        "competition": "Denmark. Cup",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
+    "394926975": {
+        "matchup": "Molodechno – Volna Pinsk",
+        "event_url": "https://livetv.sx/enx/eventinfo/394926975__/",
+        "competition": "Belarus. First League",
+        "date_time": "6 August at 16:00",
+        "parsed_datetime": "2026-08-06T16:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "KRFK",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26866.gif"
+                "team_name": "Molodechno",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3730.gif"
             },
             {
-                "team_name": "Skanderborg",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/7548.gif"
+                "team_name": "Volna Pinsk",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3803.gif"
             }
         ],
         "streams": [],
@@ -590,23 +708,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.668560"
+        "last_updated": "2026-08-06T10:10:31.096721"
     },
-    "393912213": {
-        "matchup": "Kjellerup – Bronderslev",
-        "event_url": "https://livetv.sx/enx/eventinfo/393912213__/",
-        "competition": "Denmark. Cup",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
+    "394926977": {
+        "matchup": "Slonim – Minsk Res",
+        "event_url": "https://livetv.sx/enx/eventinfo/394926977__/",
+        "competition": "Belarus. First League",
+        "date_time": "6 August at 16:30",
+        "parsed_datetime": "2026-08-06T16:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Kjellerup",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4678.gif"
+                "team_name": "Slonim",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3805.gif"
             },
             {
-                "team_name": "Bronderslev",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/0.gif"
+                "team_name": "Minsk Res",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3572.gif"
             }
         ],
         "streams": [],
@@ -615,382 +733,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.735540"
-    },
-    "393960542": {
-        "matchup": "HJK – Motherwell",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960542__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "HJK",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/27412.gif"
-            },
-            {
-                "team_name": "Motherwell",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/401.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.773571"
-    },
-    "393953527": {
-        "matchup": "Jablonec – RFS",
-        "event_url": "https://livetv.sx/enx/eventinfo/393953527__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Jablonec",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30945.gif"
-            },
-            {
-                "team_name": "RFS",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26374.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:50.924043"
-    },
-    "393953528": {
-        "matchup": "Noah – Sion",
-        "event_url": "https://livetv.sx/enx/eventinfo/393953528__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Noah",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30141.gif"
-            },
-            {
-                "team_name": "Sion",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33262.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.007029"
-    },
-    "393953535": {
-        "matchup": "Paide – Rapid Vienna",
-        "event_url": "https://livetv.sx/enx/eventinfo/393953535__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 17:00",
-        "parsed_datetime": "2026-08-06T17:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Paide",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4966.gif"
-            },
-            {
-                "team_name": "Rapid Vienna",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/74.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.092055"
-    },
-    "394842007": {
-        "matchup": "Zaragoza – FC Andorra",
-        "event_url": "https://livetv.sx/enx/eventinfo/394842007_zaragoza_fc_andorra/",
-        "competition": "Friendly Match",
-        "date_time": "6 August at 17:30",
-        "parsed_datetime": "2026-08-06T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Zaragoza",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/17901.gif"
-            },
-            {
-                "team_name": "FC Andorra",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/50014.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.134304"
-    },
-    "392913725": {
-        "matchup": "Aabenraa – SGI",
-        "event_url": "https://livetv.sx/enx/eventinfo/392913725__/",
-        "competition": "Denmark. Cup",
-        "date_time": "6 August at 17:30",
-        "parsed_datetime": "2026-08-06T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Aabenraa",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/27103.gif"
-            },
-            {
-                "team_name": "SGI",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30547.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.179232"
-    },
-    "393960517": {
-        "matchup": "CFR Cluj – Tromsoe",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960517__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 17:30",
-        "parsed_datetime": "2026-08-06T17:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "CFR Cluj",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/729.gif"
-            },
-            {
-                "team_name": "Tromsoe",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/278.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.476971"
-    },
-    "393960522": {
-        "matchup": "Sheriff – St Gallen",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960522__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Sheriff",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30142.gif"
-            },
-            {
-                "team_name": "St Gallen",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/91.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.586758"
-    },
-    "393960516": {
-        "matchup": "Dynamo Kyiv – Qarabag",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960516__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Dynamo Kyiv",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34699.gif"
-            },
-            {
-                "team_name": "Qarabag",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30161.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.718147"
-    },
-    "393960543": {
-        "matchup": "Rakow – Hammarby",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960543__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Rakow",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3720.gif"
-            },
-            {
-                "team_name": "Hammarby",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/372.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:51.775504"
-    },
-    "393960567": {
-        "matchup": "Inter Club Escaldes – Flora",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960567__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Inter Club Escaldes",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6052.gif"
-            },
-            {
-                "team_name": "Flora",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30367.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.005982"
-    },
-    "393967807": {
-        "matchup": "Goeteborg – Gent",
-        "event_url": "https://livetv.sx/enx/eventinfo/393967807__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Goeteborg",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1057.gif"
-            },
-            {
-                "team_name": "Gent",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/37004.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.062052"
-    },
-    "393953531": {
-        "matchup": "Zalgiris – Hajduk",
-        "event_url": "https://livetv.sx/enx/eventinfo/393953531__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Zalgiris",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6027.gif"
-            },
-            {
-                "team_name": "Hajduk",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/965.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.119351"
-    },
-    "393953533": {
-        "matchup": "Riga – Gyori ETO",
-        "event_url": "https://livetv.sx/enx/eventinfo/393953533__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Riga",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5076.gif"
-            },
-            {
-                "team_name": "Gyori ETO",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6045.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.160646"
-    },
-    "393953534": {
-        "matchup": "Debrecen – Copenhagen",
-        "event_url": "https://livetv.sx/enx/eventinfo/393953534__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 18:00",
-        "parsed_datetime": "2026-08-06T18:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Debrecen",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/381.gif"
-            },
-            {
-                "team_name": "Copenhagen",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/360.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.208067"
+        "last_updated": "2026-08-06T10:10:31.267953"
     },
     "392913723": {
         "matchup": "Naestved – Hvidovre",
@@ -1015,23 +758,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.302204"
+        "last_updated": "2026-08-06T10:10:31.309248"
     },
-    "393960454": {
-        "matchup": "PAOK – Anderlecht",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960454__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "6 August at 18:45",
-        "parsed_datetime": "2026-08-06T18:45:00",
+    "392913724": {
+        "matchup": "KRFK – Skanderborg",
+        "event_url": "https://livetv.sx/enx/eventinfo/392913724__/",
+        "competition": "Denmark. Cup",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "PAOK",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/327.gif"
+                "team_name": "KRFK",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26866.gif"
             },
             {
-                "team_name": "Anderlecht",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/463.gif"
+                "team_name": "Skanderborg",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/7548.gif"
             }
         ],
         "streams": [],
@@ -1040,7 +783,407 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.455059"
+        "last_updated": "2026-08-06T10:10:31.349372"
+    },
+    "392899326": {
+        "matchup": "Pakhtakor – Buxoro",
+        "event_url": "https://livetv.sx/enx/eventinfo/392899326__/",
+        "competition": "Uzbekistan. Super League",
+        "date_time": "6 August at 16:00",
+        "parsed_datetime": "2026-08-06T16:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Pakhtakor",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4745.gif"
+            },
+            {
+                "team_name": "Buxoro",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34621.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.391734"
+    },
+    "393960542": {
+        "matchup": "HJK – Motherwell",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960542__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "HJK",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/27412.gif"
+            },
+            {
+                "team_name": "Motherwell",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/401.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.429523"
+    },
+    "393912213": {
+        "matchup": "Kjellerup – Bronderslev",
+        "event_url": "https://livetv.sx/enx/eventinfo/393912213__/",
+        "competition": "Denmark. Cup",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Kjellerup",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4678.gif"
+            },
+            {
+                "team_name": "Bronderslev",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/0.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.550498"
+    },
+    "393953527": {
+        "matchup": "Jablonec – RFS",
+        "event_url": "https://livetv.sx/enx/eventinfo/393953527__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Jablonec",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30945.gif"
+            },
+            {
+                "team_name": "RFS",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/26374.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.609489"
+    },
+    "393953528": {
+        "matchup": "Noah – Sion",
+        "event_url": "https://livetv.sx/enx/eventinfo/393953528__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Noah",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30141.gif"
+            },
+            {
+                "team_name": "Sion",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33262.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.687865"
+    },
+    "393953535": {
+        "matchup": "Paide – Rapid Vienna",
+        "event_url": "https://livetv.sx/enx/eventinfo/393953535__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 17:00",
+        "parsed_datetime": "2026-08-06T17:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Paide",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/4966.gif"
+            },
+            {
+                "team_name": "Rapid Vienna",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/74.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.757523"
+    },
+    "394842007": {
+        "matchup": "Zaragoza – FC Andorra",
+        "event_url": "https://livetv.sx/enx/eventinfo/394842007_zaragoza_fc_andorra/",
+        "competition": "Friendly Match",
+        "date_time": "6 August at 17:30",
+        "parsed_datetime": "2026-08-06T17:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Zaragoza",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/17901.gif"
+            },
+            {
+                "team_name": "FC Andorra",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/50014.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:31.839877"
+    },
+    "392913725": {
+        "matchup": "Aabenraa – SGI",
+        "event_url": "https://livetv.sx/enx/eventinfo/392913725__/",
+        "competition": "Denmark. Cup",
+        "date_time": "6 August at 17:30",
+        "parsed_datetime": "2026-08-06T17:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Aabenraa",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/27103.gif"
+            },
+            {
+                "team_name": "SGI",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30547.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.012751"
+    },
+    "393960516": {
+        "matchup": "Dynamo Kyiv – Qarabag",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960516__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Dynamo Kyiv",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34699.gif"
+            },
+            {
+                "team_name": "Qarabag",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30161.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.170003"
+    },
+    "393960517": {
+        "matchup": "CFR Cluj – Tromsoe",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960517__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 17:30",
+        "parsed_datetime": "2026-08-06T17:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "CFR Cluj",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/729.gif"
+            },
+            {
+                "team_name": "Tromsoe",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/278.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.211599"
+    },
+    "393960522": {
+        "matchup": "Sheriff – St Gallen",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960522__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sheriff",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30142.gif"
+            },
+            {
+                "team_name": "St Gallen",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/91.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.301331"
+    },
+    "393960567": {
+        "matchup": "Inter Club Escaldes – Flora",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960567__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Inter Club Escaldes",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6052.gif"
+            },
+            {
+                "team_name": "Flora",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/30367.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.340278"
+    },
+    "393960543": {
+        "matchup": "Rakow – Hammarby",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960543__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Rakow",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3720.gif"
+            },
+            {
+                "team_name": "Hammarby",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/372.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.379982"
+    },
+    "393967807": {
+        "matchup": "Goeteborg – Gent",
+        "event_url": "https://livetv.sx/enx/eventinfo/393967807__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Goeteborg",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1057.gif"
+            },
+            {
+                "team_name": "Gent",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/37004.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.419985"
+    },
+    "393953531": {
+        "matchup": "Zalgiris – Hajduk",
+        "event_url": "https://livetv.sx/enx/eventinfo/393953531__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Zalgiris",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6027.gif"
+            },
+            {
+                "team_name": "Hajduk",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/965.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.615277"
+    },
+    "393953533": {
+        "matchup": "Riga – Gyori ETO",
+        "event_url": "https://livetv.sx/enx/eventinfo/393953533__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Riga",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5076.gif"
+            },
+            {
+                "team_name": "Gyori ETO",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/6045.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:32.666366"
     },
     "393960518": {
         "matchup": "Beitar Jerusalem – Austria Vienna",
@@ -1065,7 +1208,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.501879"
+        "last_updated": "2026-08-06T10:10:32.785512"
     },
     "394841882": {
         "matchup": "Fiorentina – Deportivo",
@@ -1090,23 +1233,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.753418"
+        "last_updated": "2026-08-06T10:10:33.009724"
     },
-    "394844959": {
-        "matchup": "Atletico Rafaela II – Central Cordoba II",
-        "event_url": "https://livetv.sx/enx/eventinfo/394844959__/",
-        "competition": "Argentina. Reserve League",
-        "date_time": "6 August at 19:00",
-        "parsed_datetime": "2026-08-06T19:00:00",
+    "393953534": {
+        "matchup": "Debrecen – Copenhagen",
+        "event_url": "https://livetv.sx/enx/eventinfo/393953534__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 18:00",
+        "parsed_datetime": "2026-08-06T18:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Atletico Rafaela II",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38061.gif"
+                "team_name": "Debrecen",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/381.gif"
             },
             {
-                "team_name": "Central Cordoba II",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/19189.gif"
+                "team_name": "Copenhagen",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/360.gif"
             }
         ],
         "streams": [],
@@ -1115,7 +1258,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:52.829726"
+        "last_updated": "2026-08-06T10:10:33.049293"
+    },
+    "393960454": {
+        "matchup": "PAOK – Anderlecht",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960454__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "6 August at 18:45",
+        "parsed_datetime": "2026-08-06T18:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "PAOK",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/327.gif"
+            },
+            {
+                "team_name": "Anderlecht",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/463.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:33.138696"
     },
     "393960520": {
         "matchup": "Hapoel Tel Aviv – GKS Katowice",
@@ -1140,7 +1308,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.027313"
+        "last_updated": "2026-08-06T10:10:33.180507"
+    },
+    "394844959": {
+        "matchup": "Atletico Rafaela II – Central Cordoba II",
+        "event_url": "https://livetv.sx/enx/eventinfo/394844959__/",
+        "competition": "Argentina. Reserve League",
+        "date_time": "6 August at 19:00",
+        "parsed_datetime": "2026-08-06T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Atletico Rafaela II",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38061.gif"
+            },
+            {
+                "team_name": "Central Cordoba II",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/19189.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:33.219853"
     },
     "393960539": {
         "matchup": "Twente – Dunajska Streda",
@@ -1165,98 +1358,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.137627"
-    },
-    "394827419": {
-        "matchup": "Portuguesa SP U-20 –  Juventus SP U-20",
-        "event_url": "https://livetv.sx/enx/eventinfo/394827419__/",
-        "competition": "Brazil. Campeonato Paulista U20",
-        "date_time": "6 August at 19:00",
-        "parsed_datetime": "2026-08-06T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Portuguesa SP U-20",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/8771.gif"
-            },
-            {
-                "team_name": "Juventus SP U-20",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/9761.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.200434"
-    },
-    "394827421": {
-        "matchup": "Gremio Prudente U-20 –  Capivariano U-20",
-        "event_url": "https://livetv.sx/enx/eventinfo/394827421__/",
-        "competition": "Brazil. Campeonato Paulista U20",
-        "date_time": "6 August at 19:00",
-        "parsed_datetime": "2026-08-06T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Gremio Prudente U-20",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33689.gif"
-            },
-            {
-                "team_name": "Capivariano U-20",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/12862.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.298439"
-    },
-    "393989073": {
-        "matchup": "AS Monaco – Getafe",
-        "event_url": "https://livetv.sx/enx/eventinfo/393989073__/",
-        "competition": "Friendly Match",
-        "date_time": "6 August at 19:00",
-        "parsed_datetime": "2026-08-06T19:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "AS Monaco",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/31348.gif"
-            },
-            {
-                "team_name": "Getafe",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.390993"
-    },
-    "393797626": {
-        "matchup": "Santos U20 (W) – Corinthians U20 (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/393797626_santos_u20_w_corinthians_u20_w/",
-        "competition": "Brazil. Women. Campeonato Paulista U20",
-        "date_time": "6 August at 19:00",
-        "parsed_datetime": "2026-08-06T19:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.404817"
+        "last_updated": "2026-08-06T10:10:33.303272"
     },
     "394827417": {
         "matchup": "Sao Caetano U-20 –  Novorizontino U-20",
@@ -1281,7 +1383,98 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.444575"
+        "last_updated": "2026-08-06T10:10:33.344508"
+    },
+    "394827419": {
+        "matchup": "Portuguesa SP U-20 –  Juventus SP U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/394827419__/",
+        "competition": "Brazil. Campeonato Paulista U20",
+        "date_time": "6 August at 19:00",
+        "parsed_datetime": "2026-08-06T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Portuguesa SP U-20",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/8771.gif"
+            },
+            {
+                "team_name": "Juventus SP U-20",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/9761.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:33.514366"
+    },
+    "393797626": {
+        "matchup": "Santos U20 (W) – Corinthians U20 (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/393797626_santos_u20_w_corinthians_u20_w/",
+        "competition": "Brazil. Women. Campeonato Paulista U20",
+        "date_time": "6 August at 19:00",
+        "parsed_datetime": "2026-08-06T19:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:33.554264"
+    },
+    "394827421": {
+        "matchup": "Gremio Prudente U-20 –  Capivariano U-20",
+        "event_url": "https://livetv.sx/enx/eventinfo/394827421__/",
+        "competition": "Brazil. Campeonato Paulista U20",
+        "date_time": "6 August at 19:00",
+        "parsed_datetime": "2026-08-06T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Gremio Prudente U-20",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33689.gif"
+            },
+            {
+                "team_name": "Capivariano U-20",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/12862.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:33.595192"
+    },
+    "393989073": {
+        "matchup": "AS Monaco – Getafe",
+        "event_url": "https://livetv.sx/enx/eventinfo/393989073__/",
+        "competition": "Friendly Match",
+        "date_time": "6 August at 19:00",
+        "parsed_datetime": "2026-08-06T19:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "AS Monaco",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/31348.gif"
+            },
+            {
+                "team_name": "Getafe",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:33.634095"
     },
     "393953529": {
         "matchup": "Ajax – Shelbourne",
@@ -1306,7 +1499,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.490117"
+        "last_updated": "2026-08-06T10:10:33.910967"
     },
     "393960524": {
         "matchup": "Valur – Nordsjaelland",
@@ -1331,7 +1524,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.812597"
+        "last_updated": "2026-08-06T10:10:34.042223"
     },
     "393960526": {
         "matchup": "Braga – Dinamo Minsk",
@@ -1356,32 +1549,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:53.869411"
-    },
-    "393967808": {
-        "matchup": "Lugano – NSI Runavik",
-        "event_url": "https://livetv.sx/enx/eventinfo/393967808__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 19:30",
-        "parsed_datetime": "2026-08-06T19:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Lugano",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/640.gif"
-            },
-            {
-                "team_name": "NSI Runavik",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3716.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.009429"
+        "last_updated": "2026-08-06T10:10:34.120354"
     },
     "393960532": {
         "matchup": "Borac Banja Luka – Maxline",
@@ -1406,64 +1574,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.082651"
+        "last_updated": "2026-08-06T10:10:34.158128"
     },
-    "394893139": {
-        "matchup": "Venezuela (W) – Salvador (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/394893139_venezuela_w_salvador_w/",
-        "competition": "C-American & Caribbean Games",
-        "date_time": "6 August at 20:00",
-        "parsed_datetime": "2026-08-06T20:00:00",
-        "is_live": false,
-        "team_logos": [],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.231248"
-    },
-    "393960452": {
-        "matchup": "Benfica – Hearts",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960452__/",
-        "competition": "Europa League Qualifying",
-        "date_time": "6 August at 20:00",
-        "parsed_datetime": "2026-08-06T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Benfica",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/344.gif"
-            },
-            {
-                "team_name": "Hearts",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/398.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.370530"
-    },
-    "393960540": {
-        "matchup": "Bohemian – Midtjylland",
-        "event_url": "https://livetv.sx/enx/eventinfo/393960540__/",
+    "393967808": {
+        "matchup": "Lugano – NSI Runavik",
+        "event_url": "https://livetv.sx/enx/eventinfo/393967808__/",
         "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 19:45",
-        "parsed_datetime": "2026-08-06T19:45:00",
+        "date_time": "6 August at 19:30",
+        "parsed_datetime": "2026-08-06T19:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Bohemian",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/388.gif"
+                "team_name": "Lugano",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/640.gif"
             },
             {
-                "team_name": "Midtjylland",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3863.gif"
+                "team_name": "NSI Runavik",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3716.gif"
             }
         ],
         "streams": [],
@@ -1472,7 +1599,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.407400"
+        "last_updated": "2026-08-06T10:10:34.195877"
     },
     "393953526": {
         "matchup": "Rijeka – Ilves",
@@ -1497,7 +1624,73 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.454736"
+        "last_updated": "2026-08-06T10:10:34.259209"
+    },
+    "393960452": {
+        "matchup": "Benfica – Hearts",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960452__/",
+        "competition": "Europa League Qualifying",
+        "date_time": "6 August at 20:00",
+        "parsed_datetime": "2026-08-06T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Benfica",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/344.gif"
+            },
+            {
+                "team_name": "Hearts",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/398.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:34.319051"
+    },
+    "393960540": {
+        "matchup": "Bohemian – Midtjylland",
+        "event_url": "https://livetv.sx/enx/eventinfo/393960540__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 19:45",
+        "parsed_datetime": "2026-08-06T19:45:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Bohemian",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/388.gif"
+            },
+            {
+                "team_name": "Midtjylland",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/3863.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:34.358850"
+    },
+    "394893139": {
+        "matchup": "Venezuela (W) – Salvador (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/394893139_venezuela_w_salvador_w/",
+        "competition": "C-American & Caribbean Games",
+        "date_time": "6 August at 20:00",
+        "parsed_datetime": "2026-08-06T20:00:00",
+        "is_live": false,
+        "team_logos": [],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:34.436779"
     },
     "392656707": {
         "matchup": "Real Cundinamarca – Boca Juniors de Cali",
@@ -1522,7 +1715,32 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.496041"
+        "last_updated": "2026-08-06T10:10:34.521805"
+    },
+    "394927432": {
+        "matchup": "Venezuela (W) –  Salvador (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/394927432__/",
+        "competition": "Women. C-American & Caribbean Games",
+        "date_time": "6 August at 20:00",
+        "parsed_datetime": "2026-08-06T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Venezuela (W)",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag209.gif"
+            },
+            {
+                "team_name": "Salvador (W)",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag176.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:34.559378"
     },
     "393960541": {
         "matchup": "Hibernian – Shkendija",
@@ -1547,32 +1765,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.543500"
-    },
-    "393754608": {
-        "matchup": "Tre Fiori – Drita",
-        "event_url": "https://livetv.sx/enx/eventinfo/393754608__/",
-        "competition": "Europa Conference League Qualifying",
-        "date_time": "6 August at 20:00",
-        "parsed_datetime": "2026-08-06T20:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Tre Fiori",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35436.gif"
-            },
-            {
-                "team_name": "Drita",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5348.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:54.869219"
+        "last_updated": "2026-08-06T10:10:34.959037"
     },
     "392913573": {
         "matchup": "Universitario de Vinto – Real Potosi",
@@ -1694,7 +1887,32 @@
                 "pts": "9"
             }
         ],
-        "last_updated": "2026-08-06T07:17:54.959189"
+        "last_updated": "2026-08-06T10:10:35.061758"
+    },
+    "393754608": {
+        "matchup": "Tre Fiori – Drita",
+        "event_url": "https://livetv.sx/enx/eventinfo/393754608__/",
+        "competition": "Europa Conference League Qualifying",
+        "date_time": "6 August at 20:00",
+        "parsed_datetime": "2026-08-06T20:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Tre Fiori",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/35436.gif"
+            },
+            {
+                "team_name": "Drita",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/5348.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:35.132915"
     },
     "393953530": {
         "matchup": "Partizan – Tobol",
@@ -1719,7 +1937,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.070856"
+        "last_updated": "2026-08-06T10:10:35.174257"
     },
     "394596479": {
         "matchup": "Rayo Zuliano – Anzoategui",
@@ -1829,32 +2047,7 @@
                 "pts": "4"
             }
         ],
-        "last_updated": "2026-08-06T07:17:55.144075"
-    },
-    "394779078": {
-        "matchup": "Mali (W) –  Ghana (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/394779078__/",
-        "competition": "Women. Africa Cup of Nations",
-        "date_time": "6 August at 21:00",
-        "parsed_datetime": "2026-08-06T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Mali (W)",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag130.gif"
-            },
-            {
-                "team_name": "Ghana (W)",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag72.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.296448"
+        "last_updated": "2026-08-06T10:10:35.224039"
     },
     "394596480": {
         "matchup": "Estudiantes de Merida – Zamora",
@@ -1904,7 +2097,7 @@
                 "pts": "3"
             }
         ],
-        "last_updated": "2026-08-06T07:17:55.344563"
+        "last_updated": "2026-08-06T10:10:35.265749"
     },
     "394779076": {
         "matchup": "Cape Verde (W) –  Cameroon (W)",
@@ -1929,23 +2122,23 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.408518"
+        "last_updated": "2026-08-06T10:10:35.307888"
     },
-    "392656715": {
-        "matchup": "Envigado – Union Magdalena",
-        "event_url": "https://livetv.sx/enx/eventinfo/392656715__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "6 August at 21:30",
-        "parsed_datetime": "2026-08-06T21:30:00",
+    "394779078": {
+        "matchup": "Mali (W) –  Ghana (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/394779078__/",
+        "competition": "Women. Africa Cup of Nations",
+        "date_time": "6 August at 21:00",
+        "parsed_datetime": "2026-08-06T21:00:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Envigado",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34744.gif"
+                "team_name": "Mali (W)",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag130.gif"
             },
             {
-                "team_name": "Union Magdalena",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34739.gif"
+                "team_name": "Ghana (W)",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/flag72.gif"
             }
         ],
         "streams": [],
@@ -1954,7 +2147,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.543240"
+        "last_updated": "2026-08-06T10:10:35.351228"
     },
     "392920805": {
         "matchup": "Alianza Atletico – Cienciano",
@@ -2088,7 +2281,32 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-08-06T07:17:55.601686"
+        "last_updated": "2026-08-06T10:10:35.473979"
+    },
+    "392656715": {
+        "matchup": "Envigado – Union Magdalena",
+        "event_url": "https://livetv.sx/enx/eventinfo/392656715__/",
+        "competition": "Colombia. Primera B",
+        "date_time": "6 August at 21:30",
+        "parsed_datetime": "2026-08-06T21:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Envigado",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34744.gif"
+            },
+            {
+                "team_name": "Union Magdalena",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/34739.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:35.516750"
     },
     "392793270": {
         "matchup": "San Antonio Cotacachi – Gualaceo",
@@ -2113,57 +2331,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.765994"
-    },
-    "392793274": {
-        "matchup": "Independiente Juniors – 22 de Julio",
-        "event_url": "https://livetv.sx/enx/eventinfo/392793274__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "6 August at 21:30",
-        "parsed_datetime": "2026-08-06T21:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Independiente Juniors",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/2394.gif"
-            },
-            {
-                "team_name": "22 de Julio",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33073.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.881616"
-    },
-    "392793282": {
-        "matchup": "Atletico Rojiblanco – Vargas Torres",
-        "event_url": "https://livetv.sx/enx/eventinfo/392793282__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "6 August at 21:30",
-        "parsed_datetime": "2026-08-06T21:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Atletico Rojiblanco",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/37734.gif"
-            },
-            {
-                "team_name": "Vargas Torres",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21230.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:55.998067"
+        "last_updated": "2026-08-06T10:10:35.741347"
     },
     "392656721": {
         "matchup": "Atletico Cali – Real Santander",
@@ -2188,7 +2356,107 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-06T07:17:56.126308"
+        "last_updated": "2026-08-06T10:10:35.978334"
+    },
+    "392793274": {
+        "matchup": "Independiente Juniors – 22 de Julio",
+        "event_url": "https://livetv.sx/enx/eventinfo/392793274__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "6 August at 21:30",
+        "parsed_datetime": "2026-08-06T21:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Independiente Juniors",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/2394.gif"
+            },
+            {
+                "team_name": "22 de Julio",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/33073.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:36.015942"
+    },
+    "392793282": {
+        "matchup": "Atletico Rojiblanco – Vargas Torres",
+        "event_url": "https://livetv.sx/enx/eventinfo/392793282__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "6 August at 21:30",
+        "parsed_datetime": "2026-08-06T21:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Atletico Rojiblanco",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/37734.gif"
+            },
+            {
+                "team_name": "Vargas Torres",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/21230.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:36.096416"
+    },
+    "393912531": {
+        "matchup": "Sando Moruga – Broki",
+        "event_url": "https://livetv.sx/enx/eventinfo/393912531__/",
+        "competition": "CONCACAF Caribbean Cup",
+        "date_time": "6 August at 23:00",
+        "parsed_datetime": "2026-08-06T23:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Sando Moruga",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/32895.gif"
+            },
+            {
+                "team_name": "Broki",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38224.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:36.135582"
+    },
+    "392793276": {
+        "matchup": "El Nacional – 9 de Octubre",
+        "event_url": "https://livetv.sx/enx/eventinfo/392793276__/",
+        "competition": "Ecuador. Serie B",
+        "date_time": "6 August at 22:30",
+        "parsed_datetime": "2026-08-06T22:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "El Nacional",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/926.gif"
+            },
+            {
+                "team_name": "9 de Octubre",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/2512.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:36.174141"
     },
     "392928724": {
         "matchup": "Boyaca Chico – Alianza Valledupar",
@@ -2334,82 +2602,7 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-08-06T07:17:56.257638"
-    },
-    "392793276": {
-        "matchup": "El Nacional – 9 de Octubre",
-        "event_url": "https://livetv.sx/enx/eventinfo/392793276__/",
-        "competition": "Ecuador. Serie B",
-        "date_time": "6 August at 22:30",
-        "parsed_datetime": "2026-08-06T22:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "El Nacional",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/926.gif"
-            },
-            {
-                "team_name": "9 de Octubre",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/2512.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:56.393680"
-    },
-    "393912531": {
-        "matchup": "Sando Moruga – Broki",
-        "event_url": "https://livetv.sx/enx/eventinfo/393912531__/",
-        "competition": "CONCACAF Caribbean Cup",
-        "date_time": "6 August at 23:00",
-        "parsed_datetime": "2026-08-06T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Sando Moruga",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/32895.gif"
-            },
-            {
-                "team_name": "Broki",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/38224.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:56.432356"
-    },
-    "392656719": {
-        "matchup": "Bogota – Leones",
-        "event_url": "https://livetv.sx/enx/eventinfo/392656719__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "6 August at 22:30",
-        "parsed_datetime": "2026-08-06T22:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Bogota",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1257.gif"
-            },
-            {
-                "team_name": "Leones",
-                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1695.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-06T07:17:56.488670"
+        "last_updated": "2026-08-06T10:10:36.225083"
     },
     "392936409": {
         "matchup": "Tlaxcala – Alebrijes",
@@ -2531,7 +2724,32 @@
                 "pts": "0"
             }
         ],
-        "last_updated": "2026-08-06T07:17:56.579042"
+        "last_updated": "2026-08-06T10:10:36.418601"
+    },
+    "392656719": {
+        "matchup": "Bogota – Leones",
+        "event_url": "https://livetv.sx/enx/eventinfo/392656719__/",
+        "competition": "Colombia. Primera B",
+        "date_time": "6 August at 22:30",
+        "parsed_datetime": "2026-08-06T22:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Bogota",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1257.gif"
+            },
+            {
+                "team_name": "Leones",
+                "logo_url": "https://cdn.livetv902.me/img/teams/fullsize/ods/1695.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-06T10:10:36.493979"
     },
     "394596481": {
         "matchup": "Puerto Cabello – Caracas",
@@ -2581,6 +2799,6 @@
                 "pts": "6"
             }
         ],
-        "last_updated": "2026-08-06T07:17:56.667473"
+        "last_updated": "2026-08-06T10:10:36.611252"
     }
 }
