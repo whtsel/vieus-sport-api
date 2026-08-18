@@ -1,38 +1,4 @@
 {
-    "397112389": {
-        "matchup": "Guabira – Universitario de Vinto",
-        "event_url": "https://livetv.sx/enx/eventinfo/397112389_guabira_universitario_de_vinto/",
-        "competition": "Bolivia. League Cup",
-        "date_time": "18 August at 23:00",
-        "parsed_datetime": "2026-08-18T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Guabira",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/49568.gif"
-            },
-            {
-                "team_name": "Universitario de Vinto",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/36174.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055393&lang=en&eid=397112389&lid=3055393&ci=6953&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-18T21:51:43.449357"
-    },
     "394945332": {
         "matchup": "Deportivo Riestra – Gimnasia y Esgrima LP",
         "event_url": "https://livetv.sx/enx/eventinfo/394945332__/",
@@ -50,32 +16,7 @@
                 "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/622.gif"
             }
         ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263352&lang=en&eid=394945332&lid=3054507&ci=636&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263357&lang=en&eid=394945332&lid=3054508&ci=636&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055343&lang=en&eid=394945332&lid=3055343&ci=636&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
+        "streams": [],
         "starting_lineups": {
             "home_team": [
                 "23.",
@@ -129,7 +70,41 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-08-18T21:51:43.800580"
+        "last_updated": "2026-08-18T22:29:09.737894"
+    },
+    "397112389": {
+        "matchup": "Guabira – Universitario de Vinto",
+        "event_url": "https://livetv.sx/enx/eventinfo/397112389_guabira_universitario_de_vinto/",
+        "competition": "Bolivia. League Cup",
+        "date_time": "18 August at 23:00",
+        "parsed_datetime": "2026-08-18T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Guabira",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/49568.gif"
+            },
+            {
+                "team_name": "Universitario de Vinto",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/36174.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055393&lang=en&eid=397112389&lid=3055393&ci=6953&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-18T22:29:09.766492"
     },
     "394757752": {
         "matchup": "Independiente R – Fluminense",
@@ -137,7 +112,7 @@
         "competition": "Copa Libertadores",
         "date_time": "18 August at 23:00",
         "parsed_datetime": "2026-08-18T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Independiente R",
@@ -174,6 +149,14 @@
                 "stream_type": "Web"
             },
             {
+                "language": "English",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055368&lang=en&eid=394757752&lid=3055368&ci=12&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
                 "language": "Russian",
                 "flag_src": "https://cdn.livetv903.me/img/linkflag/1.png",
                 "bitrate": "Bit Rate (Kbps)",
@@ -204,19 +187,11 @@
                 "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=262769&lang=en&eid=394757752&lid=3055077&ci=12&si=1",
                 "stream_title": "",
                 "stream_type": ""
-            },
-            {
-                "language": "Serbian",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/17.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=264468&lang=en&eid=394757752&lid=3052536&ci=12&si=1",
-                "stream_title": "",
-                "stream_type": ""
             }
         ],
         "starting_lineups": {
             "home_team": [
-                "30.",
+                "01.",
                 "Nicolas Bolcato",
                 "(G)",
                 "03.",
@@ -267,57 +242,7 @@
             ]
         },
         "league_table": [],
-        "last_updated": "2026-08-18T21:51:43.975627"
-    },
-    "397081535": {
-        "matchup": "Atletico Tucuman II – River Plate II",
-        "event_url": "https://livetv.sx/enx/eventinfo/397081535__/",
-        "competition": "Argentina. Reserve League",
-        "date_time": "18 August at 21:00",
-        "parsed_datetime": "2026-08-18T21:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Atletico Tucuman II",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/19018.gif"
-            },
-            {
-                "team_name": "River Plate II",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/19477.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263353&lang=en&eid=397081535&lid=3055561&ci=1843&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055260&lang=en&eid=397081535&lid=3055260&ci=1843&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055344&lang=en&eid=397081535&lid=3055344&ci=1843&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-18T21:51:44.068436"
+        "last_updated": "2026-08-18T22:29:10.027917"
     },
     "394757645": {
         "matchup": "Mount Pleasant – Cibao",
@@ -325,7 +250,7 @@
         "competition": "CONCACAF Caribbean Cup",
         "date_time": "18 August at 23:00",
         "parsed_datetime": "2026-08-18T23:00:00",
-        "is_live": false,
+        "is_live": true,
         "team_logos": [
             {
                 "team_name": "Mount Pleasant",
@@ -359,145 +284,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-18T21:51:44.104549"
-    },
-    "394759065": {
-        "matchup": "Recoleta – Boca Juniors",
-        "event_url": "https://livetv.sx/enx/eventinfo/394759065__/",
-        "competition": "Copa Sudamericana",
-        "date_time": "18 August at 23:00",
-        "parsed_datetime": "2026-08-18T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Recoleta",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/32510.gif"
-            },
-            {
-                "team_name": "Boca Juniors",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/246.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055447&lang=en&eid=394759065&lid=3055447&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "English",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055139&lang=en&eid=394759065&lid=3055139&ci=131&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Russian",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/1.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=237460&lang=en&eid=394759065&lid=2842250&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "German",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/13.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263287&lang=en&eid=394759065&lid=3039383&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Arabic",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/5.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263366&lang=en&eid=394759065&lid=3051274&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Portuguese",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263385&lang=en&eid=394759065&lid=3050723&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Croatian",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/29.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263425&lang=en&eid=394759065&lid=3041445&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            },
-            {
-                "language": "Croatian",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/29.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263838&lang=en&eid=394759065&lid=3049676&ci=131&si=1",
-                "stream_title": "",
-                "stream_type": ""
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [
-                "12.",
-                "Nelson Ferreira",
-                "(G)",
-                "11.",
-                "Kevin Parzajuk",
-                "06.",
-                "Jose Espinola",
-                "15.",
-                "Blas Medina",
-                "10.",
-                "Alejandro Silva",
-                "32.",
-                "Lucas Monzon",
-                "03.",
-                "Luis Cardozo",
-                "07.",
-                "Ronal Dominguez",
-                "18.",
-                "Pedro Rios",
-                "05.",
-                "Nicolas Marotta",
-                "33.",
-                "Aldo Gonzalez"
-            ],
-            "away_team": [
-                "01.",
-                "Alvaro Montero",
-                "(G)",
-                "04.",
-                "Jorge Figal",
-                "24.",
-                "Dylan Gorosito",
-                "32.",
-                "Ayrton Costa",
-                "03.",
-                "Lautaro Blanco",
-                "10.",
-                "Tomas Aranda",
-                "22.",
-                "Sebastian Villa",
-                "25.",
-                "Santiago Ascacibar",
-                "18.",
-                "Milton Delgado",
-                "16.",
-                "Miguel Merentiel",
-                "08.",
-                "Tomas Belmonte"
-            ]
-        },
-        "league_table": [],
-        "last_updated": "2026-08-18T21:51:44.170335"
+        "last_updated": "2026-08-18T22:29:10.334480"
     },
     "394757320": {
         "matchup": "Londrina – Atletico-GO",
@@ -660,6 +447,194 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-08-18T21:51:44.218524"
+        "last_updated": "2026-08-18T22:29:10.393726"
+    },
+    "396974793": {
+        "matchup": "Benjamin Aceval – Nacional As",
+        "event_url": "https://livetv.sx/enx/eventinfo/396974793__/",
+        "competition": "Paraguay. Cup",
+        "date_time": "18 August at 20:30",
+        "parsed_datetime": "2026-08-18T20:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Benjamin Aceval",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/22337.gif"
+            },
+            {
+                "team_name": "Nacional As",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/933.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-18T22:29:10.431355"
+    },
+    "397081535": {
+        "matchup": "Atletico Tucuman II – River Plate II",
+        "event_url": "https://livetv.sx/enx/eventinfo/397081535__/",
+        "competition": "Argentina. Reserve League",
+        "date_time": "18 August at 21:00",
+        "parsed_datetime": "2026-08-18T21:00:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Atletico Tucuman II",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/19018.gif"
+            },
+            {
+                "team_name": "River Plate II",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/19477.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-18T22:29:10.432329"
+    },
+    "394759065": {
+        "matchup": "Recoleta – Boca Juniors",
+        "event_url": "https://livetv.sx/enx/eventinfo/394759065__/",
+        "competition": "Copa Sudamericana",
+        "date_time": "18 August at 23:00",
+        "parsed_datetime": "2026-08-18T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Recoleta",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/32510.gif"
+            },
+            {
+                "team_name": "Boca Juniors",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/246.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055447&lang=en&eid=394759065&lid=3055447&ci=131&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055370&lang=en&eid=394759065&lid=3055370&ci=131&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "English",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/2.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3055139&lang=en&eid=394759065&lid=3055139&ci=131&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Russian",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/1.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=237460&lang=en&eid=394759065&lid=2842250&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "German",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/13.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263287&lang=en&eid=394759065&lid=3039383&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Arabic",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/5.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263366&lang=en&eid=394759065&lid=3051274&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263385&lang=en&eid=394759065&lid=3050723&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            },
+            {
+                "language": "Croatian",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/29.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=alieztv&c=263425&lang=en&eid=394759065&lid=3041445&ci=131&si=1",
+                "stream_title": "",
+                "stream_type": ""
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [
+                "12.",
+                "Nelson Ferreira",
+                "(G)",
+                "11.",
+                "Kevin Parzajuk",
+                "06.",
+                "Jose Espinola",
+                "15.",
+                "Blas Medina",
+                "10.",
+                "Alejandro Silva",
+                "32.",
+                "Lucas Monzon",
+                "03.",
+                "Luis Cardozo",
+                "07.",
+                "Ronal Dominguez",
+                "18.",
+                "Pedro Rios",
+                "05.",
+                "Nicolas Marotta",
+                "33.",
+                "Aldo Gonzalez"
+            ],
+            "away_team": [
+                "01.",
+                "Alvaro Montero",
+                "(G)",
+                "04.",
+                "Jorge Figal",
+                "24.",
+                "Dylan Gorosito",
+                "32.",
+                "Ayrton Costa",
+                "03.",
+                "Lautaro Blanco",
+                "10.",
+                "Tomas Aranda",
+                "22.",
+                "Sebastian Villa",
+                "25.",
+                "Santiago Ascacibar",
+                "18.",
+                "Milton Delgado",
+                "16.",
+                "Miguel Merentiel",
+                "08.",
+                "Tomas Belmonte"
+            ]
+        },
+        "league_table": [],
+        "last_updated": "2026-08-18T22:29:10.508654"
     }
 }
