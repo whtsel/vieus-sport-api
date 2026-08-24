@@ -1,213 +1,134 @@
 {
-    "395709991": {
-        "matchup": "Malaga – Deportivo",
-        "event_url": "https://livetv.sx/enx/eventinfo/395709991__/",
-        "competition": "Spain. Primera Division",
-        "date_time": "24 August at 20:30",
-        "parsed_datetime": "2026-08-24T20:30:00",
-        "is_live": false,
+    "396919499": {
+        "matchup": "Libertad – San Lorenzo",
+        "event_url": "https://livetv.sx/enx/eventinfo/396919499__/",
+        "competition": "Paraguay. Primera Division",
+        "date_time": "24 August at 22:30",
+        "parsed_datetime": "2026-08-24T22:30:00",
+        "is_live": true,
         "team_logos": [
             {
-                "team_name": "Malaga",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/49.gif"
+                "team_name": "Libertad",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/256.gif"
             },
             {
-                "team_name": "Deportivo",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/41.gif"
+                "team_name": "San Lorenzo",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1694.gif"
             }
         ],
-        "streams": [],
+        "streams": [
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3058955&lang=en&eid=396919499&lid=3058955&ci=442&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059075&lang=en&eid=396919499&lid=3059075&ci=442&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
         "starting_lineups": {
-            "home_team": [
-                "01.",
-                "Alfonso Herrero",
-                "(G)",
-                "04.",
-                "Einar Galilea",
-                "22.",
-                "Dani Lorenzo",
-                "09.",
-                "Chupe",
-                "03.",
-                "Carlos Puga",
-                "08.",
-                "Carlos Dotor",
-                "15.",
-                "Angel Recio",
-                "23.",
-                "Izan Merino",
-                "31.",
-                "Rafita",
-                "19.",
-                "Juan Cruz",
-                "11.",
-                "Joaquin Munoz"
-            ],
-            "away_team": [
-                "13.",
-                "Leo Roman",
-                "(G)",
-                "18.",
-                "Jonathan Asp",
-                "12.",
-                "Giacomo Quagliata",
-                "16.",
-                "Lorenzo Amatucci",
-                "23.",
-                "Ximo Navarro",
-                "07.",
-                "Pierre-Emerick",
-                "15.",
-                "Miguel Loureiro",
-                "21.",
-                "Mario Soriano",
-                "19.",
-                "Luismi Cruz",
-                "04.",
-                "Lucas Noubi",
-                "02.",
-                "Adria Altimira"
-            ]
+            "home_team": [],
+            "away_team": []
         },
         "league_table": [
             {
                 "pos": "1",
-                "team": "Sevilla",
+                "team": "2 de Mayo",
+                "played": "3",
+                "pts": "7"
+            },
+            {
+                "pos": "2",
+                "team": "Sportivo Trinidense",
                 "played": "2",
                 "pts": "6"
             },
             {
-                "pos": "2",
-                "team": "Alaves",
-                "played": "2",
-                "pts": "4"
-            },
-            {
                 "pos": "3",
-                "team": "Atletico Madrid",
-                "played": "2",
-                "pts": "4"
+                "team": "Libertad",
+                "played": "3",
+                "pts": "6"
             },
             {
                 "pos": "4",
-                "team": "Barcelona",
-                "played": "1",
-                "pts": "3"
+                "team": "Guarani As",
+                "played": "3",
+                "pts": "6"
             },
             {
                 "pos": "5",
-                "team": "Espanyol",
+                "team": "Nacional As",
                 "played": "2",
-                "pts": "3"
+                "pts": "4"
             },
             {
                 "pos": "6",
-                "team": "Real Madrid RM",
-                "played": "1",
+                "team": "Olimpia",
+                "played": "3",
                 "pts": "3"
             },
             {
                 "pos": "7",
-                "team": "Real Betis",
-                "played": "1",
+                "team": "Cerro Porteno",
+                "played": "3",
                 "pts": "3"
             },
             {
                 "pos": "8",
-                "team": "Getafe",
-                "played": "2",
+                "team": "Ameliano",
+                "played": "3",
                 "pts": "3"
             },
             {
                 "pos": "9",
-                "team": "Villarreal",
-                "played": "2",
-                "pts": "2"
+                "team": "Sportivo Luqueno",
+                "played": "3",
+                "pts": "3"
             },
             {
                 "pos": "10",
-                "team": "Deportivo",
-                "played": "1",
+                "team": "San Lorenzo",
+                "played": "2",
                 "pts": "1"
             },
             {
                 "pos": "11",
-                "team": "Celta",
-                "played": "1",
+                "team": "Recoleta",
+                "played": "2",
                 "pts": "1"
             },
             {
                 "pos": "12",
-                "team": "Valencia",
-                "played": "1",
+                "team": "Rubio Nu",
+                "played": "3",
                 "pts": "1"
-            },
-            {
-                "pos": "13",
-                "team": "Racing",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "14",
-                "team": "Rayo Vallecano",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "15",
-                "team": "Elche",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "16",
-                "team": "Osasuna",
-                "played": "0",
-                "pts": "0"
-            },
-            {
-                "pos": "17",
-                "team": "Real Sociedad",
-                "played": "1",
-                "pts": "0"
-            },
-            {
-                "pos": "18",
-                "team": "Athletic Bilbao",
-                "played": "1",
-                "pts": "0"
-            },
-            {
-                "pos": "19",
-                "team": "Malaga",
-                "played": "1",
-                "pts": "0"
-            },
-            {
-                "pos": "20",
-                "team": "Levante",
-                "played": "1",
-                "pts": "0"
             }
         ],
-        "last_updated": "2026-08-24T21:34:41.862428"
+        "last_updated": "2026-08-24T22:31:57.059713"
     },
-    "395731751": {
-        "matchup": "Atlante (W) –  Toluca (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/395731751__/",
-        "competition": "Mexico. Women. Liga MX",
-        "date_time": "24 August at 22:45",
-        "parsed_datetime": "2026-08-24T22:45:00",
+    "395161622": {
+        "matchup": "Patriotas Boyaca – Atletico Cali",
+        "event_url": "https://livetv.sx/enx/eventinfo/395161622__/",
+        "competition": "Colombia. Primera B",
+        "date_time": "24 August at 23:30",
+        "parsed_datetime": "2026-08-24T23:30:00",
         "is_live": false,
         "team_logos": [
             {
-                "team_name": "Atlante (W)",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/38139.gif"
+                "team_name": "Patriotas Boyaca",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1233.gif"
             },
             {
-                "team_name": "Toluca (W)",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/7816.gif"
+                "team_name": "Atletico Cali",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/7987.gif"
             }
         ],
         "streams": [],
@@ -216,7 +137,254 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-24T21:34:42.534906"
+        "last_updated": "2026-08-24T22:31:57.776000"
+    },
+    "395731031": {
+        "matchup": "Athletic MG – Novorizontino",
+        "event_url": "https://livetv.sx/enx/eventinfo/395731031__/",
+        "competition": "Brazil. Serie B",
+        "date_time": "24 August at 23:30",
+        "parsed_datetime": "2026-08-24T23:30:00",
+        "is_live": false,
+        "team_logos": [
+            {
+                "team_name": "Athletic MG",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/12995.gif"
+            },
+            {
+                "team_name": "Novorizontino",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/6257.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3058976&lang=en&eid=395731031&lid=3058976&ci=260&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            },
+            {
+                "language": "Portuguese",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/9.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059073&lang=en&eid=395731031&lid=3059073&ci=260&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [
+            {
+                "pos": "1",
+                "team": "Criciuma",
+                "played": "24",
+                "pts": "44"
+            },
+            {
+                "pos": "2",
+                "team": "Juventude",
+                "played": "23",
+                "pts": "42"
+            },
+            {
+                "pos": "3",
+                "team": "Vila Nova",
+                "played": "24",
+                "pts": "41"
+            },
+            {
+                "pos": "4",
+                "team": "Fortaleza",
+                "played": "24",
+                "pts": "40"
+            },
+            {
+                "pos": "5",
+                "team": "Novorizontino",
+                "played": "23",
+                "pts": "37"
+            },
+            {
+                "pos": "6",
+                "team": "CRB",
+                "played": "23",
+                "pts": "36"
+            },
+            {
+                "pos": "7",
+                "team": "Operario FEC",
+                "played": "24",
+                "pts": "36"
+            },
+            {
+                "pos": "8",
+                "team": "Sport Recife",
+                "played": "23",
+                "pts": "35"
+            },
+            {
+                "pos": "9",
+                "team": "Athletic MG",
+                "played": "23",
+                "pts": "34"
+            },
+            {
+                "pos": "10",
+                "team": "Goias",
+                "played": "24",
+                "pts": "33"
+            },
+            {
+                "pos": "11",
+                "team": "Atletico-GO",
+                "played": "23",
+                "pts": "33"
+            },
+            {
+                "pos": "12",
+                "team": "Cuiaba",
+                "played": "24",
+                "pts": "33"
+            },
+            {
+                "pos": "13",
+                "team": "Sao Bernardo",
+                "played": "24",
+                "pts": "32"
+            },
+            {
+                "pos": "14",
+                "team": "Botafogo-SP",
+                "played": "23",
+                "pts": "31"
+            },
+            {
+                "pos": "15",
+                "team": "Nautico",
+                "played": "24",
+                "pts": "31"
+            },
+            {
+                "pos": "16",
+                "team": "Avai",
+                "played": "24",
+                "pts": "29"
+            },
+            {
+                "pos": "17",
+                "team": "Ceara",
+                "played": "24",
+                "pts": "28"
+            },
+            {
+                "pos": "18",
+                "team": "Londrina",
+                "played": "24",
+                "pts": "21"
+            },
+            {
+                "pos": "19",
+                "team": "America Mineiro",
+                "played": "23",
+                "pts": "11"
+            },
+            {
+                "pos": "20",
+                "team": "Ponte Preta",
+                "played": "24",
+                "pts": "10"
+            }
+        ],
+        "last_updated": "2026-08-24T22:31:58.108569"
+    },
+    "395405696": {
+        "matchup": "Leones – Real Cartagena",
+        "event_url": "https://livetv.sx/enx/eventinfo/395405696__/",
+        "competition": "Colombia. Primera B",
+        "date_time": "24 August at 23:00",
+        "parsed_datetime": "2026-08-24T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Leones",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1695.gif"
+            },
+            {
+                "team_name": "Real Cartagena",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/274.gif"
+            }
+        ],
+        "streams": [
+            {
+                "language": "Spanish",
+                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
+                "bitrate": "Bit Rate (Kbps)",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3058974&lang=en&eid=395405696&lid=3058974&ci=896&si=1",
+                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
+                "stream_type": "Web"
+            }
+        ],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-24T22:31:58.265216"
+    },
+    "395730850": {
+        "matchup": "Tigre – Central Cordoba",
+        "event_url": "https://livetv.sx/enx/eventinfo/395730850__/",
+        "competition": "Argentina. Liga Profesional",
+        "date_time": "24 August at 23:00",
+        "parsed_datetime": "2026-08-24T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Tigre",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/34362.gif"
+            },
+            {
+                "team_name": "Central Cordoba",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/2983.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-24T22:31:58.331570"
+    },
+    "398234833": {
+        "matchup": "Inter de Bogota (W) –  Atletico Nacional (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/398234833__/",
+        "competition": "Colombia. Women. League Aguila",
+        "date_time": "24 August at 22:30",
+        "parsed_datetime": "2026-08-24T22:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Inter de Bogota (W)",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/38127.gif"
+            },
+            {
+                "team_name": "Atletico Nacional (W)",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/16386.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-24T22:31:58.331590"
     },
     "395161620": {
         "matchup": "Real Santander – Independiente Yumbo",
@@ -224,7 +392,7 @@
         "competition": "Colombia. Primera B",
         "date_time": "24 August at 21:30",
         "parsed_datetime": "2026-08-24T21:30:00",
-        "is_live": true,
+        "is_live": false,
         "team_logos": [
             {
                 "team_name": "Real Santander",
@@ -235,22 +403,64 @@
                 "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/37082.gif"
             }
         ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-24T22:31:58.491707"
+    },
+    "395731589": {
+        "matchup": "Orsomarso – Real Cundinamarca",
+        "event_url": "https://livetv.sx/enx/eventinfo/395731589__/",
+        "competition": "Colombia. Primera B",
+        "date_time": "24 August at 23:00",
+        "parsed_datetime": "2026-08-24T23:00:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Orsomarso",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/7988.gif"
+            },
+            {
+                "team_name": "Real Cundinamarca",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/29115.gif"
+            }
+        ],
+        "streams": [],
+        "starting_lineups": {
+            "home_team": [],
+            "away_team": []
+        },
+        "league_table": [],
+        "last_updated": "2026-08-24T22:31:58.510196"
+    },
+    "398234834": {
+        "matchup": "Internacional Palmira (W) –  Atletico Nacional (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/398234834__/",
+        "competition": "Colombia. Women. League Aguila",
+        "date_time": "24 August at 22:30",
+        "parsed_datetime": "2026-08-24T22:30:00",
+        "is_live": true,
+        "team_logos": [
+            {
+                "team_name": "Internacional Palmira (W)",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/29119.gif"
+            },
+            {
+                "team_name": "Atletico Nacional (W)",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/16386.gif"
+            }
+        ],
         "streams": [
             {
                 "language": "Spanish",
                 "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059054&lang=en&eid=395161620&lid=3059054&ci=896&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://tinyurl.com/ynnbatxz",
+                "stream_url": "https://livetv.sx/webplayer2.php?t=youtube&c=nNBKNn74Zyk&lang=en&eid=398234834&lid=3058862&ci=4168&si=1",
                 "stream_title": "",
-                "stream_type": "Web"
+                "stream_type": ""
             }
         ],
         "starting_lineups": {
@@ -258,7 +468,7 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-24T21:34:42.789150"
+        "last_updated": "2026-08-24T22:31:58.534572"
     },
     "395731030": {
         "matchup": "Sport Recife – America Mineiro",
@@ -404,23 +614,23 @@
                 "pts": "10"
             }
         ],
-        "last_updated": "2026-08-24T21:34:42.854058"
+        "last_updated": "2026-08-24T22:31:58.596033"
     },
-    "395716541": {
-        "matchup": "Tigres Bogota – Union Magdalena",
-        "event_url": "https://livetv.sx/enx/eventinfo/395716541__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "24 August at 21:00",
-        "parsed_datetime": "2026-08-24T21:00:00",
+    "395731751": {
+        "matchup": "Atlante (W) –  Toluca (W)",
+        "event_url": "https://livetv.sx/enx/eventinfo/395731751__/",
+        "competition": "Mexico. Women. Liga MX",
+        "date_time": "24 August at 22:45",
+        "parsed_datetime": "2026-08-24T22:45:00",
         "is_live": true,
         "team_logos": [
             {
-                "team_name": "Tigres Bogota",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/8441.gif"
+                "team_name": "Atlante (W)",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/38139.gif"
             },
             {
-                "team_name": "Union Magdalena",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/34739.gif"
+                "team_name": "Toluca (W)",
+                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/7816.gif"
             }
         ],
         "streams": [
@@ -428,7 +638,7 @@
                 "language": "Spanish",
                 "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
                 "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3058796&lang=en&eid=395716541&lid=3058796&ci=896&si=1",
+                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3058956&lang=en&eid=395731751&lid=3058956&ci=2334&si=1",
                 "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
                 "stream_type": "Web"
             }
@@ -438,632 +648,6 @@
             "away_team": []
         },
         "league_table": [],
-        "last_updated": "2026-08-24T21:34:42.948052"
-    },
-    "396919499": {
-        "matchup": "Libertad – San Lorenzo",
-        "event_url": "https://livetv.sx/enx/eventinfo/396919499__/",
-        "competition": "Paraguay. Primera Division",
-        "date_time": "24 August at 22:30",
-        "parsed_datetime": "2026-08-24T22:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Libertad",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/256.gif"
-            },
-            {
-                "team_name": "San Lorenzo",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1694.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "2 de Mayo",
-                "played": "3",
-                "pts": "7"
-            },
-            {
-                "pos": "2",
-                "team": "Sportivo Trinidense",
-                "played": "2",
-                "pts": "6"
-            },
-            {
-                "pos": "3",
-                "team": "Libertad",
-                "played": "3",
-                "pts": "6"
-            },
-            {
-                "pos": "4",
-                "team": "Guarani As",
-                "played": "3",
-                "pts": "6"
-            },
-            {
-                "pos": "5",
-                "team": "Nacional As",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "6",
-                "team": "Olimpia",
-                "played": "3",
-                "pts": "3"
-            },
-            {
-                "pos": "7",
-                "team": "Cerro Porteno",
-                "played": "3",
-                "pts": "3"
-            },
-            {
-                "pos": "8",
-                "team": "Ameliano",
-                "played": "3",
-                "pts": "3"
-            },
-            {
-                "pos": "9",
-                "team": "Sportivo Luqueno",
-                "played": "3",
-                "pts": "3"
-            },
-            {
-                "pos": "10",
-                "team": "San Lorenzo",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "11",
-                "team": "Recoleta",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "12",
-                "team": "Rubio Nu",
-                "played": "3",
-                "pts": "1"
-            }
-        ],
-        "last_updated": "2026-08-24T21:34:42.950976"
-    },
-    "398234833": {
-        "matchup": "Inter de Bogota (W) –  Atletico Nacional (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/398234833__/",
-        "competition": "Colombia. Women. League Aguila",
-        "date_time": "24 August at 22:30",
-        "parsed_datetime": "2026-08-24T22:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Inter de Bogota (W)",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/38127.gif"
-            },
-            {
-                "team_name": "Atletico Nacional (W)",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/16386.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-24T21:34:43.113737"
-    },
-    "398234834": {
-        "matchup": "Internacional Palmira (W) –  Atletico Nacional (W)",
-        "event_url": "https://livetv.sx/enx/eventinfo/398234834__/",
-        "competition": "Colombia. Women. League Aguila",
-        "date_time": "24 August at 22:30",
-        "parsed_datetime": "2026-08-24T22:30:00",
-        "is_live": true,
-        "team_logos": [
-            {
-                "team_name": "Internacional Palmira (W)",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/29119.gif"
-            },
-            {
-                "team_name": "Atletico Nacional (W)",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/16386.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://tinyurl.com/4vdub6em",
-                "stream_title": "",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-24T21:34:43.113764"
-    },
-    "395730850": {
-        "matchup": "Tigre – Central Cordoba",
-        "event_url": "https://livetv.sx/enx/eventinfo/395730850__/",
-        "competition": "Argentina. Liga Profesional",
-        "date_time": "24 August at 23:00",
-        "parsed_datetime": "2026-08-24T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Tigre",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/34362.gif"
-            },
-            {
-                "team_name": "Central Cordoba",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/2983.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-24T21:34:43.138353"
-    },
-    "395731031": {
-        "matchup": "Athletic MG – Novorizontino",
-        "event_url": "https://livetv.sx/enx/eventinfo/395731031__/",
-        "competition": "Brazil. Serie B",
-        "date_time": "24 August at 23:30",
-        "parsed_datetime": "2026-08-24T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Athletic MG",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/12995.gif"
-            },
-            {
-                "team_name": "Novorizontino",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/6257.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Criciuma",
-                "played": "24",
-                "pts": "44"
-            },
-            {
-                "pos": "2",
-                "team": "Juventude",
-                "played": "23",
-                "pts": "42"
-            },
-            {
-                "pos": "3",
-                "team": "Vila Nova",
-                "played": "24",
-                "pts": "41"
-            },
-            {
-                "pos": "4",
-                "team": "Fortaleza",
-                "played": "24",
-                "pts": "40"
-            },
-            {
-                "pos": "5",
-                "team": "Novorizontino",
-                "played": "23",
-                "pts": "37"
-            },
-            {
-                "pos": "6",
-                "team": "CRB",
-                "played": "23",
-                "pts": "36"
-            },
-            {
-                "pos": "7",
-                "team": "Operario FEC",
-                "played": "24",
-                "pts": "36"
-            },
-            {
-                "pos": "8",
-                "team": "Sport Recife",
-                "played": "23",
-                "pts": "35"
-            },
-            {
-                "pos": "9",
-                "team": "Athletic MG",
-                "played": "23",
-                "pts": "34"
-            },
-            {
-                "pos": "10",
-                "team": "Goias",
-                "played": "24",
-                "pts": "33"
-            },
-            {
-                "pos": "11",
-                "team": "Atletico-GO",
-                "played": "23",
-                "pts": "33"
-            },
-            {
-                "pos": "12",
-                "team": "Cuiaba",
-                "played": "24",
-                "pts": "33"
-            },
-            {
-                "pos": "13",
-                "team": "Sao Bernardo",
-                "played": "24",
-                "pts": "32"
-            },
-            {
-                "pos": "14",
-                "team": "Botafogo-SP",
-                "played": "23",
-                "pts": "31"
-            },
-            {
-                "pos": "15",
-                "team": "Nautico",
-                "played": "24",
-                "pts": "31"
-            },
-            {
-                "pos": "16",
-                "team": "Avai",
-                "played": "24",
-                "pts": "29"
-            },
-            {
-                "pos": "17",
-                "team": "Ceara",
-                "played": "24",
-                "pts": "28"
-            },
-            {
-                "pos": "18",
-                "team": "Londrina",
-                "played": "24",
-                "pts": "21"
-            },
-            {
-                "pos": "19",
-                "team": "America Mineiro",
-                "played": "23",
-                "pts": "11"
-            },
-            {
-                "pos": "20",
-                "team": "Ponte Preta",
-                "played": "24",
-                "pts": "10"
-            }
-        ],
-        "last_updated": "2026-08-24T21:34:43.179363"
-    },
-    "395405696": {
-        "matchup": "Leones – Real Cartagena",
-        "event_url": "https://livetv.sx/enx/eventinfo/395405696__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "24 August at 23:00",
-        "parsed_datetime": "2026-08-24T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Leones",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1695.gif"
-            },
-            {
-                "team_name": "Real Cartagena",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/274.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-24T21:34:43.222845"
-    },
-    "395731589": {
-        "matchup": "Orsomarso – Real Cundinamarca",
-        "event_url": "https://livetv.sx/enx/eventinfo/395731589__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "24 August at 23:00",
-        "parsed_datetime": "2026-08-24T23:00:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Orsomarso",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/7988.gif"
-            },
-            {
-                "team_name": "Real Cundinamarca",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/29115.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-24T21:34:43.479981"
-    },
-    "395710013": {
-        "matchup": "Granada – Mallorca",
-        "event_url": "https://livetv.sx/enx/eventinfo/395710013__/",
-        "competition": "Spain. Segunda Division",
-        "date_time": "24 August at 20:30",
-        "parsed_datetime": "2026-08-24T20:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Granada",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/3767.gif"
-            },
-            {
-                "team_name": "Mallorca",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/3768.gif"
-            }
-        ],
-        "streams": [],
-        "starting_lineups": {
-            "home_team": [
-                "13.",
-                "Raul Lizoain",
-                "(G)",
-                "26.",
-                "Sergio Rodelas",
-                "19.",
-                "Chinaza Onouha",
-                "35.",
-                "Bourama Dembele",
-                "22.",
-                "Baila Diallo",
-                "06.",
-                "Gerard Gumbau",
-                "18.",
-                "Sergio Lopez",
-                "04.",
-                "Ruben Alcaraz",
-                "08.",
-                "Pedro Aleman",
-                "05.",
-                "Manu Lama",
-                "11.",
-                "Jose Arnaiz"
-            ],
-            "away_team": [
-                "01.",
-                "Arnau Tenas",
-                "(G)",
-                "11.",
-                "Zito Luvumbo",
-                "23.",
-                "Antoniu Roca",
-                "21.",
-                "Antonio Raillo",
-                "07.",
-                "Alex Sala",
-                "18.",
-                "Adrian Fuentes",
-                "03.",
-                "Toni Lato",
-                "20.",
-                "Pablo Torre",
-                "34.",
-                "Miguel Calatayud",
-                "24.",
-                "Martin Valjent",
-                "08.",
-                "Manu Morlanes"
-            ]
-        },
-        "league_table": [
-            {
-                "pos": "1",
-                "team": "Las Palmas",
-                "played": "2",
-                "pts": "6"
-            },
-            {
-                "pos": "2",
-                "team": "Tenerife",
-                "played": "2",
-                "pts": "6"
-            },
-            {
-                "pos": "3",
-                "team": "Leganes",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "4",
-                "team": "Castellon",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "5",
-                "team": "Sporting Gijon",
-                "played": "2",
-                "pts": "4"
-            },
-            {
-                "pos": "6",
-                "team": "FC Andorra",
-                "played": "1",
-                "pts": "3"
-            },
-            {
-                "pos": "7",
-                "team": "Almeria",
-                "played": "2",
-                "pts": "3"
-            },
-            {
-                "pos": "8",
-                "team": "Mallorca",
-                "played": "1",
-                "pts": "3"
-            },
-            {
-                "pos": "9",
-                "team": "Cordoba",
-                "played": "2",
-                "pts": "3"
-            },
-            {
-                "pos": "10",
-                "team": "Burgos",
-                "played": "2",
-                "pts": "3"
-            },
-            {
-                "pos": "11",
-                "team": "Real Sociedad B",
-                "played": "2",
-                "pts": "3"
-            },
-            {
-                "pos": "12",
-                "team": "Eibar",
-                "played": "2",
-                "pts": "3"
-            },
-            {
-                "pos": "13",
-                "team": "Cadiz",
-                "played": "2",
-                "pts": "2"
-            },
-            {
-                "pos": "14",
-                "team": "Sabadell",
-                "played": "2",
-                "pts": "2"
-            },
-            {
-                "pos": "15",
-                "team": "Celta Vigo B",
-                "played": "1",
-                "pts": "1"
-            },
-            {
-                "pos": "16",
-                "team": "Granada",
-                "played": "1",
-                "pts": "1"
-            },
-            {
-                "pos": "17",
-                "team": "Girona",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "18",
-                "team": "Real Oviedo",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "19",
-                "team": "Eldense",
-                "played": "2",
-                "pts": "1"
-            },
-            {
-                "pos": "20",
-                "team": "Albacete",
-                "played": "2",
-                "pts": "0"
-            },
-            {
-                "pos": "21",
-                "team": "Real Valladolid",
-                "played": "2",
-                "pts": "0"
-            },
-            {
-                "pos": "22",
-                "team": "Ceuta",
-                "played": "2",
-                "pts": "0"
-            }
-        ],
-        "last_updated": "2026-08-24T21:34:43.558684"
-    },
-    "395161622": {
-        "matchup": "Patriotas Boyaca – Atletico Cali",
-        "event_url": "https://livetv.sx/enx/eventinfo/395161622__/",
-        "competition": "Colombia. Primera B",
-        "date_time": "24 August at 23:30",
-        "parsed_datetime": "2026-08-24T23:30:00",
-        "is_live": false,
-        "team_logos": [
-            {
-                "team_name": "Patriotas Boyaca",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/1233.gif"
-            },
-            {
-                "team_name": "Atletico Cali",
-                "logo_url": "https://cdn.livetv903.me/img/teams/fullsize/ods/7987.gif"
-            }
-        ],
-        "streams": [
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059026&lang=en&eid=395161622&lid=3059026&ci=896&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            },
-            {
-                "language": "Spanish",
-                "flag_src": "https://cdn.livetv903.me/img/linkflag/7.png",
-                "bitrate": "Bit Rate (Kbps)",
-                "stream_url": "https://livetv.sx/webplayer.php?t=ifr&c=3059056&lang=en&eid=395161622&lid=3059056&ci=896&si=1",
-                "stream_title": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ",
-                "stream_type": "Web"
-            }
-        ],
-        "starting_lineups": {
-            "home_team": [],
-            "away_team": []
-        },
-        "league_table": [],
-        "last_updated": "2026-08-24T21:34:43.760253"
+        "last_updated": "2026-08-24T22:31:58.654896"
     }
 }
